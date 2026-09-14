@@ -2,9 +2,7 @@ name: Runner cập nhật lịch bóng đá
 
 on:
   schedule:
-    # Chạy tự động mỗi 20 phút một lần (giờ UTC)
     - cron: '*/20 * * * *'
-  # Cho phép kích hoạt chạy bằng tay từ giao diện GitHub
   workflow_dispatch:
 
 permissions:

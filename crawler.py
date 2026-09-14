@@ -14,6 +14,7 @@ import json
 import time
 import urllib.request
 import urllib.error
+import urllib.parse
 from datetime import datetime, timezone, timedelta
 
 USER_AGENT = (
@@ -180,6 +181,44 @@ def fetch_matches_cola():
         return []
 
 
+def _cola_select_best_variant(master_url):
+    """
+    video_url trả về của Cola thường là master playlist HLS multi-bitrate
+    (có sẵn 1080p/720p/540p/360p), nhưng nhiều player (kể cả TiviMate) không
+    tự chọn ABR mà chỉ phát đúng luồng đầu tiên liệt kê trong file - thường
+    lại là bản thấp nhất. Nên tự tải master playlist, tìm bản RESOLUTION cao
+    nhất và trả thẳng URL của bản đó.
+    """
+    try:
+        req = urllib.request.Request(master_url)
+        req.add_header("User-Agent", USER_AGENT)
+        req.add_header("Referer", COLA_REFERER)
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            playlist = resp.read().decode("utf-8", "ignore")
+    except Exception:
+        return master_url
+
+    best_pixels = -1
+    best_uri = None
+    lines = playlist.splitlines()
+    for i, line in enumerate(lines):
+        if not line.startswith("#EXT-X-STREAM-INF"):
+            continue
+        m = re.search(r'RESOLUTION=(\d+)x(\d+)', line)
+        if not m or i + 1 >= len(lines):
+            continue
+        pixels = int(m.group(1)) * int(m.group(2))
+        uri = lines[i + 1].strip()
+        if uri and pixels > best_pixels:
+            best_pixels = pixels
+            best_uri = uri
+
+    if not best_uri:
+        return master_url
+
+    return urllib.parse.urljoin(master_url, best_uri)
+
+
 def build_channels_cola(matches):
     """Chuẩn hóa dữ liệu trận đấu từ Cola TV thành danh sách channel chung"""
     channels = []
@@ -188,6 +227,8 @@ def build_channels_cola(matches):
         # API trả "https" (placeholder) khi trận chưa mở luồng - bỏ qua
         if not stream_url or not stream_url.startswith("http") or ".m3u8" not in stream_url:
             continue
+
+        stream_url = _cola_select_best_variant(stream_url)
 
         home_team = match.get("home_team") or {}
         away_team = match.get("away_team") or {}
