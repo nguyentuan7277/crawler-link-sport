@@ -2,7 +2,8 @@ name: Runner cập nhật lịch bóng đá
 
 on:
   schedule:
-    - cron: '*/20 * * * *'
+    # Run every 20 minutes, offset from the busiest top-of-hour schedule.
+    - cron: '7,27,47 * * * *'
   workflow_dispatch:
 
 permissions:
