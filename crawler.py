@@ -23,6 +23,12 @@ USER_AGENT = (
     "Chrome/128.0.0.0 Safari/537.36"
 )
 
+PROVIDER_GROUPS = {
+    "ChuoiTV": "Chuối TV",
+    "ColaTV": "Cola TV",
+    "XoilacTV": "Xoilac TV",
+}
+
 DEFAULT_LOGO = "https://media.chuoichientv.com/media/uploads/default-thumbnail.png"
 
 # ---------------------------------------------------------------------------
@@ -559,8 +565,13 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
         tivimate_stream_url = (
             f"{ch['stream_url']}|Referer={ch['referer']}&Origin={ch['origin']}&User-Agent={USER_AGENT}"
         )
-        channel_name = f"{ch['status_prefix']}{ch['home']} vs {ch['away']}{ch['channel_suffix']} [{ch['source_tag']}]"
-        group_title = f"[{ch['source_tag']}] {ch['league']}"
+        # TiviMate groups entries by an exact group-title. Keep one stable
+        # group per provider instead of creating a separate group per league.
+        group_title = PROVIDER_GROUPS.get(ch["source_tag"], ch["source_tag"])
+        channel_name = (
+            f"{ch['status_prefix']}{ch['home']} vs {ch['away']}"
+            f"{ch['channel_suffix']} — {ch['league']}"
+        )
 
         lines.append(
             f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-name="{ch["home"]} vs {ch["away"]}" '
