@@ -105,6 +105,26 @@ def format_time_vn_unix(ts):
         return ""
 
 
+def unix_time_from_iso(utc_iso_str):
+    """Convert an ISO datetime to a Unix timestamp for playlist ordering."""
+    try:
+        dt = datetime.fromisoformat(utc_iso_str.replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.timestamp()
+    except Exception:
+        return None
+
+
+def normalize_unix_time(value):
+    """Normalize seconds or milliseconds Unix timestamps for playlist ordering."""
+    try:
+        timestamp = float(value)
+        return timestamp / 1000 if timestamp > 100_000_000_000 else timestamp
+    except (TypeError, ValueError):
+        return None
+
+
 def build_channels_chuoi(matches):
     """Chuẩn hóa dữ liệu trận đấu từ Chuối Chiên TV thành danh sách channel chung"""
     channels = []
@@ -148,6 +168,7 @@ def build_channels_chuoi(matches):
                 "stream_url": stream_url,
                 "referer": CHUOI_REFERER,
                 "origin": CHUOI_ORIGIN,
+                "start_time": unix_time_from_iso(match_time),
             })
 
     return channels
@@ -257,6 +278,7 @@ def build_channels_cola(matches):
             "stream_url": stream_url,
             "referer": COLA_REFERER,
             "origin": COLA_ORIGIN,
+            "start_time": normalize_unix_time(match_time),
         })
 
     return channels
@@ -483,6 +505,7 @@ def build_channels_xoilac(matches):
             # CDN của Xoilac kiểm tra Referer phải là trang nhúng (embed), không phải trang chủ
             "referer": embed_url or XOILAC_REFERER,
             "origin": embed_origin or XOILAC_ORIGIN,
+            "start_time": normalize_unix_time(match.get("match_time")),
         })
 
     return channels
@@ -494,6 +517,17 @@ def build_channels_xoilac(matches):
 
 def generate_m3u8(channels, output_file="sport.m3u8"):
     """Tạo file playlist m3u8 từ danh sách channel đã chuẩn hóa (nhiều nguồn)"""
+    # Keep current broadcasts first, then put the nearest kickoffs at the top.
+    # Sources return different orders, so this must happen after merging them.
+    channels = sorted(
+        channels,
+        key=lambda ch: (
+            0 if ch["status_prefix"].startswith("● [LIVE]") else 1,
+            ch["start_time"] if ch["start_time"] is not None else float("inf"),
+            ch["home"],
+            ch["away"],
+        ),
+    )
     tz_vn = timezone(timedelta(hours=7))
     now_vn = datetime.now(tz_vn).strftime("%H:%M:%S %d/%m/%Y")
 
