@@ -290,6 +290,72 @@ def _http_get(url, referer=None, timeout=10):
         return resp.read().decode("utf-8", "ignore")
 
 
+def _hls_get(url, referer, origin, timeout=10):
+    """Fetch an HLS playlist with the same headers supplied to the player."""
+    req = urllib.request.Request(url)
+    req.add_header("User-Agent", USER_AGENT)
+    req.add_header("Accept", "application/vnd.apple.mpegurl, application/x-mpegURL, */*")
+    if referer:
+        req.add_header("Referer", referer)
+    if origin:
+        req.add_header("Origin", origin)
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return resp.geturl(), resp.read().decode("utf-8", "ignore")
+
+
+def _hls_first_uri(playlist, marker):
+    """Return the first non-comment URI after a particular HLS tag."""
+    lines = playlist.splitlines()
+    for index, line in enumerate(lines):
+        if line.startswith(marker):
+            for candidate in lines[index + 1:]:
+                candidate = candidate.strip()
+                if candidate and not candidate.startswith("#"):
+                    return candidate
+    return None
+
+
+def _hls_is_playable(stream_url, referer, origin):
+    """
+    Confirm that a stream can return a media playlist and a media segment.
+
+    Some providers return HTTP 200 for a landing page or an empty/master
+    playlist. Checking the first segment prevents publishing those dead links.
+    """
+    try:
+        playlist_url, playlist = _hls_get(stream_url, referer, origin)
+        if "#EXTM3U" not in playlist:
+            return False, "response is not an HLS playlist"
+
+        if "#EXT-X-STREAM-INF" in playlist:
+            variant_uri = _hls_first_uri(playlist, "#EXT-X-STREAM-INF")
+            if not variant_uri:
+                return False, "master playlist has no variant"
+            playlist_url, playlist = _hls_get(
+                urllib.parse.urljoin(playlist_url, variant_uri), referer, origin
+            )
+
+        segment_uri = _hls_first_uri(playlist, "#EXTINF")
+        if not segment_uri:
+            return False, "playlist has no media segment"
+
+        segment_req = urllib.request.Request(
+            urllib.parse.urljoin(playlist_url, segment_uri)
+        )
+        segment_req.add_header("User-Agent", USER_AGENT)
+        segment_req.add_header("Referer", referer)
+        segment_req.add_header("Origin", origin)
+        segment_req.add_header("Range", "bytes=0-1")
+        with urllib.request.urlopen(segment_req, timeout=10) as resp:
+            if not resp.read(1):
+                return False, "first media segment is empty"
+        return True, None
+    except urllib.error.HTTPError as e:
+        return False, f"HTTP {e.code}"
+    except Exception as e:
+        return False, type(e).__name__
+
+
 def fetch_matches_xoilac():
     """
     Lấy danh sách trận từ hệ thống Xoilac TV: các trận đang live, cộng thêm
@@ -439,7 +505,23 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
     ]
 
     count = 0
+    health_cache = {}
     for ch in channels:
+        # Validate only on-air channels. Checking every upcoming fixture can
+        # mean hundreds of requests and would make a scheduled crawl too slow.
+        if ch["status_prefix"].startswith("● [LIVE]"):
+            health_key = (ch["stream_url"], ch["referer"], ch["origin"])
+            if health_key not in health_cache:
+                health_cache[health_key] = _hls_is_playable(*health_key)
+            is_playable, reason = health_cache[health_key]
+            if not is_playable:
+                print(
+                    f"[-] Bỏ link LIVE không phát được ({ch['source_tag']} - "
+                    f"{ch['home']} vs {ch['away']}): {reason}",
+                    file=sys.stderr,
+                )
+                continue
+
         tivimate_stream_url = (
             f"{ch['stream_url']}|Referer={ch['referer']}&Origin={ch['origin']}&User-Agent={USER_AGENT}"
         )
