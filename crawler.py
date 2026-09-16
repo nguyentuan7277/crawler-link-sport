@@ -310,16 +310,52 @@ def _cola_select_best_variant(master_url):
     return urllib.parse.urljoin(master_url, best_uri)
 
 
+def _cola_anchor_stream_candidates(match):
+    """Return active commentator HLS streams supplied by Cola's own API."""
+    match_id = match.get("match_id") or match.get("matchId")
+    candidates = []
+    for anchor in match.get("anchorAppointmentVoList") or []:
+        anchor_match_id = anchor.get("matchId")
+        if match_id and anchor_match_id and anchor_match_id != match_id:
+            continue
+        if anchor.get("liveStatus") not in (2, "2", "live"):
+            continue
+
+        urls = [anchor.get("playStreamAddress2"), *(anchor.get("servers") or [])]
+        for url in urls:
+            if url and url.startswith("http") and ".m3u8" in url:
+                candidates.append((url, anchor.get("nickName") or "BLV"))
+    return candidates
+
+
+def _cola_select_stream(match, primary_stream, status):
+    """Prefer Cola's TiviMate-compatible commentator stream when live."""
+    if status == "live":
+        for stream_url, anchor_name in _cola_anchor_stream_candidates(match):
+            playable, _ = _hls_is_playable(stream_url, COLA_REFERER, COLA_ORIGIN)
+            if playable:
+                return stream_url, f" - {anchor_name}"
+
+    return _cola_select_best_variant(primary_stream), ""
+
+
 def build_channels_cola(matches):
     """Chuẩn hóa dữ liệu trận đấu từ Cola TV thành danh sách channel chung"""
     channels = []
     for match in matches:
-        stream_url = match.get("video_url") or match.get("videoUrl")
+        primary_stream = match.get("video_url") or match.get("videoUrl")
         # API trả "https" (placeholder) khi trận chưa mở luồng - bỏ qua
-        if not stream_url or not stream_url.startswith("http") or ".m3u8" not in stream_url:
+        if (
+            not primary_stream
+            or not primary_stream.startswith("http")
+            or ".m3u8" not in primary_stream
+        ):
             continue
 
-        stream_url = _cola_select_best_variant(stream_url)
+        status = match.get("match_status") or match.get("matchStatus")
+        stream_url, channel_suffix = _cola_select_stream(
+            match, primary_stream, status
+        )
 
         home_team = match.get("home_team") or {}
         away_team = match.get("away_team") or {}
@@ -330,7 +366,6 @@ def build_channels_cola(matches):
         logo = home_team.get("logo") or competition.get("logo") or DEFAULT_LOGO
         league = competition.get("name") or match.get("competitionName") or "Bóng Đá"
 
-        status = match.get("match_status") or match.get("matchStatus")
         match_time = match.get("match_time") or match.get("matchTime")
         time_vn = format_time_vn_unix(match_time)
         status_prefix = "● [LIVE] " if status == "live" else f"[{time_vn}] "
@@ -343,7 +378,7 @@ def build_channels_cola(matches):
             "away": away,
             "logo": logo,
             "league": league,
-            "channel_suffix": "",
+            "channel_suffix": channel_suffix,
             "tvg_id": f"cola_{match_id}",
             "stream_url": stream_url,
             "referer": COLA_REFERER,
@@ -688,13 +723,7 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
     for ch in channels:
         # Validate only on-air channels. Checking every upcoming fixture can
         # mean hundreds of requests and would make a scheduled crawl too slow.
-        # ChuốiTV's CDN rejects datacenter IPs (including this VPS) while
-        # allowing viewer networks, so a server-side probe would create false
-        # negatives and incorrectly remove otherwise playable channels.
-        if (
-            ch["source_tag"] != "ChuoiTV"
-            and ch["status_prefix"].startswith("● [LIVE]")
-        ):
+        if ch["status_prefix"].startswith("● [LIVE]"):
             health_key = (ch["stream_url"], ch["referer"], ch["origin"])
             if health_key not in health_cache:
                 health_cache[health_key] = _hls_is_playable(*health_key)
@@ -707,9 +736,20 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
                 )
                 continue
 
-        tivimate_stream_url = (
-            f"{ch['stream_url']}|Referer={ch['referer']}&Origin={ch['origin']}&User-Agent={USER_AGENT}"
+        # TiviMate versions differ in how they read per-channel HTTP headers.
+        # Emit both Kodi/ExoPlayer's URL-pipe syntax and #EXTHTTP, while also
+        # keeping VLC's explicit options below. ChuoiTV only needs Referer;
+        # omitting Origin avoids an unnecessary header that some players drop.
+        stream_headers = {
+            "Referer": ch["referer"],
+            "User-Agent": USER_AGENT,
+        }
+        if ch["source_tag"] != CHUOI_SOURCE_TAG and ch.get("origin"):
+            stream_headers["Origin"] = ch["origin"]
+        pipe_headers = "&".join(
+            f"{name}={value}" for name, value in stream_headers.items()
         )
+        tivimate_stream_url = f"{ch['stream_url']}|{pipe_headers}"
         # TiviMate groups entries by an exact group-title. Keep one stable
         # group per provider instead of creating a separate group per league.
         group_title = PROVIDER_GROUPS.get(ch["source_tag"], ch["source_tag"])
@@ -724,6 +764,10 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
         )
         lines.append(f"#EXTVLCOPT:http-referrer={ch['referer']}")
         lines.append(f"#EXTVLCOPT:http-user-agent={USER_AGENT}")
+        lines.append(
+            "#EXTHTTP:"
+            + json.dumps(stream_headers, ensure_ascii=False, separators=(",", ":"))
+        )
         lines.append(tivimate_stream_url)
         lines.append("")
         count += 1
