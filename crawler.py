@@ -303,9 +303,6 @@ XOILAC_SOURCE_TAG = "XoilacTV"
 # Riêng 9 không phải trạng thái live thật (dữ liệu rác/trận có giờ đá bất thường) nên loại luôn.
 XOILAC_LIVE_STATUS = (2, 3, 4, 5, 6, 7)
 XOILAC_NOT_STARTED_STATUS = 1
-# Chỉ lấy trước lịch những trận sắp đá trong vòng bao nhiêu giây, để không phải quét
-# hàng trăm trận chưa đá (mỗi trận cần thêm 2-3 request để resolve link) mỗi lần crawl.
-XOILAC_UPCOMING_WINDOW_SECONDS = 12 * 60 * 60
 
 
 def _http_get(url, referer=None, timeout=10):
@@ -363,8 +360,6 @@ def _xoilac_matches_from_homepage():
         ).timestamp()
 
         is_live = "trực tiếp" in label_lower or "live" in label_lower
-        if not is_live and not (0 <= match_time - now.timestamp() <= XOILAC_UPCOMING_WINDOW_SECONDS):
-            continue
         matches.append({
             "id": match_id,
             "slug": urllib.parse.urljoin(XOILAC_SITE_URL, href)
@@ -444,9 +439,7 @@ def _hls_is_playable(stream_url, referer, origin):
 
 def fetch_matches_xoilac():
     """
-    Lấy danh sách trận từ hệ thống Xoilac TV: các trận đang live, cộng thêm
-    các trận sắp đá trong vòng XOILAC_UPCOMING_WINDOW_SECONDS (để người xem
-    thấy trước lịch, không chỉ khi đã lên sóng).
+    Lấy toàn bộ trận chưa kết thúc từ hệ thống Xoilac TV.
     """
     try:
         raw = _http_get(XOILAC_SCHEDULE_URL, referer=XOILAC_REFERER)
@@ -463,18 +456,11 @@ def fetch_matches_xoilac():
             )
         return fallback_matches
 
-    now_ts = time.time()
-    result = []
-    for m in matches:
-        status = m.get("status_id")
-        if status in XOILAC_LIVE_STATUS:
-            result.append(m)
-        elif status == XOILAC_NOT_STARTED_STATUS:
-            match_time = m.get("match_time") or 0
-            if 0 <= (match_time - now_ts) <= XOILAC_UPCOMING_WINDOW_SECONDS:
-                result.append(m)
-
-    return result
+    return [
+        match
+        for match in matches
+        if match.get("status_id") in (*XOILAC_LIVE_STATUS, XOILAC_NOT_STARTED_STATUS)
+    ]
 
 
 def _xoilac_fetch_team_info(match_id):
