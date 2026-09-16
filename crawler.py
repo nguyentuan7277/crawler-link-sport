@@ -737,18 +737,25 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
                 continue
 
         # TiviMate versions differ in how they read per-channel HTTP headers.
-        # Emit both Kodi/ExoPlayer's URL-pipe syntax and #EXTHTTP, while also
-        # keeping VLC's explicit options below. ChuoiTV only needs Referer;
-        # omitting Origin avoids an unnecessary header that some players drop.
-        stream_headers = {
-            "Referer": ch["referer"],
-            "User-Agent": USER_AGENT,
-        }
-        if ch["source_tag"] != CHUOI_SOURCE_TAG and ch.get("origin"):
-            stream_headers["Origin"] = ch["origin"]
-        pipe_headers = "&".join(
-            f"{name}={value}" for name, value in stream_headers.items()
-        )
+        # ChuoiTV only needs Referer, so emit both URL-pipe and #EXTHTTP forms
+        # for it and omit Origin. Keep the proven Xoilac/Cola format unchanged.
+        ext_http_line = None
+        if ch["source_tag"] == CHUOI_SOURCE_TAG:
+            stream_headers = {
+                "Referer": ch["referer"],
+                "User-Agent": USER_AGENT,
+            }
+            pipe_headers = "&".join(
+                f"{name}={value}" for name, value in stream_headers.items()
+            )
+            ext_http_line = "#EXTHTTP:" + json.dumps(
+                stream_headers, ensure_ascii=False, separators=(",", ":")
+            )
+        else:
+            pipe_headers = (
+                f"Referer={ch['referer']}&Origin={ch['origin']}"
+                f"&User-Agent={USER_AGENT}"
+            )
         tivimate_stream_url = f"{ch['stream_url']}|{pipe_headers}"
         # TiviMate groups entries by an exact group-title. Keep one stable
         # group per provider instead of creating a separate group per league.
@@ -764,10 +771,8 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
         )
         lines.append(f"#EXTVLCOPT:http-referrer={ch['referer']}")
         lines.append(f"#EXTVLCOPT:http-user-agent={USER_AGENT}")
-        lines.append(
-            "#EXTHTTP:"
-            + json.dumps(stream_headers, ensure_ascii=False, separators=(",", ":"))
-        )
+        if ext_http_line:
+            lines.append(ext_http_line)
         lines.append(tivimate_stream_url)
         lines.append("")
         count += 1
