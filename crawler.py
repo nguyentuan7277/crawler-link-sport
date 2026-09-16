@@ -671,7 +671,13 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
     for ch in channels:
         # Validate only on-air channels. Checking every upcoming fixture can
         # mean hundreds of requests and would make a scheduled crawl too slow.
-        if ch["status_prefix"].startswith("● [LIVE]"):
+        # ChuốiTV's CDN rejects datacenter IPs (including this VPS) while
+        # allowing viewer networks, so a server-side probe would create false
+        # negatives and incorrectly remove otherwise playable channels.
+        if (
+            ch["source_tag"] != "ChuoiTV"
+            and ch["status_prefix"].startswith("● [LIVE]")
+        ):
             health_key = (ch["stream_url"], ch["referer"], ch["origin"])
             if health_key not in health_cache:
                 health_cache[health_key] = _hls_is_playable(*health_key)
