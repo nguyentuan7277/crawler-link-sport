@@ -100,8 +100,12 @@ def notify_source_health():
 # Chuối Chiên TV
 # ---------------------------------------------------------------------------
 CHUOI_API_URL = "https://api-v2.chuoichientv.net/v2/matches"
-CHUOI_REFERER = "https://live05.chuoichientv.me/"
-CHUOI_ORIGIN = "https://live05.chuoichientv.me"
+CHUOI_API_REFERER = "https://live05.chuoichientv.me/"
+CHUOI_API_ORIGIN = "https://live05.chuoichientv.me"
+# The public site embeds its player from this origin. ChuoiTV's stream CDNs
+# enforce hotlink protection and reject the public page's origin with 403.
+CHUOI_STREAM_REFERER = "https://live.chuoichien.tv/"
+CHUOI_STREAM_ORIGIN = "https://live.chuoichien.tv"
 CHUOI_SOURCE_TAG = "ChuoiTV"
 
 
@@ -109,8 +113,8 @@ def fetch_matches_chuoi():
     """Lấy danh sách các trận đấu từ API v2 của hệ thống Chuối Chiên"""
     req = urllib.request.Request(CHUOI_API_URL)
     req.add_header("User-Agent", USER_AGENT)
-    req.add_header("Origin", CHUOI_ORIGIN)
-    req.add_header("Referer", CHUOI_REFERER)
+    req.add_header("Origin", CHUOI_API_ORIGIN)
+    req.add_header("Referer", CHUOI_API_REFERER)
     req.add_header("Accept", "application/json, text/plain, */*")
 
     try:
@@ -124,32 +128,23 @@ def fetch_matches_chuoi():
         return []
 
 
-def select_best_stream(streams):
+def select_chuoi_stream(streams):
     """
-    Chọn link stream tối ưu theo thứ tự ưu tiên:
-    1. FULL HD (1080p)
-    2. HD (720p)
-    3. Link stream đầu tiên khả dụng
+    Chọn stream theo đúng thứ tự API, giống player chính thức của ChuốiTV.
+
+    Nguồn đầu tiên thường là HD và ổn định hơn. Tự ưu tiên FHD làm crawler
+    chọn khác website, nên có thể lấy phải CDN phụ không phát được trên app.
     """
     if not streams:
         return None, None
 
     for s in streams:
-        label = (s.get("label") or "").upper().strip()
         url = s.get("url") or s.get("streamUrl")
-        if url and ("FULL HD" in label or "FHD" in label or "1080" in label):
+        if url:
+            label = (s.get("label") or "SD").upper().strip()
             return url, label
 
-    for s in streams:
-        label = (s.get("label") or "").upper().strip()
-        url = s.get("url") or s.get("streamUrl")
-        if url and ("HD" in label or "720" in label):
-            return url, label
-
-    first = streams[0]
-    first_url = first.get("url") or first.get("streamUrl")
-    first_label = (first.get("label") or "SD").upper().strip()
-    return first_url, first_label
+    return None, None
 
 
 def format_time_vn_iso(utc_iso_str):
@@ -224,7 +219,7 @@ def build_channels_chuoi(matches):
         for blv in blvs:
             blv_name = blv.get("name") or "BLV"
             streams = blv.get("streams") or []
-            stream_url, quality = select_best_stream(streams)
+            stream_url, quality = select_chuoi_stream(streams)
             if not stream_url:
                 continue
 
@@ -239,8 +234,8 @@ def build_channels_chuoi(matches):
                 "channel_suffix": f" - {blv_name} [{quality}]",
                 "tvg_id": tvg_id,
                 "stream_url": stream_url,
-                "referer": CHUOI_REFERER,
-                "origin": CHUOI_ORIGIN,
+                "referer": CHUOI_STREAM_REFERER,
+                "origin": CHUOI_STREAM_ORIGIN,
                 "start_time": unix_time_from_iso(match_time),
             })
 
