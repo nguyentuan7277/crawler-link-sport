@@ -367,6 +367,32 @@ XOILAC_SOURCE_TAG = "XoilacTV"
 # Riêng 9 không phải trạng thái live thật (dữ liệu rác/trận có giờ đá bất thường) nên loại luôn.
 XOILAC_LIVE_STATUS = (2, 3, 4, 5, 6, 7)
 XOILAC_NOT_STARTED_STATUS = 1
+# Mỗi trận Xoilac cần thêm request để lấy thông tin và resolve stream. Chỉ lấy
+# lịch sắp diễn ra trong 3 giờ để cron không phải quét hàng trăm trận tương lai.
+XOILAC_UPCOMING_WINDOW_SECONDS = 3 * 60 * 60
+
+
+def _filter_xoilac_matches(matches, now_ts=None):
+    """Giữ trận đang LIVE và trận chưa đá bắt đầu trong 3 giờ tới."""
+    if now_ts is None:
+        now_ts = time.time()
+
+    result = []
+    for match in matches:
+        status = match.get("status_id")
+        if status in XOILAC_LIVE_STATUS:
+            result.append(match)
+            continue
+        if status != XOILAC_NOT_STARTED_STATUS:
+            continue
+
+        match_time = normalize_unix_time(match.get("match_time"))
+        if (
+            match_time is not None
+            and 0 <= match_time - now_ts <= XOILAC_UPCOMING_WINDOW_SECONDS
+        ):
+            result.append(match)
+    return result
 
 
 def _http_get(url, referer=None, timeout=10):
@@ -432,7 +458,7 @@ def _xoilac_matches_from_homepage():
             "match_time": match_time,
             "status_id": 2 if is_live else XOILAC_NOT_STARTED_STATUS,
         })
-    return matches
+    return _filter_xoilac_matches(matches, now.timestamp())
 
 
 def _hls_get(url, referer, origin, timeout=10):
@@ -503,7 +529,7 @@ def _hls_is_playable(stream_url, referer, origin):
 
 def fetch_matches_xoilac():
     """
-    Lấy toàn bộ trận chưa kết thúc từ hệ thống Xoilac TV.
+    Lấy trận đang LIVE và trận sắp diễn ra trong 3 giờ từ Xoilac TV.
     """
     try:
         raw = _http_get(XOILAC_SCHEDULE_URL, referer=XOILAC_REFERER)
@@ -522,11 +548,7 @@ def fetch_matches_xoilac():
         return fallback_matches
 
     record_source_health("XoilacTV schedule API", True)
-    return [
-        match
-        for match in matches
-        if match.get("status_id") in (*XOILAC_LIVE_STATUS, XOILAC_NOT_STARTED_STATUS)
-    ]
+    return _filter_xoilac_matches(matches)
 
 
 def _xoilac_fetch_team_info(match_id):
@@ -727,7 +749,10 @@ if __name__ == "__main__":
 
     print("[*] Đang tải lịch thi đấu từ Xoilac TV...")
     xoilac_matches = fetch_matches_xoilac()
-    print(f"[+] [XoilacTV] Đã lấy được {len(xoilac_matches)} trận chưa kết thúc.")
+    print(
+        f"[+] [XoilacTV] Đã lấy được {len(xoilac_matches)} "
+        "trận LIVE/sắp diễn ra trong 3 giờ."
+    )
     notify_source_health()
     all_channels.extend(build_channels_xoilac(xoilac_matches))
 
