@@ -7,6 +7,14 @@ flock -n 9 || exit 0
 
 cd "$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 
+# Optional secrets/configuration for Telegram notifications. Keep this file on
+# the VPS only; it is deliberately not committed to the repository.
+if [[ -f /etc/crawl-sport.env ]]; then
+  set -a
+  . /etc/crawl-sport.env
+  set +a
+fi
+
 git pull --ff-only origin main
 python3 crawler.py
 git add sport.m3u8

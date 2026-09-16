@@ -12,6 +12,7 @@ import re
 import sys
 import json
 import time
+import os
 import urllib.request
 import urllib.error
 import urllib.parse
@@ -30,6 +31,70 @@ PROVIDER_GROUPS = {
 }
 
 DEFAULT_LOGO = "https://media.chuoichientv.com/media/uploads/default-thumbnail.png"
+SOURCE_HEALTH = {}
+SOURCE_HEALTH_STATE_FILE = os.getenv("SOURCE_HEALTH_STATE_FILE", ".source-health.json")
+SOURCE_FAILURE_THRESHOLD = max(int(os.getenv("SOURCE_FAILURE_THRESHOLD", "3")), 1)
+
+
+def record_source_health(source, healthy, detail=None):
+    """Record the result of one source fetch for the end-of-run monitor."""
+    SOURCE_HEALTH[source] = {"healthy": healthy, "detail": detail or "unknown error"}
+
+
+def _send_telegram(message):
+    """Send a Telegram message when credentials are provided by the VPS."""
+    bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
+    chat_id = os.getenv("TELEGRAM_CHAT_ID")
+    if not bot_token or not chat_id:
+        return False
+
+    payload = urllib.parse.urlencode({"chat_id": chat_id, "text": message}).encode()
+    request = urllib.request.Request(
+        f"https://api.telegram.org/bot{bot_token}/sendMessage",
+        data=payload,
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=15) as response:
+            return 200 <= response.status < 300
+    except Exception as e:
+        print(f"[-] Không gửi được Telegram notification: {type(e).__name__}", file=sys.stderr)
+        return False
+
+
+def notify_source_health():
+    """Alert once per outage and once again when the source recovers."""
+    try:
+        with open(SOURCE_HEALTH_STATE_FILE, "r", encoding="utf-8") as state_file:
+            state = json.load(state_file)
+    except (OSError, json.JSONDecodeError):
+        state = {}
+
+    for source, result in SOURCE_HEALTH.items():
+        source_state = state.setdefault(source, {"failures": 0, "alerted": False})
+        if result["healthy"]:
+            if source_state.get("alerted"):
+                _send_telegram(f"✅ {source} đã hoạt động trở lại.")
+            source_state.update({"failures": 0, "alerted": False})
+            continue
+
+        source_state["failures"] = source_state.get("failures", 0) + 1
+        if (
+            source_state["failures"] >= SOURCE_FAILURE_THRESHOLD
+            and not source_state.get("alerted")
+        ):
+            _send_telegram(
+                f"⚠️ {source} lỗi {source_state['failures']} lần liên tiếp. "
+                f"Chi tiết: {result['detail']}"
+            )
+            # Mark it even if Telegram delivery failed, preventing a notification
+            # attempt on every subsequent cron run.
+            source_state["alerted"] = True
+
+    temp_state_file = f"{SOURCE_HEALTH_STATE_FILE}.tmp"
+    with open(temp_state_file, "w", encoding="utf-8") as state_file:
+        json.dump(state, state_file, ensure_ascii=False)
+    os.replace(temp_state_file, SOURCE_HEALTH_STATE_FILE)
 
 # ---------------------------------------------------------------------------
 # Chuối Chiên TV
@@ -51,8 +116,10 @@ def fetch_matches_chuoi():
     try:
         with urllib.request.urlopen(req, timeout=15) as resp:
             data = json.loads(resp.read().decode("utf-8"))
+            record_source_health("ChuốiTV API", True)
             return data.get("matches", [])
     except Exception as e:
+        record_source_health("ChuốiTV API", False, str(e))
         print(f"[-] [ChuoiTV] Lỗi khi gọi API: {e}", file=sys.stderr)
         return []
 
@@ -202,8 +269,10 @@ def fetch_matches_cola():
         with urllib.request.urlopen(req, timeout=15) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             matches = data.get("data") or {}
+            record_source_health("ColaTV API", True)
             return list(matches.values())
     except Exception as e:
+        record_source_health("ColaTV API", False, str(e))
         print(f"[-] [ColaTV] Lỗi khi gọi API: {e}", file=sys.stderr)
         return []
 
@@ -446,6 +515,7 @@ def fetch_matches_xoilac():
         data = json.loads(raw)
         matches = data.get("matches", []) or []
     except Exception as e:
+        record_source_health("XoilacTV schedule API", False, str(e))
         print(f"[-] [XoilacTV] Lỗi khi gọi API lịch thi đấu: {e}", file=sys.stderr)
         fallback_matches = _xoilac_matches_from_homepage()
         if fallback_matches:
@@ -456,6 +526,7 @@ def fetch_matches_xoilac():
             )
         return fallback_matches
 
+    record_source_health("XoilacTV schedule API", True)
     return [
         match
         for match in matches
@@ -655,7 +726,8 @@ if __name__ == "__main__":
 
     print("[*] Đang tải lịch thi đấu từ Xoilac TV...")
     xoilac_matches = fetch_matches_xoilac()
-    print(f"[+] [XoilacTV] Đã lấy được {len(xoilac_matches)} trận (đang live + sắp đá trong 3h tới).")
+    print(f"[+] [XoilacTV] Đã lấy được {len(xoilac_matches)} trận chưa kết thúc.")
+    notify_source_health()
     all_channels.extend(build_channels_xoilac(xoilac_matches))
 
     if not all_channels:
