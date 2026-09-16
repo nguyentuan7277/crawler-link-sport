@@ -9,7 +9,11 @@ cd "$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 
 # Optional secrets/configuration for Telegram notifications. Keep this file on
 # the VPS only; it is deliberately not committed to the repository.
-if [[ -f /etc/crawl-sport.env ]]; then
+if [[ -f .env ]]; then
+  set -a
+  . ./.env
+  set +a
+elif [[ -f /etc/crawl-sport.env ]]; then
   set -a
   . /etc/crawl-sport.env
   set +a
