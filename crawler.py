@@ -305,7 +305,7 @@ XOILAC_LIVE_STATUS = (2, 3, 4, 5, 6, 7)
 XOILAC_NOT_STARTED_STATUS = 1
 # Chỉ lấy trước lịch những trận sắp đá trong vòng bao nhiêu giây, để không phải quét
 # hàng trăm trận chưa đá (mỗi trận cần thêm 2-3 request để resolve link) mỗi lần crawl.
-XOILAC_UPCOMING_WINDOW_SECONDS = 3 * 60 * 60
+XOILAC_UPCOMING_WINDOW_SECONDS = 12 * 60 * 60
 
 
 def _http_get(url, referer=None, timeout=10):
