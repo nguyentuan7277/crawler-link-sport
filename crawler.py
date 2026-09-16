@@ -12,6 +12,7 @@ import re
 import sys
 import json
 import time
+import os
 import urllib.request
 import urllib.error
 import urllib.parse
@@ -30,13 +31,81 @@ PROVIDER_GROUPS = {
 }
 
 DEFAULT_LOGO = "https://media.chuoichientv.com/media/uploads/default-thumbnail.png"
+SOURCE_HEALTH = {}
+SOURCE_HEALTH_STATE_FILE = os.getenv("SOURCE_HEALTH_STATE_FILE", ".source-health.json")
+SOURCE_FAILURE_THRESHOLD = max(int(os.getenv("SOURCE_FAILURE_THRESHOLD", "3")), 1)
+
+
+def record_source_health(source, healthy, detail=None):
+    """Record the result of one source fetch for the end-of-run monitor."""
+    SOURCE_HEALTH[source] = {"healthy": healthy, "detail": detail or "unknown error"}
+
+
+def _send_telegram(message):
+    """Send a Telegram message when credentials are provided by the VPS."""
+    bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
+    chat_id = os.getenv("TELEGRAM_CHAT_ID")
+    if not bot_token or not chat_id:
+        return False
+
+    payload = urllib.parse.urlencode({"chat_id": chat_id, "text": message}).encode()
+    request = urllib.request.Request(
+        f"https://api.telegram.org/bot{bot_token}/sendMessage",
+        data=payload,
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=15) as response:
+            return 200 <= response.status < 300
+    except Exception as e:
+        print(f"[-] Không gửi được Telegram notification: {type(e).__name__}", file=sys.stderr)
+        return False
+
+
+def notify_source_health():
+    """Alert once per outage and once again when the source recovers."""
+    try:
+        with open(SOURCE_HEALTH_STATE_FILE, "r", encoding="utf-8") as state_file:
+            state = json.load(state_file)
+    except (OSError, json.JSONDecodeError):
+        state = {}
+
+    for source, result in SOURCE_HEALTH.items():
+        source_state = state.setdefault(source, {"failures": 0, "alerted": False})
+        if result["healthy"]:
+            if source_state.get("alerted"):
+                _send_telegram(f"✅ {source} đã hoạt động trở lại.")
+            source_state.update({"failures": 0, "alerted": False})
+            continue
+
+        source_state["failures"] = source_state.get("failures", 0) + 1
+        if (
+            source_state["failures"] >= SOURCE_FAILURE_THRESHOLD
+            and not source_state.get("alerted")
+        ):
+            _send_telegram(
+                f"⚠️ {source} lỗi {source_state['failures']} lần liên tiếp. "
+                f"Chi tiết: {result['detail']}"
+            )
+            # Mark it even if Telegram delivery failed, preventing a notification
+            # attempt on every subsequent cron run.
+            source_state["alerted"] = True
+
+    temp_state_file = f"{SOURCE_HEALTH_STATE_FILE}.tmp"
+    with open(temp_state_file, "w", encoding="utf-8") as state_file:
+        json.dump(state, state_file, ensure_ascii=False)
+    os.replace(temp_state_file, SOURCE_HEALTH_STATE_FILE)
 
 # ---------------------------------------------------------------------------
 # Chuối Chiên TV
 # ---------------------------------------------------------------------------
 CHUOI_API_URL = "https://api-v2.chuoichientv.net/v2/matches"
-CHUOI_REFERER = "https://live05.chuoichientv.me/"
-CHUOI_ORIGIN = "https://live05.chuoichientv.me"
+CHUOI_API_REFERER = "https://live05.chuoichientv.me/"
+CHUOI_API_ORIGIN = "https://live05.chuoichientv.me"
+# The public site embeds its player from this origin. ChuoiTV's stream CDNs
+# enforce hotlink protection and reject the public page's origin with 403.
+CHUOI_STREAM_REFERER = "https://live.chuoichien.tv/"
+CHUOI_STREAM_ORIGIN = "https://live.chuoichien.tv"
 CHUOI_SOURCE_TAG = "ChuoiTV"
 
 
@@ -44,45 +113,38 @@ def fetch_matches_chuoi():
     """Lấy danh sách các trận đấu từ API v2 của hệ thống Chuối Chiên"""
     req = urllib.request.Request(CHUOI_API_URL)
     req.add_header("User-Agent", USER_AGENT)
-    req.add_header("Origin", CHUOI_ORIGIN)
-    req.add_header("Referer", CHUOI_REFERER)
+    req.add_header("Origin", CHUOI_API_ORIGIN)
+    req.add_header("Referer", CHUOI_API_REFERER)
     req.add_header("Accept", "application/json, text/plain, */*")
 
     try:
         with urllib.request.urlopen(req, timeout=15) as resp:
             data = json.loads(resp.read().decode("utf-8"))
+            record_source_health("ChuốiTV API", True)
             return data.get("matches", [])
     except Exception as e:
+        record_source_health("ChuốiTV API", False, str(e))
         print(f"[-] [ChuoiTV] Lỗi khi gọi API: {e}", file=sys.stderr)
         return []
 
 
-def select_best_stream(streams):
+def select_chuoi_stream(streams):
     """
-    Chọn link stream tối ưu theo thứ tự ưu tiên:
-    1. FULL HD (1080p)
-    2. HD (720p)
-    3. Link stream đầu tiên khả dụng
+    Chọn stream theo đúng thứ tự API, giống player chính thức của ChuốiTV.
+
+    Nguồn đầu tiên thường là HD và ổn định hơn. Tự ưu tiên FHD làm crawler
+    chọn khác website, nên có thể lấy phải CDN phụ không phát được trên app.
     """
     if not streams:
         return None, None
 
     for s in streams:
-        label = (s.get("label") or "").upper().strip()
         url = s.get("url") or s.get("streamUrl")
-        if url and ("FULL HD" in label or "FHD" in label or "1080" in label):
+        if url:
+            label = (s.get("label") or "SD").upper().strip()
             return url, label
 
-    for s in streams:
-        label = (s.get("label") or "").upper().strip()
-        url = s.get("url") or s.get("streamUrl")
-        if url and ("HD" in label or "720" in label):
-            return url, label
-
-    first = streams[0]
-    first_url = first.get("url") or first.get("streamUrl")
-    first_label = (first.get("label") or "SD").upper().strip()
-    return first_url, first_label
+    return None, None
 
 
 def format_time_vn_iso(utc_iso_str):
@@ -157,7 +219,7 @@ def build_channels_chuoi(matches):
         for blv in blvs:
             blv_name = blv.get("name") or "BLV"
             streams = blv.get("streams") or []
-            stream_url, quality = select_best_stream(streams)
+            stream_url, quality = select_chuoi_stream(streams)
             if not stream_url:
                 continue
 
@@ -172,8 +234,8 @@ def build_channels_chuoi(matches):
                 "channel_suffix": f" - {blv_name} [{quality}]",
                 "tvg_id": tvg_id,
                 "stream_url": stream_url,
-                "referer": CHUOI_REFERER,
-                "origin": CHUOI_ORIGIN,
+                "referer": CHUOI_STREAM_REFERER,
+                "origin": CHUOI_STREAM_ORIGIN,
                 "start_time": unix_time_from_iso(match_time),
             })
 
@@ -202,8 +264,10 @@ def fetch_matches_cola():
         with urllib.request.urlopen(req, timeout=15) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             matches = data.get("data") or {}
+            record_source_health("ColaTV API", True)
             return list(matches.values())
     except Exception as e:
+        record_source_health("ColaTV API", False, str(e))
         print(f"[-] [ColaTV] Lỗi khi gọi API: {e}", file=sys.stderr)
         return []
 
@@ -446,6 +510,7 @@ def fetch_matches_xoilac():
         data = json.loads(raw)
         matches = data.get("matches", []) or []
     except Exception as e:
+        record_source_health("XoilacTV schedule API", False, str(e))
         print(f"[-] [XoilacTV] Lỗi khi gọi API lịch thi đấu: {e}", file=sys.stderr)
         fallback_matches = _xoilac_matches_from_homepage()
         if fallback_matches:
@@ -456,6 +521,7 @@ def fetch_matches_xoilac():
             )
         return fallback_matches
 
+    record_source_health("XoilacTV schedule API", True)
     return [
         match
         for match in matches
@@ -600,7 +666,13 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
     for ch in channels:
         # Validate only on-air channels. Checking every upcoming fixture can
         # mean hundreds of requests and would make a scheduled crawl too slow.
-        if ch["status_prefix"].startswith("● [LIVE]"):
+        # ChuốiTV's CDN rejects datacenter IPs (including this VPS) while
+        # allowing viewer networks, so a server-side probe would create false
+        # negatives and incorrectly remove otherwise playable channels.
+        if (
+            ch["source_tag"] != "ChuoiTV"
+            and ch["status_prefix"].startswith("● [LIVE]")
+        ):
             health_key = (ch["stream_url"], ch["referer"], ch["origin"])
             if health_key not in health_cache:
                 health_cache[health_key] = _hls_is_playable(*health_key)
@@ -655,7 +727,8 @@ if __name__ == "__main__":
 
     print("[*] Đang tải lịch thi đấu từ Xoilac TV...")
     xoilac_matches = fetch_matches_xoilac()
-    print(f"[+] [XoilacTV] Đã lấy được {len(xoilac_matches)} trận (đang live + sắp đá trong 3h tới).")
+    print(f"[+] [XoilacTV] Đã lấy được {len(xoilac_matches)} trận chưa kết thúc.")
+    notify_source_health()
     all_channels.extend(build_channels_xoilac(xoilac_matches))
 
     if not all_channels:
