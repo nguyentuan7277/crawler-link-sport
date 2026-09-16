@@ -295,9 +295,9 @@ def build_channels_cola(matches):
 # ---------------------------------------------------------------------------
 XOILAC_SCHEDULE_URL = "https://data-api.sportflowlivez.com/v1/football/xoilac365/match/live"
 XOILAC_MATCH_DETAIL_URL = "https://fb-api.sportliveapiz.com/football/match/{}"
-XOILAC_SITE_URL = "https://xoilacxba.tv"
-XOILAC_REFERER = "https://xoilacxba.tv/"
-XOILAC_ORIGIN = "https://xoilacxba.tv"
+XOILAC_SITE_URL = "https://xoilacxbb.tv"
+XOILAC_REFERER = "https://xoilacxbb.tv/"
+XOILAC_ORIGIN = "https://xoilacxbb.tv"
 XOILAC_SOURCE_TAG = "XoilacTV"
 # 1=chưa đá, 8=đã kết thúc, còn lại là các trạng thái đang diễn ra (hiệp 1/hiệp 2/nghỉ...)
 # Riêng 9 không phải trạng thái live thật (dữ liệu rác/trận có giờ đá bất thường) nên loại luôn.
@@ -316,6 +316,64 @@ def _http_get(url, referer=None, timeout=10):
         req.add_header("Referer", referer)
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read().decode("utf-8", "ignore")
+
+
+def _xoilac_matches_from_homepage():
+    """Fallback schedule scraped from Xoilac's public match cards.
+
+    The primary schedule API is occasionally protected by a Cloudflare
+    challenge, while the homepage and per-match API remain publicly readable.
+    """
+    try:
+        html = _http_get(f"{XOILAC_SITE_URL}/", referer=XOILAC_REFERER)
+    except Exception as e:
+        print(f"[-] [XoilacTV] Lỗi fallback trang chủ: {e}", file=sys.stderr)
+        return []
+
+    now = datetime.now(timezone(timedelta(hours=7)))
+    matches = []
+    cards = re.findall(
+        r'<a class="[^"]*match-horizontals-item[^"]*"\s+'
+        r'href="([^"]+)"\s+id="horizontal-item-([^"]+)">(.*?)</a>',
+        html,
+        flags=re.DOTALL,
+    )
+    for href, match_id, card_html in cards:
+        time_match = re.search(r'<div class="h-time">\s*(.*?)\s*</div>', card_html, re.DOTALL)
+        if not time_match:
+            continue
+        label = re.sub(r'<[^>]+>', '', time_match.group(1)).strip()
+        clock = re.search(r'(\d{1,2}):(\d{2})', label)
+        if not clock:
+            continue
+
+        match_date = now.date()
+        label_lower = label.lower()
+        if "ngày mai" in label_lower:
+            match_date += timedelta(days=1)
+        elif "hôm qua" in label_lower:
+            match_date -= timedelta(days=1)
+        match_time = datetime(
+            match_date.year,
+            match_date.month,
+            match_date.day,
+            int(clock.group(1)),
+            int(clock.group(2)),
+            tzinfo=now.tzinfo,
+        ).timestamp()
+
+        is_live = "trực tiếp" in label_lower or "live" in label_lower
+        if not is_live and not (0 <= match_time - now.timestamp() <= XOILAC_UPCOMING_WINDOW_SECONDS):
+            continue
+        matches.append({
+            "id": match_id,
+            "slug": urllib.parse.urljoin(XOILAC_SITE_URL, href)
+            .replace(XOILAC_SITE_URL, "")
+            .rstrip("/"),
+            "match_time": match_time,
+            "status_id": 2 if is_live else XOILAC_NOT_STARTED_STATUS,
+        })
+    return matches
 
 
 def _hls_get(url, referer, origin, timeout=10):
@@ -396,7 +454,14 @@ def fetch_matches_xoilac():
         matches = data.get("matches", []) or []
     except Exception as e:
         print(f"[-] [XoilacTV] Lỗi khi gọi API lịch thi đấu: {e}", file=sys.stderr)
-        return []
+        fallback_matches = _xoilac_matches_from_homepage()
+        if fallback_matches:
+            print(
+                f"[+] [XoilacTV] Dùng fallback trang chủ: "
+                f"{len(fallback_matches)} trận.",
+                file=sys.stderr,
+            )
+        return fallback_matches
 
     now_ts = time.time()
     result = []
