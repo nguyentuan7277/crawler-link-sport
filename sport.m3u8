@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Cola TV
-## Cập nhật lúc: 21:20:10 16/09/2026
+## Cập nhật lúc: 21:40:09 16/09/2026
 
 #EXTINF:-1 tvg-id="cola_edq09ilvryyceqx" tvg-name="CLB Terengganu vs DPMM" tvg-logo="https://img.gvapi.cc/football/team/4e7cc12589531b2559e0f7c5632a38db.png!w80" group-title="Cola TV",● [LIVE] CLB Terengganu vs DPMM - BLV ROCKSTAR — Cúp FA Malaysia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
@@ -11,12 +11,6 @@ https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/16226575_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1629926_chuoinho" tvg-name="Port FC vs Vissel Kobe" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131734_5b38fa5e.png" group-title="Chuối TV",[19:15 16/09] Port FC vs Vissel Kobe - Chuối Nhỏ [HD1] — AFC Champions League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1637563_chuoito" tvg-name="Buca FK vs Gaziemirspor" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125905_203ec9e5.png" group-title="Chuối TV",[21:00 16/09] Buca FK vs Gaziemirspor - Chuối To [HD] — Cúp Thổ Nhĩ Kỳ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
