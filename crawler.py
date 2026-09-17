@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Sport M3U8 Playlist Crawler
-Crawl lịch thi đấu và link stream HLS trực tiếp từ nhiều nguồn: Chuối Chiên TV, Cola TV, Gà Vàng TV.
+Crawl lịch thi đấu và link stream HLS trực tiếp từ nhiều nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV.
 Ưu tiên chất lượng: FULL HD -> HD -> SD.
 Xuất file sport.m3u8 tương thích 100% với TiviMate, VLC, OTT Navigator.
 Mỗi nguồn được gắn tiền tố riêng trong group-title để không bị trộn lẫn.
@@ -28,9 +28,11 @@ USER_AGENT = (
 
 PROVIDER_GROUPS = {
     "ChuoiTV": "Chuối TV",
-    "ColaTV": "Cola TV",
     "GavangTV": "Gà Vàng TV",
+    "BiaomTV": "BiaomTV",
+    "ColaTV": "Cola TV",
 }
+PROVIDER_ORDER = {source: index for index, source in enumerate(PROVIDER_GROUPS)}
 
 DEFAULT_LOGO = "https://media.chuoichientv.com/media/uploads/default-thumbnail.png"
 SOURCE_HEALTH = {}
@@ -644,16 +646,126 @@ def build_channels_gavang(matches):
 
 
 # ---------------------------------------------------------------------------
+# BiaomTV
+# ---------------------------------------------------------------------------
+BIAOM_SITE_URL = "https://biaomtv.link"
+BIAOM_REFERER = f"{BIAOM_SITE_URL}/"
+BIAOM_ORIGIN = BIAOM_SITE_URL
+BIAOM_FIXTURES_URL = f"{BIAOM_SITE_URL}/wp-json/s8-live/v1/fixtures"
+BIAOM_FIXTURE_URL = f"{BIAOM_SITE_URL}/wp-json/s8-live/v1/fixture"
+BIAOM_SOURCE_TAG = "BiaomTV"
+
+
+def _biaom_time(value):
+    """Convert Biaom's timezone-less ISO fixture time to Vietnam time."""
+    try:
+        return datetime.strptime(value, "%Y-%m-%dT%H:%M:%S").replace(
+            tzinfo=timezone(timedelta(hours=7))
+        ).timestamp()
+    except (TypeError, ValueError):
+        return None
+
+
+def fetch_matches_biaom():
+    """Fetch active football fixtures from BiaomTV's public WordPress API."""
+    try:
+        payload = json.loads(
+            _http_get(BIAOM_FIXTURES_URL, referer=BIAOM_REFERER, origin=BIAOM_ORIGIN)
+        )
+    except Exception as e:
+        record_source_health("BiaomTV fixtures API", False, str(e))
+        print(f"[-] [BiaomTV] Lỗi gọi API lịch thi đấu: {e}", file=sys.stderr)
+        return []
+
+    fixtures = payload.get("data", []) if isinstance(payload, dict) else []
+    matches = [
+        fixture for fixture in fixtures
+        if isinstance(fixture, dict) and fixture.get("id") and fixture.get("is_active")
+    ]
+    record_source_health("BiaomTV fixtures API", True)
+    return matches
+
+
+def _biaom_fetch_fixture(fixture):
+    """The detail endpoint exposes the signed/active HLS URL for a fixture."""
+    fixture_id = fixture["id"]
+    try:
+        payload = json.loads(_http_get(
+            f"{BIAOM_FIXTURE_URL}/{urllib.parse.quote(str(fixture_id))}",
+            referer=BIAOM_REFERER,
+            origin=BIAOM_ORIGIN,
+            timeout=15,
+        ))
+        detail = payload.get("data", {}) if isinstance(payload, dict) else {}
+    except Exception as e:
+        record_source_health("BiaomTV fixture API", False, str(e))
+        return None
+
+    streams = detail.get("streams", []) if isinstance(detail, dict) else []
+    stream = next(
+        (
+            item for item in streams
+            if isinstance(item, dict)
+            and item.get("is_active")
+            and str(item.get("link_m3u8") or "").startswith("http")
+        ),
+        None,
+    )
+    if not stream:
+        record_source_health("BiaomTV fixture API", False, "no active HLS URL")
+        return None
+    record_source_health("BiaomTV fixture API", True)
+    return detail, stream
+
+
+def build_channels_biaom(matches):
+    """Resolve BiaomTV fixture details concurrently into playable channels."""
+    channels = []
+    with ThreadPoolExecutor(max_workers=12) as pool:
+        details = list(pool.map(_biaom_fetch_fixture, matches))
+
+    for fixture, resolved in zip(matches, details):
+        if not resolved:
+            continue
+        detail, stream = resolved
+        home = detail.get("left_club", {}) or {}
+        away = detail.get("right_club", {}) or {}
+        competition = detail.get("competition", {}) or {}
+        start_time = _biaom_time(detail.get("time"))
+        live = detail.get("time_type") == "truc_tiep"
+        commentator = (stream.get("commentator") or {}).get("name") or ""
+        home_logo = home.get("avatar_url") or detail.get("thumbnail_url") or DEFAULT_LOGO
+        channels.append({
+            "source_tag": BIAOM_SOURCE_TAG,
+            "status_prefix": "● [LIVE] " if live else f"[{format_time_vn_unix(start_time)}] ",
+            "home": home.get("name") or "Đội nhà",
+            "away": away.get("name") or "Đội khách",
+            "logo": home_logo,
+            "home_logo": home_logo,
+            "away_logo": away.get("avatar_url") or "",
+            "league": competition.get("name") or "Bóng Đá",
+            "channel_suffix": f" - {commentator}" if commentator else "",
+            "tvg_id": f"biaom_{detail.get('id') or fixture['id']}",
+            "stream_url": stream["link_m3u8"],
+            "referer": BIAOM_REFERER,
+            "origin": BIAOM_ORIGIN,
+            "start_time": start_time,
+        })
+    return channels
+
+
+# ---------------------------------------------------------------------------
 # Xuất file M3U8
 # ---------------------------------------------------------------------------
 
 def generate_m3u8(channels, output_file="sport.m3u8"):
     """Tạo file playlist m3u8 từ danh sách channel đã chuẩn hóa (nhiều nguồn)"""
-    # Keep current broadcasts first, then put the nearest kickoffs at the top.
-    # Sources return different orders, so this must happen after merging them.
+    # Keep provider groups in the requested stable order. Within each group,
+    # show current broadcasts before the nearest kickoffs.
     channels = sorted(
         channels,
         key=lambda ch: (
+            PROVIDER_ORDER.get(ch["source_tag"], len(PROVIDER_ORDER)),
             0 if ch["status_prefix"].startswith("● [LIVE]") else 1,
             ch["start_time"] if ch["start_time"] is not None else float("inf"),
             ch["home"],
@@ -665,7 +777,7 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
 
     lines = [
         "#EXTM3U x-tvg-url=\"\"",
-        "## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Cola TV, Gà Vàng TV",
+        "## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV",
         f"## Cập nhật lúc: {now_vn}",
         ""
     ]
@@ -681,7 +793,7 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
             # match page.  Probing every active CDN stream here makes a cron
             # run wait on many segment timeouts, so leave playback validation
             # to the Android player just as the site does.
-            and ch["source_tag"] != GAVANG_SOURCE_TAG
+            and ch["source_tag"] not in (GAVANG_SOURCE_TAG, BIAOM_SOURCE_TAG)
         ):
             # ChuoiTV exposes several qualities for the same commentary.
             # Prefer the highest stream, but fall through to the next one if
@@ -779,11 +891,6 @@ if __name__ == "__main__":
     print(f"[+] [ChuoiTV] Đã lấy được {len(chuoi_matches)} trận đấu.")
     all_channels.extend(build_channels_chuoi(chuoi_matches))
 
-    print("[*] Đang tải lịch thi đấu từ Cola TV...")
-    cola_matches = fetch_matches_cola()
-    print(f"[+] [ColaTV] Đã lấy được {len(cola_matches)} trận đấu.")
-    all_channels.extend(build_channels_cola(cola_matches))
-
     print("[*] Đang tải lịch thi đấu từ Gà Vàng TV...")
     gavang_matches = fetch_matches_gavang()
     print(
@@ -792,8 +899,17 @@ if __name__ == "__main__":
     )
     all_channels.extend(build_channels_gavang(gavang_matches))
 
-    # The Gà Vàng resolver runs inside build_channels_gavang(), so notify only
-    # after all fetch and resolver checks have completed.
+    print("[*] Đang tải lịch thi đấu từ BiaomTV...")
+    biaom_matches = fetch_matches_biaom()
+    print(f"[+] [BiaomTV] Đã lấy được {len(biaom_matches)} trận đấu đang bật.")
+    all_channels.extend(build_channels_biaom(biaom_matches))
+
+    print("[*] Đang tải lịch thi đấu từ Cola TV...")
+    cola_matches = fetch_matches_cola()
+    print(f"[+] [ColaTV] Đã lấy được {len(cola_matches)} trận đấu.")
+    all_channels.extend(build_channels_cola(cola_matches))
+
+    # Run health notification only after all source and stream checks finish.
     notify_source_health()
 
     if not all_channels:
