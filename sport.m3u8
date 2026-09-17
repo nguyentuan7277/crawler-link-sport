@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 03:40:12 18/09/2026
+## Cập nhật lúc: 04:00:11 18/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1636232_angao" tvg-name="Besiktas vs Marseille" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125511_cf0f54fc.png" group-title="Chuối TV" start-time="1789671600",Besiktas vs Marseille - A Ngao [FULL HD] — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -63,6 +63,11 @@ https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_k82rekhg4w4grep" tvg-name="Atletico Bucaramanga vs Medellin Independiente" tvg-logo="https://static.sportsfeed.pro/football/team/70c92764e181ce7abe6176c411a93fe3.png" home-logo="https://static.sportsfeed.pro/football/team/70c92764e181ce7abe6176c411a93fe3.png" away-logo="https://static.sportsfeed.pro/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png" group-title="Gà Vàng TV" start-time="1789689600",Atletico Bucaramanga vs Medellin Independiente - cố tư nghiêm — Categoría Primera A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_4qab2s7vpk26" tvg-name="Besiktas JK vs Marseille" tvg-logo="https://biaomtv.link/wp-json/s8-image/f0d8fb72-1fa1-4eb5-a2bf-58c89d7dc933" home-logo="https://biaomtv.link/wp-json/s8-image/f0d8fb72-1fa1-4eb5-a2bf-58c89d7dc933" away-logo="https://biaomtv.link/wp-json/s8-image/6978dc78-6ce7-494d-a352-6c9b026ec61f" group-title="BiaomTV" start-time="1789671600",Besiktas JK vs Marseille - NGƯỜI SẮT — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -97,26 +102,6 @@ https://hls.lauthaitv.cc/live/torque-cienci-copasuda/index.m3u8|Referer=https://
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/phi-vie-asiad/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_ndkz6i3e581cxq3" tvg-name="Besiktas JK vs Olympique de Marseille" tvg-logo="https://img.gvapi.cc/football/team/83ba0474d144e49f060789cfa904e226.png!w80" home-logo="https://img.gvapi.cc/football/team/83ba0474d144e49f060789cfa904e226.png!w80" away-logo="https://img.gvapi.cc/football/team/a450173b3d636ba2c86d3d7c5bdc4026.png!w80" group-title="Cola TV" start-time="1789671600",Besiktas JK vs Olympique de Marseille - BLV AQUA — Europa League
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_oj7x9ix4o66u47g" tvg-name="Crystal Palace vs Lech Poznan" tvg-logo="https://img.gvapi.cc/football/team/42396d18444156e640c37476c2b41b93.png!w80" home-logo="https://img.gvapi.cc/football/team/42396d18444156e640c37476c2b41b93.png!w80" away-logo="https://img.gvapi.cc/football/team/d49ab93fbac0f4602293bac98b94d9c0.png!w80" group-title="Cola TV" start-time="1789671600",Crystal Palace vs Lech Poznan - BLV 247 — Europa League
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_o17pjio25p9cy7j" tvg-name="Juventus F.C. vs CLB NEC Nijmegen" tvg-logo="https://img.gvapi.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80" home-logo="https://img.gvapi.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80" away-logo="https://img.gvapi.cc/football/team/d22de494a1ff648e90892c249c5aed12.png!w80" group-title="Cola TV" start-time="1789671600",Juventus F.C. vs CLB NEC Nijmegen - BLV REVIVE — Europa League
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_527r3i4o8m3t47e" tvg-name="Real Sociedad vs Câu lạc bộ bóng đá Bournemouth" tvg-logo="https://img.gvapi.cc/football/team/579db6e95905545973035e6eab8df2cd.png!w80" home-logo="https://img.gvapi.cc/football/team/579db6e95905545973035e6eab8df2cd.png!w80" away-logo="https://img.gvapi.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80" group-title="Cola TV" start-time="1789671600",Real Sociedad vs Câu lạc bộ bóng đá Bournemouth - BLV C2 — Europa League
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_j374oi0mv1rigqo" tvg-name="Malaga vs Câu lạc bộ bóng đá Villarreal" tvg-logo="https://img.gvapi.cc/football/team/9c7c68ee0cad47be69a9d57e43261484.png!w80" home-logo="https://img.gvapi.cc/football/team/9c7c68ee0cad47be69a9d57e43261484.png!w80" away-logo="https://img.gvapi.cc/football/team/aee62af96a956756cc29fe4831286357.png!w80" group-title="Cola TV" start-time="1789673400",Malaga vs Câu lạc bộ bóng đá Villarreal - BLV SAMURAI — Giải Bóng đá Vô địch Quốc gia Tây Ban Nha
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
