@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:00:24 18/09/2026
+## Cập nhật lúc: 01:20:11 18/09/2026
+
+#EXTINF:-1 tvg-id="cctv_1635564_chuoichao" tvg-name="Manchester City vs Norwich" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130854_7fc74b6a.png" group-title="Chuối TV" start-time="1789669800",Manchester City vs Norwich - Chuối Chao [HD] — Cúp Liên đoàn Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1636285_chuoila" tvg-name="Levski Sofia vs Red Bull Salzburg" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134216_d3ae7925.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134216_d3ae7925.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125648_5a000bd4.png" group-title="Chuối TV" start-time="1789663500",Levski Sofia vs Red Bull Salzburg - Chuối Lá [FHD] — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,12 +25,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1635564_chuoichao" tvg-name="Manchester City vs Norwich" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130854_7fc74b6a.png" group-title="Chuối TV" start-time="1789669800",Manchester City vs Norwich - Chuối Chao [FHD] — Cúp Liên đoàn Anh
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1636232_angao" tvg-name="Besiktas vs Marseille" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125511_cf0f54fc.png" group-title="Chuối TV" start-time="1789671600",Besiktas vs Marseille - A Ngao [FULL HD] — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -116,11 +116,6 @@ https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_9090fc06f0v9" tvg-name="Levadia Tallinn vs Tartu JK Maag Tammeka" tvg-logo="https://biaomtv.link/wp-json/s8-image/51268fbf-12d8-41d0-825e-0798129a3953" home-logo="https://biaomtv.link/wp-json/s8-image/51268fbf-12d8-41d0-825e-0798129a3953" away-logo="https://biaomtv.link/wp-json/s8-image/2318053a-a7cc-451c-9081-0ff8e887285d" group-title="BiaomTV" start-time="1789660800",Levadia Tallinn vs Tartu JK Maag Tammeka - NGƯỜI CHÈ — EST Premium Liiga
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/tallin-tammeka-est/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_18pp18beb0xe" tvg-name="Levski Sofia vs Red Bull Salzburg" tvg-logo="https://biaomtv.link/wp-json/s8-image/d04ce2ab-a56d-4422-bebd-3f28cd3e1392" home-logo="https://biaomtv.link/wp-json/s8-image/d04ce2ab-a56d-4422-bebd-3f28cd3e1392" away-logo="https://biaomtv.link/wp-json/s8-image/7be7b143-ec72-49a2-963a-e92665c847c6" group-title="BiaomTV" start-time="1789663500",Levski Sofia vs Red Bull Salzburg - NGƯỜI DÊ — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
