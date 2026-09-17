@@ -587,7 +587,19 @@ def _hls_is_playable(stream_url, referer, origin):
 def fetch_matches_xoilac():
     """
     Lấy trận đang LIVE và trận sắp diễn ra trong 3 giờ từ Xoilac TV.
+
+    The schedule API is protected by an IP-dependent WAF and returns 403 on
+    some VPSes. Prefer the public homepage, which contains the same match
+    cards and is also the source used by the website's own UI. Keep the API
+    only as a last-resort fallback when the homepage has no usable fixtures.
     """
+    homepage_matches = _xoilac_matches_from_homepage()
+    if homepage_matches:
+        record_source_health(
+            "XoilacTV schedule API", True, "using public homepage schedule"
+        )
+        return homepage_matches
+
     try:
         raw = _http_get(
             XOILAC_SCHEDULE_URL, referer=XOILAC_REFERER, origin=XOILAC_ORIGIN
@@ -597,14 +609,7 @@ def fetch_matches_xoilac():
     except Exception as e:
         record_source_health("XoilacTV schedule API", False, str(e))
         print(f"[-] [XoilacTV] Lỗi khi gọi API lịch thi đấu: {e}", file=sys.stderr)
-        fallback_matches = _xoilac_matches_from_homepage()
-        if fallback_matches:
-            print(
-                f"[+] [XoilacTV] Dùng fallback trang chủ: "
-                f"{len(fallback_matches)} trận.",
-                file=sys.stderr,
-            )
-        return fallback_matches
+        return []
 
     record_source_health("XoilacTV schedule API", True)
     return _filter_xoilac_matches(matches)
