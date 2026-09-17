@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Cola TV
-## Cập nhật lúc: 11:40:05 17/09/2026
+## Cập nhật lúc: 12:00:06 17/09/2026
 
 #EXTINF:-1 tvg-id="cola_wv78xivoydeiokr" tvg-name="CLB Alianza San Salvador vs Motagua" tvg-logo="https://img.gvapi.cc/football/team/5204181e7c7001736341ab9b8dd54754.png!w80" group-title="Cola TV",● [LIVE] CLB Alianza San Salvador vs Motagua - BLV GIÀ LÀNG — Giải vô địch Bắc Mỹ, Trung Mỹ và vùng Caraibes
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
@@ -13,11 +13,16 @@ https://live05.meung.app/live/14830711_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1639551_chuoinho" tvg-name="Uzbekistan W vs China W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142848_7bd3d526.png" group-title="Chuối TV",[12:00 17/09] Uzbekistan W vs China W - Chuối Nhỏ [HD1] — Asian Games Women
+#EXTINF:-1 tvg-id="cctv_1639551_chuoinho" tvg-name="Uzbekistan W vs China W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142848_7bd3d526.png" group-title="Chuối TV",● [LIVE] Uzbekistan W vs China W - Chuối Nhỏ [HD1] — Asian Games Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_wv78xiv434mhokr" tvg-name="ĐTQG nữ Uzbekistan vs Trung Quốc Nữ" tvg-logo="https://img.gvapi.cc/football/team/0eed1b79b7b63de4fd62d4f861719c03.png!w80" group-title="Cola TV",● [LIVE] ĐTQG nữ Uzbekistan vs Trung Quốc Nữ - BLV SAMURAI — Đại hội Thể thao Nữ Châu Á
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_998432_chuoitay" tvg-name="Hong Kong W vs Vietnam W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142853_1bd3a785.png" group-title="Chuối TV",[14:00 17/09] Hong Kong W vs Vietnam W - Chuối Tây [HD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
