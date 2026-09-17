@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:20:16 18/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1561398_chuoito" tvg-name="FC Rostov vs Dynamo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133526_fe3a0df9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133526_fe3a0df9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133528_2d12200e.png" group-title="Chuối TV" start-time="1789659000",FC Rostov vs Dynamo - Chuối To [FHD] — Ngoại Hạng Nga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 00:40:11 18/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1636285_chuoila" tvg-name="Levski Sofia vs Red Bull Salzburg" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134216_d3ae7925.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134216_d3ae7925.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125648_5a000bd4.png" group-title="Chuối TV" start-time="1789663500",Levski Sofia vs Red Bull Salzburg - Chuối Lá [FHD] — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -103,11 +97,6 @@ https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_y08btg6zhb8m" tvg-name="Rostov FK vs Dynamo Moscow" tvg-logo="https://biaomtv.link/wp-json/s8-image/4223d04d-d867-447c-a9c1-87e8c23578b2" home-logo="https://biaomtv.link/wp-json/s8-image/4223d04d-d867-447c-a9c1-87e8c23578b2" away-logo="https://biaomtv.link/wp-json/s8-image/c192bacb-bf88-4995-98a0-1a67bc6dc6e1" group-title="BiaomTV" start-time="1789659000",Rostov FK vs Dynamo Moscow - NGƯỜI THỎ — RUS Premier League
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/rostov-moscow-rusprem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_9090fc06f0v9" tvg-name="Levadia Tallinn vs Tartu JK Maag Tammeka" tvg-logo="https://biaomtv.link/wp-json/s8-image/51268fbf-12d8-41d0-825e-0798129a3953" home-logo="https://biaomtv.link/wp-json/s8-image/51268fbf-12d8-41d0-825e-0798129a3953" away-logo="https://biaomtv.link/wp-json/s8-image/2318053a-a7cc-451c-9081-0ff8e887285d" group-title="BiaomTV" start-time="1789660800",Levadia Tallinn vs Tartu JK Maag Tammeka - NGƯỜI CHÈ — EST Premium Liiga
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -167,16 +156,6 @@ https://hls.lauthaitv.cc/live/torque-cienci-copasuda/index.m3u8|Referer=https://
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/phi-vie-asiad/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_34kgmio6nl4feko" tvg-name="Akron Togliatti vs Akhmat Grozny" tvg-logo="https://img.gvapi.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80" home-logo="https://img.gvapi.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80" away-logo="https://img.gvapi.cc/football/team/dfb637acd761b88a27e200393e29319f.png!w80" group-title="Cola TV" start-time="1789659000",Akron Togliatti vs Akhmat Grozny - BLV PEPSI — Giải Bóng đá Ngoại hạng Nga
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_edq09ilz532teqx" tvg-name="Rostov vs Dynamo Moscow" tvg-logo="https://img.gvapi.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" home-logo="https://img.gvapi.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" away-logo="https://img.gvapi.cc/football/team/4f2e51a4694f68360a19648b651b30ca.png!w80" group-title="Cola TV" start-time="1789659000",Rostov vs Dynamo Moscow - BLV SAMURAI — Giải Bóng đá Ngoại hạng Nga
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_jek33i82lozc9ko" tvg-name="Levski vs FC Red Bull Salzburg" tvg-logo="https://img.gvapi.cc/football/team/fe56623a71d6056e9e1a93a6241e033f.png!w80" home-logo="https://img.gvapi.cc/football/team/fe56623a71d6056e9e1a93a6241e033f.png!w80" away-logo="https://img.gvapi.cc/football/team/4e07d3ac5c7d1f02fba7fa4c14c8ee76.png!w80" group-title="Cola TV" start-time="1789663500",Levski vs FC Red Bull Salzburg - BLV C2 — Europa League
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
