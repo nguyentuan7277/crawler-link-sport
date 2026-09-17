@@ -394,9 +394,12 @@ def build_channels_cola(matches):
 # ---------------------------------------------------------------------------
 XOILAC_SCHEDULE_URL = "https://data-api.sportflowlivez.com/v1/football/xoilac365/match/live"
 XOILAC_MATCH_DETAIL_URL = "https://fb-api.sportliveapiz.com/football/match/{}"
-XOILAC_SITE_URL = "https://xoilacxbb.tv"
-XOILAC_REFERER = "https://xoilacxbb.tv/"
-XOILAC_ORIGIN = "https://xoilacxbb.tv"
+# Xoilac's active canonical host. The prior xoilacxbb.tv host now causes
+# 403s at the match-detail API and stream embeds because their anti-hotlink
+# checks validate Referer and Origin.
+XOILAC_SITE_URL = "https://xoilacxth.tv"
+XOILAC_REFERER = "https://xoilacxth.tv/"
+XOILAC_ORIGIN = "https://xoilacxth.tv"
 XOILAC_SOURCE_TAG = "XoilacTV"
 # 1=chưa đá, 8=đã kết thúc, còn lại là các trạng thái đang diễn ra (hiệp 1/hiệp 2/nghỉ...)
 # Riêng 9 không phải trạng thái live thật (dữ liệu rác/trận có giờ đá bất thường) nên loại luôn.
@@ -430,12 +433,16 @@ def _filter_xoilac_matches(matches, now_ts=None):
     return result
 
 
-def _http_get(url, referer=None, timeout=10):
+def _http_get(url, referer=None, origin=None, extra_headers=None, timeout=10):
     req = urllib.request.Request(url)
     req.add_header("User-Agent", USER_AGENT)
     req.add_header("Accept", "application/json, text/html, */*")
     if referer:
         req.add_header("Referer", referer)
+    if origin:
+        req.add_header("Origin", origin)
+    for name, value in (extra_headers or {}).items():
+        req.add_header(name, value)
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read().decode("utf-8", "ignore")
 
@@ -447,7 +454,9 @@ def _xoilac_matches_from_homepage():
     challenge, while the homepage and per-match API remain publicly readable.
     """
     try:
-        html = _http_get(f"{XOILAC_SITE_URL}/", referer=XOILAC_REFERER)
+        html = _http_get(
+            f"{XOILAC_SITE_URL}/", referer=XOILAC_REFERER, origin=XOILAC_ORIGIN
+        )
     except Exception as e:
         print(f"[-] [XoilacTV] Lỗi fallback trang chủ: {e}", file=sys.stderr)
         return []
@@ -567,7 +576,9 @@ def fetch_matches_xoilac():
     Lấy trận đang LIVE và trận sắp diễn ra trong 3 giờ từ Xoilac TV.
     """
     try:
-        raw = _http_get(XOILAC_SCHEDULE_URL, referer=XOILAC_REFERER)
+        raw = _http_get(
+            XOILAC_SCHEDULE_URL, referer=XOILAC_REFERER, origin=XOILAC_ORIGIN
+        )
         data = json.loads(raw)
         matches = data.get("matches", []) or []
     except Exception as e:
@@ -589,18 +600,24 @@ def fetch_matches_xoilac():
 def _xoilac_fetch_team_info(match_id):
     """Lấy tên/logo đội bóng và giải đấu theo matchId (trang không nhúng sẵn tên đội)"""
     try:
-        raw = _http_get(XOILAC_MATCH_DETAIL_URL.format(match_id), referer=XOILAC_REFERER)
+        raw = _http_get(
+            XOILAC_MATCH_DETAIL_URL.format(match_id),
+            referer=XOILAC_REFERER,
+            origin=XOILAC_ORIGIN,
+        )
         data = json.loads(raw).get("data", {}) or {}
         home = data.get("home_team", {}) or {}
         away = data.get("away_team", {}) or {}
         competition = data.get("competition", {}) or {}
+        record_source_health("XoilacTV match detail API", True)
         return {
             "home": home.get("name") or "Đội nhà",
             "away": away.get("name") or "Đội khách",
             "logo": home.get("logo") or competition.get("logo") or DEFAULT_LOGO,
             "league": competition.get("name") or "Bóng Đá",
         }
-    except Exception:
+    except Exception as e:
+        record_source_health("XoilacTV match detail API", False, str(e))
         return None
 
 
@@ -611,22 +628,36 @@ def _xoilac_resolve_stream(match_page_url):
     Mở từng link nhúng (với Referer là trang trận đấu) để lấy ra link .m3u8/.flv thật từ CDN.
     """
     try:
-        html = _http_get(match_page_url, referer=XOILAC_REFERER)
-    except Exception:
+        html = _http_get(
+            match_page_url, referer=XOILAC_REFERER, origin=XOILAC_ORIGIN
+        )
+    except Exception as e:
+        record_source_health("XoilacTV stream resolver", False, f"match page: {e}")
         return None, None
 
     m = re.search(r'list_stream\s*=\s*(\[.*?\]);', html)
     if not m:
+        record_source_health("XoilacTV stream resolver", False, "list_stream not found")
         return None, None
 
     try:
         embed_urls = [item[0] for item in json.loads(m.group(1)) if item]
-    except Exception:
+    except Exception as e:
+        record_source_health("XoilacTV stream resolver", False, f"invalid list_stream: {e}")
         return None, None
 
     for embed_url in embed_urls:
         try:
-            embed_html = _http_get(embed_url, referer=match_page_url)
+            embed_html = _http_get(
+                embed_url,
+                referer=match_page_url,
+                origin=XOILAC_ORIGIN,
+                extra_headers={
+                    "Sec-Fetch-Dest": "iframe",
+                    "Sec-Fetch-Mode": "navigate",
+                    "Sec-Fetch-Site": "cross-site",
+                },
+            )
         except Exception:
             continue
 
@@ -636,12 +667,15 @@ def _xoilac_resolve_stream(match_page_url):
 
         m3u8_urls = [u for u in found if ".m3u8" in u]
         if m3u8_urls:
+            record_source_health("XoilacTV stream resolver", True)
             return m3u8_urls[0], embed_url
 
         # Trang nhúng chỉ trả .flv (dùng cho flv.js), nhưng CDN cũng phục vụ .m3u8
         # cùng path/query - suy ra bản HLS để tương thích ExoPlayer/TiviMate (không hỗ trợ FLV thô).
+        record_source_health("XoilacTV stream resolver", True)
         return found[0].replace(".flv", ".m3u8", 1), embed_url
 
+    record_source_health("XoilacTV stream resolver", False, "no .m3u8/.flv in embeds")
     return None, None
 
 
@@ -760,14 +794,19 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
         # TiviMate groups entries by an exact group-title. Keep one stable
         # group per provider instead of creating a separate group per league.
         group_title = PROVIDER_GROUPS.get(ch["source_tag"], ch["source_tag"])
+        # Keep the M3U display name clean. The Android app reads start-time
+        # below and decides locally whether to render a LIVE badge or kickoff
+        # time, rather than relying on a stale crawler-generated prefix.
         channel_name = (
-            f"{ch['status_prefix']}{ch['home']} vs {ch['away']}"
+            f"{ch['home']} vs {ch['away']}"
             f"{ch['channel_suffix']} — {ch['league']}"
         )
+        start_time = int(ch["start_time"] or 0)
 
         lines.append(
             f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-name="{ch["home"]} vs {ch["away"]}" '
-            f'tvg-logo="{ch["logo"]}" group-title="{group_title}",{channel_name}'
+            f'tvg-logo="{ch["logo"]}" group-title="{group_title}" '
+            f'start-time="{start_time}",{channel_name}'
         )
         lines.append(f"#EXTVLCOPT:http-referrer={ch['referer']}")
         lines.append(f"#EXTVLCOPT:http-user-agent={USER_AGENT}")
@@ -802,8 +841,11 @@ if __name__ == "__main__":
         f"[+] [XoilacTV] Đã lấy được {len(xoilac_matches)} "
         "trận LIVE/sắp diễn ra trong 3 giờ."
     )
-    notify_source_health()
     all_channels.extend(build_channels_xoilac(xoilac_matches))
+
+    # Run health notification after resolving Xoilac channels: the resolver
+    # and match-detail checks happen inside build_channels_xoilac().
+    notify_source_health()
 
     if not all_channels:
         print("[-] Không lấy được dữ liệu kênh nào từ các nguồn. Đang thử lại hoặc kết thúc.")
