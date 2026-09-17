@@ -128,23 +128,31 @@ def fetch_matches_chuoi():
         return []
 
 
+def ordered_chuoi_streams(streams):
+    """Return usable ChuoiTV streams ordered from best to lowest quality."""
+    candidates = []
+    for index, stream in enumerate(streams or []):
+        url = stream.get("url") or stream.get("streamUrl")
+        if not url:
+            continue
+        label = (stream.get("label") or "SD").upper().strip()
+        if "4K" in label or "2160" in label:
+            rank = 0
+        elif "FHD" in label or "FULL HD" in label or "1080" in label:
+            rank = 1
+        elif "HD" in label or "720" in label:
+            rank = 2
+        else:
+            rank = 3
+        candidates.append((rank, index, url, label))
+    candidates.sort(key=lambda item: (item[0], item[1]))
+    return [(url, label) for _, _, url, label in candidates]
+
+
 def select_chuoi_stream(streams):
-    """
-    Chọn stream theo đúng thứ tự API, giống player chính thức của ChuốiTV.
-
-    Nguồn đầu tiên thường là HD và ổn định hơn. Tự ưu tiên FHD làm crawler
-    chọn khác website, nên có thể lấy phải CDN phụ không phát được trên app.
-    """
-    if not streams:
-        return None, None
-
-    for s in streams:
-        url = s.get("url") or s.get("streamUrl")
-        if url:
-            label = (s.get("label") or "SD").upper().strip()
-            return url, label
-
-    return None, None
+    """Choose the highest-quality ChuoiTV stream available from the API."""
+    candidates = ordered_chuoi_streams(streams)
+    return candidates[0] if candidates else (None, None)
 
 
 def format_time_vn_iso(utc_iso_str):
@@ -219,7 +227,10 @@ def build_channels_chuoi(matches):
         for blv in blvs:
             blv_name = blv.get("name") or "BLV"
             streams = blv.get("streams") or []
-            stream_url, quality = select_chuoi_stream(streams)
+            candidates = ordered_chuoi_streams(streams)
+            if not candidates:
+                continue
+            stream_url, quality = candidates[0]
             if not stream_url:
                 continue
 
@@ -232,6 +243,8 @@ def build_channels_chuoi(matches):
                 "logo": logo,
                 "league": league,
                 "channel_suffix": f" - {blv_name} [{quality}]",
+                "blv_name": blv_name,
+                "stream_candidates": candidates,
                 "tvg_id": tvg_id,
                 "stream_url": stream_url,
                 "referer": CHUOI_STREAM_REFERER,
@@ -758,17 +771,40 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
         # Validate only on-air channels. Checking every upcoming fixture can
         # mean hundreds of requests and would make a scheduled crawl too slow.
         if ch["status_prefix"].startswith("● [LIVE]"):
-            health_key = (ch["stream_url"], ch["referer"], ch["origin"])
-            if health_key not in health_cache:
-                health_cache[health_key] = _hls_is_playable(*health_key)
-            is_playable, reason = health_cache[health_key]
-            if not is_playable:
-                print(
-                    f"[-] Bỏ link LIVE không phát được ({ch['source_tag']} - "
-                    f"{ch['home']} vs {ch['away']}): {reason}",
-                    file=sys.stderr,
-                )
-                continue
+            # ChuoiTV exposes several qualities for the same commentary.
+            # Prefer the highest stream, but fall through to the next one if
+            # the CDN rejects it or its HLS playlist is dead.
+            if ch["source_tag"] == CHUOI_SOURCE_TAG and ch.get("stream_candidates"):
+                playable_candidate = None
+                for stream_url, quality in ch["stream_candidates"]:
+                    health_key = (stream_url, ch["referer"], ch["origin"])
+                    if health_key not in health_cache:
+                        health_cache[health_key] = _hls_is_playable(*health_key)
+                    is_playable, reason = health_cache[health_key]
+                    if is_playable:
+                        playable_candidate = (stream_url, quality)
+                        break
+                if not playable_candidate:
+                    print(
+                        f"[-] Bỏ link LIVE không phát được ({ch['source_tag']} - "
+                        f"{ch['home']} vs {ch['away']}): {reason}",
+                        file=sys.stderr,
+                    )
+                    continue
+                ch["stream_url"], quality = playable_candidate
+                ch["channel_suffix"] = f" - {ch['blv_name']} [{quality}]"
+            else:
+                health_key = (ch["stream_url"], ch["referer"], ch["origin"])
+                if health_key not in health_cache:
+                    health_cache[health_key] = _hls_is_playable(*health_key)
+                is_playable, reason = health_cache[health_key]
+                if not is_playable:
+                    print(
+                        f"[-] Bỏ link LIVE không phát được ({ch['source_tag']} - "
+                        f"{ch['home']} vs {ch['away']}): {reason}",
+                        file=sys.stderr,
+                    )
+                    continue
 
         # TiviMate versions differ in how they read per-channel HTTP headers.
         # ChuoiTV only needs Referer, so emit both URL-pipe and #EXTHTTP forms
