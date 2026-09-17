@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:00:20 18/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1570386_troctru" tvg-name="Real Betis vs Getafe" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_e2044734.png" group-title="Chuối TV" start-time="1789664400",Real Betis vs Getafe - Trốc Tru [HD] — La Liga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 00:20:16 18/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1561398_chuoito" tvg-name="FC Rostov vs Dynamo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133526_fe3a0df9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133526_fe3a0df9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133528_2d12200e.png" group-title="Chuối TV" start-time="1789659000",FC Rostov vs Dynamo - Chuối To [FHD] — Ngoại Hạng Nga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +19,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1570386_troctru" tvg-name="Real Betis vs Getafe" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_e2044734.png" group-title="Chuối TV" start-time="1789664400",Real Betis vs Getafe - Trốc Tru [FULL HD] — La Liga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1635564_chuoichao" tvg-name="Manchester City vs Norwich" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130854_7fc74b6a.png" group-title="Chuối TV" start-time="1789669800",Manchester City vs Norwich - Chuối Chao [FHD] — Cúp Liên đoàn Anh
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -102,11 +102,6 @@ https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_438ydq2rmvsp" tvg-name="FK Atyrau vs Ordabasy FC" tvg-logo="https://biaomtv.link/wp-json/s8-image/da945c5f-12d0-47ae-b54d-96e53c5a7bfe" home-logo="https://biaomtv.link/wp-json/s8-image/da945c5f-12d0-47ae-b54d-96e53c5a7bfe" away-logo="https://biaomtv.link/wp-json/s8-image/16c84925-03df-405a-b138-b535481b5c40" group-title="BiaomTV" start-time="1789657200",FK Atyrau vs Ordabasy FC - NGƯỜI SÓI — KAZ Premier League
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/atyrau-ordabasy-kazprem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_y08btg6zhb8m" tvg-name="Rostov FK vs Dynamo Moscow" tvg-logo="https://biaomtv.link/wp-json/s8-image/4223d04d-d867-447c-a9c1-87e8c23578b2" home-logo="https://biaomtv.link/wp-json/s8-image/4223d04d-d867-447c-a9c1-87e8c23578b2" away-logo="https://biaomtv.link/wp-json/s8-image/c192bacb-bf88-4995-98a0-1a67bc6dc6e1" group-title="BiaomTV" start-time="1789659000",Rostov FK vs Dynamo Moscow - NGƯỜI THỎ — RUS Premier League
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
