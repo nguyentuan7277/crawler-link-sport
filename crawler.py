@@ -208,6 +208,7 @@ def build_channels_chuoi(matches):
         home = match.get("teams", {}).get("home", {}).get("name", "Đội nhà")
         away = match.get("teams", {}).get("away", {}).get("name", "Đội khách")
         home_logo = match.get("teams", {}).get("home", {}).get("logo", "")
+        away_logo = match.get("teams", {}).get("away", {}).get("logo", "")
 
         league = match.get("league", {}).get("name", "Bóng Đá")
         league_logo = match.get("league", {}).get("logo", "")
@@ -241,6 +242,8 @@ def build_channels_chuoi(matches):
                 "home": home,
                 "away": away,
                 "logo": logo,
+                "home_logo": home_logo or logo,
+                "away_logo": away_logo,
                 "league": league,
                 "channel_suffix": f" - {blv_name} [{quality}]",
                 "blv_name": blv_name,
@@ -376,7 +379,9 @@ def build_channels_cola(matches):
 
         home = home_team.get("name") or match.get("homeTeamName") or "Đội nhà"
         away = away_team.get("name") or match.get("awayTeamName") or "Đội khách"
-        logo = home_team.get("logo") or competition.get("logo") or DEFAULT_LOGO
+        home_logo = home_team.get("logo") or competition.get("logo") or DEFAULT_LOGO
+        away_logo = away_team.get("logo") or ""
+        logo = home_logo
         league = competition.get("name") or match.get("competitionName") or "Bóng Đá"
 
         match_time = match.get("match_time") or match.get("matchTime")
@@ -390,6 +395,8 @@ def build_channels_cola(matches):
             "home": home,
             "away": away,
             "logo": logo,
+            "home_logo": home_logo,
+            "away_logo": away_logo,
             "league": league,
             "channel_suffix": channel_suffix,
             "tvg_id": f"cola_{match_id}",
@@ -632,6 +639,8 @@ def _xoilac_fetch_team_info(match_id):
             "home": home.get("name") or "Đội nhà",
             "away": away.get("name") or "Đội khách",
             "logo": home.get("logo") or competition.get("logo") or DEFAULT_LOGO,
+            "home_logo": home.get("logo") or competition.get("logo") or DEFAULT_LOGO,
+            "away_logo": away.get("logo") or "",
             "league": competition.get("name") or "Bóng Đá",
         }
     except Exception as e:
@@ -730,6 +739,8 @@ def build_channels_xoilac(matches):
             "home": info["home"],
             "away": info["away"],
             "logo": info["logo"],
+            "home_logo": info["home_logo"],
+            "away_logo": info["away_logo"],
             "league": info["league"],
             "channel_suffix": "",
             "tvg_id": f"xoilac_{match_id}",
@@ -846,7 +857,8 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
 
         lines.append(
             f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-name="{ch["home"]} vs {ch["away"]}" '
-            f'tvg-logo="{ch["logo"]}" group-title="{group_title}" '
+            f'tvg-logo="{ch["logo"]}" home-logo="{ch.get("home_logo", ch["logo"])}" '
+            f'away-logo="{ch.get("away_logo", "")}" group-title="{group_title}" '
             f'start-time="{start_time}",{channel_name}'
         )
         lines.append(f"#EXTVLCOPT:http-referrer={ch['referer']}")
