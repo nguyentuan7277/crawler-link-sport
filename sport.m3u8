@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:00:34 18/09/2026
+## Cập nhật lúc: 18:20:32 18/09/2026
 
 #EXTINF:-1 tvg-id="cctv_997660_chuoikem" tvg-name="Chinese Taipei W vs Thailand W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_e7f6fab3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_e7f6fab3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142846_1ef0d541.png" group-title="Chuối TV" start-time="1789725600",Chinese Taipei W vs Thailand W - Chuối Kem [FHD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -8,11 +8,11 @@
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_992381_chuoitay" tvg-name="Indonesia W vs Japan W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_cf293075.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_cf293075.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" group-title="Chuối TV" start-time="1789726800",Indonesia W vs Japan W - Chuối Tây [HD] — Asian Games Bóng Chuyền Nữ
+#EXTINF:-1 tvg-id="cctv_992381_chuoitay" tvg-name="Indonesia W vs Japan W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_cf293075.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_cf293075.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" group-title="Chuối TV" start-time="1789726800",Indonesia W vs Japan W - Chuối Tây [FHD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1639466_troctru" tvg-name="Saudi Arabia U23 vs U23 Qatar" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134339_952f6da3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134339_952f6da3.png" away-logo="https://media.chuoichientv.net/media/20250902_191040_54e0d85a.png" group-title="Chuối TV" start-time="1789727400",Saudi Arabia U23 vs U23 Qatar - Trốc Tru [FULL HD] — Asian Games
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -262,3 +262,8 @@ https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_xvkjoi8693ou879" tvg-name="Quy Nhơn Bình Định vs Bà Rịa Vũng Tàu" tvg-logo="https://img.gvapi.cc/football/team/d8a1a7a944d3701818056b1632ad6ed5.png!w80" home-logo="https://img.gvapi.cc/football/team/d8a1a7a944d3701818056b1632ad6ed5.png!w80" away-logo="https://img.gvapi.cc/football/team/5e40ed1f6779e1fcfb55c259e36746da.png!w80" group-title="Cola TV" start-time="1789729200",Quy Nhơn Bình Định vs Bà Rịa Vũng Tàu - BLV SPRITE — Cúp Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
