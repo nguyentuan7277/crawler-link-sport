@@ -1,6 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 02:00:33 19/09/2026
+## Cập nhật lúc: 02:20:16 19/09/2026
+
+#EXTINF:-1 tvg-id="cctv_1575167_chuoinho" tvg-name="Bayern München vs Union Berlin" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_57d721ce.png" group-title="Chuối TV" start-time="1789756200",Bayern München vs Union Berlin - Chuối Nhỏ [FHD1] — Bundesliga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1552769_chuoikem" tvg-name="Monaco vs Lens" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125514_371080d3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125514_371080d3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_51812477.png" group-title="Chuối TV" start-time="1789757100",Monaco vs Lens - Chuối Kem [FHD] — Ligue 1
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1557408_chuoila" tvg-name="Brentford vs Chelsea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125551_69278a74.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125551_69278a74.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125549_a4353df0.png" group-title="Chuối TV" start-time="1789758000",Brentford vs Chelsea - Chuối Lá [FHD] — Ngoại Hạng Anh
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -14,23 +26,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1570397_chuoichao" tvg-name="Espanyol vs Elche" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125624_d0355588.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125624_d0355588.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_f8f6e27d.png" group-title="Chuối TV" start-time="1789758000",Espanyol vs Elche - Chuối Chao [HD] — La Liga
+#EXTINF:-1 tvg-id="cctv_1570397_chuoichao" tvg-name="Espanyol vs Elche" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125624_d0355588.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125624_d0355588.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_f8f6e27d.png" group-title="Chuối TV" start-time="1789758000",Espanyol vs Elche - Chuối Chao [FHD] — La Liga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1575167_chuoinho" tvg-name="Bayern München vs Union Berlin" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_57d721ce.png" group-title="Chuối TV" start-time="1789756200",Bayern München vs Union Berlin - Chuối Nhỏ [FHD1] — Bundesliga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1552769_chuoikem" tvg-name="Monaco vs Lens" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125514_371080d3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125514_371080d3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_51812477.png" group-title="Chuối TV" start-time="1789757100",Monaco vs Lens - Chuối Kem [FHD] — Ligue 1
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1493140_troctru" tvg-name="Central Cordoba de Santiago vs Defensa Y Justicia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_03e5a301.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_03e5a301.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132720_ed25e7e8.png" group-title="Chuối TV" start-time="1789765200",Central Cordoba de Santiago vs Defensa Y Justicia - Trốc Tru [FULL HD] — VĐQG Argentina
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -56,11 +56,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_8yomo4h1gv02q0j" tvg-name="Sarpsborg 08 vs KFUM Oslo" tvg-logo="https://static.sportsfeed.pro/football/team/97b182dc35a57e1fbfce5ab2382fe317.png" home-logo="https://static.sportsfeed.pro/football/team/97b182dc35a57e1fbfce5ab2382fe317.png" away-logo="https://static.sportsfeed.pro/football/team/78581e2ef61df4a79eb3b24254665b88.png" group-title="Gà Vàng TV" start-time="1789750800",Sarpsborg 08 vs KFUM Oslo - khang hi — Norwegian Eliteserien
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_jw2r09hkv7ejrz8" tvg-name="SK Rapid Wien vs WSG Tirol" tvg-logo="https://static.sportsfeed.pro/football/team/649f785bd0a18824c53867bd056990e4.png" home-logo="https://static.sportsfeed.pro/football/team/649f785bd0a18824c53867bd056990e4.png" away-logo="https://static.sportsfeed.pro/football/team/f9a82ecd54632916dfcf7e1a8e9e1616.png" group-title="Gà Vàng TV" start-time="1789752600",SK Rapid Wien vs WSG Tirol - NGƯỜI KIẾN — Austrian Bundesliga
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -76,6 +71,16 @@ https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_pxwrxlhywj41ryk" tvg-name="Monaco vs Lens" tvg-logo="https://static.sportsfeed.pro/football/team/693af0d277fe3179594695614dce8666.png" home-logo="https://static.sportsfeed.pro/football/team/693af0d277fe3179594695614dce8666.png" away-logo="https://static.sportsfeed.pro/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png" group-title="Gà Vàng TV" start-time="1789757100",Monaco vs Lens - Lữ Bố.vip — French Ligue 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_3glrw7hnewe6qdy" tvg-name="Monza vs Sassuolo" tvg-logo="https://static.sportsfeed.pro/football/team/18ccab720cfda6be0c39fef579c13c5a.png" home-logo="https://static.sportsfeed.pro/football/team/18ccab720cfda6be0c39fef579c13c5a.png" away-logo="https://static.sportsfeed.pro/football/team/616bf242a532f72e970648f2ead423cf.png" group-title="Gà Vàng TV" start-time="1789757100",Monza vs Sassuolo - SÚP LƠ — Italian Serie A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_4jwq2ghndxz4m0v" tvg-name="Alianza Atletico Sullana vs Comerciantes Unidos" tvg-logo="https://static.sportsfeed.pro/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png" home-logo="https://static.sportsfeed.pro/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png" away-logo="https://static.sportsfeed.pro/football/team/1afe830878ba831fd0ae50d1236d6c7b.png" group-title="Gà Vàng TV" start-time="1789761600",Alianza Atletico Sullana vs Comerciantes Unidos - khang hi — Peruvian Liga 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -85,11 +90,6 @@ https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_p4heexptzp31" tvg-name="Sarpsborg 08 vs KFUM Oslo" tvg-logo="https://biaomtv.link/wp-json/s8-image/65a9234c-6df0-4319-b285-edb66ad27cbf" home-logo="https://biaomtv.link/wp-json/s8-image/65a9234c-6df0-4319-b285-edb66ad27cbf" away-logo="https://biaomtv.link/wp-json/s8-image/f8b10ac0-392a-4ed2-859d-20b0fb61e769" group-title="BiaomTV" start-time="1789750800",Sarpsborg 08 vs KFUM Oslo - NGƯỜI SẮT — NOR Eliteserien
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/sarpsborg-kfum-norelite/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_nns6xngmqxkm" tvg-name="FC Bayern Munich vs 1. FC Union Berlin" tvg-logo="https://biaomtv.link/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" home-logo="https://biaomtv.link/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" away-logo="https://biaomtv.link/wp-json/s8-image/21025877-3c97-4f9e-83d1-eadcdde18680" group-title="BiaomTV" start-time="1789756200",FC Bayern Munich vs 1. FC Union Berlin - NGƯỜI CAT — Bundesliga
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
