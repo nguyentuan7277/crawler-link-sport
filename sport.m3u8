@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:40:26 18/09/2026
+## Cập nhật lúc: 19:00:54 18/09/2026
 
-#EXTINF:-1 tvg-id="cctv_992381_chuoitay" tvg-name="Indonesia W vs Japan W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_cf293075.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_cf293075.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" group-title="Chuối TV" start-time="1789726800",Indonesia W vs Japan W - Chuối Tây [FHD] — Asian Games Bóng Chuyền Nữ
+#EXTINF:-1 tvg-id="cctv_992381_chuoitay" tvg-name="Indonesia W vs Japan W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_cf293075.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_cf293075.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" group-title="Chuối TV" start-time="1789726800",Indonesia W vs Japan W - Chuối Tây [HD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1639466_troctru" tvg-name="Saudi Arabia U23 vs U23 Qatar" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134339_952f6da3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134339_952f6da3.png" away-logo="https://media.chuoichientv.net/media/20250902_191040_54e0d85a.png" group-title="Chuối TV" start-time="1789727400",Saudi Arabia U23 vs U23 Qatar - Trốc Tru [FULL HD] — Asian Games
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -92,16 +92,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_965mkyhkvgdyr1g" tvg-name="Kuwait U23 vs Uzbekistan U23" tvg-logo="https://img.thesports.com/football/team/29a83a8a9641bb860a679d7e5ba52d26.png" home-logo="https://img.thesports.com/football/team/29a83a8a9641bb860a679d7e5ba52d26.png" away-logo="https://img.thesports.com/football/team/4e7245e77764a6d4d68a69bd2f4c2035.png" group-title="Gà Vàng TV" start-time="1789725600",Kuwait U23 vs Uzbekistan U23 - KAYTI — OCA Asian Games
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_l7oqdehgg5v4r51" tvg-name="Yanbian Longding vs Guangdong GZ-Power" tvg-logo="https://static.sportsfeed.pro/football/team/177269a3f07b1501cb5720ff07181490.png" home-logo="https://static.sportsfeed.pro/football/team/177269a3f07b1501cb5720ff07181490.png" away-logo="https://static.sportsfeed.pro/football/team/8c08e09f2c1d5628cf599b883fe999bf.png" group-title="Gà Vàng TV" start-time="1789725600",Yanbian Longding vs Guangdong GZ-Power - SiêU QuậY — Chinese Football League 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_dn1m1ghljoygmoe" tvg-name="Saudi Arabia U23 vs Qatar U23" tvg-logo="https://img.thesports.com/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png" home-logo="https://img.thesports.com/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png" away-logo="https://img.thesports.com/football/team/7303a103c93fea0445384d6ff3f3d1b9.png" group-title="Gà Vàng TV" start-time="1789727400",Saudi Arabia U23 vs Qatar U23 - Jack97 — OCA Asian Games
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -112,20 +102,10 @@ https://playback.livetl002.com/live/6a9527d0d9be608784fce9c9.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_6ypq3nhv9zylmd7" tvg-name="Ayutthaya United vs Uthai Thani Forest" tvg-logo="https://static.sportsfeed.pro/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png" home-logo="https://static.sportsfeed.pro/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png" away-logo="https://static.sportsfeed.pro/football/team/0bebca8b04365cbdf36703122a59189c.png" group-title="Gà Vàng TV" start-time="1789732800",Ayutthaya United vs Uthai Thani Forest - SÚP LƠ — Thai League 1
+#EXTINF:-1 tvg-id="gavang_8yomo4h11dwzq0j" tvg-name="Nantong Zhiyun FC vs Guangxi Hengchen FC" tvg-logo="https://static.sportsfeed.pro/football/team/a82e2bf321557e0dd1ab0c09df718a53.png" home-logo="https://static.sportsfeed.pro/football/team/a82e2bf321557e0dd1ab0c09df718a53.png" away-logo="https://static.sportsfeed.pro/football/team/7543134c669d639c3ff036bc215a3b62.png" group-title="Gà Vàng TV" start-time="1789731000",Nantong Zhiyun FC vs Guangxi Hengchen FC - GIàng A Dân — Chinese Football League 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_l7oqdehgv6k5r51" tvg-name="Birmingham U21 vs Arsenal U21" tvg-logo="https://static.sportsfeed.pro/football/team/20de0e381733e850c7799e2147f90ea3.png" home-logo="https://static.sportsfeed.pro/football/team/20de0e381733e850c7799e2147f90ea3.png" away-logo="https://static.sportsfeed.pro/football/team/f916b65e31da7d3ab0a378010c8bd01f.png" group-title="Gà Vàng TV" start-time="1789732800",Birmingham U21 vs Arsenal U21 - Lữ Bố.vip — English U21 Premier League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_2y8m4zh5ky0yql0" tvg-name="Madura United vs PSIM Yogyakarta" tvg-logo="https://static.sportsfeed.pro/football/team/320ff18ba51acdf34c92311dec8186a7.png" home-logo="https://static.sportsfeed.pro/football/team/320ff18ba51acdf34c92311dec8186a7.png" away-logo="https://static.sportsfeed.pro/football/team/1a64731cd883e9d734e29a83301ea849.png" group-title="Gà Vàng TV" start-time="1789732800",Madura United vs PSIM Yogyakarta - ĐOÀN DỰ — Indonesian Super League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_965mkyhk9w57r1g" tvg-name="Hapoel Tel Aviv vs Hapoel Petah Tikva" tvg-logo="https://static.sportsfeed.pro/football/team/aac881cf177c83c85e6e31181aaf12c6.png" home-logo="https://static.sportsfeed.pro/football/team/aac881cf177c83c85e6e31181aaf12c6.png" away-logo="https://static.sportsfeed.pro/football/team/558fd159895a1cb0e8b434e49d125128.png" group-title="Gà Vàng TV" start-time="1789735500",Hapoel Tel Aviv vs Hapoel Petah Tikva - RIO — Israel Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -141,6 +121,16 @@ https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_k82rekhgleolrep" tvg-name="Lahti vs Jaro" tvg-logo="https://static.sportsfeed.pro/football/team/6b3204c56f6a315ca8a8ea8b80b96ea1.png" home-logo="https://static.sportsfeed.pro/football/team/6b3204c56f6a315ca8a8ea8b80b96ea1.png" away-logo="https://static.sportsfeed.pro/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png" group-title="Gà Vàng TV" start-time="1789743600",Lahti vs Jaro - NGƯỜI KIẾN — Finnish Veikkausliiga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hxl1jzqo9" tvg-name="SJK Seinajoen vs IFK Mariehamn" tvg-logo="https://static.sportsfeed.pro/football/team/1102270dc5201968f3eeffbc20da56bc.png" home-logo="https://static.sportsfeed.pro/football/team/1102270dc5201968f3eeffbc20da56bc.png" away-logo="https://static.sportsfeed.pro/football/team/41140c6f793b378e8cad7087ebce5066.png" group-title="Gà Vàng TV" start-time="1789743600",SJK Seinajoen vs IFK Mariehamn - ĐOÀN DỰ — Finnish Veikkausliiga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_fhjeq822hkcd" tvg-name="Kuwait U23 vs Uzbekistan U23" tvg-logo="https://biaomtv.link/wp-json/s8-image/016e00b3-3163-46de-b4f2-2526ec15d40e" home-logo="https://biaomtv.link/wp-json/s8-image/016e00b3-3163-46de-b4f2-2526ec15d40e" away-logo="https://biaomtv.link/wp-json/s8-image/5c3db358-937a-413e-9e7b-98e50173ede6" group-title="BiaomTV" start-time="1789725600",Kuwait U23 vs Uzbekistan U23 - NGƯỜI CAT — ASIAD 2026
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
@@ -232,21 +222,6 @@ https://hls.lauthaitv.cc/live/pubebla-atlante-mexliga/index.m3u8|Referer=https:/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/juarez-tigres-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_o07dni5ro9wtmkn" tvg-name="Kuwait U23 vs Uzbekistan U23" tvg-logo="https://img.gvapi.cc/football/team/29a83a8a9641bb860a679d7e5ba52d26.png!w80" home-logo="https://img.gvapi.cc/football/team/29a83a8a9641bb860a679d7e5ba52d26.png!w80" away-logo="https://img.gvapi.cc/football/team/4e7245e77764a6d4d68a69bd2f4c2035.png!w80" group-title="Cola TV" start-time="1789725600",Kuwait U23 vs Uzbekistan U23 - BLV ROCKSTAR — Đại hội Thể thao Châu Á
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_m2q15izzvjgce76" tvg-name="Yanbian Longding vs Guangdong GZ-Power" tvg-logo="https://img.gvapi.cc/football/team/588b1053c1a8f3c518e8b1f15f30a61a.png!w80" home-logo="https://img.gvapi.cc/football/team/588b1053c1a8f3c518e8b1f15f30a61a.png!w80" away-logo="https://img.gvapi.cc/football/team/8c08e09f2c1d5628cf599b883fe999bf.png!w80" group-title="Cola TV" start-time="1789725600",Yanbian Longding vs Guangdong GZ-Power - BLV PEPSI — Giải bóng đá Hạng nhất Trung Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_8lk2ys62g29sz73" tvg-name="Nhật Bản vs Trung quốc" tvg-logo="https://img.gvapi.cc/basketball/team/174ead45f85e0d25654016139877b60d.png!w80" home-logo="https://img.gvapi.cc/basketball/team/174ead45f85e0d25654016139877b60d.png!w80" away-logo="https://img.gvapi.cc/basketball/team/0a4ae4dca6f2751b6e0c664bb2606f80.png!w80" group-title="Cola TV" start-time="1789726800",Nhật Bản vs Trung quốc - BLV Cozy — Đại hội Thể thao Châu Á
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_g6763i5z0jmfo7r" tvg-name="Ả Rập Saudi U23 vs Qatar U23" tvg-logo="https://img.gvapi.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80" home-logo="https://img.gvapi.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80" away-logo="https://img.gvapi.cc/football/team/7303a103c93fea0445384d6ff3f3d1b9.png!w80" group-title="Cola TV" start-time="1789727400",Ả Rập Saudi U23 vs Qatar U23 - BLV SAMURAI — Đại hội Thể thao Châu Á
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -261,3 +236,13 @@ https://live05.meung.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/07428422_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o17pjiowzg1uy7j" tvg-name="Ayutthaya Utd vs Uthai Thani" tvg-logo="https://img.gvapi.cc/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png!w80" home-logo="https://img.gvapi.cc/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png!w80" away-logo="https://img.gvapi.cc/football/team/0bebca8b04365cbdf36703122a59189c.png!w80" group-title="Cola TV" start-time="1789732800",Ayutthaya Utd vs Uthai Thani - BLV MOUNTAIN DEW — Thái League 1
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_oj7x9ix5p1ps47g" tvg-name="CLB Madura United vs PSIM Yogyakarta" tvg-logo="https://img.gvapi.cc/football/team/320ff18ba51acdf34c92311dec8186a7.png!w80" home-logo="https://img.gvapi.cc/football/team/320ff18ba51acdf34c92311dec8186a7.png!w80" away-logo="https://img.gvapi.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80" group-title="Cola TV" start-time="1789732800",CLB Madura United vs PSIM Yogyakarta - BLV ROCKSTAR — Giải bóng đá Liga 1 Indonesia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
