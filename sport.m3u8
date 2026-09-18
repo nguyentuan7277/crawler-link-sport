@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 11:20:13 18/09/2026
+## Cập nhật lúc: 11:40:12 18/09/2026
 
-#EXTINF:-1 tvg-id="cctv_994667_chuoitay" tvg-name="Kazakhstan W vs China W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png" group-title="Chuối TV" start-time="1789704000",Kazakhstan W vs China W - Chuối Tây [FHD] — Asian Games Bóng Chuyền Nữ
+#EXTINF:-1 tvg-id="cctv_994667_chuoitay" tvg-name="Kazakhstan W vs China W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png" group-title="Chuối TV" start-time="1789704000",Kazakhstan W vs China W - Chuối Tây [HD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1639455_angao" tvg-name="Philippines U23 vs U23 Vietnam " tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144421_16b1f665.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144421_16b1f665.png" away-logo="https://media.chuoichientv.net/media/20250902_190503_cfcedb98.png" group-title="Chuối TV" start-time="1789713000",Philippines U23 vs U23 Vietnam  - A Ngao [FULL HD] — Asian Games
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -236,11 +236,6 @@ https://hls.lauthaitv.cc/live/pubebla-atlante-mexliga/index.m3u8|Referer=https:/
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/juarez-tigres-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_527rjswzzwjh4ke" tvg-name="Portland Fire vs Phoenix Mercury" tvg-logo="https://img.gvapi.cc/basketball/team/43b63f097099b8178eba0e6f9388cabc.png!w80" home-logo="https://img.gvapi.cc/basketball/team/43b63f097099b8178eba0e6f9388cabc.png!w80" away-logo="https://img.gvapi.cc/basketball/team/b48443679dd0356cc64abce373f763e1.png!w80" group-title="Cola TV" start-time="1789696800",Portland Fire vs Phoenix Mercury - BLV POCARI — Hiệp hội bóng rổ quốc gia nữ
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_527r3i48r94c47e" tvg-name="Olimpia vs CLB Luis Angel Firpo" tvg-logo="https://img.gvapi.cc/football/team/4519ae1d1e9015ef859c968090bbd9de.png!w80" home-logo="https://img.gvapi.cc/football/team/4519ae1d1e9015ef859c968090bbd9de.png!w80" away-logo="https://img.gvapi.cc/football/team/e6541c73ce2605793bd7c91c0e02e800.png!w80" group-title="Cola TV" start-time="1789701300",Olimpia vs CLB Luis Angel Firpo - BLV HỔ VẰN — Giải vô địch Bắc Mỹ, Trung Mỹ và vùng Caraibes
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
