@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:20:35 19/09/2026
+## Cập nhật lúc: 05:40:45 19/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1493140_troctru" tvg-name="Central Cordoba de Santiago vs Defensa Y Justicia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_03e5a301.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_03e5a301.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132720_ed25e7e8.png" group-title="Chuối TV" start-time="1789765200",Central Cordoba de Santiago vs Defensa Y Justicia - Trốc Tru [FULL HD] — VĐQG Argentina
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,11 +25,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_vjxm8gheej99r6o" tvg-name="Vila Nova vs America MG" tvg-logo="https://static.sportsfeed.pro/football/team/053969e26d843de456e0265abd3f008a.png" home-logo="https://static.sportsfeed.pro/football/team/053969e26d843de456e0265abd3f008a.png" away-logo="https://static.sportsfeed.pro/football/team/24403efa393f55163b5593c435bbe4a7.png" group-title="Gà Vàng TV" start-time="1789770600",Vila Nova vs America MG - MáN NúI — Brazilian Serie B
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_3glrw7hnp9xgqdy" tvg-name="New York City Football Club vs New York Red Bulls" tvg-logo="https://static.sportsfeed.pro/football/team/f5bbc8573e1b019164b11b13c49598bd.png" home-logo="https://static.sportsfeed.pro/football/team/f5bbc8573e1b019164b11b13c49598bd.png" away-logo="https://static.sportsfeed.pro/football/team/8b8fe90668461b90ddc20516b0e6796d.png" group-title="Gà Vàng TV" start-time="1789774200",New York City Football Club vs New York Red Bulls - MeoMeo — United States Major League Soccer
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -220,3 +215,8 @@ https://hls.lauthaitv.cc/live/america-guada-mexliga/index.m3u8|Referer=https://b
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ndkz6i33911fxq3" tvg-name="CLB Vila Nova vs CLB America MG" tvg-logo="https://img.gvapi.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80" home-logo="https://img.gvapi.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80" away-logo="https://img.gvapi.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80" group-title="Cola TV" start-time="1789770600",CLB Vila Nova vs CLB America MG - BLV MOUNTAIN DEW — Giải bóng đá Hạng nhì Brasil
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
