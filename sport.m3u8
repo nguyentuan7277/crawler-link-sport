@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 03:00:24 19/09/2026
+## Cập nhật lúc: 03:21:04 19/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1575167_chuoinho" tvg-name="Bayern München vs Union Berlin" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_57d721ce.png" group-title="Chuối TV" start-time="1789756200",Bayern München vs Union Berlin - Chuối Nhỏ [FHD1] — Bundesliga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -95,51 +95,6 @@ https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_nns6xngmqxkm" tvg-name="FC Bayern Munich vs 1. FC Union Berlin" tvg-logo="https://biaomtv.link/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" home-logo="https://biaomtv.link/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" away-logo="https://biaomtv.link/wp-json/s8-image/21025877-3c97-4f9e-83d1-eadcdde18680" group-title="BiaomTV" start-time="1789756200",FC Bayern Munich vs 1. FC Union Berlin - NGƯỜI CAT — Bundesliga
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/bayern-union-bun/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_2f7j678t7rpn" tvg-name="AS Monaco vs RC Lens" tvg-logo="https://biaomtv.link/wp-json/s8-image/ee571ffd-b824-47a0-8c95-7c839b697db8" home-logo="https://biaomtv.link/wp-json/s8-image/ee571ffd-b824-47a0-8c95-7c839b697db8" away-logo="https://biaomtv.link/wp-json/s8-image/ea0043d9-173a-4800-844d-20b7d4b05afb" group-title="BiaomTV" start-time="1789757100",AS Monaco vs RC Lens - NGƯỜI THỎ — Ligue 1
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/monaco-lens-ligue1/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_bd3jszzfw5ej" tvg-name="Brentford vs Chelsea" tvg-logo="https://biaomtv.link/wp-json/s8-image/15c4a740-60d8-423f-ab58-02bee7fa4d0f" home-logo="https://biaomtv.link/wp-json/s8-image/15c4a740-60d8-423f-ab58-02bee7fa4d0f" away-logo="https://biaomtv.link/wp-json/s8-image/1e0d9a56-6432-44e9-a3c4-73f3b63fd33a" group-title="BiaomTV" start-time="1789758000",Brentford vs Chelsea - NGƯỜI CHÈ — Premier League
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/bre-che-prem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_bqmcxdv9prfv" tvg-name="Espanyol vs Elche" tvg-logo="https://biaomtv.link/wp-json/s8-image/b038da03-3220-4337-8a92-05b6fe72afbd" home-logo="https://biaomtv.link/wp-json/s8-image/b038da03-3220-4337-8a92-05b6fe72afbd" away-logo="https://biaomtv.link/wp-json/s8-image/6d34affe-5c18-4288-9c5f-3a88f8a294b7" group-title="BiaomTV" start-time="1789758000",Espanyol vs Elche - NGƯỜI CÁO — La Liga
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/espanyol-elche-laliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_g73ec9c8fgq2" tvg-name="CA Central Cordoba SDE vs Defensa Y Justicia" tvg-logo="https://biaomtv.link/wp-json/s8-image/ea4b1519-0f2d-4fdb-9d38-9bc964a795ae" home-logo="https://biaomtv.link/wp-json/s8-image/ea4b1519-0f2d-4fdb-9d38-9bc964a795ae" away-logo="https://biaomtv.link/wp-json/s8-image/f6152165-3302-4804-8f0b-89ca64827984" group-title="BiaomTV" start-time="1789768800",CA Central Cordoba SDE vs Defensa Y Justicia - NGƯỜI NẶN — ARG Division 1
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/sde-def-argdiv1/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_vz9qa29czkrs" tvg-name="New York City FC vs New York Red Bulls" tvg-logo="https://biaomtv.link/wp-json/s8-image/11e44c66-d66e-41ee-be1e-390316480a5f" home-logo="https://biaomtv.link/wp-json/s8-image/11e44c66-d66e-41ee-be1e-390316480a5f" away-logo="https://biaomtv.link/wp-json/s8-image/d84a9c66-c69a-4afa-b663-0395c188b98f" group-title="BiaomTV" start-time="1789774200",New York City FC vs New York Red Bulls - NGƯỜI SÓI — MLS
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/nyfc-nyrb-mls/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_mnykgwb98ayb" tvg-name="Puebla vs Atlante FC" tvg-logo="https://biaomtv.link/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" home-logo="https://biaomtv.link/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" away-logo="https://biaomtv.link/wp-json/s8-image/1ac0adac-f314-4fc0-aef8-b2d28301fc7c" group-title="BiaomTV" start-time="1789779600",Puebla vs Atlante FC - NGƯỜI NẶN — MEX Liga MX
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/pubebla-atlante-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_tn4mv28vssfr" tvg-name="FC Juarez vs Tigres UANL" tvg-logo="https://biaomtv.link/wp-json/s8-image/5357f177-6af2-4bc1-a070-5b2e5c29be28" home-logo="https://biaomtv.link/wp-json/s8-image/5357f177-6af2-4bc1-a070-5b2e5c29be28" away-logo="https://biaomtv.link/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="BiaomTV" start-time="1789786800",FC Juarez vs Tigres UANL - NGƯỜI SÓI — MEX Liga MX
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/juarez-tigres-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_e3hvenx3mz1p" tvg-name="Brighton Hove Albion vs Arsenal" tvg-logo="https://biaomtv.link/wp-json/s8-image/0e085de9-4412-4fcc-afba-050ac2408f58" home-logo="https://biaomtv.link/wp-json/s8-image/0e085de9-4412-4fcc-afba-050ac2408f58" away-logo="https://biaomtv.link/wp-json/s8-image/cc8720ad-bed8-4a4a-b194-d167c37e18ac" group-title="BiaomTV" start-time="1789826400",Brighton Hove Albion vs Arsenal - NGƯỜI PHÁO — Premier League
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/bha-ars-prem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_zrkn6i4w2v1uwql" tvg-name="FC Bayern München vs 1. FC Union Berlin" tvg-logo="https://img.gvapi.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80" home-logo="https://img.gvapi.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80" away-logo="https://img.gvapi.cc/football/team/45ab4c846b0d4df5b002c571b16112dc.png!w80" group-title="Cola TV" start-time="1789756200",FC Bayern München vs 1. FC Union Berlin - BLV BÍ ĐAO — Giải bóng đá vô địch quốc gia Đức
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
