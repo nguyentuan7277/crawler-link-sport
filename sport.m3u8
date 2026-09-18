@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:40:45 19/09/2026
+## Cập nhật lúc: 06:00:49 19/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1493140_troctru" tvg-name="Central Cordoba de Santiago vs Defensa Y Justicia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_03e5a301.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_03e5a301.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132720_ed25e7e8.png" group-title="Chuối TV" start-time="1789765200",Central Cordoba de Santiago vs Defensa Y Justicia - Trốc Tru [FULL HD] — VĐQG Argentina
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -26,6 +26,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_vjxm8gheej99r6o" tvg-name="Vila Nova vs America MG" tvg-logo="https://static.sportsfeed.pro/football/team/053969e26d843de456e0265abd3f008a.png" home-logo="https://static.sportsfeed.pro/football/team/053969e26d843de456e0265abd3f008a.png" away-logo="https://static.sportsfeed.pro/football/team/24403efa393f55163b5593c435bbe4a7.png" group-title="Gà Vàng TV" start-time="1789770600",Vila Nova vs America MG - MáN NúI — Brazilian Serie B
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_3glrw7hnp9xgqdy" tvg-name="New York City Football Club vs New York Red Bulls" tvg-logo="https://static.sportsfeed.pro/football/team/f5bbc8573e1b019164b11b13c49598bd.png" home-logo="https://static.sportsfeed.pro/football/team/f5bbc8573e1b019164b11b13c49598bd.png" away-logo="https://static.sportsfeed.pro/football/team/8b8fe90668461b90ddc20516b0e6796d.png" group-title="Gà Vàng TV" start-time="1789774200",New York City Football Club vs New York Red Bulls - MeoMeo — United States Major League Soccer
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -40,6 +45,11 @@ https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_x7lm7phjd792m2w" tvg-name="Perez Zeledon vs Sporting San Jose" tvg-logo="https://static.sportsfeed.pro/football/team/e8d089f0d29477125a0393f01a260848.png" home-logo="https://static.sportsfeed.pro/football/team/e8d089f0d29477125a0393f01a260848.png" away-logo="https://static.sportsfeed.pro/football/team/3a9cce51989470d4ad627609e407fd22.png" group-title="Gà Vàng TV" start-time="1789783200",Perez Zeledon vs Sporting San Jose - MeoMeo — Costa Rica Primera Division
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_g73ec9c8fgq2" tvg-name="CA Central Cordoba SDE vs Defensa Y Justicia" tvg-logo="https://biaomtv.link/wp-json/s8-image/ea4b1519-0f2d-4fdb-9d38-9bc964a795ae" home-logo="https://biaomtv.link/wp-json/s8-image/ea4b1519-0f2d-4fdb-9d38-9bc964a795ae" away-logo="https://biaomtv.link/wp-json/s8-image/f6152165-3302-4804-8f0b-89ca64827984" group-title="BiaomTV" start-time="1789768800",CA Central Cordoba SDE vs Defensa Y Justicia - NGƯỜI NẶN — ARG Division 1
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
