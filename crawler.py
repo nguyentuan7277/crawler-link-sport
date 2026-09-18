@@ -38,6 +38,9 @@ DEFAULT_LOGO = "https://media.chuoichientv.com/media/uploads/default-thumbnail.p
 SOURCE_HEALTH = {}
 SOURCE_HEALTH_STATE_FILE = os.getenv("SOURCE_HEALTH_STATE_FILE", ".source-health.json")
 SOURCE_FAILURE_THRESHOLD = max(int(os.getenv("SOURCE_FAILURE_THRESHOLD", "3")), 1)
+TRUYEN_HINH_PLAYLIST_URL = "https://tinyurl.com/vietxiaomi"
+TRUYEN_HINH_OUTPUT_FILE = "truyenhinh.m3u8"
+MAX_TELEVISION_PLAYLIST_BYTES = 20 * 1024 * 1024
 
 
 def record_source_health(source, healthy, detail=None):
@@ -99,6 +102,49 @@ def notify_source_health():
     with open(temp_state_file, "w", encoding="utf-8") as state_file:
         json.dump(state, state_file, ensure_ascii=False)
     os.replace(temp_state_file, SOURCE_HEALTH_STATE_FILE)
+
+
+def sync_television_playlist(
+    source_url=TRUYEN_HINH_PLAYLIST_URL,
+    output_file=TRUYEN_HINH_OUTPUT_FILE,
+):
+    """Download a complete television M3U playlist and atomically replace the old file."""
+    request = urllib.request.Request(source_url, headers={"User-Agent": USER_AGENT})
+    temp_file = f"{output_file}.tmp"
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            chunks = []
+            total = 0
+            while True:
+                chunk = response.read(64 * 1024)
+                if not chunk:
+                    break
+                total += len(chunk)
+                if total > MAX_TELEVISION_PLAYLIST_BYTES:
+                    raise ValueError("playlist vượt giới hạn 20 MB")
+                chunks.append(chunk)
+
+        content = b"".join(chunks).decode("utf-8-sig")
+        if not content.lstrip().startswith("#EXTM3U"):
+            raise ValueError("nguồn trả về dữ liệu không phải M3U")
+        if "#EXTINF" not in content:
+            raise ValueError("playlist không có kênh nào")
+
+        with open(temp_file, "w", encoding="utf-8", newline="\n") as playlist:
+            playlist.write(content.rstrip() + "\n")
+        os.replace(temp_file, output_file)
+        count = content.count("#EXTINF")
+        record_source_health("Truyền hình M3U", True)
+        print(f"[+] Đã cập nhật '{output_file}' với {count} kênh.")
+        return True
+    except Exception as error:
+        try:
+            os.remove(temp_file)
+        except OSError:
+            pass
+        record_source_health("Truyền hình M3U", False, str(error))
+        print(f"[-] Không cập nhật được '{output_file}': {error}", file=sys.stderr)
+        return False
 
 # ---------------------------------------------------------------------------
 # Chuối Chiên TV
@@ -886,6 +932,9 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
 if __name__ == "__main__":
     all_channels = []
 
+    print("[*] Đang tải playlist Truyền hình...")
+    sync_television_playlist()
+
     print("[*] Đang tải lịch thi đấu từ Chuối Chiên TV...")
     chuoi_matches = fetch_matches_chuoi()
     print(f"[+] [ChuoiTV] Đã lấy được {len(chuoi_matches)} trận đấu.")
@@ -913,7 +962,6 @@ if __name__ == "__main__":
     notify_source_health()
 
     if not all_channels:
-        print("[-] Không lấy được dữ liệu kênh nào từ các nguồn. Đang thử lại hoặc kết thúc.")
-        sys.exit(1)
-
-    generate_m3u8(all_channels, "sport.m3u8")
+        print("[-] Không lấy được dữ liệu bóng đá. Giữ nguyên sport.m3u8 hiện tại.")
+    else:
+        generate_m3u8(all_channels, "sport.m3u8")

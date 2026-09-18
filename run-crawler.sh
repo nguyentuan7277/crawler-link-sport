@@ -21,9 +21,9 @@ fi
 
 git pull --ff-only origin main
 python3 crawler.py
-git add sport.m3u8
+git add sport.m3u8 truyenhinh.m3u8
 
 if ! git diff --cached --quiet; then
-  git commit -m "Auto update sport.m3u8"
+  git commit -m "Auto update playlists"
   git push origin main
 fi
