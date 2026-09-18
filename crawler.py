@@ -315,6 +315,8 @@ COLA_API_URL = "https://api.gvapi.cc/api/matches"
 COLA_REFERER = "https://colatvttbdh.tv/"
 COLA_ORIGIN = "https://colatvttbdh.tv"
 COLA_SOURCE_TAG = "ColaTV"
+COLA_UPCOMING_WINDOW_SECONDS = 3 * 60 * 60
+COLA_ESTIMATED_LIVE_SECONDS = 3 * 60 * 60
 
 
 def fetch_matches_cola():
@@ -408,6 +410,7 @@ def _cola_select_stream(match, primary_stream, status):
 def build_channels_cola(matches):
     """Chuẩn hóa dữ liệu trận đấu từ Cola TV thành danh sách channel chung"""
     channels = []
+    now = time.time()
     for match in matches:
         primary_stream = match.get("video_url") or match.get("videoUrl")
         # API trả "https" (placeholder) khi trận chưa mở luồng - bỏ qua
@@ -419,6 +422,21 @@ def build_channels_cola(matches):
             continue
 
         status = match.get("match_status") or match.get("matchStatus")
+        match_time = match.get("match_time") or match.get("matchTime")
+        start_time = normalize_unix_time(match_time)
+        source_live = status == "live"
+        estimated_live = (
+            start_time is not None
+            and start_time <= now < start_time + COLA_ESTIMATED_LIVE_SECONDS
+        )
+        upcoming = (
+            start_time is not None
+            and now < start_time <= now + COLA_UPCOMING_WINDOW_SECONDS
+        )
+        # Cola's API frequently keeps historical fixtures with an expired
+        # video_url. Do not expose them as playable cards in the app.
+        if not source_live and not estimated_live and not upcoming:
+            continue
         stream_url, channel_suffix = _cola_select_stream(
             match, primary_stream, status
         )
@@ -434,9 +452,8 @@ def build_channels_cola(matches):
         logo = home_logo
         league = competition.get("name") or match.get("competitionName") or "Bóng Đá"
 
-        match_time = match.get("match_time") or match.get("matchTime")
         time_vn = format_time_vn_unix(match_time)
-        status_prefix = "● [LIVE] " if status == "live" else f"[{time_vn}] "
+        status_prefix = "● [LIVE] " if source_live or estimated_live else f"[{time_vn}] "
 
         match_id = match.get("match_id") or match.get("matchId") or "x"
         channels.append({
@@ -453,7 +470,7 @@ def build_channels_cola(matches):
             "stream_url": stream_url,
             "referer": COLA_REFERER,
             "origin": COLA_ORIGIN,
-            "start_time": normalize_unix_time(match_time),
+            "start_time": start_time,
         })
 
     return channels
@@ -501,10 +518,10 @@ def _hls_first_uri(playlist, marker):
     return None
 
 
-def _hls_is_playable(stream_url, referer, origin):
-    """Confirm that a URL serves an HLS playlist with a readable segment."""
+def _hls_is_playable(stream_url, referer, origin, timeout=5):
+    """Confirm an HLS playlist and segment, within roughly 15 seconds total."""
     try:
-        playlist_url, playlist = _hls_get(stream_url, referer, origin)
+        playlist_url, playlist = _hls_get(stream_url, referer, origin, timeout)
         if "#EXTM3U" not in playlist:
             return False, "response is not an HLS playlist"
         if "#EXT-X-STREAM-INF" in playlist:
@@ -512,7 +529,7 @@ def _hls_is_playable(stream_url, referer, origin):
             if not variant_uri:
                 return False, "master playlist has no variant"
             playlist_url, playlist = _hls_get(
-                urllib.parse.urljoin(playlist_url, variant_uri), referer, origin
+                urllib.parse.urljoin(playlist_url, variant_uri), referer, origin, timeout
             )
         segment_uri = _hls_first_uri(playlist, "#EXTINF")
         if not segment_uri:
@@ -522,7 +539,7 @@ def _hls_is_playable(stream_url, referer, origin):
         segment_req.add_header("Referer", referer)
         segment_req.add_header("Origin", origin)
         segment_req.add_header("Range", "bytes=0-1")
-        with urllib.request.urlopen(segment_req, timeout=10) as resp:
+        with urllib.request.urlopen(segment_req, timeout=timeout) as resp:
             if not resp.read(1):
                 return False, "first media segment is empty"
         return True, None
@@ -835,11 +852,9 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
         # mean hundreds of requests and would make a scheduled crawl too slow.
         if (
             ch["status_prefix"].startswith("● [LIVE]")
-            # Gà Vàng already publishes the actual HLS player URL on each
-            # match page.  Probing every active CDN stream here makes a cron
-            # run wait on many segment timeouts, so leave playback validation
-            # to the Android player just as the site does.
-            and ch["source_tag"] not in (GAVANG_SOURCE_TAG, BIAOM_SOURCE_TAG)
+            # Biaom links are already resolved from its live player API.
+            # Gà Vàng must be probed: its page can retain expired streams.
+            and ch["source_tag"] != BIAOM_SOURCE_TAG
         ):
             # ChuoiTV exposes several qualities for the same commentary.
             # Prefer the highest stream, but fall through to the next one if
