@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 07:40:20 18/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1549765_chuoito" tvg-name="Bucaramanga vs Independiente Medellin" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_2eb7128c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_2eb7128c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133532_a03c42a2.png" group-title="Chuối TV" start-time="1789689600",Bucaramanga vs Independiente Medellin - Chuối To [FHD] — VĐQG Colombia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 08:00:43 18/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1581422_angao" tvg-name="Durango vs Cruz Azul Hidalgo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144126_16dd618c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144126_16dd618c.png" away-logo="https://media.api-sports.io/football/teams/15928.png" group-title="Chuối TV" start-time="1789693200",Durango vs Cruz Azul Hidalgo - A Ngao [FULL HD] — Hạng 2 Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -14,15 +8,36 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cctv_1549765_chuoito" tvg-name="Bucaramanga vs Independiente Medellin" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_2eb7128c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_2eb7128c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133532_a03c42a2.png" group-title="Chuối TV" start-time="1789689600",Bucaramanga vs Independiente Medellin - Chuối To [FHD] — VĐQG Colombia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_k82rekhg4w4grep" tvg-name="Atletico Bucaramanga vs Medellin Independiente" tvg-logo="https://static.sportsfeed.pro/football/team/70c92764e181ce7abe6176c411a93fe3.png" home-logo="https://static.sportsfeed.pro/football/team/70c92764e181ce7abe6176c411a93fe3.png" away-logo="https://static.sportsfeed.pro/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png" group-title="Gà Vàng TV" start-time="1789689600",Atletico Bucaramanga vs Medellin Independiente - cố tư nghiêm — Categoría Primera A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4wyrn4h6jn27q86" tvg-name="CR Flamengo vs Independiente del Valle" tvg-logo="https://static.sportsfeed.pro/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png" home-logo="https://static.sportsfeed.pro/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png" away-logo="https://static.sportsfeed.pro/football/team/cb9797fa8614b9664231a4861ed71875.png" group-title="Gà Vàng TV" start-time="1789691400",CR Flamengo vs Independiente del Valle - SiêU QuậY — CONMEBOL Copa Libertadores
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y0or5jh8vo7lqwz" tvg-name="Torque vs Cienciano" tvg-logo="https://static.sportsfeed.pro/football/team/bb5004650a388d73f47cc3ca08623cc8.png" home-logo="https://static.sportsfeed.pro/football/team/bb5004650a388d73f47cc3ca08623cc8.png" away-logo="https://static.sportsfeed.pro/football/team/e868bb2eac1923c5aecaddd492860b32.png" group-title="Gà Vàng TV" start-time="1789691400",Torque vs Cienciano - KAYTI — CONMEBOL Copa Sudamericana
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_x7lm7phj4vojm2w" tvg-name="CD Olimpia vs Luis Angel Firpo" tvg-logo="https://static.sportsfeed.pro/football/team/4519ae1d1e9015ef859c968090bbd9de.png" home-logo="https://static.sportsfeed.pro/football/team/4519ae1d1e9015ef859c968090bbd9de.png" away-logo="https://static.sportsfeed.pro/football/team/e6541c73ce2605793bd7c91c0e02e800.png" group-title="Gà Vàng TV" start-time="1789701300",CD Olimpia vs Luis Angel Firpo - KAYTI — CONCACAF Central American Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_n9d59mw74vxb" tvg-name="Real Tomayapo vs Oriente Petrolero" tvg-logo="https://biaomtv.link/wp-json/s8-image/3abbc530-fddf-4c8d-9f26-cdf08fb26213" home-logo="https://biaomtv.link/wp-json/s8-image/3abbc530-fddf-4c8d-9f26-cdf08fb26213" away-logo="https://biaomtv.link/wp-json/s8-image/031a3830-501a-4291-a96a-cddfd2c8a693" group-title="BiaomTV" start-time="1789684200",Real Tomayapo vs Oriente Petrolero - NGƯỜI NẶN — BOL Primera Division
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTINF:-1 tvg-id="gavang_4jwq2ghndnk1m0v" tvg-name="Vanraure Hachinohe FC vs Tegevajaro Miyazaki" tvg-logo="https://static.sportsfeed.pro/football/team/3b0ad7d22d856a34a523cf4cecde0789.png" home-logo="https://static.sportsfeed.pro/football/team/3b0ad7d22d856a34a523cf4cecde0789.png" away-logo="https://static.sportsfeed.pro/football/team/d212b444eb151871d8fbbcafa8e36658.png" group-title="Gà Vàng TV" start-time="1789704000",Vanraure Hachinohe FC vs Tegevajaro Miyazaki - SiêU QuậY — Japanese J2 League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/toma-petro-bol/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_csna82ks8hvt" tvg-name="Flamengo vs Independiente del Valle" tvg-logo="https://biaomtv.link/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" home-logo="https://biaomtv.link/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" away-logo="https://biaomtv.link/wp-json/s8-image/86840cb2-b551-4d40-a190-29802c8d246f" group-title="BiaomTV" start-time="1789691400",Flamengo vs Independiente del Valle - NGƯỜI SÓI — Copa Libertodores
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
@@ -168,3 +183,8 @@ https://live05.meung.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jr7owip9zvyagq0" tvg-name="Alacranes de Durango vs Cruz Azul Hidalgo" tvg-logo="https://img.gvapi.cc/football/team/f4ca470181866aba040ea7f1ae022d1e.png!w80" home-logo="https://img.gvapi.cc/football/team/f4ca470181866aba040ea7f1ae022d1e.png!w80" away-logo="https://img.gvapi.cc/football/team/4de99551f5d99f943adcc1622e1f281c.png!w80" group-title="Cola TV" start-time="1789693200",Alacranes de Durango vs Cruz Azul Hidalgo - BLV PEPSI — Giải hạng hai Mexico
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
