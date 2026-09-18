@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 06:00:49 19/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1493140_troctru" tvg-name="Central Cordoba de Santiago vs Defensa Y Justicia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_03e5a301.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_03e5a301.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132720_ed25e7e8.png" group-title="Chuối TV" start-time="1789765200",Central Cordoba de Santiago vs Defensa Y Justicia - Trốc Tru [FULL HD] — VĐQG Argentina
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 06:20:49 19/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1490481_chuoito" tvg-name="New York City FC vs New York Red Bulls" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_4e107f78.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_4e107f78.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131603_9cb4c304.png" group-title="Chuối TV" start-time="1789774200",New York City FC vs New York Red Bulls - Chuối To [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -56,15 +50,15 @@ https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/sde-def-argdiv1/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_vz9qa29czkrs" tvg-name="New York City FC vs New York Red Bulls" tvg-logo="https://biaomtv.link/wp-json/s8-image/11e44c66-d66e-41ee-be1e-390316480a5f" home-logo="https://biaomtv.link/wp-json/s8-image/11e44c66-d66e-41ee-be1e-390316480a5f" away-logo="https://biaomtv.link/wp-json/s8-image/d84a9c66-c69a-4afa-b663-0395c188b98f" group-title="BiaomTV" start-time="1789774200",New York City FC vs New York Red Bulls - NGƯỜI SÓI — MLS
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/nyfc-nyrb-mls/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_mnykgwb98ayb" tvg-name="Puebla vs Atlante FC" tvg-logo="https://biaomtv.link/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" home-logo="https://biaomtv.link/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" away-logo="https://biaomtv.link/wp-json/s8-image/1ac0adac-f314-4fc0-aef8-b2d28301fc7c" group-title="BiaomTV" start-time="1789779600",Puebla vs Atlante FC - NGƯỜI NẶN — MEX Liga MX
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/pubebla-atlante-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_vz9qa29czkrs" tvg-name="New York City FC vs New York Red Bulls" tvg-logo="https://biaomtv.link/wp-json/s8-image/11e44c66-d66e-41ee-be1e-390316480a5f" home-logo="https://biaomtv.link/wp-json/s8-image/11e44c66-d66e-41ee-be1e-390316480a5f" away-logo="https://biaomtv.link/wp-json/s8-image/d84a9c66-c69a-4afa-b663-0395c188b98f" group-title="BiaomTV" start-time="1789774200",New York City FC vs New York Red Bulls - NGƯỜI SÓI — MLS
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/nyfc-nyrb-mls/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_tn4mv28vssfr" tvg-name="FC Juarez vs Tigres UANL" tvg-logo="https://biaomtv.link/wp-json/s8-image/5357f177-6af2-4bc1-a070-5b2e5c29be28" home-logo="https://biaomtv.link/wp-json/s8-image/5357f177-6af2-4bc1-a070-5b2e5c29be28" away-logo="https://biaomtv.link/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="BiaomTV" start-time="1789786800",FC Juarez vs Tigres UANL - NGƯỜI SÓI — MEX Liga MX
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
@@ -220,11 +214,6 @@ https://hls.lauthaitv.cc/live/colorado-seattle-mls/index.m3u8|Referer=https://bi
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/america-guada-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_ezk96i3z6x2b1kn" tvg-name="Central Cordoba SDE vs Defensa y Justicia" tvg-logo="https://img.gvapi.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" home-logo="https://img.gvapi.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" away-logo="https://img.gvapi.cc/football/team/49a35dd00c51fc958ebf44054bce4c48.png!w80" group-title="Cola TV" start-time="1789765200",Central Cordoba SDE vs Defensa y Justicia - BLV BÍ ĐAO — Giải Bóng đá Vô địch Quốc gia Argentina
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_ndkz6i33911fxq3" tvg-name="CLB Vila Nova vs CLB America MG" tvg-logo="https://img.gvapi.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80" home-logo="https://img.gvapi.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80" away-logo="https://img.gvapi.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80" group-title="Cola TV" start-time="1789770600",CLB Vila Nova vs CLB America MG - BLV MOUNTAIN DEW — Giải bóng đá Hạng nhì Brasil
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
