@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 21:00:36 18/09/2026
+## Cập nhật lúc: 21:20:32 18/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1585760_chuoila" tvg-name="Bandırmaspor vs Ümraniyespor" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125849_a4753f51.png" group-title="Chuối TV" start-time="1789736400",Bandırmaspor vs Ümraniyespor - Chuối Lá [FHD] — Hạng Nhất Thổ Nhĩ Kỳ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -74,11 +74,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_6ypq3nhv9zylmd7" tvg-name="Ayutthaya United vs Uthai Thani Forest" tvg-logo="https://static.sportsfeed.pro/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png" home-logo="https://static.sportsfeed.pro/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png" away-logo="https://static.sportsfeed.pro/football/team/0bebca8b04365cbdf36703122a59189c.png" group-title="Gà Vàng TV" start-time="1789732800",Ayutthaya United vs Uthai Thani Forest - SÚP LƠ — Thai League 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_965mkyhk9w57r1g" tvg-name="Hapoel Tel Aviv vs Hapoel Petah Tikva" tvg-logo="https://static.sportsfeed.pro/football/team/aac881cf177c83c85e6e31181aaf12c6.png" home-logo="https://static.sportsfeed.pro/football/team/aac881cf177c83c85e6e31181aaf12c6.png" away-logo="https://static.sportsfeed.pro/football/team/558fd159895a1cb0e8b434e49d125128.png" group-title="Gà Vàng TV" start-time="1789735500",Hapoel Tel Aviv vs Hapoel Petah Tikva - RIO — Israel Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -149,11 +144,6 @@ https://hls.lauthaitv.cc/live/oulu-turku-finvek/index.m3u8|Referer=https://biaom
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/wolfsburg-darmstadt-gerbun2/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_p4heexptzp31" tvg-name="Sarpsborg 08 vs KFUM Oslo" tvg-logo="https://biaomtv.link/wp-json/s8-image/65a9234c-6df0-4319-b285-edb66ad27cbf" home-logo="https://biaomtv.link/wp-json/s8-image/65a9234c-6df0-4319-b285-edb66ad27cbf" away-logo="https://biaomtv.link/wp-json/s8-image/f8b10ac0-392a-4ed2-859d-20b0fb61e769" group-title="BiaomTV" start-time="1789750800",Sarpsborg 08 vs KFUM Oslo - NGƯỜI SẮT — NOR Eliteserien
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/sarpsborg-kfum-norelite/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_nns6xngmqxkm" tvg-name="FC Bayern Munich vs 1. FC Union Berlin" tvg-logo="https://biaomtv.link/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" home-logo="https://biaomtv.link/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" away-logo="https://biaomtv.link/wp-json/s8-image/21025877-3c97-4f9e-83d1-eadcdde18680" group-title="BiaomTV" start-time="1789756200",FC Bayern Munich vs 1. FC Union Berlin - NGƯỜI CAT — Bundesliga
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -198,16 +188,6 @@ https://hls.lauthaitv.cc/live/juarez-tigres-mexliga/index.m3u8|Referer=https://b
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/bha-ars-prem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_o17pjiowzg1uy7j" tvg-name="Ayutthaya Utd vs Uthai Thani" tvg-logo="https://img.gvapi.cc/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png!w80" home-logo="https://img.gvapi.cc/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png!w80" away-logo="https://img.gvapi.cc/football/team/0bebca8b04365cbdf36703122a59189c.png!w80" group-title="Cola TV" start-time="1789732800",Ayutthaya Utd vs Uthai Thani - BLV MOUNTAIN DEW — Thái League 1
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_oj7x9ix5p1ps47g" tvg-name="CLB Madura United vs PSIM Yogyakarta" tvg-logo="https://img.gvapi.cc/football/team/320ff18ba51acdf34c92311dec8186a7.png!w80" home-logo="https://img.gvapi.cc/football/team/320ff18ba51acdf34c92311dec8186a7.png!w80" away-logo="https://img.gvapi.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80" group-title="Cola TV" start-time="1789732800",CLB Madura United vs PSIM Yogyakarta - BLV ROCKSTAR — Giải bóng đá Liga 1 Indonesia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_wv78xiv9vvvaokr" tvg-name="Bandirmaspor vs Umraniyespor" tvg-logo="https://img.gvapi.cc/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png!w80" home-logo="https://img.gvapi.cc/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png!w80" away-logo="https://img.gvapi.cc/football/team/5704cc856fc5f1ef26cb0d08413d3799.png!w80" group-title="Cola TV" start-time="1789736400",Bandirmaspor vs Umraniyespor - BLV MONSTER — Giải Bóng đá Vô địch Quốc gia Thổ Nhĩ Kỳ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
