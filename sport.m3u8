@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:00:41 18/09/2026
+## Cập nhật lúc: 17:20:36 18/09/2026
 
-#EXTINF:-1 tvg-id="cctv_997660_chuoikem" tvg-name="Chinese Taipei W vs Thailand W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_e7f6fab3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_e7f6fab3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142846_1ef0d541.png" group-title="Chuối TV" start-time="1789725600",Chinese Taipei W vs Thailand W - Chuối Kem [HD] — Asian Games Bóng Chuyền Nữ
+#EXTINF:-1 tvg-id="cctv_997660_chuoikem" tvg-name="Chinese Taipei W vs Thailand W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_e7f6fab3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_e7f6fab3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142846_1ef0d541.png" group-title="Chuối TV" start-time="1789725600",Chinese Taipei W vs Thailand W - Chuối Kem [FHD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1622772_chuoito" tvg-name="Arema FC vs Persik Kediri" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134615_6b83f5fd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134615_6b83f5fd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134620_da259809.png" group-title="Chuối TV" start-time="1789720200",Arema FC vs Persik Kediri - Chuối To [FHD] — VĐQG Indonesia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_992381_chuoitay" tvg-name="Indonesia W vs Japan W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_cf293075.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_cf293075.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" group-title="Chuối TV" start-time="1789726800",Indonesia W vs Japan W - Chuối Tây [FHD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +19,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1622772_chuoito" tvg-name="Arema FC vs Persik Kediri" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134615_6b83f5fd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134615_6b83f5fd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134620_da259809.png" group-title="Chuối TV" start-time="1789720200",Arema FC vs Persik Kediri - Chuối To [FHD] — VĐQG Indonesia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1636351_angao" tvg-name="Quy Nhơn FC vs TP. Hồ Chí Minh" tvg-logo="https://media.chuoichientv.net/media/20250912_195544_125d9f93.jpeg" home-logo="https://media.chuoichientv.net/media/20250912_195544_125d9f93.jpeg" away-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" group-title="Chuối TV" start-time="1789729200",Quy Nhơn FC vs TP. Hồ Chí Minh - A Ngao [FULL HD] — Cúp Quốc Gia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -253,3 +253,8 @@ https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_8lk2ys62g29sz73" tvg-name="Nhật Bản vs Trung quốc" tvg-logo="https://img.gvapi.cc/basketball/team/174ead45f85e0d25654016139877b60d.png!w80" home-logo="https://img.gvapi.cc/basketball/team/174ead45f85e0d25654016139877b60d.png!w80" away-logo="https://img.gvapi.cc/basketball/team/0a4ae4dca6f2751b6e0c664bb2606f80.png!w80" group-title="Cola TV" start-time="1789726800",Nhật Bản vs Trung quốc - BLV Cozy — Đại hội Thể thao Châu Á
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
