@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 04:20:11 20/09/2026
+## Cập nhật lúc: 04:40:13 20/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1490482_chuoito" tvg-name="San Jose Earthquakes vs Los Angeles FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131600_44f931ad.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131600_44f931ad.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" group-title="Chuối TV" start-time="1789860600",San Jose Earthquakes vs Los Angeles FC - Chuối To [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -13,11 +13,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_8yomo4h1g7kxq0j" tvg-name="Remo Belem vs Santos" tvg-logo="https://static.sportsfeed.pro/football/team/fb9a4cf4290646122b3afe17bd914737.png" home-logo="https://static.sportsfeed.pro/football/team/fb9a4cf4290646122b3afe17bd914737.png" away-logo="https://static.sportsfeed.pro/football/team/0840bace9b911b3f0dbadb710ea20316.png" group-title="Gà Vàng TV" start-time="1789853400",Remo Belem vs Santos - SiêU QuậY — Brazilian Serie A
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_6ypq3nhvpevzmd7" tvg-name="River Plate vs CA Huracan" tvg-logo="https://static.sportsfeed.pro/football/team/c7aa5e458bdcad0051f6786ff93c48ed.png" home-logo="https://static.sportsfeed.pro/football/team/c7aa5e458bdcad0051f6786ff93c48ed.png" away-logo="https://static.sportsfeed.pro/football/team/3de7fff92c61b2ac93b08814386cf85d.png" group-title="Gà Vàng TV" start-time="1789855200",River Plate vs CA Huracan - MeoMeo — Argentine Division 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -39,7 +34,7 @@ https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_o07dni590e9imkn" tvg-name="Sporting vs Arouca" tvg-logo="https://img.gvapi.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" home-logo="https://img.gvapi.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" away-logo="https://img.gvapi.cc/football/team/04de5924a46acce3fb629534c4e039be.png!w80" group-title="Cola TV" start-time="1789846200",Sporting vs Arouca - BLV BÍ ĐAO — Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha
+#EXTINF:-1 tvg-id="cola_vmqy9ivnj0ztgk9" tvg-name="Remo Belem (PA) vs CLB Santos" tvg-logo="https://img.gvapi.cc/football/team/fb9a4cf4290646122b3afe17bd914737.png!w80" home-logo="https://img.gvapi.cc/football/team/fb9a4cf4290646122b3afe17bd914737.png!w80" away-logo="https://img.gvapi.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80" group-title="Cola TV" start-time="1789853400",Remo Belem (PA) vs CLB Santos - BLV BÍ ĐAO — Giải bóng đá Hạng nhất Brasil
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
