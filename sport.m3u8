@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 11:40:35 19/09/2026
+## Cập nhật lúc: 12:00:24 19/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1550967_angao" tvg-name="FC Juarez vs Tigres UANL" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_9be93a93.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_9be93a93.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133406_3bc30a80.png" group-title="Chuối TV" start-time="1789786800",FC Juarez vs Tigres UANL - A Ngao [FULL HD] — VĐQG Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -115,11 +115,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_4jwq2ghnd9oem0v" tvg-name="FC Juarez vs Tigres UANL" tvg-logo="https://static.sportsfeed.pro/football/team/2ef06350057f561b5dce57c7fca99a74.png" home-logo="https://static.sportsfeed.pro/football/team/2ef06350057f561b5dce57c7fca99a74.png" away-logo="https://static.sportsfeed.pro/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png" group-title="Gà Vàng TV" start-time="1789786800",FC Juarez vs Tigres UANL - SiêU QuậY — Mexico Liga MX
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_y0or5jh9xlezqwz" tvg-name="Oakleigh Cannons vs Avondale FC" tvg-logo="https://static.sportsfeed.pro/football/team/873f655c74783dbb85de6cacc8f503c0.png" home-logo="https://static.sportsfeed.pro/football/team/873f655c74783dbb85de6cacc8f503c0.png" away-logo="https://static.sportsfeed.pro/football/team/ff2e694966de559719f778b5c79ea2ad.png" group-title="Gà Vàng TV" start-time="1789795800",Oakleigh Cannons vs Avondale FC - khang hi — National Premier Leagues Victoria
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -291,7 +286,7 @@ https://hls.lauthaitv.cc/live/colorado-seattle-mls/index.m3u8|Referer=https://bi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/america-guada-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_63kv9igerzxsx7e" tvg-name="Juarez vs Tigres" tvg-logo="https://img.gvapi.cc/football/team/2ef06350057f561b5dce57c7fca99a74.png!w80" home-logo="https://img.gvapi.cc/football/team/2ef06350057f561b5dce57c7fca99a74.png!w80" away-logo="https://img.gvapi.cc/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png!w80" group-title="Cola TV" start-time="1789786800",Juarez vs Tigres - BLV GIÀ LÀNG — Giải Vô địch Bóng đá Quốc gia Mexico
+#EXTINF:-1 tvg-id="cola_vrqwni45gwvs4qn" tvg-name="Hokkaido Consadole Sapporo vs Oita Trinita" tvg-logo="https://img.gvapi.cc/football/team/2a2a5d251c157be485891c94a1e1a495.png!w80" home-logo="https://img.gvapi.cc/football/team/2a2a5d251c157be485891c94a1e1a495.png!w80" away-logo="https://img.gvapi.cc/football/team/68bbaa087749b718f6399542f3f51e6d.png!w80" group-title="Cola TV" start-time="1789794000",Hokkaido Consadole Sapporo vs Oita Trinita - BLV AQUA — Giải bóng đá hạng nhì Nhật Bản
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
