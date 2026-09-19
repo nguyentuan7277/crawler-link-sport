@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 08:20:20 19/09/2026
+## Cập nhật lúc: 08:40:21 19/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1490481_chuoito" tvg-name="New York City FC vs New York Red Bulls" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_4e107f78.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_4e107f78.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131603_9cb4c304.png" group-title="Chuối TV" start-time="1789774200",New York City FC vs New York Red Bulls - Chuối To [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -120,6 +120,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyhk9ek3r1g" tvg-name="Alianza Lima vs AD Tarma" tvg-logo="https://static.sportsfeed.pro/football/team/8941e026a8debbd82633b019552e1515.png" home-logo="https://static.sportsfeed.pro/football/team/8941e026a8debbd82633b019552e1515.png" away-logo="https://static.sportsfeed.pro/football/team/99a341d00ad5eb1ace5cf21e080d7653.png" group-title="Gà Vàng TV" start-time="1789779600",Alianza Lima vs AD Tarma - MáN NúI — Peruvian Liga 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_4jwq2ghnd9oem0v" tvg-name="FC Juarez vs Tigres UANL" tvg-logo="https://static.sportsfeed.pro/football/team/2ef06350057f561b5dce57c7fca99a74.png" home-logo="https://static.sportsfeed.pro/football/team/2ef06350057f561b5dce57c7fca99a74.png" away-logo="https://static.sportsfeed.pro/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png" group-title="Gà Vàng TV" start-time="1789786800",FC Juarez vs Tigres UANL - SiêU QuậY — Mexico Liga MX
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -295,11 +300,6 @@ https://hls.lauthaitv.cc/live/colorado-seattle-mls/index.m3u8|Referer=https://bi
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/america-guada-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_l6kersm551rsvq5" tvg-name="Minnesota Lynx vs New York Liberty" tvg-logo="https://img.gvapi.cc/basketball/team/49fd2772263eaccfe78608a04e5b6f4c.png!w80" home-logo="https://img.gvapi.cc/basketball/team/49fd2772263eaccfe78608a04e5b6f4c.png!w80" away-logo="https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80" group-title="Cola TV" start-time="1789774200",Minnesota Lynx vs New York Liberty - BLV POCARI — Hiệp hội bóng rổ quốc gia nữ
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_9gkl6s6ddpzhmkx" tvg-name="Toronto Tempo vs Indiana Fever" tvg-logo="https://img.gvapi.cc/basketball/team/d994ab69186bb52d6b0967e1567a217e.png!w80" home-logo="https://img.gvapi.cc/basketball/team/d994ab69186bb52d6b0967e1567a217e.png!w80" away-logo="https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80" group-title="Cola TV" start-time="1789774200",Toronto Tempo vs Indiana Fever - BLV ROCKSTAR — Hiệp hội bóng rổ quốc gia nữ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
