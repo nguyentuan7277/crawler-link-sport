@@ -1,18 +1,24 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 22:40:12 19/09/2026
+## Cập nhật lúc: 23:00:19 19/09/2026
 
-#EXTINF:-1 tvg-id="cctv_1550128_chuoikem" tvg-name="AS Roma vs Inter" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125605_14c915ad.png" group-title="Chuối TV" start-time="1789833600",AS Roma vs Inter - Chuối Kem [FHD] — Serie A
+#EXTINF:-1 tvg-id="cctv_1550128_chuoikem" tvg-name="AS Roma vs Inter" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125605_14c915ad.png" group-title="Chuối TV" start-time="1789833600",AS Roma vs Inter - Chuối Kem [HD] — Serie A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_991612_chuoitay" tvg-name="Germany vs Bulgaria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_abb0ed43.png" group-title="Chuối TV" start-time="1789833600",Germany vs Bulgaria - Chuối Tây [FHD] — Vô địch Châu Âu Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1557415_troctru" tvg-name="Nottingham Forest vs Coventry" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_9c96cd68.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_9c96cd68.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130857_3064f92b.png" group-title="Chuối TV" start-time="1789835400",Nottingham Forest vs Coventry - Trốc Tru [FULL HD] — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1557409_chuoila" tvg-name="Brighton vs Arsenal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_d9b536ef.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_d9b536ef.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png" group-title="Chuối TV" start-time="1789826400",Brighton vs Arsenal - Chuối Lá [FHD] — Ngoại Hạng Anh
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -33,18 +39,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1557414_chuoinho" tvg-name="Newcastle vs Hull City" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_2cdfd5d4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_2cdfd5d4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130851_e5825be5.png" group-title="Chuối TV" start-time="1789826400",Newcastle vs Hull City - Chuối Nhỏ [FHD1] — Ngoại Hạng Anh
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1557415_troctru" tvg-name="Nottingham Forest vs Coventry" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_9c96cd68.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_9c96cd68.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130857_3064f92b.png" group-title="Chuối TV" start-time="1789835400",Nottingham Forest vs Coventry - Trốc Tru [FULL HD] — Ngoại Hạng Anh
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1575168_chuoinho" tvg-name="VfB Stuttgart vs Borussia Dortmund" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png" group-title="Chuối TV" start-time="1789835400",VfB Stuttgart vs Borussia Dortmund - Chuối Nhỏ [FHD1] — Bundesliga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
@@ -79,11 +73,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_6ypq3nhvd0p4md7" tvg-name="AS Roma vs Inter" tvg-logo="https://static.sportsfeed.pro/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png" home-logo="https://static.sportsfeed.pro/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png" away-logo="https://static.sportsfeed.pro/football/team/aa2245702c40f77799a5ad4b119581a8.png" group-title="Gà Vàng TV" start-time="1789833600",AS Roma vs Inter - KAYTI — Italian Serie A
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_dj2ryohl02kwq1z" tvg-name="Celta vs Racing Santander" tvg-logo="https://static.sportsfeed.pro/football/team/fd954d083ee85a6f1a3f2471dc756242.png" home-logo="https://static.sportsfeed.pro/football/team/fd954d083ee85a6f1a3f2471dc756242.png" away-logo="https://static.sportsfeed.pro/football/team/8db7260a18b1be68e8710cfdbf6be3df.png" group-title="Gà Vàng TV" start-time="1789835400",Celta vs Racing Santander - Lữ Bố.vip — Spanish La Liga
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -130,15 +119,15 @@ https://hls.lauthaitv.cc/live/roma-inter-seriea/index.m3u8|Referer=https://biaom
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/not-cov-prem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_58mc0akz24c4" tvg-name="RC Celta vs Racing Santander" tvg-logo="https://biaomtv.link/wp-json/s8-image/5de224c0-3c91-4c6c-a0d3-38841303e19a" home-logo="https://biaomtv.link/wp-json/s8-image/5de224c0-3c91-4c6c-a0d3-38841303e19a" away-logo="https://biaomtv.link/wp-json/s8-image/ff6b1bd4-ba2c-42bc-8009-89a24cefb358" group-title="BiaomTV" start-time="1789835400",RC Celta vs Racing Santander - NGƯỜI PHÁO — La Liga
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/celta-santa-laliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_t8c58th44ecc" tvg-name="VfB Stuttgart vs Borussia Dortmund" tvg-logo="https://biaomtv.link/wp-json/s8-image/cc3fb524-e002-4712-8fa5-9e33ea0367e9" home-logo="https://biaomtv.link/wp-json/s8-image/cc3fb524-e002-4712-8fa5-9e33ea0367e9" away-logo="https://biaomtv.link/wp-json/s8-image/e365f441-728b-4f10-8fbd-0aeba66d4542" group-title="BiaomTV" start-time="1789835400",VfB Stuttgart vs Borussia Dortmund - NGƯỜI CAT — Bundesliga
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/stutt-dort-bun/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_58mc0akz24c4" tvg-name="RC Celta vs Racing Santander" tvg-logo="https://biaomtv.link/wp-json/s8-image/5de224c0-3c91-4c6c-a0d3-38841303e19a" home-logo="https://biaomtv.link/wp-json/s8-image/5de224c0-3c91-4c6c-a0d3-38841303e19a" away-logo="https://biaomtv.link/wp-json/s8-image/ff6b1bd4-ba2c-42bc-8009-89a24cefb358" group-title="BiaomTV" start-time="1789835400",RC Celta vs Racing Santander - NGƯỜI PHÁO — La Liga
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/celta-santa-laliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_gnfxbczhr5f1" tvg-name="AFC Ajax vs Excelsior SBV" tvg-logo="https://biaomtv.link/wp-json/s8-image/3f191c91-29b7-4789-9ed3-d26d7af5e450" home-logo="https://biaomtv.link/wp-json/s8-image/3f191c91-29b7-4789-9ed3-d26d7af5e450" away-logo="https://biaomtv.link/wp-json/s8-image/85c9c181-02f0-45d4-b781-d89f990fedec" group-title="BiaomTV" start-time="1789840800",AFC Ajax vs Excelsior SBV - NGƯỜI DÊ — NED Eredivisie
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
@@ -195,21 +184,6 @@ https://hls.lauthaitv.cc/live/colorado-seattle-mls/index.m3u8|Referer=https://bi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/america-guada-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_ndkz6i3y0omhxq3" tvg-name="Brighton & Hove Albion FC vs Arsenal" tvg-logo="https://img.gvapi.cc/football/team/9b43a690d5a09f1e319f036821e8e1d3.png!w80" home-logo="https://img.gvapi.cc/football/team/9b43a690d5a09f1e319f036821e8e1d3.png!w80" away-logo="https://img.gvapi.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="Cola TV" start-time="1789826400",Brighton & Hove Albion FC vs Arsenal - BLV REVIVE — Giải bóng đá Ngoại hạng Anh
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_wv78xivzr6dsokr" tvg-name="Everton vs CLB Ipswich Town" tvg-logo="https://img.gvapi.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80" home-logo="https://img.gvapi.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80" away-logo="https://img.gvapi.cc/football/team/cec3eaaa5271c1f2f036469593ecbcd8.png!w80" group-title="Cola TV" start-time="1789826400",Everton vs CLB Ipswich Town - BLV 247 — Giải bóng đá Ngoại hạng Anh
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_l6kegi8n5p4tv75" tvg-name="Newcastle United vs Hull City" tvg-logo="https://img.gvapi.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" home-logo="https://img.gvapi.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" away-logo="https://img.gvapi.cc/football/team/262691204102d2200797f0ac34efb316.png!w80" group-title="Cola TV" start-time="1789826400",Newcastle United vs Hull City - BLV 7UP — Giải bóng đá Ngoại hạng Anh
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/78905744_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_xvkjoi8pd9wh879" tvg-name="Athletic Bilbao vs Alaves" tvg-logo="https://img.gvapi.cc/football/team/abbb31d42c55612737713aac6567a226.png!w80" home-logo="https://img.gvapi.cc/football/team/abbb31d42c55612737713aac6567a226.png!w80" away-logo="https://img.gvapi.cc/football/team/fffbebaa7a0c3c2db7e8d637a3de1811.png!w80" group-title="Cola TV" start-time="1789827300",Athletic Bilbao vs Alaves - BLV ROCKSTAR — Giải Bóng đá Vô địch Quốc gia Tây Ban Nha
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -219,3 +193,8 @@ https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o17pjiom083by7j" tvg-name="A.S. Roma vs Inter Milan" tvg-logo="https://img.gvapi.cc/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png!w80" home-logo="https://img.gvapi.cc/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png!w80" away-logo="https://img.gvapi.cc/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80" group-title="Cola TV" start-time="1789833600",A.S. Roma vs Inter Milan - BLV WARRIOR — Giải bóng đá Serie A Italia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/97885009_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
