@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 12:00:24 19/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1550967_angao" tvg-name="FC Juarez vs Tigres UANL" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_9be93a93.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_9be93a93.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133406_3bc30a80.png" group-title="Chuối TV" start-time="1789786800",FC Juarez vs Tigres UANL - A Ngao [FULL HD] — VĐQG Mexico
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 12:20:31 19/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1507070_chuoito" tvg-name="Bucheon FC 1995 vs Gimcheon Sangmu FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133957_d2e52bb4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133957_d2e52bb4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133956_8de8d467.png" group-title="Chuối TV" start-time="1789803000",Bucheon FC 1995 vs Gimcheon Sangmu FC - Chuối To [FHD] — K League 1
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -116,6 +110,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cctv_1490482_chuoito" tvg-name="San Jose Earthquakes vs Los Angeles FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131600_44f931ad.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131600_44f931ad.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" group-title="Chuối TV" start-time="1789860600",San Jose Earthquakes vs Los Angeles FC - Chuối To [FHD] — Major League Soccer
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_y0or5jh9xlezqwz" tvg-name="Oakleigh Cannons vs Avondale FC" tvg-logo="https://static.sportsfeed.pro/football/team/873f655c74783dbb85de6cacc8f503c0.png" home-logo="https://static.sportsfeed.pro/football/team/873f655c74783dbb85de6cacc8f503c0.png" away-logo="https://static.sportsfeed.pro/football/team/ff2e694966de559719f778b5c79ea2ad.png" group-title="Gà Vàng TV" start-time="1789795800",Oakleigh Cannons vs Avondale FC - khang hi — National Premier Leagues Victoria
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -130,11 +130,6 @@ https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/sde-def-argdiv1/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_tn4mv28vssfr" tvg-name="FC Juarez vs Tigres UANL" tvg-logo="https://biaomtv.link/wp-json/s8-image/5357f177-6af2-4bc1-a070-5b2e5c29be28" home-logo="https://biaomtv.link/wp-json/s8-image/5357f177-6af2-4bc1-a070-5b2e5c29be28" away-logo="https://biaomtv.link/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="BiaomTV" start-time="1789786800",FC Juarez vs Tigres UANL - NGƯỜI THỎ — MEX Liga MX
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/juarez-tigres-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_zmgwa1xq52r2" tvg-name="Hokkaido Consadole Sapporo vs Oita Trinita" tvg-logo="https://biaomtv.link/wp-json/s8-image/81864da1-af75-44e1-ae9b-ca08a628015e" home-logo="https://biaomtv.link/wp-json/s8-image/81864da1-af75-44e1-ae9b-ca08a628015e" away-logo="https://biaomtv.link/wp-json/s8-image/954d2cfa-6abd-443a-9abc-f4f82b5f899e" group-title="BiaomTV" start-time="1789794000",Hokkaido Consadole Sapporo vs Oita Trinita - NGƯỜI BẠC — JPN J2
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
