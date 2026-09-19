@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 02:00:47 20/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1570400_chuoichao" tvg-name="Sevilla vs Barcelona" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_bcacccf3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_bcacccf3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" group-title="Chuối TV" start-time="1789844400",Sevilla vs Barcelona - Chuối Chao [HD] — La Liga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 02:20:49 20/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1552768_angao" tvg-name="Lyon vs Rennes" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125515_505c803f.png" group-title="Chuối TV" start-time="1789843500",Lyon vs Rennes - A Ngao [FULL HD] — Ligue 1
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +13,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Ref
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1570400_chuoichao" tvg-name="Sevilla vs Barcelona" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_bcacccf3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_bcacccf3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" group-title="Chuối TV" start-time="1789844400",Sevilla vs Barcelona - Chuối Chao [FHD] — La Liga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1490482_chuoito" tvg-name="San Jose Earthquakes vs Los Angeles FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131600_44f931ad.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131600_44f931ad.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" group-title="Chuối TV" start-time="1789860600",San Jose Earthquakes vs Los Angeles FC - Chuối To [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -46,6 +46,61 @@ https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_gnfxbczhr5f1" tvg-name="AFC Ajax vs Excelsior SBV" tvg-logo="https://biaomtv.link/wp-json/s8-image/3f191c91-29b7-4789-9ed3-d26d7af5e450" home-logo="https://biaomtv.link/wp-json/s8-image/3f191c91-29b7-4789-9ed3-d26d7af5e450" away-logo="https://biaomtv.link/wp-json/s8-image/85c9c181-02f0-45d4-b781-d89f990fedec" group-title="BiaomTV" start-time="1789840800",AFC Ajax vs Excelsior SBV - NGƯỜI DÊ — NED Eredivisie
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/ajax-sbv-ned/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_c2qdqxtg254c" tvg-name="Venezia vs Lazio" tvg-logo="https://biaomtv.link/wp-json/s8-image/8ea25661-0d29-4b23-8175-9e75c067d67c" home-logo="https://biaomtv.link/wp-json/s8-image/8ea25661-0d29-4b23-8175-9e75c067d67c" away-logo="https://biaomtv.link/wp-json/s8-image/a3a32955-385a-4c5d-8bed-41d67d84fcc5" group-title="BiaomTV" start-time="1789843500",Venezia vs Lazio - NGƯỜI CHÈ — Serie A
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/vene-lazio-seriea/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_spqctfy18eyn" tvg-name="Sevilla FC vs FC Barcelona" tvg-logo="https://biaomtv.link/wp-json/s8-image/707e44e2-ba8f-4098-8942-1bb59f95d5b2" home-logo="https://biaomtv.link/wp-json/s8-image/707e44e2-ba8f-4098-8942-1bb59f95d5b2" away-logo="https://biaomtv.link/wp-json/s8-image/a0bd08e7-3728-4a86-a2f3-c65424cab394" group-title="BiaomTV" start-time="1789844400",Sevilla FC vs FC Barcelona - NGƯỜI BẠC — La Liga
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/sevill-barca-laliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_phqm5tp9gwt8" tvg-name="Sporting CP vs FC Arouca" tvg-logo="https://biaomtv.link/wp-json/s8-image/fd9a2b2e-6259-4e39-afc5-3994836a27fe" home-logo="https://biaomtv.link/wp-json/s8-image/fd9a2b2e-6259-4e39-afc5-3994836a27fe" away-logo="https://biaomtv.link/wp-json/s8-image/07266478-0565-46d0-b1ed-d1b7b006ffca" group-title="BiaomTV" start-time="1789846200",Sporting CP vs FC Arouca - NGƯỜI CÁO — Liga Portugal
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/sporting-arouca-porliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_3y7qyxv2sbr4" tvg-name="Mirassol vs Botafogo" tvg-logo="https://biaomtv.link/wp-json/s8-image/47275c59-f0d6-4b57-a5bc-e91ba6f63656" home-logo="https://biaomtv.link/wp-json/s8-image/47275c59-f0d6-4b57-a5bc-e91ba6f63656" away-logo="https://biaomtv.link/wp-json/s8-image/3f5cd29b-a2d3-4277-ad1c-e564eaa97af5" group-title="BiaomTV" start-time="1789848000",Mirassol vs Botafogo - NGƯỜI DÊ — BRA Serie A
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/mira-bota-brasa/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_c6vaepwjdkcv" tvg-name="Remo vs Santos" tvg-logo="https://biaomtv.link/wp-json/s8-image/c4a88888-e491-401d-9028-fe05488a107a" home-logo="https://biaomtv.link/wp-json/s8-image/c4a88888-e491-401d-9028-fe05488a107a" away-logo="https://biaomtv.link/wp-json/s8-image/115af699-af8c-498a-aef9-88a142bca784" group-title="BiaomTV" start-time="1789853400",Remo vs Santos - NGƯỜI SẮT — BRA Serie A
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/remo-santos-brasa/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_jtnhj3xq83wf" tvg-name="Atlas FC vs Pumas U.N.A.M." tvg-logo="https://biaomtv.link/wp-json/s8-image/6a3048b3-9ca0-4176-bff1-9b567cc7a761" home-logo="https://biaomtv.link/wp-json/s8-image/6a3048b3-9ca0-4176-bff1-9b567cc7a761" away-logo="https://biaomtv.link/wp-json/s8-image/bc00d975-70ea-4db2-b917-ff90f88a0fd0" group-title="BiaomTV" start-time="1789858800",Atlas FC vs Pumas U.N.A.M. - NGƯỜI SÓI — MEX Liga MX
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/atlas-pumas-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_1chng5jdn6s6" tvg-name="Minnesota United vs Los Angeles Galaxy" tvg-logo="https://biaomtv.link/wp-json/s8-image/5c90ecef-3689-4a94-82fc-072c6098c173" home-logo="https://biaomtv.link/wp-json/s8-image/5c90ecef-3689-4a94-82fc-072c6098c173" away-logo="https://biaomtv.link/wp-json/s8-image/e0b7a074-cc0f-4def-ba38-90304ddb2115" group-title="BiaomTV" start-time="1789864200",Minnesota United vs Los Angeles Galaxy - NGƯỜI THỎ — MLS
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/minnesota-lagalaxy-mls/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_rg7pjsfxt681" tvg-name="Rayados de Monterrey vs Cruz Azul" tvg-logo="https://biaomtv.link/wp-json/s8-image/70fa2860-0a35-4752-b533-f49364650af4" home-logo="https://biaomtv.link/wp-json/s8-image/70fa2860-0a35-4752-b533-f49364650af4" away-logo="https://biaomtv.link/wp-json/s8-image/bae59623-ea7b-439c-acb4-ae259dab86e5" group-title="BiaomTV" start-time="1789866600",Rayados de Monterrey vs Cruz Azul - NGƯỜI NẶN — MEX Liga MX
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/rayados-cruz-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_fcyd3vs512xs" tvg-name="Colorado Rapids vs Seattle Sounders" tvg-logo="https://biaomtv.link/wp-json/s8-image/6253eea7-ad05-4b90-9876-4a6d72ae5c64" home-logo="https://biaomtv.link/wp-json/s8-image/6253eea7-ad05-4b90-9876-4a6d72ae5c64" away-logo="https://biaomtv.link/wp-json/s8-image/6913fd7e-1fcb-4a9e-95de-89848e2a266b" group-title="BiaomTV" start-time="1789867800",Colorado Rapids vs Seattle Sounders - NGƯỜI SẮT — MLS
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/colorado-seattle-mls/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_30mtz9v27nk9" tvg-name="Club America vs Club Deportivo Guadalajara" tvg-logo="https://biaomtv.link/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" home-logo="https://biaomtv.link/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" away-logo="https://biaomtv.link/wp-json/s8-image/083db3d7-9a70-4012-98a2-b6dfc1472694" group-title="BiaomTV" start-time="1789874100",Club America vs Club Deportivo Guadalajara - NGƯỜI NẶN — MEX Liga MX
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/america-guada-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_63kv9ige349sx7e" tvg-name="Câu lạc bộ AFC Ajax vs Excelsior" tvg-logo="https://img.gvapi.cc/football/team/187929503752357480bce47813a9741f.png!w80" home-logo="https://img.gvapi.cc/football/team/187929503752357480bce47813a9741f.png!w80" away-logo="https://img.gvapi.cc/football/team/57b4c68789a8bedcb43174f5f4eb164a.png!w80" group-title="Cola TV" start-time="1789840800",Câu lạc bộ AFC Ajax vs Excelsior - BLV HỔ VẰN — Giải Bóng đá Vô địch Quốc gia Hà Lan
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
