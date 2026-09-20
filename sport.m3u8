@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:00:19 21/09/2026
+## Cập nhật lúc: 00:20:08 21/09/2026
+
+#EXTINF:-1 tvg-id="cctv_1575175_chuoikem" tvg-name="SC Paderborn 07 vs 1899 Hoffenheim" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_42c0f4e9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_42c0f4e9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_d3563d9f.png" group-title="Chuối TV" start-time="1789925400",SC Paderborn 07 vs 1899 Hoffenheim - Chuối Kem [FHD] — Bundesliga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1557411_chuoila" tvg-name="Fulham vs Manchester United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_3735bd31.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_3735bd31.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_6dff7e1a.png" group-title="Chuối TV" start-time="1789918200",Fulham vs Manchester United - Chuối Lá [FHD] — Ngoại Hạng Anh
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -21,12 +27,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1570396_chuoikem" tvg-name="Deportivo La Coruna vs Real Betis" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133417_d0c889f0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133417_d0c889f0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png" group-title="Chuối TV" start-time="1789921800",Deportivo La Coruna vs Real Betis - Chuối Kem [FHD] — La Liga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1575175_chuoikem" tvg-name="SC Paderborn 07 vs 1899 Hoffenheim" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_42c0f4e9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_42c0f4e9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_d3563d9f.png" group-title="Chuối TV" start-time="1789925400",SC Paderborn 07 vs 1899 Hoffenheim - Chuối Kem [FHD] — Bundesliga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
@@ -62,11 +62,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_3glrw7hney8jqdy" tvg-name="Nice vs LOSC" tvg-logo="https://static.sportsfeed.pro/football/team/ff8991853f7aabce7cb66f09cda0c58e.png" home-logo="https://static.sportsfeed.pro/football/team/ff8991853f7aabce7cb66f09cda0c58e.png" away-logo="https://static.sportsfeed.pro/football/team/28e94925fdcc848f86a544a1cedcceed.png" group-title="Gà Vàng TV" start-time="1789917300",Nice vs LOSC - THICHDUTHU — French Ligue 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_zp5rzghge9pxq82" tvg-name="Fulham vs Man Utd" tvg-logo="https://static.sportsfeed.pro/football/team/29982511f1ea861967c3e6478d6a8a68.png" home-logo="https://static.sportsfeed.pro/football/team/29982511f1ea861967c3e6478d6a8a68.png" away-logo="https://static.sportsfeed.pro/football/team/d39ce586fd7278342dde33b3090b3f75.png" group-title="Gà Vàng TV" start-time="1789918200",Fulham vs Man Utd - GIàng A Dân — English Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -81,11 +76,6 @@ https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_9gklzi1eox3cm7x" tvg-name="OGC Nice vs Lille OSC" tvg-logo="https://img.gvapi.cc/football/team/ff8991853f7aabce7cb66f09cda0c58e.png!w80" home-logo="https://img.gvapi.cc/football/team/ff8991853f7aabce7cb66f09cda0c58e.png!w80" away-logo="https://img.gvapi.cc/football/team/28e94925fdcc848f86a544a1cedcceed.png!w80" group-title="Cola TV" start-time="1789917300",OGC Nice vs Lille OSC - BLV PEPSI — Ligue 1
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_jek33i8w38oi9ko" tvg-name="FC Schalke 04 vs CLB Elversberg" tvg-logo="https://img.gvapi.cc/football/team/4533ab7ef9ad5e53c981f7ea7bea7033.png!w80" home-logo="https://img.gvapi.cc/football/team/4533ab7ef9ad5e53c981f7ea7bea7033.png!w80" away-logo="https://img.gvapi.cc/football/team/20f905fb0975e88482cf157ad9da4874.png!w80" group-title="Cola TV" start-time="1789918200",FC Schalke 04 vs CLB Elversberg - BLV MOUNTAIN DEW — Giải bóng đá vô địch quốc gia Đức
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
