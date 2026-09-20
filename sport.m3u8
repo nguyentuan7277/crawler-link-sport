@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:40:23 20/09/2026
-
-#EXTINF:-1 tvg-id="cctv_999840_chuoikem" tvg-name="Kazakhstan W vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="Chuối TV" start-time="1789887600",Kazakhstan W vs South Korea - Chuối Kem [FHD] — Asian Games Bóng Chuyền Nữ
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 16:00:41 20/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1639458_angao" tvg-name="U23 Hong Kong  vs U23 Thailand " tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144415_1bd3a785.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144415_1bd3a785.png" away-logo="https://media.chuoichientv.net/media/uploads/20250727_220754_af82f425.png" group-title="Chuối TV" start-time="1789887600",U23 Hong Kong  vs U23 Thailand  - A Ngao [FULL HD] — Asian Games
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -114,6 +108,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_6ypq3nhvo150md7" tvg-name="Getafe vs Malaga" tvg-logo="https://static.sportsfeed.pro/football/team/36bf5bf0c8fdf08c1270124808f060e1.png" home-logo="https://static.sportsfeed.pro/football/team/36bf5bf0c8fdf08c1270124808f060e1.png" away-logo="https://static.sportsfeed.pro/football/team/9c7c68ee0cad47be69a9d57e43261484.png" group-title="Gà Vàng TV" start-time="1789905600",Getafe vs Malaga - KAYTI — Spanish La Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_c7svdw1sfqs7" tvg-name="Hong Kong U23 vs Thailand U23" tvg-logo="https://biaomtv.link/wp-json/s8-image/497bb8f9-7f2f-441b-a6f8-e9135d80e243" home-logo="https://biaomtv.link/wp-json/s8-image/497bb8f9-7f2f-441b-a6f8-e9135d80e243" away-logo="https://biaomtv.link/wp-json/s8-image/475fe014-937a-46c7-bd89-717233af2c3f" group-title="BiaomTV" start-time="1789887600",Hong Kong U23 vs Thailand U23 - NGƯỜI SẮT — ASIAD 2026
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
@@ -254,16 +253,6 @@ https://hls.lauthaitv.cc/live/toluca-laguna-mexliga/index.m3u8|Referer=https://b
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/quere-leon-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_o17pjiow3g6fy7j" tvg-name="Hồng Kông U23 vs Thái Lan U23" tvg-logo="https://img.gvapi.cc/football/team/4ea0b8f9db593ba95bda607083a73944.png!w80" home-logo="https://img.gvapi.cc/football/team/4ea0b8f9db593ba95bda607083a73944.png!w80" away-logo="https://img.gvapi.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80" group-title="Cola TV" start-time="1789887600",Hồng Kông U23 vs Thái Lan U23 - BLV C2 — Đại hội Thể thao Châu Á
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_ndkzysnpmmoax73" tvg-name="Sydney vs Cairns Taipans" tvg-logo="https://img.gvapi.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" home-logo="https://img.gvapi.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" away-logo="https://img.gvapi.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80" group-title="Cola TV" start-time="1789887600",Sydney vs Cairns Taipans - BLV Cozy — Liên đoàn Bóng rổ Quốc gia Úc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_o17pjiojrlwcy7j" tvg-name="CLB Jeonbuk Hyundai Motors vs Gwangju FC" tvg-logo="https://img.gvapi.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" home-logo="https://img.gvapi.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" away-logo="https://img.gvapi.cc/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png!w80" group-title="Cola TV" start-time="1789889400",CLB Jeonbuk Hyundai Motors vs Gwangju FC - BLV MOUNTAIN DEW — Giải K1 Hàn Quốc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
