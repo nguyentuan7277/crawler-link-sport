@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 12:00:21 20/09/2026
-
-#EXTINF:-1 tvg-id="cctv_997838_chuoitay" tvg-name="Vietnam W vs China W" tvg-logo="https://media.chuoichientv.net/media/20250826_164900_cfcedb98.png" home-logo="https://media.chuoichientv.net/media/20250826_164900_cfcedb98.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png" group-title="Chuối TV" start-time="1789876800",Vietnam W vs China W - Chuối Tây [HD] — Asian Games Bóng Chuyền Nữ
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 12:20:19 20/09/2026
 
 #EXTINF:-1 tvg-id="cctv_999840_chuoikem" tvg-name="Kazakhstan W vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="Chuối TV" start-time="1789887600",Kazakhstan W vs South Korea - Chuối Kem [FHD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -130,11 +124,6 @@ https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_8yomo4h1j39nq0j" tvg-name="Machida Zelvia vs Kashiwa Reysol" tvg-logo="https://static.sportsfeed.pro/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png" home-logo="https://static.sportsfeed.pro/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png" away-logo="https://static.sportsfeed.pro/football/team/d272859d78eb8ca7a14753f4293fbf45.png" group-title="Gà Vàng TV" start-time="1789891200",Machida Zelvia vs Kashiwa Reysol - Cá MậP — Japanese J1 League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_30mtz9v27nk9" tvg-name="Club America vs Club Deportivo Guadalajara" tvg-logo="https://biaomtv.link/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" home-logo="https://biaomtv.link/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" away-logo="https://biaomtv.link/wp-json/s8-image/083db3d7-9a70-4012-98a2-b6dfc1472694" group-title="BiaomTV" start-time="1789874100",Club America vs Club Deportivo Guadalajara - NGƯỜI NẶN — MEX Liga MX
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
