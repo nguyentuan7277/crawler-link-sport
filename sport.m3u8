@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 21:21:14 20/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1636358_chuoila" tvg-name="Ha Noi vs Da Nang" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png" group-title="Chuối TV" start-time="1789906500",Ha Noi vs Da Nang - Chuối Lá [FHD] — Cúp Quốc Gia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 21:40:37 20/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1557407_chuoikem" tvg-name="Bournemouth vs Liverpool" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_e668d998.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_e668d998.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png" group-title="Chuối TV" start-time="1789909200",Bournemouth vs Liverpool - Chuối Kem [FHD] — Ngoại Hạng Anh
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -98,20 +92,55 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_dj2ryohl30j0q1z" tvg-name="Bournemouth vs Liverpool" tvg-logo="https://static.sportsfeed.pro/football/team/240b30d333c97d293752ab7afd77ccd6.png" home-logo="https://static.sportsfeed.pro/football/team/240b30d333c97d293752ab7afd77ccd6.png" away-logo="https://static.sportsfeed.pro/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png" group-title="Gà Vàng TV" start-time="1789909200",Bournemouth vs Liverpool - GIàng A Dân — English Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_ednm9whwlk44ryo" tvg-name="Frosinone vs Como" tvg-logo="https://static.sportsfeed.pro/football/team/93c278d5d8d1d5e2d390ff686359963d.png" home-logo="https://static.sportsfeed.pro/football/team/93c278d5d8d1d5e2d390ff686359963d.png" away-logo="https://static.sportsfeed.pro/football/team/5f7059f40965e5a2cc00987e6bac2f32.png" group-title="Gà Vàng TV" start-time="1789909200",Frosinone vs Como - MeoMeo — Italian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyhk9xe5r1g" tvg-name="Leeds United vs Crystal Palace" tvg-logo="https://static.sportsfeed.pro/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png" home-logo="https://static.sportsfeed.pro/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png" away-logo="https://static.sportsfeed.pro/football/team/42396d18444156e640c37476c2b41b93.png" group-title="Gà Vàng TV" start-time="1789909200",Leeds United vs Crystal Palace - Cá MậP — English Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hxdp4wqo9" tvg-name="Man City vs Sunderland" tvg-logo="https://static.sportsfeed.pro/football/team/c4a6528a2ee147b99c9885ef24385a4e.png" home-logo="https://static.sportsfeed.pro/football/team/c4a6528a2ee147b99c9885ef24385a4e.png" away-logo="https://static.sportsfeed.pro/football/team/957bdc50c307e2a9b526b34b3792da1a.png" group-title="Gà Vàng TV" start-time="1789909200",Man City vs Sunderland - CRIS — English Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_n54qllhny2wnqvy" tvg-name="Parma vs Genoa" tvg-logo="https://static.sportsfeed.pro/football/team/9fadd87d190982c8082dddf1567e0b9b.png" home-logo="https://static.sportsfeed.pro/football/team/9fadd87d190982c8082dddf1567e0b9b.png" away-logo="https://static.sportsfeed.pro/football/team/51474fb68c7da46b9c20ebddccec7766.png" group-title="Gà Vàng TV" start-time="1789909200",Parma vs Genoa - MáN NúI — Italian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_pxwrxlhyo25oryk" tvg-name="Bayer Leverkusen vs RB Leipzig" tvg-logo="https://static.sportsfeed.pro/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png" home-logo="https://static.sportsfeed.pro/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png" away-logo="https://static.sportsfeed.pro/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png" group-title="Gà Vàng TV" start-time="1789911000",Bayer Leverkusen vs RB Leipzig - khang hi — Bundesliga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_6ypq3nhv70w8md7" tvg-name="Gremio vs Palmeiras" tvg-logo="https://static.sportsfeed.pro/football/team/e1f593199d4ee1d98b2db8a9522b605f.png" home-logo="https://static.sportsfeed.pro/football/team/e1f593199d4ee1d98b2db8a9522b605f.png" away-logo="https://static.sportsfeed.pro/football/team/e6a85b64d28f448601e90857eb799140.png" group-title="Gà Vàng TV" start-time="1789912800",Gremio vs Palmeiras - RIO — Brazilian Serie A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l7oqdehgk1n5r51" tvg-name="Atl. Madrid vs Real Madrid" tvg-logo="https://static.sportsfeed.pro/football/team/390977b0421bce136c562057ea171ecf.png" home-logo="https://static.sportsfeed.pro/football/team/390977b0421bce136c562057ea171ecf.png" away-logo="https://static.sportsfeed.pro/football/team/7dacaa934fe4be00f23c1e209b5ef947.png" group-title="Gà Vàng TV" start-time="1789913700",Atl. Madrid vs Real Madrid - ĐOÀN DỰ — Spanish La Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_3glrw7hney8jqdy" tvg-name="Nice vs LOSC" tvg-logo="https://static.sportsfeed.pro/football/team/ff8991853f7aabce7cb66f09cda0c58e.png" home-logo="https://static.sportsfeed.pro/football/team/ff8991853f7aabce7cb66f09cda0c58e.png" away-logo="https://static.sportsfeed.pro/football/team/28e94925fdcc848f86a544a1cedcceed.png" group-title="Gà Vàng TV" start-time="1789917300",Nice vs LOSC - THICHDUTHU — French Ligue 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_zp5rzghge9pxq82" tvg-name="Fulham vs Man Utd" tvg-logo="https://static.sportsfeed.pro/football/team/29982511f1ea861967c3e6478d6a8a68.png" home-logo="https://static.sportsfeed.pro/football/team/29982511f1ea861967c3e6478d6a8a68.png" away-logo="https://static.sportsfeed.pro/football/team/d39ce586fd7278342dde33b3090b3f75.png" group-title="Gà Vàng TV" start-time="1789918200",Fulham vs Man Utd - GIàng A Dân — English Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_ednm9whw4dwvryo" tvg-name="Schalke 04 vs SV Elversberg" tvg-logo="https://static.sportsfeed.pro/football/team/4533ab7ef9ad5e53c981f7ea7bea7033.png" home-logo="https://static.sportsfeed.pro/football/team/4533ab7ef9ad5e53c981f7ea7bea7033.png" away-logo="https://static.sportsfeed.pro/football/team/20f905fb0975e88482cf157ad9da4874.png" group-title="Gà Vàng TV" start-time="1789918200",Schalke 04 vs SV Elversberg - NGƯỜI KIẾN — Bundesliga
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -198,6 +227,21 @@ https://hls.lauthaitv.cc/live/pader-hoffen-bun/index.m3u8|Referer=https://biaomt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/milan-lecce-seriea/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="biaom_8kba6pvf51w7" tvg-name="Marseille vs Paris Saint Germain" tvg-logo="https://biaomtv.link/wp-json/s8-image/6978dc78-6ce7-494d-a352-6c9b026ec61f" home-logo="https://biaomtv.link/wp-json/s8-image/6978dc78-6ce7-494d-a352-6c9b026ec61f" away-logo="https://biaomtv.link/wp-json/s8-image/708629d1-761e-4507-aaad-1fd1509827b5" group-title="BiaomTV" start-time="1789929900",Marseille vs Paris Saint Germain - NGƯỜI CAT — Ligue 1
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/mars-psg-ligue1/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_n3chr2d7ksyw" tvg-name="Valencia CF vs Real Sociedad" tvg-logo="https://biaomtv.link/wp-json/s8-image/4ef564db-6218-466c-af18-409631532d25" home-logo="https://biaomtv.link/wp-json/s8-image/4ef564db-6218-466c-af18-409631532d25" away-logo="https://biaomtv.link/wp-json/s8-image/85e4d475-90c2-473d-ae60-e6195dd9ab33" group-title="BiaomTV" start-time="1789930800",Valencia CF vs Real Sociedad - NGƯỜI DÊ — La Liga
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/valen-socie-laliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_gbda2a2pcyg7" tvg-name="FC Porto vs Benfica" tvg-logo="https://biaomtv.link/wp-json/s8-image/43cd9b16-3e5b-4fc0-88c8-01e1a801e8cd" home-logo="https://biaomtv.link/wp-json/s8-image/43cd9b16-3e5b-4fc0-88c8-01e1a801e8cd" away-logo="https://biaomtv.link/wp-json/s8-image/93258146-5f67-4747-b4c8-51687f0b6914" group-title="BiaomTV" start-time="1789932600",FC Porto vs Benfica - NGƯỜI CÁO — Liga Portugal
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/porto-benfica-por/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_8hh7ec631qhj" tvg-name="Flamengo vs Red Bull Bragantino" tvg-logo="https://biaomtv.link/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" home-logo="https://biaomtv.link/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" away-logo="https://biaomtv.link/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="BiaomTV" start-time="1789939800",Flamengo vs Red Bull Bragantino - NGƯỜI SẮT — BRA Serie A
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -208,10 +252,15 @@ https://hls.lauthaitv.cc/live/flamengo-bragantino-brasa/index.m3u8|Referer=https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/miami-sandiego-mls/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_9gklzi1g0wrim7x" tvg-name="Hà Nội vs SHB Đà Nẵng" tvg-logo="https://img.gvapi.cc/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png!w80" home-logo="https://img.gvapi.cc/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png!w80" away-logo="https://img.gvapi.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="Cola TV" start-time="1789906500",Hà Nội vs SHB Đà Nẵng - BLV SAMURAI — Cúp Quốc gia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTINF:-1 tvg-id="biaom_gz3pj337dqg4" tvg-name="Toluca vs Santos Laguna" tvg-logo="https://biaomtv.link/wp-json/s8-image/3ac51242-5cd9-4f8c-b342-50352bfbb26e" home-logo="https://biaomtv.link/wp-json/s8-image/3ac51242-5cd9-4f8c-b342-50352bfbb26e" away-logo="https://biaomtv.link/wp-json/s8-image/c25175dc-9c8b-4ca8-bcfb-26e3e12a8df3" group-title="BiaomTV" start-time="1789948800",Toluca vs Santos Laguna - NGƯỜI SÓI — MEX Liga MX
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/toluca-laguna-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_vchp9fgs8h21" tvg-name="Queretaro FC vs Club Leon" tvg-logo="https://biaomtv.link/wp-json/s8-image/34facab8-e220-46ec-a23d-2393582b88fe" home-logo="https://biaomtv.link/wp-json/s8-image/34facab8-e220-46ec-a23d-2393582b88fe" away-logo="https://biaomtv.link/wp-json/s8-image/a7fde817-1251-45c0-a7c2-5fea975ab599" group-title="BiaomTV" start-time="1789956600",Queretaro FC vs Club Leon - NGƯỜI NẶN — MEX Liga MX
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/quere-leon-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_oj7x9ixj3poc47g" tvg-name="AJ Auxerre vs Stade Brestois 29" tvg-logo="https://img.gvapi.cc/football/team/8c03e57af9e8bec20a3ed2f5aaddf78b.png!w80" home-logo="https://img.gvapi.cc/football/team/8c03e57af9e8bec20a3ed2f5aaddf78b.png!w80" away-logo="https://img.gvapi.cc/football/team/bb7e6346a3860008e4ff266ba3b655e8.png!w80" group-title="Cola TV" start-time="1789909200",AJ Auxerre vs Stade Brestois 29 - BLV HỔ VẰN — Ligue 1
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
