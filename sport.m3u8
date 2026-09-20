@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:00:25 20/09/2026
+## Cập nhật lúc: 18:20:23 20/09/2026
 
-#EXTINF:-1 tvg-id="cctv_997238_chuoitay" tvg-name="Japan W vs Chinese Taipei W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_e7f6fab3.png" group-title="Chuối TV" start-time="1789899600",Japan W vs Chinese Taipei W - Chuối Tây [HD] — Asian Games Bóng Chuyền Nữ
+#EXTINF:-1 tvg-id="cctv_997238_chuoitay" tvg-name="Japan W vs Chinese Taipei W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_e7f6fab3.png" group-title="Chuối TV" start-time="1789899600",Japan W vs Chinese Taipei W - Chuối Tây [FHD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1633900_angao" tvg-name="Trường Tươi Đồng Nai vs Công An Hà Nội" tvg-logo="https://media.chuoichientv.net/media/20251121_155919_59876ece.png" home-logo="https://media.chuoichientv.net/media/20251121_155919_59876ece.png" away-logo="https://media.chuoichientv.net/media/20250823_192612_72e9a551.webp" group-title="Chuối TV" start-time="1789902000",Trường Tươi Đồng Nai vs Công An Hà Nội - A Ngao [FULL HD] — V.League 1
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1636355_chuoichao" tvg-name="Hoang Anh Gia Lai vs Hung Yen" tvg-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png" home-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png" away-logo="https://media.api-sports.io/football/teams/28214.png" group-title="Chuối TV" start-time="1789898400",Hoang Anh Gia Lai vs Hung Yen - Chuối Chao [FHD] — Cúp Quốc Gia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +19,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1633900_angao" tvg-name="Trường Tươi Đồng Nai vs Công An Hà Nội" tvg-logo="https://media.chuoichientv.net/media/20251121_155919_59876ece.png" home-logo="https://media.chuoichientv.net/media/20251121_155919_59876ece.png" away-logo="https://media.chuoichientv.net/media/20250823_192612_72e9a551.webp" group-title="Chuối TV" start-time="1789902000",Trường Tươi Đồng Nai vs Công An Hà Nội - A Ngao [FULL HD] — V.League 1
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1636358_chuoila" tvg-name="Ha Noi vs Da Nang" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png" group-title="Chuối TV" start-time="1789906500",Ha Noi vs Da Nang - Chuối Lá [FHD] — Cúp Quốc Gia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -152,6 +152,11 @@ https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l7oqdehgk1n5r51" tvg-name="Atl. Madrid vs Real Madrid" tvg-logo="https://static.sportsfeed.pro/football/team/390977b0421bce136c562057ea171ecf.png" home-logo="https://static.sportsfeed.pro/football/team/390977b0421bce136c562057ea171ecf.png" away-logo="https://static.sportsfeed.pro/football/team/7dacaa934fe4be00f23c1e209b5ef947.png" group-title="Gà Vàng TV" start-time="1789913700",Atl. Madrid vs Real Madrid - ĐOÀN DỰ — Spanish La Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_a0m87g83bhsx" tvg-name="Hoang Anh Gia Lai vs Hung Yen" tvg-logo="https://biaomtv.link/wp-json/s8-image/d25e5be8-b4d6-4312-a410-1d9a48c9ec0b" home-logo="https://biaomtv.link/wp-json/s8-image/d25e5be8-b4d6-4312-a410-1d9a48c9ec0b" away-logo="https://biaomtv.link/wp-json/s8-image/61d1371e-45a6-4ab1-8db1-b028049d27cd" group-title="BiaomTV" start-time="1789898400",Hoang Anh Gia Lai vs Hung Yen - NGƯỜI SẮT — VIE National Cup
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
@@ -302,11 +307,6 @@ https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_jr7owipe6wmbgq0" tvg-name="Gia Dinh vs Hồng Lĩnh Hà Tĩnh" tvg-logo="https://img.gvapi.cc/football/team/a3fa1f2bd7dbd79b0c531417b56647d6.png!w80" home-logo="https://img.gvapi.cc/football/team/a3fa1f2bd7dbd79b0c531417b56647d6.png!w80" away-logo="https://img.gvapi.cc/football/team/83dd94c5ca68e8f9a3980f036afcb511.png!w80" group-title="Cola TV" start-time="1789902000",Gia Dinh vs Hồng Lĩnh Hà Tĩnh - BLV FANTA — Cúp Quốc gia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/16226575_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_vrqwni4j8ydf4qn" tvg-name="Wolverhampton Wanderers vs West Bromwich" tvg-logo="https://img.gvapi.cc/football/team/5759932ca2512c6701d86dfbd58380a7.png!w80" home-logo="https://img.gvapi.cc/football/team/5759932ca2512c6701d86dfbd58380a7.png!w80" away-logo="https://img.gvapi.cc/football/team/8663a7bedcf20394242d069637e67219.png!w80" group-title="Cola TV" start-time="1789902000",Wolverhampton Wanderers vs West Bromwich - BLV MOUNTAIN DEW — Championship
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
