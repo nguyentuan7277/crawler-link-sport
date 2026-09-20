@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 13:40:22 20/09/2026
+## Cập nhật lúc: 14:00:38 20/09/2026
 
 #EXTINF:-1 tvg-id="cctv_999840_chuoikem" tvg-name="Kazakhstan W vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="Chuối TV" start-time="1789887600",Kazakhstan W vs South Korea - Chuối Kem [FHD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -109,11 +109,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_6ypq3nhv94y6md7" tvg-name="Hong Kong U23 vs Thailand U23" tvg-logo="https://img.thesports.com/football/team/4ea0b8f9db593ba95bda607083a73944.png" home-logo="https://img.thesports.com/football/team/4ea0b8f9db593ba95bda607083a73944.png" away-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png" group-title="Gà Vàng TV" start-time="1789887600",Hong Kong U23 vs Thailand U23 - A Long — OCA Asian Games
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_6ypq3nhv35v8md7" tvg-name="Gangwon FC vs Jeju SK FC" tvg-logo="https://static.sportsfeed.pro/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" home-logo="https://static.sportsfeed.pro/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" away-logo="https://static.sportsfeed.pro/football/team/2d2abe914435bb9b7140cf2154c50de9.png" group-title="Gà Vàng TV" start-time="1789889400",Gangwon FC vs Jeju SK FC - RIO — Korean K League 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -275,12 +270,12 @@ https://hls.lauthaitv.cc/live/toluca-laguna-mexliga/index.m3u8|Referer=https://b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/quere-leon-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_ndkz6i3pg49cxq3" tvg-name="Iran U23 vs Trung Quốc U23" tvg-logo="https://img.gvapi.cc/football/team/56de534cf589f6d0ca09630db803ba00.png!w80" home-logo="https://img.gvapi.cc/football/team/56de534cf589f6d0ca09630db803ba00.png!w80" away-logo="https://img.gvapi.cc/football/team/e51f03da53b2f36fc922a7ce18a07476.png!w80" group-title="Cola TV" start-time="1789880400",Iran U23 vs Trung Quốc U23 - BLV MONSTER — Đại hội Thể thao Châu Á
+#EXTINF:-1 tvg-id="cola_o17pjiow3g6fy7j" tvg-name="Hồng Kông U23 vs Thái Lan U23" tvg-logo="https://img.gvapi.cc/football/team/4ea0b8f9db593ba95bda607083a73944.png!w80" home-logo="https://img.gvapi.cc/football/team/4ea0b8f9db593ba95bda607083a73944.png!w80" away-logo="https://img.gvapi.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80" group-title="Cola TV" start-time="1789887600",Hồng Kông U23 vs Thái Lan U23 - BLV C2 — Đại hội Thể thao Châu Á
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_527rjswd00js4ke" tvg-name="New Zealand Breakers vs Illawarra Hawks" tvg-logo="https://img.gvapi.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80" home-logo="https://img.gvapi.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80" away-logo="https://img.gvapi.cc/basketball/team/4eceaeddae174577aa2aed681907c7f7.png!w80" group-title="Cola TV" start-time="1789880400",New Zealand Breakers vs Illawarra Hawks - BLV 247 — Liên đoàn Bóng rổ Quốc gia Úc
+#EXTINF:-1 tvg-id="cola_ndkzysnpmmoax73" tvg-name="Sydney vs Cairns Taipans" tvg-logo="https://img.gvapi.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" home-logo="https://img.gvapi.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" away-logo="https://img.gvapi.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80" group-title="Cola TV" start-time="1789887600",Sydney vs Cairns Taipans - BLV Cozy — Liên đoàn Bóng rổ Quốc gia Úc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
