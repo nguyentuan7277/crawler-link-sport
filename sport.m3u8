@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:20:23 20/09/2026
+## Cập nhật lúc: 20:40:56 20/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1636358_chuoila" tvg-name="Ha Noi vs Da Nang" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png" group-title="Chuối TV" start-time="1789906500",Ha Noi vs Da Nang - Chuối Lá [FHD] — Cúp Quốc Gia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -86,11 +86,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_1l4rjnh902z8m7v" tvg-name="Arminia Bielefeld vs Heidenheim" tvg-logo="https://static.sportsfeed.pro/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png" home-logo="https://static.sportsfeed.pro/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png" away-logo="https://static.sportsfeed.pro/football/team/65ee743f20fa7db286fdeda4d33c6980.png" group-title="Gà Vàng TV" start-time="1789903800",Arminia Bielefeld vs Heidenheim - ĐOÀN DỰ — German Bundesliga 2
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_dj2ryohl30j0q1z" tvg-name="Bournemouth vs Liverpool" tvg-logo="https://static.sportsfeed.pro/football/team/240b30d333c97d293752ab7afd77ccd6.png" home-logo="https://static.sportsfeed.pro/football/team/240b30d333c97d293752ab7afd77ccd6.png" away-logo="https://static.sportsfeed.pro/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png" group-title="Gà Vàng TV" start-time="1789909200",Bournemouth vs Liverpool - GIàng A Dân — English Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -110,6 +105,11 @@ https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_n54qllhny2wnqvy" tvg-name="Parma vs Genoa" tvg-logo="https://static.sportsfeed.pro/football/team/9fadd87d190982c8082dddf1567e0b9b.png" home-logo="https://static.sportsfeed.pro/football/team/9fadd87d190982c8082dddf1567e0b9b.png" away-logo="https://static.sportsfeed.pro/football/team/51474fb68c7da46b9c20ebddccec7766.png" group-title="Gà Vàng TV" start-time="1789909200",Parma vs Genoa - MáN NúI — Italian Serie A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_pxwrxlhyo25oryk" tvg-name="Bayer Leverkusen vs RB Leipzig" tvg-logo="https://static.sportsfeed.pro/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png" home-logo="https://static.sportsfeed.pro/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png" away-logo="https://static.sportsfeed.pro/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png" group-title="Gà Vàng TV" start-time="1789911000",Bayer Leverkusen vs RB Leipzig - khang hi — Bundesliga
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -146,10 +146,100 @@ https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_8lk2dirln5jcz73" tvg-name="CLB Bielefeld vs Heidenheimer" tvg-logo="https://img.gvapi.cc/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png!w80" home-logo="https://img.gvapi.cc/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png!w80" away-logo="https://img.gvapi.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80" group-title="Cola TV" start-time="1789903800",CLB Bielefeld vs Heidenheimer - BLV MONSTER — Giải bóng đá Hạng hai Đức
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTINF:-1 tvg-id="gavang_2y8m4zh5913lql0" tvg-name="Deportivo La Coruna vs Real Betis" tvg-logo="https://static.sportsfeed.pro/football/team/e28443c9a1a5b87394ed79c3690ebbd7.png" home-logo="https://static.sportsfeed.pro/football/team/e28443c9a1a5b87394ed79c3690ebbd7.png" away-logo="https://static.sportsfeed.pro/football/team/018e260ad68bdad741c61e3171c4c608.png" group-title="Gà Vàng TV" start-time="1789921800",Deportivo La Coruna vs Real Betis - khang hi — Spanish La Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_n54qllhn6dekqvy" tvg-name="Villarreal vs Levante" tvg-logo="https://static.sportsfeed.pro/football/team/aee62af96a956756cc29fe4831286357.png" home-logo="https://static.sportsfeed.pro/football/team/aee62af96a956756cc29fe4831286357.png" away-logo="https://static.sportsfeed.pro/football/team/13e2038bd23a38ce32a3eb259c8bf7d8.png" group-title="Gà Vàng TV" start-time="1789921800",Villarreal vs Levante - SÚP LƠ — Spanish La Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_1750yspq6xrq" tvg-name="Getafe vs Malaga" tvg-logo="https://biaomtv.link/wp-json/s8-image/a22df57c-8a21-400c-b23b-3b52717a71d5" home-logo="https://biaomtv.link/wp-json/s8-image/a22df57c-8a21-400c-b23b-3b52717a71d5" away-logo="https://biaomtv.link/wp-json/s8-image/3a9acb89-6ccf-4ef8-83b8-cbcea0d5bc0d" group-title="BiaomTV" start-time="1789905600",Getafe vs Malaga - NGƯỜI DÊ — La Liga
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/getafe-malaga-laliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_q8eqtq5s1tdw" tvg-name="Bournemouth AFC vs Liverpool" tvg-logo="https://biaomtv.link/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" home-logo="https://biaomtv.link/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" away-logo="https://biaomtv.link/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="BiaomTV" start-time="1789909200",Bournemouth AFC vs Liverpool - NGƯỜI CAT — Premier League
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/bou-liv-prem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_dmcy83fabfhx" tvg-name="Frosinone vs Como" tvg-logo="https://biaomtv.link/wp-json/s8-image/3838d10b-4f1e-41b0-b7df-179e62f79875" home-logo="https://biaomtv.link/wp-json/s8-image/3838d10b-4f1e-41b0-b7df-179e62f79875" away-logo="https://biaomtv.link/wp-json/s8-image/6205827d-017c-4d48-9ab6-f78d542aee94" group-title="BiaomTV" start-time="1789909200",Frosinone vs Como - NGƯỜI CÁO — Serie A
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/frosi-como-seriea/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_p5am9yywkyy6" tvg-name="Leeds United vs Crystal Palace" tvg-logo="https://biaomtv.link/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" home-logo="https://biaomtv.link/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" away-logo="https://biaomtv.link/wp-json/s8-image/db1111dc-5183-4114-883a-7cd4a5b2189c" group-title="BiaomTV" start-time="1789909200",Leeds United vs Crystal Palace - NGƯỜI THỎ — Premier League
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/lee-cry-prem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_dpz77acc4mhk" tvg-name="Manchester City vs Sunderland" tvg-logo="https://biaomtv.link/wp-json/s8-image/178c59d1-e702-4239-9451-186ed2002808" home-logo="https://biaomtv.link/wp-json/s8-image/178c59d1-e702-4239-9451-186ed2002808" away-logo="https://biaomtv.link/wp-json/s8-image/619c94a3-b8a2-4db8-ad9d-929867aafdf3" group-title="BiaomTV" start-time="1789909200",Manchester City vs Sunderland - NGƯỜI SÓI — Premier League
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/mnc-sun-prem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_hh0hxwem6qfn" tvg-name="OGC Nice vs LOSC Lille" tvg-logo="https://biaomtv.link/wp-json/s8-image/86d3b724-27a9-423b-b272-57cb1d22a7d0" home-logo="https://biaomtv.link/wp-json/s8-image/86d3b724-27a9-423b-b272-57cb1d22a7d0" away-logo="https://biaomtv.link/wp-json/s8-image/e0496515-ed36-4e2e-a40b-b80abc867a4e" group-title="BiaomTV" start-time="1789917300",OGC Nice vs LOSC Lille - NGƯỜI CHÈ — Ligue 1
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/nice-lille-ligue1/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_22vydwf5sspt" tvg-name="Juventus vs Atalanta" tvg-logo="https://biaomtv.link/wp-json/s8-image/357413be-2907-4271-8e1c-806ad6c542db" home-logo="https://biaomtv.link/wp-json/s8-image/357413be-2907-4271-8e1c-806ad6c542db" away-logo="https://biaomtv.link/wp-json/s8-image/f597e31d-b818-423f-bda1-ea978696619f" group-title="BiaomTV" start-time="1789920000",Juventus vs Atalanta - NGƯỜI DÊ — Serie A
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/juv-ata-seriea/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_9z9bwnaskfrc" tvg-name="Amedspor vs Besiktas JK" tvg-logo="https://biaomtv.link/wp-json/s8-image/d11fa7d5-c6d2-4136-94e8-defc94c69222" home-logo="https://biaomtv.link/wp-json/s8-image/d11fa7d5-c6d2-4136-94e8-defc94c69222" away-logo="https://biaomtv.link/wp-json/s8-image/f0d8fb72-1fa1-4eb5-a2bf-58c89d7dc933" group-title="BiaomTV" start-time="1789923600",Amedspor vs Besiktas JK - NGƯỜI THỎ — TUR Super League
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/amed-besik-tursup/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_pn56d0jxknmt" tvg-name="SC Paderborn 07 vs TSG Hoffenheim" tvg-logo="https://biaomtv.link/wp-json/s8-image/1b1baa2b-4326-4730-9459-65db959b4bda" home-logo="https://biaomtv.link/wp-json/s8-image/1b1baa2b-4326-4730-9459-65db959b4bda" away-logo="https://biaomtv.link/wp-json/s8-image/096c8493-28d8-4dfa-aa14-037734391547" group-title="BiaomTV" start-time="1789925400",SC Paderborn 07 vs TSG Hoffenheim - NGƯỜI SÓI — Bundesliga
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/pader-hoffen-bun/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_tw39w6kd0spe" tvg-name="AC Milan vs Lecce" tvg-logo="https://biaomtv.link/wp-json/s8-image/b841b930-43bf-430e-be9c-ad8b4d4fdeb8" home-logo="https://biaomtv.link/wp-json/s8-image/b841b930-43bf-430e-be9c-ad8b4d4fdeb8" away-logo="https://biaomtv.link/wp-json/s8-image/57bb610a-afa1-4fb2-9dde-8ef84e827501" group-title="BiaomTV" start-time="1789929900",AC Milan vs Lecce - NGƯỜI CHÈ — Serie A
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/milan-lecce-seriea/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_8kba6pvf51w7" tvg-name="Marseille vs Paris Saint Germain" tvg-logo="https://biaomtv.link/wp-json/s8-image/6978dc78-6ce7-494d-a352-6c9b026ec61f" home-logo="https://biaomtv.link/wp-json/s8-image/6978dc78-6ce7-494d-a352-6c9b026ec61f" away-logo="https://biaomtv.link/wp-json/s8-image/708629d1-761e-4507-aaad-1fd1509827b5" group-title="BiaomTV" start-time="1789929900",Marseille vs Paris Saint Germain - NGƯỜI CAT — Ligue 1
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/mars-psg-ligue1/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_n3chr2d7ksyw" tvg-name="Valencia CF vs Real Sociedad" tvg-logo="https://biaomtv.link/wp-json/s8-image/4ef564db-6218-466c-af18-409631532d25" home-logo="https://biaomtv.link/wp-json/s8-image/4ef564db-6218-466c-af18-409631532d25" away-logo="https://biaomtv.link/wp-json/s8-image/85e4d475-90c2-473d-ae60-e6195dd9ab33" group-title="BiaomTV" start-time="1789930800",Valencia CF vs Real Sociedad - NGƯỜI DÊ — La Liga
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/valen-socie-laliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_gbda2a2pcyg7" tvg-name="FC Porto vs Benfica" tvg-logo="https://biaomtv.link/wp-json/s8-image/43cd9b16-3e5b-4fc0-88c8-01e1a801e8cd" home-logo="https://biaomtv.link/wp-json/s8-image/43cd9b16-3e5b-4fc0-88c8-01e1a801e8cd" away-logo="https://biaomtv.link/wp-json/s8-image/93258146-5f67-4747-b4c8-51687f0b6914" group-title="BiaomTV" start-time="1789932600",FC Porto vs Benfica - NGƯỜI CÁO — Liga Portugal
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/porto-benfica-por/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_8hh7ec631qhj" tvg-name="Flamengo vs Red Bull Bragantino" tvg-logo="https://biaomtv.link/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" home-logo="https://biaomtv.link/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" away-logo="https://biaomtv.link/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="BiaomTV" start-time="1789939800",Flamengo vs Red Bull Bragantino - NGƯỜI SẮT — BRA Serie A
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/flamengo-bragantino-brasa/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_k723a2kdydpg" tvg-name="Inter Miami CF vs San Diego" tvg-logo="https://biaomtv.link/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" home-logo="https://biaomtv.link/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" away-logo="https://biaomtv.link/wp-json/s8-image/bd617032-4064-4a60-825e-49787c1747e8" group-title="BiaomTV" start-time="1789945200",Inter Miami CF vs San Diego - NGƯỜI NẶN — MLS
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/miami-sandiego-mls/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_gz3pj337dqg4" tvg-name="Toluca vs Santos Laguna" tvg-logo="https://biaomtv.link/wp-json/s8-image/3ac51242-5cd9-4f8c-b342-50352bfbb26e" home-logo="https://biaomtv.link/wp-json/s8-image/3ac51242-5cd9-4f8c-b342-50352bfbb26e" away-logo="https://biaomtv.link/wp-json/s8-image/c25175dc-9c8b-4ca8-bcfb-26e3e12a8df3" group-title="BiaomTV" start-time="1789948800",Toluca vs Santos Laguna - NGƯỜI SÓI — MEX Liga MX
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/toluca-laguna-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_vchp9fgs8h21" tvg-name="Queretaro FC vs Club Leon" tvg-logo="https://biaomtv.link/wp-json/s8-image/34facab8-e220-46ec-a23d-2393582b88fe" home-logo="https://biaomtv.link/wp-json/s8-image/34facab8-e220-46ec-a23d-2393582b88fe" away-logo="https://biaomtv.link/wp-json/s8-image/a7fde817-1251-45c0-a7c2-5fea975ab599" group-title="BiaomTV" start-time="1789956600",Queretaro FC vs Club Leon - NGƯỜI NẶN — MEX Liga MX
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/quere-leon-mexliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_o17pjioder0ty7j" tvg-name="Getafe CF vs Malaga" tvg-logo="https://img.gvapi.cc/football/team/36bf5bf0c8fdf08c1270124808f060e1.png!w80" home-logo="https://img.gvapi.cc/football/team/36bf5bf0c8fdf08c1270124808f060e1.png!w80" away-logo="https://img.gvapi.cc/football/team/9c7c68ee0cad47be69a9d57e43261484.png!w80" group-title="Cola TV" start-time="1789905600",Getafe CF vs Malaga - BLV WARRIOR — Giải Bóng đá Vô địch Quốc gia Tây Ban Nha
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
@@ -186,7 +276,7 @@ https://live05.meung.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_j374oi0ymlofgqo" tvg-name="Manchester City vs Sunderland" tvg-logo="https://img.gvapi.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" home-logo="https://img.gvapi.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" away-logo="https://img.gvapi.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png!w80" group-title="Cola TV" start-time="1789909200",Manchester City vs Sunderland - BLV Cozy — Giải bóng đá Ngoại hạng Anh
+#EXTINF:-1 tvg-id="cola_j374oi0ymlofgqo" tvg-name="Manchester City vs Sunderland" tvg-logo="https://img.gvapi.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" home-logo="https://img.gvapi.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" away-logo="https://img.gvapi.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png!w80" group-title="Cola TV" start-time="1789909200",Manchester City vs Sunderland - BLV C2 — Giải bóng đá Ngoại hạng Anh
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
