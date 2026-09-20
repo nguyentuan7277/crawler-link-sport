@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 19:00:26 20/09/2026
+## Cập nhật lúc: 19:20:36 20/09/2026
 
-#EXTINF:-1 tvg-id="cctv_997238_chuoitay" tvg-name="Japan W vs Chinese Taipei W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_e7f6fab3.png" group-title="Chuối TV" start-time="1789899600",Japan W vs Chinese Taipei W - Chuối Tây [FHD] — Asian Games Bóng Chuyền Nữ
+#EXTINF:-1 tvg-id="cctv_1636358_chuoila" tvg-name="Ha Noi vs Da Nang" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png" group-title="Chuối TV" start-time="1789906500",Ha Noi vs Da Nang - Chuối Lá [HD] — Cúp Quốc Gia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1636355_chuoichao" tvg-name="Hoang Anh Gia Lai vs Hung Yen" tvg-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png" home-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png" away-logo="https://media.api-sports.io/football/teams/28214.png" group-title="Chuối TV" start-time="1789898400",Hoang Anh Gia Lai vs Hung Yen - Chuối Chao [FHD] — Cúp Quốc Gia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1550130_chuoito" tvg-name="Fiorentina vs Napoli" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125604_de560c79.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125604_de560c79.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_1ca3923a.png" group-title="Chuối TV" start-time="1789900200",Fiorentina vs Napoli - Chuối To [FHD] — Serie A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,12 +19,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1636358_chuoila" tvg-name="Ha Noi vs Da Nang" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png" group-title="Chuối TV" start-time="1789906500",Ha Noi vs Da Nang - Chuối Lá [FHD] — Cúp Quốc Gia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1557407_chuoikem" tvg-name="Bournemouth vs Liverpool" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_e668d998.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_e668d998.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png" group-title="Chuối TV" start-time="1789909200",Bournemouth vs Liverpool - Chuối Kem [FHD] — Ngoại Hạng Anh
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -148,10 +136,10 @@ https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_a0m87g83bhsx" tvg-name="Hoang Anh Gia Lai vs Hung Yen" tvg-logo="https://biaomtv.link/wp-json/s8-image/d25e5be8-b4d6-4312-a410-1d9a48c9ec0b" home-logo="https://biaomtv.link/wp-json/s8-image/d25e5be8-b4d6-4312-a410-1d9a48c9ec0b" away-logo="https://biaomtv.link/wp-json/s8-image/61d1371e-45a6-4ab1-8db1-b028049d27cd" group-title="BiaomTV" start-time="1789898400",Hoang Anh Gia Lai vs Hung Yen - NGƯỜI SẮT — VIE National Cup
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTINF:-1 tvg-id="gavang_3glrw7hney8jqdy" tvg-name="Nice vs LOSC" tvg-logo="https://static.sportsfeed.pro/football/team/ff8991853f7aabce7cb66f09cda0c58e.png" home-logo="https://static.sportsfeed.pro/football/team/ff8991853f7aabce7cb66f09cda0c58e.png" away-logo="https://static.sportsfeed.pro/football/team/28e94925fdcc848f86a544a1cedcceed.png" group-title="Gà Vàng TV" start-time="1789917300",Nice vs LOSC - THICHDUTHU — French Ligue 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/gialai-hungyen-cqg/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_a8y80cdykc8v" tvg-name="Fiorentina vs Napoli" tvg-logo="https://biaomtv.link/wp-json/s8-image/c62ad052-6c5d-43a1-8db7-b58b1b58e1d1" home-logo="https://biaomtv.link/wp-json/s8-image/c62ad052-6c5d-43a1-8db7-b58b1b58e1d1" away-logo="https://biaomtv.link/wp-json/s8-image/c26c58d3-503a-4353-9634-9f7a68798993" group-title="BiaomTV" start-time="1789900200",Fiorentina vs Napoli - NGƯỜI THỎ — Serie A
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
@@ -173,25 +161,30 @@ https://hls.lauthaitv.cc/live/ttdn-cahn-vleague/index.m3u8|Referer=https://biaom
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/getafe-malaga-laliga/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_q8eqtq5s1tdw" tvg-name="Bournemouth AFC vs Liverpool" tvg-logo="https://biaomtv.link/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" home-logo="https://biaomtv.link/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" away-logo="https://biaomtv.link/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="BiaomTV" start-time="1789909200",Bournemouth AFC vs Liverpool - NGƯỜI CAT — Premier League
-#EXTVLCOPT:http-referrer=https://biaomtv.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/bou-liv-prem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_dmcy83fabfhx" tvg-name="Frosinone vs Como" tvg-logo="https://biaomtv.link/wp-json/s8-image/3838d10b-4f1e-41b0-b7df-179e62f79875" home-logo="https://biaomtv.link/wp-json/s8-image/3838d10b-4f1e-41b0-b7df-179e62f79875" away-logo="https://biaomtv.link/wp-json/s8-image/6205827d-017c-4d48-9ab6-f78d542aee94" group-title="BiaomTV" start-time="1789909200",Frosinone vs Como - NGƯỜI CÁO — Serie A
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/frosi-como-seriea/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_dpz77acc4mhk" tvg-name="Manchester City vs Sunderland" tvg-logo="https://biaomtv.link/wp-json/s8-image/178c59d1-e702-4239-9451-186ed2002808" home-logo="https://biaomtv.link/wp-json/s8-image/178c59d1-e702-4239-9451-186ed2002808" away-logo="https://biaomtv.link/wp-json/s8-image/619c94a3-b8a2-4db8-ad9d-929867aafdf3" group-title="BiaomTV" start-time="1789909200",Manchester City vs Sunderland - NGƯỜI SÓI — Premier League
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/mnc-sun-prem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_q8eqtq5s1tdw" tvg-name="Bournemouth AFC vs Liverpool" tvg-logo="https://biaomtv.link/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" home-logo="https://biaomtv.link/wp-json/s8-image/1f7e5b7d-381d-43b8-bf55-ea37792120cf" away-logo="https://biaomtv.link/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="BiaomTV" start-time="1789909200",Bournemouth AFC vs Liverpool - NGƯỜI CAT — Premier League
+#EXTVLCOPT:http-referrer=https://biaomtv.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/bou-liv-prem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_p5am9yywkyy6" tvg-name="Leeds United vs Crystal Palace" tvg-logo="https://biaomtv.link/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" home-logo="https://biaomtv.link/wp-json/s8-image/8af03bd8-a8e2-41cc-8ca9-bc54d5591a90" away-logo="https://biaomtv.link/wp-json/s8-image/db1111dc-5183-4114-883a-7cd4a5b2189c" group-title="BiaomTV" start-time="1789909200",Leeds United vs Crystal Palace - NGƯỜI THỎ — Premier League
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/lee-cry-prem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_dpz77acc4mhk" tvg-name="Manchester City vs Sunderland" tvg-logo="https://biaomtv.link/wp-json/s8-image/178c59d1-e702-4239-9451-186ed2002808" home-logo="https://biaomtv.link/wp-json/s8-image/178c59d1-e702-4239-9451-186ed2002808" away-logo="https://biaomtv.link/wp-json/s8-image/619c94a3-b8a2-4db8-ad9d-929867aafdf3" group-title="BiaomTV" start-time="1789909200",Manchester City vs Sunderland - NGƯỜI SÓI — Premier League
+#EXTINF:-1 tvg-id="biaom_074m20yhkjx7" tvg-name="Bayer 04 Leverkusen vs RB Leipzig" tvg-logo="https://biaomtv.link/wp-json/s8-image/1c2a4310-3097-4722-af0c-6063eb92d6dc" home-logo="https://biaomtv.link/wp-json/s8-image/1c2a4310-3097-4722-af0c-6063eb92d6dc" away-logo="https://biaomtv.link/wp-json/s8-image/faeb14eb-0989-4002-bcba-f492652adfc9" group-title="BiaomTV" start-time="1789911000",Bayer 04 Leverkusen vs RB Leipzig - NGƯỜI PHÁO — Bundesliga
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/mnc-sun-prem/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/lever-leipzig-bun/index.m3u8|Referer=https://biaomtv.link/&Origin=https://biaomtv.link&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_vhmvcqkjf01f" tvg-name="Atletico Madrid vs Real Madrid" tvg-logo="https://biaomtv.link/wp-json/s8-image/afc2c9b4-8dc2-4d1d-be66-2227dd99e271" home-logo="https://biaomtv.link/wp-json/s8-image/afc2c9b4-8dc2-4d1d-be66-2227dd99e271" away-logo="https://biaomtv.link/wp-json/s8-image/aa8e2eac-2eed-4db3-ba40-88a4c964f6d4" group-title="BiaomTV" start-time="1789913700",Atletico Madrid vs Real Madrid - NGƯỜI NẶN — La Liga
 #EXTVLCOPT:http-referrer=https://biaomtv.link/
@@ -302,3 +295,8 @@ https://live05.meung.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/97885009_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_9gklzi1g0wrim7x" tvg-name="Hà Nội vs SHB Đà Nẵng" tvg-logo="https://img.gvapi.cc/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png!w80" home-logo="https://img.gvapi.cc/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png!w80" away-logo="https://img.gvapi.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="Cola TV" start-time="1789906500",Hà Nội vs SHB Đà Nẵng - BLV SAMURAI — Cúp Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
