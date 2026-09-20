@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:20:21 21/09/2026
+## Cập nhật lúc: 05:40:16 21/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1490495_chuoichao" tvg-name="Inter Miami vs San Diego" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131613_5f2931eb.png" group-title="Chuối TV" start-time="1789945200",Inter Miami vs San Diego - Chuối Chao [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -8,15 +8,15 @@
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_pxwrxlhy0eyjryk" tvg-name="CA Rosario Central vs Argentinos Juniors" tvg-logo="https://static.sportsfeed.pro/football/team/925e9365900b159acf4493eb401fdc18.png" home-logo="https://static.sportsfeed.pro/football/team/925e9365900b159acf4493eb401fdc18.png" away-logo="https://static.sportsfeed.pro/football/team/5d8f8c8c289dbb2d67203988c8275cbc.png" group-title="Gà Vàng TV" start-time="1789934400",CA Rosario Central vs Argentinos Juniors - SiêU QuậY — Argentine Division 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_4wyrn4h6o890q86" tvg-name="CR Flamengo vs Bragantino" tvg-logo="https://static.sportsfeed.pro/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png" home-logo="https://static.sportsfeed.pro/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png" away-logo="https://static.sportsfeed.pro/football/team/9e9d18ccd36d42462fc896e22de890c2.png" group-title="Gà Vàng TV" start-time="1789939800",CR Flamengo vs Bragantino - cố tư nghiêm — Brazilian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_k82rekhg0v33rep" tvg-name="Athletico Paranaense vs Esporte Clube Bahia" tvg-logo="https://static.sportsfeed.pro/football/team/1b54e9fdbe9c936023c55299da4165b7.png" home-logo="https://static.sportsfeed.pro/football/team/1b54e9fdbe9c936023c55299da4165b7.png" away-logo="https://static.sportsfeed.pro/football/team/20456802ad5f8243dc282c4650c414e1.png" group-title="Gà Vàng TV" start-time="1789943400",Athletico Paranaense vs Esporte Clube Bahia - KAYTI — Brazilian Serie A
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_3glrw7hnp9dgqdy" tvg-name="Club Internacional de Futbol Miami vs San Diego FC" tvg-logo="https://static.sportsfeed.pro/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" home-logo="https://static.sportsfeed.pro/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" away-logo="https://static.sportsfeed.pro/football/team/4431a6b60ebf9369297717921a290687.png" group-title="Gà Vàng TV" start-time="1789945200",Club Internacional de Futbol Miami vs San Diego FC - SiêU QuậY — United States Major League Soccer
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -38,7 +38,7 @@ https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_g6763i5m36jio7r" tvg-name="Belgrano vs Estudiantes Rio Cuarto" tvg-logo="https://img.gvapi.cc/football/team/f24c6d2696f439d43875fba52100991d.png!w80" home-logo="https://img.gvapi.cc/football/team/f24c6d2696f439d43875fba52100991d.png!w80" away-logo="https://img.gvapi.cc/football/team/578175c1a0691907824154179e179ade.png!w80" group-title="Cola TV" start-time="1789942500",Belgrano vs Estudiantes Rio Cuarto — Giải Bóng đá Vô địch Quốc gia Argentina
+#EXTINF:-1 tvg-id="cola_ndqmliw3x00brkv" tvg-name="Athletico-PR vs Bahia" tvg-logo="https://img.gvapi.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80" home-logo="https://img.gvapi.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80" away-logo="https://img.gvapi.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80" group-title="Cola TV" start-time="1789943400",Athletico-PR vs Bahia - BLV AQUA — Giải bóng đá Hạng nhất Brasil
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live.dyrur1.com/live/73265344_5146a462cf4b60956f8b6d08de0d5f07_h1080p.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
