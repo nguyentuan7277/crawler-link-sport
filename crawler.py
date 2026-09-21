@@ -646,7 +646,12 @@ def fetch_matches_gavang():
 
 
 def _gavang_resolve_stream(match_page_url):
-    """Extract the first HLS player option embedded in a public match page."""
+    """Extract the first HLS player option embedded in a public match page.
+
+    Returns (stream_url, stream_name, error_detail). The caller aggregates
+    error_detail across every match into one group-level health record
+    instead of reporting per-link, since matches share the same source key.
+    """
     try:
         page = _http_get(
             match_page_url,
@@ -658,8 +663,7 @@ def _gavang_resolve_stream(match_page_url):
             timeout=15,
         )
     except Exception as e:
-        record_source_health("Gà Vàng TV stream resolver", False, str(e))
-        return None, None
+        return None, None, str(e)
 
     candidates = re.findall(
         r'data-stream-url="(https?[^\"]+?\.m3u8[^\"]*)"[^>]*data-stream-name="([^"]*)"',
@@ -667,12 +671,10 @@ def _gavang_resolve_stream(match_page_url):
         flags=re.I,
     )
     if not candidates:
-        record_source_health("Gà Vàng TV stream resolver", False, "no HLS player URL")
-        return None, None
+        return None, None, "no HLS player URL"
 
     stream_url, stream_name = candidates[0]
-    record_source_health("Gà Vàng TV stream resolver", True)
-    return html_lib.unescape(stream_url), _gavang_text(stream_name)
+    return html_lib.unescape(stream_url), _gavang_text(stream_name), None
 
 
 def build_channels_gavang(matches):
@@ -685,7 +687,23 @@ def build_channels_gavang(matches):
         resolved_streams = list(
             pool.map(lambda match: _gavang_resolve_stream(match["page_url"]), matches)
         )
-    for match, (stream_url, stream_name) in zip(matches, resolved_streams):
+
+    failures = [
+        f"{match['home']} vs {match['away']}: {error}"
+        for match, (_, _, error) in zip(matches, resolved_streams)
+        if error
+    ]
+    if matches:
+        if failures:
+            record_source_health(
+                "Gà Vàng TV stream resolver",
+                False,
+                f"{len(failures)}/{len(matches)} link lỗi — " + "; ".join(failures),
+            )
+        else:
+            record_source_health("Gà Vàng TV stream resolver", True)
+
+    for match, (stream_url, stream_name, _) in zip(matches, resolved_streams):
         if not stream_url:
             continue
         time_vn = format_time_vn_unix(match["start_time"])
