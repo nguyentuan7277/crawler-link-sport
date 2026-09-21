@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 14:40:08 21/09/2026
+## Cập nhật lúc: 15:00:06 21/09/2026
 
-#EXTINF:-1 tvg-id="cctv_999112_chuoikem" tvg-name="Thailand W vs China W" tvg-logo="https://media.chuoichientv.net/media/20250829_081520_6f8a2bf2.gif" home-logo="https://media.chuoichientv.net/media/20250829_081520_6f8a2bf2.gif" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png" group-title="Chuối TV" start-time="1789974000",Thailand W vs China W - Chuối Kem [FHD] — Asian Games Bóng Chuyền Nữ
+#EXTINF:-1 tvg-id="cctv_999112_chuoikem" tvg-name="Thailand W vs China W" tvg-logo="https://media.chuoichientv.net/media/20250829_081520_6f8a2bf2.gif" home-logo="https://media.chuoichientv.net/media/20250829_081520_6f8a2bf2.gif" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png" group-title="Chuối TV" start-time="1789974000",Thailand W vs China W - Chuối Kem [HD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1639558_chuoito" tvg-name="China W vs Philippines W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142851_8f44d2ed.png" group-title="Chuối TV" start-time="1789974000",China W vs Philippines W - Chuối To [FHD] — Asian Games Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -114,11 +114,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_k82rekhgl5e5rep" tvg-name="Khovd Western vs Erchim" tvg-logo="https://static.sportsfeed.pro/football/team/9ae36debba0abd59c01de2e60fc42648.png" home-logo="https://static.sportsfeed.pro/football/team/9ae36debba0abd59c01de2e60fc42648.png" away-logo="https://static.sportsfeed.pro/football/team/c8188e3985db5cee9be1f4ea436f2fc2.png" group-title="Gà Vàng TV" start-time="1789977600",Khovd Western vs Erchim - Cá MậP — Mongolia Premier League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_4wyrn4h637p1q86" tvg-name="Japan(w) vs Chinese Taipei(w)" tvg-logo="https://img.thesports.com/football/team/871d73474b2d6b307fe3862403e9c77d.png" home-logo="https://img.thesports.com/football/team/871d73474b2d6b307fe3862403e9c77d.png" away-logo="https://img.thesports.com/football/team/3d4ad435b12dd385892cc0291f6290c9.png" group-title="Gà Vàng TV" start-time="1789986600",Japan(w) vs Chinese Taipei(w) - SAITAMA — OCA Women's Asian Games
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
