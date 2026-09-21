@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 02:00:09 22/09/2026
+## Cập nhật lúc: 02:20:07 22/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1493137_chuoichao" tvg-name="Aldosivi vs Atletico Tucuman" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130353_4aab4f40.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130353_4aab4f40.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132723_cd09ca5d.png" group-title="Chuối TV" start-time="1790011800",Aldosivi vs Atletico Tucuman - Chuối Chao [FHD] — VĐQG Argentina
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +19,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_999676_chuoitay" tvg-name="Kazakhstan W vs Vietnam W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" away-logo="https://media.chuoichientv.net/media/20250826_164900_cfcedb98.png" group-title="Chuối TV" start-time="1790038800",Kazakhstan W vs Vietnam W - Chuối Tây [FHD] — Asian Games Bóng Chuyền Nữ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1603371_chuoito" tvg-name="Santos Laguna W vs Cruz Azul W" tvg-logo="https://media.chuoichientv.net/media/20250916_004011_bb3475cd.png" home-logo="https://media.chuoichientv.net/media/20250916_004011_bb3475cd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_143654_72f0bbb2.png" group-title="Chuối TV" start-time="1790039160",Santos Laguna W vs Cruz Azul W - Chuối To [FHD] — VĐQG Nữ Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
