@@ -711,93 +711,109 @@ def build_channels_gavang(matches):
 # ---------------------------------------------------------------------------
 # BiaomTV
 # ---------------------------------------------------------------------------
-BIAOM_SITE_URL = "https://biaomtv.link"
+# BiaomTV's old domain (biaomtv.link) and WordPress JSON API are gone; the
+# site was rebuilt on Next.js at biaomtv18.com. There is no separate JSON API
+# anymore — the /live page is server-rendered with the fixture list (including
+# the resolved HLS URLs) embedded inline as a React Server Component payload,
+# so we extract it from the HTML instead.
+BIAOM_SITE_URL = "https://biaomtv18.com"
 BIAOM_REFERER = f"{BIAOM_SITE_URL}/"
 BIAOM_ORIGIN = BIAOM_SITE_URL
-BIAOM_FIXTURES_URL = f"{BIAOM_SITE_URL}/wp-json/s8-live/v1/fixtures"
-BIAOM_FIXTURE_URL = f"{BIAOM_SITE_URL}/wp-json/s8-live/v1/fixture"
+BIAOM_LIVE_PAGE_URL = f"{BIAOM_SITE_URL}/live"
 BIAOM_SOURCE_TAG = "BiaomTV"
+_BIAOM_RSC_CHUNK_RE = re.compile(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)', re.S)
 
 
-def _biaom_time(value):
-    """Convert Biaom's timezone-less ISO fixture time to Vietnam time."""
+def _biaom_extract_json_array(text, key):
+    """Bracket-match the `"<key>":[...]` array value inside an RSC text chunk."""
+    marker = f'"{key}":['
+    idx = text.find(marker)
+    if idx == -1:
+        return None
+    start = idx + len(marker) - 1  # index of the opening '['
+    depth = 0
+    in_str = False
+    esc = False
+    for i in range(start, len(text)):
+        ch = text[i]
+        if in_str:
+            if esc:
+                esc = False
+            elif ch == "\\":
+                esc = True
+            elif ch == '"':
+                in_str = False
+            continue
+        if ch == '"':
+            in_str = True
+        elif ch == "[":
+            depth += 1
+        elif ch == "]":
+            depth -= 1
+            if depth == 0:
+                return text[start:i + 1]
+    return None
+
+
+def _biaom_iso_time(value):
+    """Convert BiaomTV's ISO-8601 (UTC) fixture time to a unix timestamp."""
     try:
-        return datetime.strptime(value, "%Y-%m-%dT%H:%M:%S").replace(
-            tzinfo=timezone(timedelta(hours=7))
-        ).timestamp()
+        return datetime.fromisoformat(value).timestamp()
     except (TypeError, ValueError):
         return None
 
 
 def fetch_matches_biaom():
-    """Fetch active football fixtures from BiaomTV's public WordPress API."""
+    """Fetch live/upcoming fixtures embedded in BiaomTV's server-rendered /live page."""
     try:
-        payload = json.loads(
-            _http_get(BIAOM_FIXTURES_URL, referer=BIAOM_REFERER, origin=BIAOM_ORIGIN)
+        html = _http_get(
+            BIAOM_LIVE_PAGE_URL, referer=BIAOM_REFERER, origin=BIAOM_ORIGIN, timeout=15
         )
     except Exception as e:
-        record_source_health("BiaomTV fixtures API", False, str(e))
+        record_source_health("BiaomTV live page", False, str(e))
         print(f"[-] [BiaomTV] Lỗi gọi API lịch thi đấu: {e}", file=sys.stderr)
         return []
 
-    fixtures = payload.get("data", []) if isinstance(payload, dict) else []
-    matches = [
-        fixture for fixture in fixtures
-        if isinstance(fixture, dict) and fixture.get("id") and fixture.get("is_active")
-    ]
-    record_source_health("BiaomTV fixtures API", True)
+    matches = []
+    for chunk in _BIAOM_RSC_CHUNK_RE.findall(html):
+        if "initialData" not in chunk:
+            continue
+        try:
+            text = json.loads('"' + chunk + '"')  # un-escape the JS string literal
+        except (ValueError, json.JSONDecodeError):
+            continue
+        array_text = _biaom_extract_json_array(text, "initialData")
+        if not array_text:
+            continue
+        try:
+            data = json.loads(array_text)
+        except (ValueError, json.JSONDecodeError):
+            continue
+        matches.extend(item for item in data if isinstance(item, dict) and item.get("matchId"))
+
+    if not matches:
+        record_source_health("BiaomTV live page", False, "no matches found in page payload")
+        return []
+    record_source_health("BiaomTV live page", True)
     return matches
 
 
-def _biaom_fetch_fixture(fixture):
-    """The detail endpoint exposes the signed/active HLS URL for a fixture."""
-    fixture_id = fixture["id"]
-    try:
-        payload = json.loads(_http_get(
-            f"{BIAOM_FIXTURE_URL}/{urllib.parse.quote(str(fixture_id))}",
-            referer=BIAOM_REFERER,
-            origin=BIAOM_ORIGIN,
-            timeout=15,
-        ))
-        detail = payload.get("data", {}) if isinstance(payload, dict) else {}
-    except Exception as e:
-        record_source_health("BiaomTV fixture API", False, str(e))
-        return None
-
-    streams = detail.get("streams", []) if isinstance(detail, dict) else []
-    stream = next(
-        (
-            item for item in streams
-            if isinstance(item, dict)
-            and item.get("is_active")
-            and str(item.get("link_m3u8") or "").startswith("http")
-        ),
-        None,
-    )
-    if not stream:
-        record_source_health("BiaomTV fixture API", False, "no active HLS URL")
-        return None
-    record_source_health("BiaomTV fixture API", True)
-    return detail, stream
-
-
 def build_channels_biaom(matches):
-    """Resolve BiaomTV fixture details concurrently into playable channels."""
+    """Map BiaomTV's embedded fixture payloads into playable channels."""
     channels = []
-    with ThreadPoolExecutor(max_workers=12) as pool:
-        details = list(pool.map(_biaom_fetch_fixture, matches))
-
-    for fixture, resolved in zip(matches, details):
-        if not resolved:
+    now = time.time()
+    for fixture in matches:
+        stream_url = fixture.get("mobileStreamUrl")
+        if not str(stream_url or "").startswith("http"):
             continue
-        detail, stream = resolved
-        home = detail.get("left_club", {}) or {}
-        away = detail.get("right_club", {}) or {}
-        competition = detail.get("competition", {}) or {}
-        start_time = _biaom_time(detail.get("time"))
-        live = detail.get("time_type") == "truc_tiep"
-        commentator = (stream.get("commentator") or {}).get("name") or ""
-        home_logo = home.get("avatar_url") or detail.get("thumbnail_url") or DEFAULT_LOGO
+        match = fixture.get("match") or {}
+        home = match.get("home") or {}
+        away = match.get("away") or {}
+        league = match.get("league") or {}
+        start_time = _biaom_iso_time(match.get("starting_at"))
+        live = start_time is not None and start_time <= now
+        commentator = (fixture.get("streamer") or {}).get("displayName") or ""
+        home_logo = home.get("image_url") or DEFAULT_LOGO
         channels.append({
             "source_tag": BIAOM_SOURCE_TAG,
             "status_prefix": "● [LIVE] " if live else f"[{format_time_vn_unix(start_time)}] ",
@@ -805,11 +821,11 @@ def build_channels_biaom(matches):
             "away": away.get("name") or "Đội khách",
             "logo": home_logo,
             "home_logo": home_logo,
-            "away_logo": away.get("avatar_url") or "",
-            "league": competition.get("name") or "Bóng Đá",
+            "away_logo": away.get("image_url") or "",
+            "league": league.get("name") or "Bóng Đá",
             "channel_suffix": f" - {commentator}" if commentator else "",
-            "tvg_id": f"biaom_{detail.get('id') or fixture['id']}",
-            "stream_url": stream["link_m3u8"],
+            "tvg_id": f"biaom_{fixture.get('matchId') or fixture.get('id')}",
+            "stream_url": stream_url,
             "referer": BIAOM_REFERER,
             "origin": BIAOM_ORIGIN,
             "start_time": start_time,
