@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:20:06 21/09/2026
+## Cập nhật lúc: 16:40:06 21/09/2026
 
-#EXTINF:-1 tvg-id="cctv_999112_chuoikem" tvg-name="Thailand W vs China W" tvg-logo="https://media.chuoichientv.net/media/20250829_081520_6f8a2bf2.gif" home-logo="https://media.chuoichientv.net/media/20250829_081520_6f8a2bf2.gif" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png" group-title="Chuối TV" start-time="1789974000",Thailand W vs China W - Chuối Kem [HD] — Asian Games Bóng Chuyền Nữ
+#EXTINF:-1 tvg-id="cctv_999112_chuoikem" tvg-name="Thailand W vs China W" tvg-logo="https://media.chuoichientv.net/media/20250829_081520_6f8a2bf2.gif" home-logo="https://media.chuoichientv.net/media/20250829_081520_6f8a2bf2.gif" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png" group-title="Chuối TV" start-time="1789974000",Thailand W vs China W - Chuối Kem [FHD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_992222_chuoikem" tvg-name="Japan W vs South Korea W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_9a7711e0.png" group-title="Chuối TV" start-time="1789986000",Japan W vs South Korea W - Chuối Kem [FHD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -152,3 +152,8 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk0ODg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1NDA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnF0dnFmZ2l1dGk4ZjJyZTh2MHZrNzBkMg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jr7o9s3gxxltg70" tvg-name="Tasmania JackJumpers vs South East Melbourne" tvg-logo="https://img.gvapi.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80" home-logo="https://img.gvapi.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80" away-logo="https://img.gvapi.cc/basketball/team/fb957ad093d309e8c337aeb83ebe7857.png!w80" group-title="Cola TV" start-time="1789983000",Tasmania JackJumpers vs South East Melbourne - BLV Cozy — Liên đoàn Bóng rổ Quốc gia Úc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
