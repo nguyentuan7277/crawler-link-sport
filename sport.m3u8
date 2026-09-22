@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 03:40:10 23/09/2026
+## Cập nhật lúc: 04:00:15 23/09/2026
+
+#EXTINF:-1 tvg-id="cctv_1549638_troctru" tvg-name="Ind. Yumbo vs Internacional Palmira" tvg-logo="https://media.api-sports.io/football/teams/27411.png" home-logo="https://media.api-sports.io/football/teams/27411.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133659_4ae3317f.png" group-title="Chuối TV" start-time="1790110800",Ind. Yumbo vs Internacional Palmira - Trốc Tru [FULL HD] — Hạng 2 Colombia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1638288_chuoinho" tvg-name="Arsenal W vs Køge" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_10ca77e6.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_10ca77e6.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_141851_d76a5e07.png" group-title="Chuối TV" start-time="1790103600",Arsenal W vs Køge - Chuối Nhỏ [FHD1] — UEFA Champions League Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -20,12 +26,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1549638_troctru" tvg-name="Ind. Yumbo vs Internacional Palmira" tvg-logo="https://media.api-sports.io/football/teams/27411.png" home-logo="https://media.api-sports.io/football/teams/27411.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133659_4ae3317f.png" group-title="Chuối TV" start-time="1790110800",Ind. Yumbo vs Internacional Palmira - Trốc Tru [FULL HD] — Hạng 2 Colombia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cctv_1549790_chuoikem" tvg-name="Atlético Nacional vs Jaguares" tvg-logo="https://media.chuoichientv.net/media/20260917_012723_b0cd7a48.png" home-logo="https://media.chuoichientv.net/media/20260917_012723_b0cd7a48.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_50dbb307.png" group-title="Chuối TV" start-time="1790118000",Atlético Nacional vs Jaguares - Chuối Kem [FHD] — VĐQG Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -37,21 +37,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_vjxm8ghkvg15r6o" tvg-name="Arsenal(w) vs HB Koge Woman's(w)" tvg-logo="https://static.sportsfeed.pro/football/team/b61190e348449a746ef3f802e7ebc701.png" home-logo="https://static.sportsfeed.pro/football/team/b61190e348449a746ef3f802e7ebc701.png" away-logo="https://static.sportsfeed.pro/football/team/31dc5c767bfeeba8745f8170e7c278e4.png" group-title="Gà Vàng TV" start-time="1790103600",Arsenal(w) vs HB Koge Woman's(w) - khang hi — UEFA Women's Champions League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_y0or5jh9x4p8qwz" tvg-name="Real Madrid(w) vs Paris Saint Germain(w)" tvg-logo="https://static.sportsfeed.pro/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png" home-logo="https://static.sportsfeed.pro/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png" away-logo="https://static.sportsfeed.pro/football/team/9b531be11cb41d4f7999fc91a943c75f.png" group-title="Gà Vàng TV" start-time="1790103600",Real Madrid(w) vs Paris Saint Germain(w) - RIO — UEFA Women's Champions League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_vjxm8ghey655r6o" tvg-name="Puerto Montt vs Nublense" tvg-logo="https://static.sportsfeed.pro/football/team/3667bc15da8d0df12ea9f51d73627b07.png" home-logo="https://static.sportsfeed.pro/football/team/3667bc15da8d0df12ea9f51d73627b07.png" away-logo="https://static.sportsfeed.pro/football/team/1cc8fde7becd389f88e35e0b498202bd.png" group-title="Gà Vàng TV" start-time="1790110800",Puerto Montt vs Nublense - MáN NúI — Chilean Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_318q66hxpwy8qo9" tvg-name="Medellin Independiente vs Jaguares de Cordoba" tvg-logo="https://static.sportsfeed.pro/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png" home-logo="https://static.sportsfeed.pro/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png" away-logo="https://static.sportsfeed.pro/football/team/b7f3a068b301edd82ad4c56496f41063.png" group-title="Gà Vàng TV" start-time="1790118000",Medellin Independiente vs Jaguares de Cordoba - MeoMeo — Categoría Primera A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -132,13 +117,3 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnp
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1Mzc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmdjdHN1YTFycHNnZndzc2RuaGswdWl6bg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_527r3i309dnu47e" tvg-name="Juventus Nữ vs CF Benfica Nữ" tvg-logo="https://img.gvapi.cc/football/team/d7e0dd2c30416452115958332ba7c4ee.png!w80" home-logo="https://img.gvapi.cc/football/team/d7e0dd2c30416452115958332ba7c4ee.png!w80" away-logo="https://img.gvapi.cc/football/team/20323c2d83190ea6fcde6b23e9e2ff0e.png!w80" group-title="Cola TV" start-time="1790103600",Juventus Nữ vs CF Benfica Nữ - BLV WARRIOR — Champions League Nữ
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_wv78xi12d4vtokr" tvg-name="Real Madrid Nữ vs Paris Saint Germain nữ" tvg-logo="https://img.gvapi.cc/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png!w80" home-logo="https://img.gvapi.cc/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png!w80" away-logo="https://img.gvapi.cc/football/team/9b531be11cb41d4f7999fc91a943c75f.png!w80" group-title="Cola TV" start-time="1790103600",Real Madrid Nữ vs Paris Saint Germain nữ - BLV REVIVE — Champions League Nữ
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
