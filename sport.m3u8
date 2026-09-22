@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:40:32 23/09/2026
+## Cập nhật lúc: 02:00:17 23/09/2026
+
+#EXTINF:-1 tvg-id="cctv_1638288_chuoinho" tvg-name="Arsenal W vs Køge" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_10ca77e6.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_10ca77e6.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_141851_d76a5e07.png" group-title="Chuối TV" start-time="1790103600",Arsenal W vs Køge - Chuối Nhỏ [HD1] — UEFA Champions League Women
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1638310_chuoito" tvg-name="Juventus W vs SL Benfica" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133740_c11c4866.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133740_c11c4866.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_140514_34a14d54.png" group-title="Chuối TV" start-time="1790103600",Juventus W vs SL Benfica - Chuối To [FHD] — UEFA Champions League Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -13,24 +19,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1638309_chuoila" tvg-name="Inter Milano W vs Häcken" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133743_9c285531.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133743_9c285531.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_140517_72f0bbb2.png" group-title="Chuối TV" start-time="1790095500",Inter Milano W vs Häcken - Chuối Lá [FHD] — UEFA Champions League Women
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1602489_chuoitay" tvg-name="ASA Targu Mures vs CS Dinamo București" tvg-logo="https://media.api-sports.io/football/teams/2590.png" home-logo="https://media.api-sports.io/football/teams/2590.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142615_78e6132b.png" group-title="Chuối TV" start-time="1790096400",ASA Targu Mures vs CS Dinamo București - Chuối Tây [FHD] — Hạng 2 Roma
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1638288_chuoinho" tvg-name="Arsenal W vs Køge" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_10ca77e6.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_10ca77e6.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_141851_d76a5e07.png" group-title="Chuối TV" start-time="1790103600",Arsenal W vs Køge - Chuối Nhỏ [FHD1] — UEFA Champions League Women
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1549638_troctru" tvg-name="Ind. Yumbo vs Internacional Palmira" tvg-logo="https://media.api-sports.io/football/teams/27411.png" home-logo="https://media.api-sports.io/football/teams/27411.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133659_4ae3317f.png" group-title="Chuối TV" start-time="1790110800",Ind. Yumbo vs Internacional Palmira - Trốc Tru [FULL HD] — Hạng 2 Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -49,31 +37,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_pxwrxlhy4000ryk" tvg-name="FCM Targu Mures vs CS Dinamo Bucuresti" tvg-logo="https://static.sportsfeed.pro/football/team/2a71ece3bf494abaefee6aea5ff7b03c.png" home-logo="https://static.sportsfeed.pro/football/team/2a71ece3bf494abaefee6aea5ff7b03c.png" away-logo="https://static.sportsfeed.pro/football/team/38f47a9528dd7f64ad462f6d9b26170e.png" group-title="Gà Vàng TV" start-time="1790096400",FCM Targu Mures vs CS Dinamo Bucuresti - SAITAMA — Romanian Liga II
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_318q66hx54jzqo9" tvg-name="Chippenham Town vs Sholing FC" tvg-logo="https://static.sportsfeed.pro/football/team/fc1058cec3d351fba91d807a660d0bda.png" home-logo="https://static.sportsfeed.pro/football/team/fc1058cec3d351fba91d807a660d0bda.png" away-logo="https://static.sportsfeed.pro/football/team/48a121f4db02e8434d4708b78b6abcbc.png" group-title="Gà Vàng TV" start-time="1790102700",Chippenham Town vs Sholing FC - THICHDUTHU — English Southern Football League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_vjxm8ghkvg15r6o" tvg-name="Arsenal(w) vs HB Koge Woman's(w)" tvg-logo="https://static.sportsfeed.pro/football/team/b61190e348449a746ef3f802e7ebc701.png" home-logo="https://static.sportsfeed.pro/football/team/b61190e348449a746ef3f802e7ebc701.png" away-logo="https://static.sportsfeed.pro/football/team/31dc5c767bfeeba8745f8170e7c278e4.png" group-title="Gà Vàng TV" start-time="1790103600",Arsenal(w) vs HB Koge Woman's(w) - khang hi — UEFA Women's Champions League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_y0or5jh82zoeqwz" tvg-name="MC Alger vs MC Oran" tvg-logo="https://static.sportsfeed.pro/football/team/8ee7f1663d574c265679291caa50394c.png" home-logo="https://static.sportsfeed.pro/football/team/8ee7f1663d574c265679291caa50394c.png" away-logo="https://static.sportsfeed.pro/football/team/e3c9b4e4792a0cf4ac4629b52f338252.png" group-title="Gà Vàng TV" start-time="1790103600",MC Alger vs MC Oran - A Long — Algerian Ligue Professionnelle 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_y0or5jh9x4p8qwz" tvg-name="Real Madrid(w) vs Paris Saint Germain(w)" tvg-logo="https://static.sportsfeed.pro/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png" home-logo="https://static.sportsfeed.pro/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png" away-logo="https://static.sportsfeed.pro/football/team/9b531be11cb41d4f7999fc91a943c75f.png" group-title="Gà Vàng TV" start-time="1790103600",Real Madrid(w) vs Paris Saint Germain(w) - RIO — UEFA Women's Champions League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_vjxm8ghey655r6o" tvg-name="Puerto Montt vs Nublense" tvg-logo="https://static.sportsfeed.pro/football/team/3667bc15da8d0df12ea9f51d73627b07.png" home-logo="https://static.sportsfeed.pro/football/team/3667bc15da8d0df12ea9f51d73627b07.png" away-logo="https://static.sportsfeed.pro/football/team/1cc8fde7becd389f88e35e0b498202bd.png" group-title="Gà Vàng TV" start-time="1790110800",Puerto Montt vs Nublense - MáN NúI — Chilean Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -164,3 +127,13 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1Mzc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omd
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_527r3i309dnu47e" tvg-name="Juventus Nữ vs CF Benfica Nữ" tvg-logo="https://img.gvapi.cc/football/team/d7e0dd2c30416452115958332ba7c4ee.png!w80" home-logo="https://img.gvapi.cc/football/team/d7e0dd2c30416452115958332ba7c4ee.png!w80" away-logo="https://img.gvapi.cc/football/team/20323c2d83190ea6fcde6b23e9e2ff0e.png!w80" group-title="Cola TV" start-time="1790103600",Juventus Nữ vs CF Benfica Nữ - BLV WARRIOR — Champions League Nữ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/97885009_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_wv78xi12d4vtokr" tvg-name="Real Madrid Nữ vs Paris Saint Germain nữ" tvg-logo="https://img.gvapi.cc/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png!w80" home-logo="https://img.gvapi.cc/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png!w80" away-logo="https://img.gvapi.cc/football/team/9b531be11cb41d4f7999fc91a943c75f.png!w80" group-title="Cola TV" start-time="1790103600",Real Madrid Nữ vs Paris Saint Germain nữ - BLV REVIVE — Champions League Nữ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
