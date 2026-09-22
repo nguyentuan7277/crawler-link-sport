@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:20:22 23/09/2026
-
-#EXTINF:-1 tvg-id="cctv_994073_chuoikem" tvg-name="Poland vs Germany" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png" group-title="Chuối TV" start-time="1790092800",Poland vs Germany - Chuối Kem [HD] — Vô địch Châu Âu Bóng Chuyền
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 00:40:18 23/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1638300_chuoichao" tvg-name="Bayern Munich W vs Manchester City W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133734_909d7704.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133734_909d7704.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133729_6895ba43.png" group-title="Chuối TV" start-time="1790095500",Bayern Munich W vs Manchester City W - Chuối Chao [FHD] — UEFA Champions League Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -44,7 +38,7 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1549635_troctru" tvg-name="Depor FC vs Tigres FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133657_d23d37d5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133657_d23d37d5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133654_ff205dcb.png" group-title="Chuối TV" start-time="1790110800",Depor FC vs Tigres FC - Trốc Tru [FULL HD] — Hạng 2 Colombia
+#EXTINF:-1 tvg-id="cctv_1549638_troctru" tvg-name="Ind. Yumbo vs Internacional Palmira" tvg-logo="https://media.api-sports.io/football/teams/27411.png" home-logo="https://media.api-sports.io/football/teams/27411.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133659_4ae3317f.png" group-title="Chuối TV" start-time="1790110800",Ind. Yumbo vs Internacional Palmira - Trốc Tru [FULL HD] — Hạng 2 Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
@@ -66,6 +60,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_pxwrxlhy4000ryk" tvg-name="FCM Targu Mures vs CS Dinamo Bucuresti" tvg-logo="https://static.sportsfeed.pro/football/team/2a71ece3bf494abaefee6aea5ff7b03c.png" home-logo="https://static.sportsfeed.pro/football/team/2a71ece3bf494abaefee6aea5ff7b03c.png" away-logo="https://static.sportsfeed.pro/football/team/38f47a9528dd7f64ad462f6d9b26170e.png" group-title="Gà Vàng TV" start-time="1790096400",FCM Targu Mures vs CS Dinamo Bucuresti - SAITAMA — Romanian Liga II
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_318q66hxldv7qo9" tvg-name="HHC Hardenberg vs Barendrecht" tvg-logo="https://static.sportsfeed.pro/football/team/7c1c04a89ee38a93fd4f156d597bfec1.png" home-logo="https://static.sportsfeed.pro/football/team/7c1c04a89ee38a93fd4f156d597bfec1.png" away-logo="https://static.sportsfeed.pro/football/team/eb3ef9da284ec00eed3eb2a6ff122142.png" group-title="Gà Vàng TV" start-time="1790100000",HHC Hardenberg vs Barendrecht - MáN NúI — Netherlands KNVB Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -186,11 +185,6 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnp
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1Mzc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmdjdHN1YTFycHNnZndzc2RuaGswdWl6bg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_jek33i8zgm5s9ko" tvg-name="Học viện Viseu U23 vs Estoril U23" tvg-logo="https://img.gvapi.cc/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png!w80" home-logo="https://img.gvapi.cc/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png!w80" away-logo="https://img.gvapi.cc/football/team/32939cf38aa70bf3de1c06833da6bc50.png!w80" group-title="Cola TV" start-time="1790092800",Học viện Viseu U23 vs Estoril U23 - BLV MONSTER — Giải bóng đá U23 Bồ Đào Nha
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_jr7owiyxlgmfgq0" tvg-name="CLB nữ Bayern Munchen vs Manchester City Nữ" tvg-logo="https://img.gvapi.cc/football/team/57ec3afbec462319117d3d7f90f746db.png!w80" home-logo="https://img.gvapi.cc/football/team/57ec3afbec462319117d3d7f90f746db.png!w80" away-logo="https://img.gvapi.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="Cola TV" start-time="1790095500",CLB nữ Bayern Munchen vs Manchester City Nữ - BLV GIÀ LÀNG — Champions League Nữ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
