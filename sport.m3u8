@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:20:16 22/09/2026
+## Cập nhật lúc: 23:41:05 22/09/2026
 
 #EXTINF:-1 tvg-id="cctv_994073_chuoikem" tvg-name="Poland vs Germany" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png" group-title="Chuối TV" start-time="1790092800",Poland vs Germany - Chuối Kem [HD] — Vô địch Châu Âu Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1602487_chuoinho" tvg-name="Dumbrăviţa vs CSM Reşiţa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133923_619d029e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133923_619d029e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133920_951b2699.png" group-title="Chuối TV" start-time="1790087400",Dumbrăviţa vs CSM Reşiţa - Chuối Nhỏ [FHD1] — Hạng 2 Roma
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1638300_chuoichao" tvg-name="Bayern Munich W vs Manchester City W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133734_909d7704.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133734_909d7704.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133729_6895ba43.png" group-title="Chuối TV" start-time="1790095500",Bayern Munich W vs Manchester City W - Chuối Chao [FHD] — UEFA Champions League Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -74,6 +68,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_pxwrxlhlp14eryk" tvg-name="Bayern Munchen(w) vs Manchester City(w)" tvg-logo="https://static.sportsfeed.pro/football/team/57ec3afbec462319117d3d7f90f746db.png" home-logo="https://static.sportsfeed.pro/football/team/57ec3afbec462319117d3d7f90f746db.png" away-logo="https://static.sportsfeed.pro/football/team/c4a6528a2ee147b99c9885ef24385a4e.png" group-title="Gà Vàng TV" start-time="1790095500",Bayern Munchen(w) vs Manchester City(w) - Lữ Bố.vip — UEFA Women's Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19879495" tvg-name="Bayern Munich W vs Manchester City W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bayern-munich-w-134476" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bayern-munich-w-134476" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-w-59584" group-title="BiaomTV" start-time="1790095500",Bayern Munich W vs Manchester City W - TRÚC BẠCH — C1 Châu Âu (Nữ)
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -134,12 +133,32 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1Mzk6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1Mzk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmMzd3B3dHFkZHVoMTQ5dWd5ZnRyMWgxbA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_vmqy9iv1ooyagk9" tvg-name="CLB ACS Dumbravita vs Scolar Resita" tvg-logo="https://img.gvapi.cc/football/team/4b49d2a284ebe78ab1b7351a8266831d.png!w80" home-logo="https://img.gvapi.cc/football/team/4b49d2a284ebe78ab1b7351a8266831d.png!w80" away-logo="https://img.gvapi.cc/football/team/c6c5bb133999f12570e9c2dd4b1d69a6.png!w80" group-title="Cola TV" start-time="1790087400",CLB ACS Dumbravita vs Scolar Resita - BLV STING — Giải hạng 2 Romania
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTINF:-1 tvg-id="biaom_19879538" tvg-name="Servette Chênois W vs Lyon W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/servette-chenois-w-230696" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/servette-chenois-w-230696" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ol-lyonnes-w-134467" group-title="BiaomTV" start-time="1790181900",Servette Chênois W vs Lyon W - NEM NƯỚNG  — C1 Châu Âu (Nữ)
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/14707124_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4Nzk1Mzg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om15eW5scjdjaGxuenp6cDVwN2x5b3g5dQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_jek33i8zgm5s9ko" tvg-name="Học viện Viseu U23 vs Estoril U23" tvg-logo="https://img.gvapi.cc/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png!w80" home-logo="https://img.gvapi.cc/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png!w80" away-logo="https://img.gvapi.cc/football/team/32939cf38aa70bf3de1c06833da6bc50.png!w80" group-title="Cola TV" start-time="1790092800",Học viện Viseu U23 vs Estoril U23 - BLV MONSTER — Giải bóng đá U23 Bồ Đào Nha
+#EXTINF:-1 tvg-id="biaom_19879536" tvg-name="Barcelona W vs Paris W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/barcelona-w-134470" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/barcelona-w-134470" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-w-230767" group-title="BiaomTV" start-time="1790190000",Barcelona W vs Paris W - Lẩu Ếch — C1 Châu Âu (Nữ)
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmQ5MHZjMTBoMXdzNjN2anUybXFnODZzNA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19879536" tvg-name="Barcelona W vs Paris W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/barcelona-w-134470" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/barcelona-w-134470" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-w-230767" group-title="BiaomTV" start-time="1790190000",Barcelona W vs Paris W - TRÚC BẠCH — C1 Châu Âu (Nữ)
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnp3cjRsZjJyN3VhYW9xaWtvZ29menh2bw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19879537" tvg-name="Chelsea W vs Austria Wien W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-w-59583" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-w-59583" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/austria-wien-w-264551" group-title="BiaomTV" start-time="1790190000",Chelsea W vs Austria Wien W - NEM NƯỚNG  — C1 Châu Âu (Nữ)
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4Nzk1Mzc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmdjdHN1YTFycHNnZndzc2RuaGswdWl6bg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_9gklzi5lyxrfm7x" tvg-name="Inter Nữ vs Hacken Nữ" tvg-logo="https://img.gvapi.cc/football/team/ece43223dd5ca95c06190d491a8238e1.png!w80" home-logo="https://img.gvapi.cc/football/team/ece43223dd5ca95c06190d491a8238e1.png!w80" away-logo="https://img.gvapi.cc/football/team/e121cced31de682c590d3305327061df.png!w80" group-title="Cola TV" start-time="1790095500",Inter Nữ vs Hacken Nữ - BLV 247 — Champions League Nữ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jr7owiyxlgmfgq0" tvg-name="CLB nữ Bayern Munchen vs Manchester City Nữ" tvg-logo="https://img.gvapi.cc/football/team/57ec3afbec462319117d3d7f90f746db.png!w80" home-logo="https://img.gvapi.cc/football/team/57ec3afbec462319117d3d7f90f746db.png!w80" away-logo="https://img.gvapi.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="Cola TV" start-time="1790095500",CLB nữ Bayern Munchen vs Manchester City Nữ — Champions League Nữ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live2.dyrur1.com/live/74371784_e432a00b4f44cb630f0e007967faa6bb_h1080p.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
