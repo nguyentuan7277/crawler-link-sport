@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:20:24 22/09/2026
+## Cập nhật lúc: 16:40:13 22/09/2026
 
-#EXTINF:-1 tvg-id="cctv_1639468_chuoinho" tvg-name="U23 Hàn Quốc  vs Saudi Arabia U23" tvg-logo="https://media.chuoichientv.net/media/20250902_190339_a6b21e4f.png" home-logo="https://media.chuoichientv.net/media/20250902_190339_a6b21e4f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134339_952f6da3.png" group-title="Chuối TV" start-time="1790071200",U23 Hàn Quốc  vs Saudi Arabia U23 - Chuối Nhỏ [FHD1] — Asian Games
+#EXTINF:-1 tvg-id="cctv_1639468_chuoinho" tvg-name="U23 Hàn Quốc  vs Saudi Arabia U23" tvg-logo="https://media.chuoichientv.net/media/20250902_190339_a6b21e4f.png" home-logo="https://media.chuoichientv.net/media/20250902_190339_a6b21e4f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134339_952f6da3.png" group-title="Chuối TV" start-time="1790071200",U23 Hàn Quốc  vs Saudi Arabia U23 - Chuối Nhỏ [HD1] — Asian Games
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_996965_chuoitay" tvg-name="Japan vs China" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png" group-title="Chuối TV" start-time="1790072400",Japan vs China - Chuối Tây [FHD] — Asian Games Bóng Chuyền Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -143,3 +143,8 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk0ODg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1NDA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnF0dnFmZ2l1dGk4ZjJyZTh2MHZrNzBkMg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_9gkl6s6xll3tmkx" tvg-name="Brisbane Bullets vs New Zealand Breakers" tvg-logo="https://img.gvapi.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" home-logo="https://img.gvapi.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" away-logo="https://img.gvapi.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80" group-title="Cola TV" start-time="1790069400",Brisbane Bullets vs New Zealand Breakers - BLV 247 — Liên đoàn Bóng rổ Quốc gia Úc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
