@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 04:20:07 23/09/2026
+## Cập nhật lúc: 04:40:08 23/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1549638_troctru" tvg-name="Ind. Yumbo vs Internacional Palmira" tvg-logo="https://media.api-sports.io/football/teams/27411.png" home-logo="https://media.api-sports.io/football/teams/27411.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133659_4ae3317f.png" group-title="Chuối TV" start-time="1790110800",Ind. Yumbo vs Internacional Palmira - Trốc Tru [FULL HD] — Hạng 2 Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +19,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_vjxm8ghey655r6o" tvg-name="Puerto Montt vs Nublense" tvg-logo="https://static.sportsfeed.pro/football/team/3667bc15da8d0df12ea9f51d73627b07.png" home-logo="https://static.sportsfeed.pro/football/team/3667bc15da8d0df12ea9f51d73627b07.png" away-logo="https://static.sportsfeed.pro/football/team/1cc8fde7becd389f88e35e0b498202bd.png" group-title="Gà Vàng TV" start-time="1790110800",Puerto Montt vs Nublense - MáN NúI — Chilean Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_318q66hxpwy8qo9" tvg-name="Medellin Independiente vs Jaguares de Cordoba" tvg-logo="https://static.sportsfeed.pro/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png" home-logo="https://static.sportsfeed.pro/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png" away-logo="https://static.sportsfeed.pro/football/team/b7f3a068b301edd82ad4c56496f41063.png" group-title="Gà Vàng TV" start-time="1790118000",Medellin Independiente vs Jaguares de Cordoba - MeoMeo — Categoría Primera A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
