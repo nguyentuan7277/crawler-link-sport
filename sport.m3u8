@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 09:20:07 22/09/2026
-
-#EXTINF:-1 tvg-id="cctv_999676_chuoitay" tvg-name="Kazakhstan W vs Vietnam W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png" away-logo="https://media.chuoichientv.net/media/20250826_164900_cfcedb98.png" group-title="Chuối TV" start-time="1790038800",Kazakhstan W vs Vietnam W - Chuối Tây [FHD] — Asian Games Bóng Chuyền Nữ
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1493144_chuoichao" tvg-name="Lanus vs Estudiantes L.P." tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132721_5487ae5f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132721_5487ae5f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132722_be95865f.png" group-title="Chuối TV" start-time="1790036100",Lanus vs Estudiantes L.P. - Chuối Chao [FHD] — VĐQG Argentina
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 09:40:07 22/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1603371_chuoito" tvg-name="Santos Laguna W vs Cruz Azul W" tvg-logo="https://media.chuoichientv.net/media/20250916_004011_bb3475cd.png" home-logo="https://media.chuoichientv.net/media/20250916_004011_bb3475cd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_143654_72f0bbb2.png" group-title="Chuối TV" start-time="1790039160",Santos Laguna W vs Cruz Azul W - Chuối To [FHD] — VĐQG Nữ Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,10 +110,17 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_l5ergph44n3or8k" tvg-name="Cuiaba vs Nautico" tvg-logo="https://static.sportsfeed.pro/football/team/a9e3f5956f84947cbd6503823dcffbb0.png" home-logo="https://static.sportsfeed.pro/football/team/a9e3f5956f84947cbd6503823dcffbb0.png" away-logo="https://static.sportsfeed.pro/football/team/1d8d54bfe19b8bfd6d064eda3556f812.png" group-title="Gà Vàng TV" start-time="1790037000",Cuiaba vs Nautico - SiêU QuậY — Brazilian Serie B
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1638331_chuoila" tvg-name="Real Madrid W vs Paris Saint Germain W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133759_b6982020.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133759_b6982020.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132644_11cf8169.png" group-title="Chuối TV" start-time="1790103600",Real Madrid W vs Paris Saint Germain W - Chuối Lá [FHD] — UEFA Champions League Women
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1549635_troctru" tvg-name="Depor FC vs Tigres FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133657_d23d37d5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133657_d23d37d5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133654_ff205dcb.png" group-title="Chuối TV" start-time="1790110800",Depor FC vs Tigres FC - Trốc Tru [FULL HD] — Hạng 2 Colombia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_zp5rzghgk2v0q82" tvg-name="Vietnam U23 vs Uzbekistan U23" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png" home-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png" away-logo="https://img.thesports.com/football/team/4e7245e77764a6d4d68a69bd2f4c2035.png" group-title="Gà Vàng TV" start-time="1790053200",Vietnam U23 vs Uzbekistan U23 - CRIS — OCA Asian Games
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -166,11 +161,6 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk0ODg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1NDA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnF0dnFmZ2l1dGk4ZjJyZTh2MHZrNzBkMg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_l6kegi88vxzav75" tvg-name="CLB Cuiaba vs Nautico" tvg-logo="https://img.gvapi.cc/football/team/a9e3f5956f84947cbd6503823dcffbb0.png!w80" home-logo="https://img.gvapi.cc/football/team/a9e3f5956f84947cbd6503823dcffbb0.png!w80" away-logo="https://img.gvapi.cc/football/team/1d8d54bfe19b8bfd6d064eda3556f812.png!w80" group-title="Cola TV" start-time="1790037000",CLB Cuiaba vs Nautico - BLV AQUA — Giải bóng đá Hạng nhì Brasil
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_oj7x9ixgj93h47g" tvg-name="Santos Laguna Nữ vs Cruz Azul Nữ" tvg-logo="https://img.gvapi.cc/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png!w80" home-logo="https://img.gvapi.cc/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png!w80" away-logo="https://img.gvapi.cc/football/team/f41d59f7b14442ff24cb224e8e91db5d.png!w80" group-title="Cola TV" start-time="1790039100",Santos Laguna Nữ vs Cruz Azul Nữ - BLV 7UP — Giải bóng đá nữ cao cấp Mexico
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
