@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 21:20:14 23/09/2026
+## Cập nhật lúc: 21:40:13 23/09/2026
 
 #EXTINF:-1 tvg-id="cctv_998359_chuoikem" tvg-name="Belgium vs Slovenia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" away-logo="https://media.chuoichientv.net/media/20260802_085250_46296311.png" group-title="Chuối TV" start-time="1790172000",Belgium vs Slovenia - Chuối Kem [FHD] — Vô địch Châu Âu Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -8,17 +8,23 @@
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1637928_chuoitay" tvg-name="Iraq vs Oman" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133415_bcc211e2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133415_bcc211e2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_d27d52bf.png" group-title="Chuối TV" start-time="1790173800",Iraq vs Oman - Chuối Tây [FHD] — Gulf Cup of Nations
+#EXTINF:-1 tvg-id="cctv_1639567_chuoito" tvg-name="Al Arabi vs Emirates Club" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125823_b6a048f9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125823_b6a048f9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125821_77a7135c.png" group-title="Chuối TV" start-time="1790174400",Al Arabi vs Emirates Club - Chuối To [FHD] — Presidents Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1640460_chuoichao" tvg-name="Malawi U20 vs Comoros U20" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134342_baf3c99f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134342_baf3c99f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142530_12d42349.png" group-title="Chuối TV" start-time="1790168400",Malawi U20 vs Comoros U20 - Chuối Chao [FHD] — COSAFA U20 Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1637928_chuoitay" tvg-name="Iraq vs Oman" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133415_bcc211e2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133415_bcc211e2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_d27d52bf.png" group-title="Chuối TV" start-time="1790173800",Iraq vs Oman - Chuối Tây [FHD] — Gulf Cup of Nations
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1641075_angao" tvg-name="Korea DPR U20 vs Colombia U20 W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144728_67f4ff9c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144728_67f4ff9c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144722_7f305cf9.png" group-title="Chuối TV" start-time="1790181000",Korea DPR U20 vs Colombia U20 W - A Ngao [FULL HD] — World Cup - U20 - Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -191,3 +197,8 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2OTQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOml
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o17pjio29xwiy7j" tvg-name="Iraq vs Oman" tvg-logo="https://img.gvapi.cc/football/team/cc40d06ff0a16a793d066dbfa2917bab.png!w80" home-logo="https://img.gvapi.cc/football/team/cc40d06ff0a16a793d066dbfa2917bab.png!w80" away-logo="https://img.gvapi.cc/football/team/500739868ce9f7f0857260404eab4d41.png!w80" group-title="Cola TV" start-time="1790173800",Iraq vs Oman - BLV SODA — Cúp Gulf
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/02456966_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
