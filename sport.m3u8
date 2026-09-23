@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 03:20:07 24/09/2026
+## Cập nhật lúc: 03:40:11 24/09/2026
 
 #EXTINF:-1 tvg-id="cctv_992280_chuoikem" tvg-name="Italy vs Finland" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png" group-title="Chuối TV" start-time="1790190000",Italy vs Finland - Chuối Kem [FHD] — Vô địch Châu Âu Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -48,6 +48,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y39mp1h67n02moj" tvg-name="Union La Calera vs Univ Catolica" tvg-logo="https://static.sportsfeed.pro/football/team/f9b2e922f6ca83c14def96049ccbfe42.png" home-logo="https://static.sportsfeed.pro/football/team/f9b2e922f6ca83c14def96049ccbfe42.png" away-logo="https://static.sportsfeed.pro/football/team/d2c51e33f6e7a7a3eed10d03fdb9ffb8.png" group-title="Gà Vàng TV" start-time="1790206200",Union La Calera vs Univ Catolica - MeoMeo — Chilean Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19879536" tvg-name="Barcelona W vs Paris W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/barcelona-w-134470" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/barcelona-w-134470" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-w-230767" group-title="BiaomTV" start-time="1790190000",Barcelona W vs Paris W - Lẩu Ếch — C1 Châu Âu (Nữ)
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
