@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 19:40:22 23/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1640769_chuoinho" tvg-name="Italy U20 W vs Spain U20" tvg-logo="https://media.api-sports.io/football/teams/28365.png" home-logo="https://media.api-sports.io/football/teams/28365.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144720_8711159b.png" group-title="Chuối TV" start-time="1790168400",Italy U20 W vs Spain U20 - Chuối Nhỏ [FHD1] — World Cup - U20 - Women
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 20:00:19 23/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1640460_chuoichao" tvg-name="Malawi U20 vs Comoros U20" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134342_baf3c99f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134342_baf3c99f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142530_12d42349.png" group-title="Chuối TV" start-time="1790168400",Malawi U20 vs Comoros U20 - Chuối Chao [FHD] — COSAFA U20 Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -98,15 +92,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_4jwq2ghgo0kjm0v" tvg-name="Japan U18 vs Ukraine U18" tvg-logo="https://img.thesports.com/football/team/962538cccefe2f3c95d40f66ed2bfb71.png" home-logo="https://img.thesports.com/football/team/962538cccefe2f3c95d40f66ed2bfb71.png" away-logo="https://img.thesports.com/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png" group-title="Gà Vàng TV" start-time="1790168400",Japan U18 vs Ukraine U18 - ĐOÀN DỰ — International Friendly
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_6ypq3nhv2nj9md7" tvg-name="Iraq vs Oman" tvg-logo="https://img.thesports.com/football/team/d63ba4378c5b4c55baa283ef654399ad.png" home-logo="https://img.thesports.com/football/team/d63ba4378c5b4c55baa283ef654399ad.png" away-logo="https://img.thesports.com/football/team/500739868ce9f7f0857260404eab4d41.png" group-title="Gà Vàng TV" start-time="1790173800",Iraq vs Oman - Lữ Bố.vip — WAFF Arabian Gulf Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnh9jnzlm7v" tvg-name="Birmingham Legion vs Brooklyn FC" tvg-logo="https://static.sportsfeed.pro/football/team/c3c17ec375bc22a7138c863ee91a3858.png" home-logo="https://static.sportsfeed.pro/football/team/c3c17ec375bc22a7138c863ee91a3858.png" away-logo="https://static.sportsfeed.pro/football/team/362e93771930fdf18e2fbfbb2a991e1c.png" group-title="Gà Vàng TV" start-time="1790179200",Birmingham Legion vs Brooklyn FC - SÚP LƠ — USL Championship
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19870213" tvg-name="Kyrgyzstan U23 vs Hồng Kông U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyrgyzstan-u23-102553" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyrgyzstan-u23-102553" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hong-kong-u23-131076" group-title="BiaomTV" start-time="1790159400",Kyrgyzstan U23 vs Hồng Kông U23 - 333 — Asiad
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
