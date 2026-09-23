@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:40:07 23/09/2026
+## Cập nhật lúc: 16:00:09 23/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1635582_chuoito" tvg-name="Gamba Osaka vs Tokushima Vortis" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_e5fc55e1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_e5fc55e1.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132414_93c38124.png" group-title="Chuối TV" start-time="1790150400",Gamba Osaka vs Tokushima Vortis - Chuối To [FHD] — Cup Bóng Đá Nhật
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -125,6 +125,11 @@ https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_x7lm7phjj4lem2w" tvg-name="Rubin Kazan Youth vs FK Krasnodar Youth" tvg-logo="https://static.sportsfeed.pro/football/team/5db8e5db53df3c768c9aba00e6831658.png" home-logo="https://static.sportsfeed.pro/football/team/5db8e5db53df3c768c9aba00e6831658.png" away-logo="https://static.sportsfeed.pro/football/team/1de66e27120ddea6081f50737ce3a6e8.png" group-title="Gà Vàng TV" start-time="1790164800",Rubin Kazan Youth vs FK Krasnodar Youth - Cá MậP — RUS M-League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19870213" tvg-name="Kyrgyzstan U23 vs Hồng Kông U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyrgyzstan-u23-102553" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyrgyzstan-u23-102553" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hong-kong-u23-131076" group-title="BiaomTV" start-time="1790159400",Kyrgyzstan U23 vs Hồng Kông U23 - 333 — Asiad
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
