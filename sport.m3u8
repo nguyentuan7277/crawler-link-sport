@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 08:20:13 23/09/2026
+## Cập nhật lúc: 08:40:08 23/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1549802_chuoichao" tvg-name="Santa Fe vs Deportivo Cali" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133536_ca511a27.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133536_ca511a27.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133532_3aea03a4.png" group-title="Chuối TV" start-time="1790125200",Santa Fe vs Deportivo Cali - Chuối Chao [FHD] — VĐQG Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,6 +122,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_1l4rjnh9vpkem7v" tvg-name="Independiente Santa Fe vs Deportivo Cali" tvg-logo="https://static.sportsfeed.pro/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png" home-logo="https://static.sportsfeed.pro/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png" away-logo="https://static.sportsfeed.pro/football/team/b997a2811a0caed43ff38b631a708420.png" group-title="Gà Vàng TV" start-time="1790125200",Independiente Santa Fe vs Deportivo Cali - SiêU QuậY — Categoría Primera A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19870213" tvg-name="Kyrgyzstan U23 vs Hồng Kông U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyrgyzstan-u23-102553" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyrgyzstan-u23-102553" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hong-kong-u23-131076" group-title="BiaomTV" start-time="1790159400",Kyrgyzstan U23 vs Hồng Kông U23 - 333 — Asiad
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -166,16 +171,6 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnp
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1Mzc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmdjdHN1YTFycHNnZndzc2RuaGswdWl6bg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_34kgmio9614beko" tvg-name="Cobreloa vs Coquimbo Unido" tvg-logo="https://img.gvapi.cc/football/team/dfef59103668b52788e357e8ac07e9ef.png!w80" home-logo="https://img.gvapi.cc/football/team/dfef59103668b52788e357e8ac07e9ef.png!w80" away-logo="https://img.gvapi.cc/football/team/e62f69a9de87796972eb59d19c27e59c.png!w80" group-title="Cola TV" start-time="1790119800",Cobreloa vs Coquimbo Unido - BLV SPRITE — Cúp Chile
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_ndqmrs3vvg8trkv" tvg-name="Washington Mystics vs Connecticut Sun" tvg-logo="https://img.gvapi.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80" home-logo="https://img.gvapi.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80" away-logo="https://img.gvapi.cc/basketball/team/616c37f8e35a1c33a4766dbc86c0ca3a.png!w80" group-title="Cola TV" start-time="1790119800",Washington Mystics vs Connecticut Sun - BLV ROCKSTAR — Hiệp hội bóng rổ quốc gia nữ
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_wv784sxrr4gfoqr" tvg-name="Indiana Fever vs Minnesota Lynx" tvg-logo="https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80" home-logo="https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80" away-logo="https://img.gvapi.cc/basketball/team/49fd2772263eaccfe78608a04e5b6f4c.png!w80" group-title="Cola TV" start-time="1790121600",Indiana Fever vs Minnesota Lynx - BLV POCARI — Hiệp hội bóng rổ quốc gia nữ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
