@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 02:40:28 24/09/2026
+## Cập nhật lúc: 03:00:07 24/09/2026
 
 #EXTINF:-1 tvg-id="cctv_992280_chuoikem" tvg-name="Italy vs Finland" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png" group-title="Chuối TV" start-time="1790190000",Italy vs Finland - Chuối Kem [FHD] — Vô địch Châu Âu Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -26,12 +26,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1639931_angao" tvg-name="Bahamas vs Saint Martin" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135223_4c71fb98.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_135223_4c71fb98.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142806_ba068e58.png" group-title="Chuối TV" start-time="1790193600",Bahamas vs Saint Martin - A Ngao [FULL HD] — CONCACAF Nations League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cctv_1639932_troctru" tvg-name="Aruba vs Antigua and Barbuda" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134322_afd6712d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134322_afd6712d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_135224_f4e85b50.png" group-title="Chuối TV" start-time="1790204400",Aruba vs Antigua and Barbuda - Trốc Tru [FULL HD] — CONCACAF Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -56,16 +50,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_965mkyhk6868r1g" tvg-name="Liverpool(w) vs Sunderland(w)" tvg-logo="https://static.sportsfeed.pro/football/team/f0c5361f16ad5b8bc5d2ba5fd8a96457.png" home-logo="https://static.sportsfeed.pro/football/team/f0c5361f16ad5b8bc5d2ba5fd8a96457.png" away-logo="https://static.sportsfeed.pro/football/team/59dfa2df42d9e3d41f5b02bfc32229dd.jpg" group-title="Gà Vàng TV" start-time="1790186400",Liverpool(w) vs Sunderland(w) - khang hi — FA Women's League Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_y39mp1h62d2omoj" tvg-name="Manchester United Women(w) vs Sheffield United(w)" tvg-logo="https://static.sportsfeed.pro/football/team/db33359c11033fc28c9bedec0a4a89d9.png" home-logo="https://static.sportsfeed.pro/football/team/db33359c11033fc28c9bedec0a4a89d9.png" away-logo="https://static.sportsfeed.pro/football/team/69ea2c335117a34879ec3bff7b531bd3.png" group-title="Gà Vàng TV" start-time="1790186400",Manchester United Women(w) vs Sheffield United(w) - RIO — FA Women's League Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_pxwrxlhy63kkryk" tvg-name="Saudi Arabia vs Kuwait" tvg-logo="https://img.thesports.com/football/team/344c0d0b85274807ba668a603ef5a05e.png" home-logo="https://img.thesports.com/football/team/344c0d0b85274807ba668a603ef5a05e.png" away-logo="https://img.thesports.com/football/team/29a83a8a9641bb860a679d7e5ba52d26.png" group-title="Gà Vàng TV" start-time="1790186400",Saudi Arabia vs Kuwait - THICHDUTHU — WAFF Arabian Gulf Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -75,21 +59,6 @@ https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19879539" tvg-name="OH Leuven W vs AS Roma W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/oh-leuven-w-230729" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/oh-leuven-w-230729" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-w-230721" group-title="BiaomTV" start-time="1790181900",OH Leuven W vs AS Roma W - TRÚC BẠCH — C1 Châu Âu (Nữ)
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1Mzk6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnoycXg2cWxwb3QyZHA4dXZvMzM5MGIzMg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19879539" tvg-name="OH Leuven W vs AS Roma W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/oh-leuven-w-230729" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/oh-leuven-w-230729" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-w-230721" group-title="BiaomTV" start-time="1790181900",OH Leuven W vs AS Roma W - Vịt Nướng — C1 Châu Âu (Nữ)
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1Mzk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmMzd3B3dHFkZHVoMTQ5dWd5ZnRyMWgxbA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19879538" tvg-name="Servette Chênois W vs Lyon W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/servette-chenois-w-230696" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/servette-chenois-w-230696" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ol-lyonnes-w-134467" group-title="BiaomTV" start-time="1790181900",Servette Chênois W vs Lyon W - NEM NƯỚNG  — C1 Châu Âu (Nữ)
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1Mzg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om15eW5scjdjaGxuenp6cDVwN2x5b3g5dQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19879536" tvg-name="Barcelona W vs Paris W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/barcelona-w-134470" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/barcelona-w-134470" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-w-230767" group-title="BiaomTV" start-time="1790190000",Barcelona W vs Paris W - Lẩu Ếch — C1 Châu Âu (Nữ)
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
