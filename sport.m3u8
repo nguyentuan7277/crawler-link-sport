@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 22:40:21 23/09/2026
+## Cập nhật lúc: 23:00:22 23/09/2026
 
 #EXTINF:-1 tvg-id="cctv_998359_chuoikem" tvg-name="Belgium vs Slovenia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" away-logo="https://media.chuoichientv.net/media/20260802_085250_46296311.png" group-title="Chuối TV" start-time="1790172000",Belgium vs Slovenia - Chuối Kem [FHD] — Vô địch Châu Âu Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -91,6 +91,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_6ypq3nhv2nj9md7" tvg-name="Iraq vs Oman" tvg-logo="https://img.thesports.com/football/team/d63ba4378c5b4c55baa283ef654399ad.png" home-logo="https://img.thesports.com/football/team/d63ba4378c5b4c55baa283ef654399ad.png" away-logo="https://img.thesports.com/football/team/500739868ce9f7f0857260404eab4d41.png" group-title="Gà Vàng TV" start-time="1790173800",Iraq vs Oman - Lữ Bố.vip — WAFF Arabian Gulf Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_23xmvkhyvo52qg8" tvg-name="Servette(w) vs Lyon(w)" tvg-logo="https://static.sportsfeed.pro/football/team/be5c66e50a48d9ae3c4132aa1a3b3a32.png" home-logo="https://static.sportsfeed.pro/football/team/be5c66e50a48d9ae3c4132aa1a3b3a32.png" away-logo="https://static.sportsfeed.pro/football/team/484ae7b7bd74733551f909e8bcf6f43f.png" group-title="Gà Vàng TV" start-time="1790181900",Servette(w) vs Lyon(w) - Cá MậP — UEFA Women's Champions League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -191,3 +196,13 @@ https://live05.meung.app/live/02456966_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_63kv9i6z39lax7e" tvg-name="Azerbaijan vs Cộng hòa Tajikistan" tvg-logo="https://img.gvapi.cc/football/team/f653d5976458f0dcce2b3939259acffa.png!w80" home-logo="https://img.gvapi.cc/football/team/f653d5976458f0dcce2b3939259acffa.png!w80" away-logo="https://img.gvapi.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png!w80" group-title="Cola TV" start-time="1790179200",Azerbaijan vs Cộng hòa Tajikistan - BLV BÍ ĐAO — Giao hữu Quốc tế
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_8lk2dir6354iz73" tvg-name="Birmingham vs Brooklyn FC" tvg-logo="https://img.gvapi.cc/football/team/c3c17ec375bc22a7138c863ee91a3858.png!w80" home-logo="https://img.gvapi.cc/football/team/c3c17ec375bc22a7138c863ee91a3858.png!w80" away-logo="https://img.gvapi.cc/football/team/362e93771930fdf18e2fbfbb2a991e1c.png!w80" group-title="Cola TV" start-time="1790179200",Birmingham vs Brooklyn FC - BLV MOUNTAIN DEW — Giải bóng đá Hạng nhì Hoa Kỳ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
