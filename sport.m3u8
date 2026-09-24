@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 21:40:18 24/09/2026
+## Cập nhật lúc: 22:00:44 24/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1545827_chuoito" tvg-name="Namibia vs Congo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134303_b3f7dbb4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134303_b3f7dbb4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134307_d40d1826.png" group-title="Chuối TV" start-time="1790254800",Namibia vs Congo - Chuối To [FHD] — Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,10 +122,25 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_19883297" tvg-name="Trung Quốc vs Maldives" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/china-pr-18599" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/china-pr-18599" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/maldives-18875" group-title="BiaomTV" start-time="1790249700",Trung Quốc vs Maldives - TRÚC BẠCH — Giao Hữu Quốc Tế
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTINF:-1 tvg-id="gavang_n54qllhnv08wqvy" tvg-name="Namibia vs Congo" tvg-logo="https://img.thesports.com/football/team/247c0a953f3a082b83443b3dfccedffb.png" home-logo="https://img.thesports.com/football/team/247c0a953f3a082b83443b3dfccedffb.png" away-logo="https://img.thesports.com/football/team/360c19682e81f21d55846685c1701179.png" group-title="Gà Vàng TV" start-time="1790254800",Namibia vs Congo - cố tư nghiêm — CAF Africa Cup of Nations
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk4ODMyOTc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnVkeW1xZG1sbDN5YTZ2NGxqNno5djFtag/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_6ypq3nhk64lgmd7" tvg-name="Uzbekistan vs Iran" tvg-logo="https://img.thesports.com/football/team/3016a701d47246f082016705f2f7267c.png" home-logo="https://img.thesports.com/football/team/3016a701d47246f082016705f2f7267c.png" away-logo="https://img.thesports.com/football/team/8155ecd333d749a8a3df7be234d157c4.png" group-title="Gà Vàng TV" start-time="1790258400",Uzbekistan vs Iran - ĐOÀN DỰ — International Friendly
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hx8y2nqo9" tvg-name="Andorra vs Malta" tvg-logo="https://img.thesports.com/football/team/15fa1fad1fc582dd65403f6f950b1e21.png" home-logo="https://img.thesports.com/football/team/15fa1fad1fc582dd65403f6f950b1e21.png" away-logo="https://img.thesports.com/football/team/f7eb745a5f9b3016b083019da91b5f74.png" group-title="Gà Vàng TV" start-time="1790265600",Andorra vs Malta - SAITAMA — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_23xmvkh675kzqg8" tvg-name="DR Congo vs Equatorial Guinea" tvg-logo="https://img.thesports.com/football/team/ce991ab3a9bd4859bdb6cf6e9b623a35.png" home-logo="https://img.thesports.com/football/team/ce991ab3a9bd4859bdb6cf6e9b623a35.png" away-logo="https://img.thesports.com/football/team/3d9171993c26e3bbe878122a09435451.png" group-title="Gà Vàng TV" start-time="1790265600",DR Congo vs Equatorial Guinea - MáN NúI — CAF Africa Cup of Nations
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19676803" tvg-name="Andorra vs Malta" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/andorra-18781" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/andorra-18781" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malta-18691" group-title="BiaomTV" start-time="1790265600",Andorra vs Malta - Vịt Nướng — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
