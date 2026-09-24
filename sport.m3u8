@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:00:08 25/09/2026
+## Cập nhật lúc: 01:20:08 25/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1637931_chuoitay" tvg-name="Qatar vs Bahrain" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_04ec5812.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_04ec5812.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png" group-title="Chuối TV" start-time="1790272800",Qatar vs Bahrain - Chuối Tây [FHD] — Gulf Cup of Nations
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1637930_chuoinho" tvg-name="United Arab Emirates vs Yemen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133415_27f7a7df.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133415_27f7a7df.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_83841a8c.png" group-title="Chuối TV" start-time="1790265300",United Arab Emirates vs Yemen - Chuối Nhỏ [FHD] — Gulf Cup of Nations
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528862_chuoinho" tvg-name="Netherlands vs Germany" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png" group-title="Chuối TV" start-time="1790275500",Netherlands vs Germany - Chuối Nhỏ [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -31,6 +25,18 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1528864_troctru" tvg-name="Portugal vs Wales" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125456_dde261ec.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125456_dde261ec.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_66ec2f9b.png" group-title="Chuối TV" start-time="1790275500",Portugal vs Wales - Trốc Tru [FHD] — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1528864_chuoila" tvg-name="Portugal vs Wales" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125456_dde261ec.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125456_dde261ec.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_66ec2f9b.png" group-title="Chuối TV" start-time="1790275500",Portugal vs Wales - Chuối Lá [FHD] — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1545816_chuoito" tvg-name="Cameroon vs Comoros" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_572f7fa8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_572f7fa8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132804_f3da6d9a.png" group-title="Chuối TV" start-time="1790276400",Cameroon vs Comoros - Chuối To [FHD] — Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,6 +128,17 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cctv_1528881_chuoitay" tvg-name="Georgia vs Northern Ireland" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134252_884d8f9e.png" group-title="Chuối TV" start-time="1790352000",Georgia vs Northern Ireland - Chuối Tây [FHD] — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hx8y2nqo9" tvg-name="Andorra vs Malta" tvg-logo="https://img.thesports.com/football/team/15fa1fad1fc582dd65403f6f950b1e21.png" home-logo="https://img.thesports.com/football/team/15fa1fad1fc582dd65403f6f950b1e21.png" away-logo="https://img.thesports.com/football/team/f7eb745a5f9b3016b083019da91b5f74.png" group-title="Gà Vàng TV" start-time="1790265600",Andorra vs Malta - SAITAMA — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_965mkyhk8d5nr1g" tvg-name="Austria vs Israel" tvg-logo="https://img.thesports.com/football/team/6010ce94e8e042a687207a7dceb06658.png" home-logo="https://img.thesports.com/football/team/6010ce94e8e042a687207a7dceb06658.png" away-logo="https://img.thesports.com/football/team/a370afda41a7ae62dcb8d1b721b92bed.png" group-title="Gà Vàng TV" start-time="1790275500",Austria vs Israel - Lữ Bố.vip — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -167,11 +184,6 @@ https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_19676803" tvg-name="Andorra vs Malta" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/andorra-18781" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/andorra-18781" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malta-18691" group-title="BiaomTV" start-time="1790265600",Andorra vs Malta - Vịt Nướng — UEFA Nations League
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk2NzY4MDM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnJycGx6MGM1eGJidmk0YXd6NzE2cmMwOA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_19676692" tvg-name="Bồ Đào Nha vs Wales" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/portugal-18701" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/portugal-18701" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wales-18721" group-title="BiaomTV" start-time="1790275500",Bồ Đào Nha vs Wales - NEM NƯỚNG  — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -201,6 +213,56 @@ https://cdnhls.xbdbotv.live/live/MTk3MzE0ODQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omk
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzE0ODQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnZ0NGgwZzQxaXpwd29jcmdpMWc0dDFmdA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19886590" tvg-name="Hàn Quốc U23 vs Việt Nam U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-republic-u23-63315" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-republic-u23-63315" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" group-title="BiaomTV" start-time="1790332200",Hàn Quốc U23 vs Việt Nam U23 - Vịt Nướng — Asiad
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4ODY1OTA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVwejVveWhxaXBhZzc2amE1MXJpdTFmdA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19886569" tvg-name="Hàn Quốc nữ vs Uzbekistan W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/south-korea-w-149617" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/south-korea-w-149617" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/uzbekistan-w-239443" group-title="BiaomTV" start-time="1790332200",Hàn Quốc nữ vs Uzbekistan W - ASAHI — Asiad (Nữ)
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4ODY1Njk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om52ZHp5cnh6cjdvbHh1OXZnNHNxMThtNg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19886570" tvg-name="Nhật Bản nữ vs Philippines W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-w-149618" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-w-149618" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/philippines-w-236392" group-title="BiaomTV" start-time="1790332200",Nhật Bản nữ vs Philippines W - Lẩu Ếch — Asiad (Nữ)
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4ODY1NzA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm1uZXhkNWdudjVwZXh1azMwZWVpbWJ5Mg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19676791" tvg-name="Armenia vs Latvia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/latvia-18735" group-title="BiaomTV" start-time="1790352000",Armenia vs Latvia - TRÚC BẠCH — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk2NzY3OTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmZmcjBoMGRjemllNGxiajkwcmYwMjUzeQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19676741" tvg-name="Georgia vs Bắc Ireland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/georgia-18692" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/georgia-18692" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/northern-ireland-18696" group-title="BiaomTV" start-time="1790352000",Georgia vs Bắc Ireland - SAPPORO — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk2NzY3NDE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnEzdHZkMHZ6emhnOWg1MnZleGx2bmxvNg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19676739" tvg-name="Ba Lan vs Bosnia và Herzegovina" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/poland-18699" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/poland-18699" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bosnia-and-herzegovina-18625" group-title="BiaomTV" start-time="1790361900",Ba Lan vs Bosnia và Herzegovina - Lẩu Ếch — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk2NzY3Mzk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmcza2RndG0ydXVwYzJ1eTh2YTB0bDI2ag/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19676740" tvg-name="Hungary vs Ukraine" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-18732" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-18732" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ukraine-18624" group-title="BiaomTV" start-time="1790361900",Hungary vs Ukraine - Vịt Nướng — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk2NzY3NDA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJ6cTAxZm5yNWJ1NGx0em5vOWRucTJhNw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19676690" tvg-name="Thổ Nhĩ Kỳ vs Pháp" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/france-18647" group-title="BiaomTV" start-time="1790361900",Thổ Nhĩ Kỳ vs Pháp - SAPPORO — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk2NzY2OTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnNkbHE5ZGh1NHdmZXBjaW52cnJjd20yZw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19676738" tvg-name="Thụy Điển vs Romania" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sweden-18564" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sweden-18564" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/romania-18638" group-title="BiaomTV" start-time="1790361900",Thụy Điển vs Romania - NEM NƯỚNG  — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk2NzY3Mzg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om9xN3hwZWdvMGx6cHA2dDE5YWV2aDJpNw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19676691" tvg-name="Ý vs Bỉ" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-18658" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-18658" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/belgium-18743" group-title="BiaomTV" start-time="1790361900",Ý vs Bỉ - TRÚC BẠCH — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk2NzY2OTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmh4NGV3Yngzejl1dGw0ODhkNmdhMnVjcA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_ndkz6i3ejw5txq3" tvg-name="Qatar vs Bahrain" tvg-logo="https://img.gvapi.cc/football/team/7303a103c93fea0445384d6ff3f3d1b9.png!w80" home-logo="https://img.gvapi.cc/football/team/7303a103c93fea0445384d6ff3f3d1b9.png!w80" away-logo="https://img.gvapi.cc/football/team/595e32d94437adf5bde6225b77bf1e14.png!w80" group-title="Cola TV" start-time="1790272800",Qatar vs Bahrain - BLV FANTA — Cúp Gulf
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
