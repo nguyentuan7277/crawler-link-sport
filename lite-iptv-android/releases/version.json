@@ -1,8 +1,9 @@
 {
-  "latestVersion": "2.9.2",
-  "latestVersionCode": "22",
+  "latestVersion": "2.9.8",
+  "latestVersionCode": "28",
   "url": "https://raw.githubusercontent.com/nguyentuan7277/crawler-link-sport/main/lite-iptv-android/releases/lite-iptv-latest.apk",
   "releaseNotes": [
-    "Fix crash khi mo app: dialog cap nhat dung sai theme (AppCompat) so voi theme cua app"
+    "Bo het duong vien tren the kenh, tab va tieu de - chi con hieu ung phong to khi focus, dung phong cach Android TV hien dai",
+    "Doi mau chu de sang tong sang, tre trung hon: cam vang cho Truyen hinh, xanh mint cho Bong da"
   ]
 }
