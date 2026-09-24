@@ -251,6 +251,29 @@ def normalize_unix_time(value):
         return None
 
 
+# A source's own "live" flag (API status field or an HTML badge class) isn't
+# cross-checked against the fixture's scheduled kickoff anywhere upstream, so
+# a wrong/stale flag — live before kickoff, or still live hours after a match
+# that's long over — gets trusted as-is. The HLS reachability probe in
+# generate_m3u8() can't catch this either: a dead/placeholder stream can still
+# answer with a valid manifest and a first segment. Gate every source's flag
+# through this window instead.
+LIVE_FLAG_PRE_ROLL_SECONDS = 15 * 60
+LIVE_FLAG_WINDOW_SECONDS = 3 * 60 * 60
+
+
+def _within_live_window(start_time, now=None):
+    """True if start_time plausibly places a match inside its live window.
+
+    No start_time to check against (source doesn't provide one) → trust the
+    source's own flag as-is rather than discard it.
+    """
+    if start_time is None:
+        return True
+    now = time.time() if now is None else now
+    return start_time - LIVE_FLAG_PRE_ROLL_SECONDS <= now < start_time + LIVE_FLAG_WINDOW_SECONDS
+
+
 def build_channels_chuoi(matches):
     """Chuẩn hóa dữ liệu trận đấu từ Chuối Chiên TV thành danh sách channel chung"""
     channels = []
@@ -264,10 +287,11 @@ def build_channels_chuoi(matches):
         league_logo = match.get("league", {}).get("logo", "")
         logo = home_logo or league_logo or DEFAULT_LOGO
 
-        status = match.get("status", "")
         match_time = match.get("matchTime", "")
         time_vn = format_time_vn_iso(match_time)
-        status_prefix = "● [LIVE] " if status == "live" else f"[{time_vn}] "
+        start_time = unix_time_from_iso(match_time)
+        live = match.get("status", "") == "live" and _within_live_window(start_time)
+        status_prefix = "● [LIVE] " if live else f"[{time_vn}] "
 
         blvs = match.get("blvs", []) or []
         if not blvs:
@@ -302,7 +326,7 @@ def build_channels_chuoi(matches):
                 "stream_url": stream_url,
                 "referer": CHUOI_STREAM_REFERER,
                 "origin": CHUOI_STREAM_ORIGIN,
-                "start_time": unix_time_from_iso(match_time),
+                "start_time": start_time,
             })
 
     return channels
@@ -424,7 +448,7 @@ def build_channels_cola(matches):
         status = match.get("match_status") or match.get("matchStatus")
         match_time = match.get("match_time") or match.get("matchTime")
         start_time = normalize_unix_time(match_time)
-        source_live = status == "live"
+        source_live = status == "live" and _within_live_window(start_time, now)
         estimated_live = (
             start_time is not None
             and start_time <= now < start_time + COLA_ESTIMATED_LIVE_SECONDS
@@ -613,7 +637,7 @@ def fetch_matches_gavang():
             continue
 
         start_time = normalize_unix_time(timestamp.group(1))
-        is_live = "bals-live-match" in card_html[:1000]
+        is_live = "bals-live-match" in card_html[:1000] and _within_live_window(start_time, now_ts)
         if not is_live and (
             start_time is None
             or not 0 <= start_time - now_ts <= GAVANG_UPCOMING_WINDOW_SECONDS
@@ -829,7 +853,7 @@ def build_channels_biaom(matches):
         away = match.get("away") or {}
         league = match.get("league") or {}
         start_time = _biaom_iso_time(match.get("starting_at"))
-        live = start_time is not None and start_time <= now
+        live = start_time is not None and _within_live_window(start_time, now)
         commentator = (fixture.get("streamer") or {}).get("displayName") or ""
         home_logo = home.get("image_url") or DEFAULT_LOGO
         channels.append({
@@ -884,12 +908,11 @@ def generate_m3u8(channels, output_file="sport.m3u8"):
     for ch in channels:
         # Validate only on-air channels. Checking every upcoming fixture can
         # mean hundreds of requests and would make a scheduled crawl too slow.
-        if (
-            ch["status_prefix"].startswith("● [LIVE]")
-            # Biaom links are already resolved from its live player API.
-            # Gà Vàng must be probed: its page can retain expired streams.
-            and ch["source_tag"] != BIAOM_SOURCE_TAG
-        ):
+        if ch["status_prefix"].startswith("● [LIVE]"):
+            # Every source's page/API can retain an expired or dead stream_url
+            # even while it still reports the match as live — BiaomTV included
+            # (its mobileStreamUrl is read straight from the fixture list, same
+            # as Gà Vàng's embedded player URL, not independently re-verified).
             # ChuoiTV exposes several qualities for the same commentary.
             # Prefer the highest stream, but fall through to the next one if
             # the CDN rejects it or its HLS playlist is dead.
