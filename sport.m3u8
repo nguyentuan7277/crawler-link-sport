@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 04:20:06 25/09/2026
+## Cập nhật lúc: 04:40:07 25/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1549794_chuoisay" tvg-name="Atletico Nacional vs Millonarios" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png" group-title="Chuối TV" start-time="1790296200",Atletico Nacional vs Millonarios - Chuối Sấy [FHD] — VĐQG Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -56,7 +56,7 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1641703_chuoinho" tvg-name="Indonesia vs Singapore" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" home-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" group-title="Chuối TV" start-time="1790341200",Indonesia vs Singapore - Chuối Nhỏ [FHD] — FIFA Asean Cup
+#EXTINF:-1 tvg-id="cctv_1641703_chuoinho" tvg-name="Indonesia vs Singapore" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" home-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" group-title="Chuối TV" start-time="1790337600",Indonesia vs Singapore - Chuối Nhỏ [FHD] — FIFA Asean Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
@@ -126,6 +126,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09hkv2yvrz8" tvg-name="Atletico Nacional Medellin vs Millonarios" tvg-logo="https://static.sportsfeed.pro/football/team/4ee24366d09a9239bb2c4207a5008111.png" home-logo="https://static.sportsfeed.pro/football/team/4ee24366d09a9239bb2c4207a5008111.png" away-logo="https://static.sportsfeed.pro/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png" group-title="Gà Vàng TV" start-time="1790296200",Atletico Nacional Medellin vs Millonarios - KAYTI — Categoría Primera A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19731484" tvg-name="Úc vs Brazil" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/australia-18730" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/australia-18730" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brazil-18704" group-title="BiaomTV" start-time="1790330400",Úc vs Brazil - NEM NƯỚNG  — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
