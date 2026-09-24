@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 19:20:07 24/09/2026
+## Cập nhật lúc: 19:40:21 24/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1628994_chuoitay" tvg-name="South Korea vs Ecuador" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png" group-title="Chuối TV" start-time="1790247600",South Korea vs Ecuador - Chuối Tây [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -104,6 +104,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_318q66h8z09lqo9" tvg-name="China vs Maldives" tvg-logo="https://img.thesports.com/football/team/445ef89e5620a875f7c2eaddd033e39d.png" home-logo="https://img.thesports.com/football/team/445ef89e5620a875f7c2eaddd033e39d.png" away-logo="https://img.thesports.com/football/team/debe9dfcc3e4dbea1c509ffab6bf9f0b.png" group-title="Gà Vàng TV" start-time="1790249700",China vs Maldives - MáN NúI — CFA Team China International Tournament
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_n54qllhnv08wqvy" tvg-name="Namibia vs Congo" tvg-logo="https://img.thesports.com/football/team/247c0a953f3a082b83443b3dfccedffb.png" home-logo="https://img.thesports.com/football/team/247c0a953f3a082b83443b3dfccedffb.png" away-logo="https://img.thesports.com/football/team/360c19682e81f21d55846685c1701179.png" group-title="Gà Vàng TV" start-time="1790254800",Namibia vs Congo - cố tư nghiêm — CAF Africa Cup of Nations
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -113,11 +118,6 @@ https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_6ypq3nhk64lgmd7" tvg-name="Uzbekistan vs Iran" tvg-logo="https://img.thesports.com/football/team/3016a701d47246f082016705f2f7267c.png" home-logo="https://img.thesports.com/football/team/3016a701d47246f082016705f2f7267c.png" away-logo="https://img.thesports.com/football/team/8155ecd333d749a8a3df7be234d157c4.png" group-title="Gà Vàng TV" start-time="1790258400",Uzbekistan vs Iran - ĐOÀN DỰ — International Friendly
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19793109" tvg-name="Hàn Quốc vs Ecuador" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-republic-18567" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-republic-18567" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ecuador-18573" group-title="BiaomTV" start-time="1790247600",Hàn Quốc vs Ecuador - Lẩu Ếch — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
