@@ -1,8 +1,9 @@
 {
-  "latestVersion": "2.9.13",
-  "latestVersionCode": "33",
+  "latestVersion": "2.9.14",
+  "latestVersionCode": "34",
   "url": "https://raw.githubusercontent.com/nguyentuan7277/crawler-link-sport/main/lite-iptv-android/releases/lite-iptv-latest.apk",
+  "forceUpdate": true,
   "releaseNotes": [
-    "The tran live dung chung mau nen voi the sap dien ra, chi con chu LIVE nhap nhay"
+    "Them cong tac kill switch forceUpdate: neu bat gio nay len false thi hop thoai cap nhat co the bo qua, khong can build lai app"
   ]
 }
