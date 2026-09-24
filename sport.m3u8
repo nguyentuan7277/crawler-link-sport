@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:20:08 25/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1637931_chuoitay" tvg-name="Qatar vs Bahrain" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_04ec5812.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_04ec5812.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png" group-title="Chuối TV" start-time="1790272800",Qatar vs Bahrain - Chuối Tây [FHD] — Gulf Cup of Nations
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 01:40:08 25/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1528862_chuoinho" tvg-name="Netherlands vs Germany" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png" group-title="Chuối TV" start-time="1790275500",Netherlands vs Germany - Chuối Nhỏ [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -37,6 +31,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1637931_chuoitay" tvg-name="Qatar vs Bahrain" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_04ec5812.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_04ec5812.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png" group-title="Chuối TV" start-time="1790272800",Qatar vs Bahrain - Chuối Tây [FHD] — Gulf Cup of Nations
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1545816_chuoito" tvg-name="Cameroon vs Comoros" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_572f7fa8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_572f7fa8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132804_f3da6d9a.png" group-title="Chuối TV" start-time="1790276400",Cameroon vs Comoros - Chuối To [FHD] — Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
