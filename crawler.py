@@ -352,16 +352,23 @@ def fetch_matches_cola():
     req.add_header("Referer", COLA_REFERER)
     req.add_header("Accept", "application/json, text/plain, */*")
 
-    try:
+    def _do_request():
         with urllib.request.urlopen(req, timeout=15) as resp:
-            data = json.loads(resp.read().decode("utf-8"))
-            matches = data.get("data") or {}
-            record_source_health("ColaTV API", True)
-            return list(matches.values())
+            return resp.read()
+
+    pool = ThreadPoolExecutor(max_workers=1)
+    try:
+        raw = pool.submit(_do_request).result(timeout=20)
+        data = json.loads(raw.decode("utf-8"))
+        matches = data.get("data") or {}
+        record_source_health("ColaTV API", True)
+        return list(matches.values())
     except Exception as e:
         record_source_health("ColaTV API", False, str(e))
         print(f"[-] [ColaTV] Lỗi khi gọi API: {e}", file=sys.stderr)
         return []
+    finally:
+        pool.shutdown(wait=False)
 
 
 def _cola_select_best_variant(master_url):
