@@ -4,5 +4,10 @@ __pycache__/
 .env
 .source-health.json
 
-# Local Android TV application (kept outside this crawler repository's commits)
-/lite-iptv-android/
+# Local Android TV application (kept outside this crawler repository's commits),
+# except the release APKs + version.json the app polls for self-update checks.
+# (git can't re-include a path under an excluded PARENT DIRECTORY, so exclude each
+# top-level entry individually via '*' instead of excluding the directory itself.)
+/lite-iptv-android/*
+!/lite-iptv-android/releases/
+!/lite-iptv-android/releases/**
