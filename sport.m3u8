@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 02:00:09 25/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1545816_chuoito" tvg-name="Cameroon vs Comoros" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_572f7fa8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_572f7fa8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132804_f3da6d9a.png" group-title="Chuối TV" start-time="1790276400",Cameroon vs Comoros - Chuối To [FHD] — Africa Cup of Nations - Qualification
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1545820_chuoikem" tvg-name="Ivory Coast vs Ghana" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132759_08d32594.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132759_08d32594.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134305_fd6c1ece.png" group-title="Chuối TV" start-time="1790276400",Ivory Coast vs Ghana - Chuối Kem [FHD] — Africa Cup of Nations - Qualification
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 02:20:06 25/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1637931_chuoitay" tvg-name="Qatar vs Bahrain" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_04ec5812.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_04ec5812.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png" group-title="Chuối TV" start-time="1790272800",Qatar vs Bahrain - Chuối Tây [FHD] — Gulf Cup of Nations
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -49,6 +37,18 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1545816_chuoito" tvg-name="Cameroon vs Comoros" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_572f7fa8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_572f7fa8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132804_f3da6d9a.png" group-title="Chuối TV" start-time="1790276400",Cameroon vs Comoros - Chuối To [FHD] — Africa Cup of Nations - Qualification
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1545820_chuoikem" tvg-name="Ivory Coast vs Ghana" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132759_08d32594.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132759_08d32594.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134305_fd6c1ece.png" group-title="Chuối TV" start-time="1790276400",Ivory Coast vs Ghana - Chuối Kem [FHD] — Africa Cup of Nations - Qualification
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1639170_troctru" tvg-name="Deportivo Recoleta vs Guairena FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133545_13e6cdb1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133545_13e6cdb1.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133819_94f633e0.png" group-title="Chuối TV" start-time="1790285400",Deportivo Recoleta vs Guairena FC - Trốc Tru [FHD] — Copa Paraguay
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -153,11 +153,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2OTM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmV
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY2OTQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmlkbXF2a245aW51cmI3ZHh5eGx0YmEycA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19676803" tvg-name="Andorra vs Malta" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/andorra-18781" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/andorra-18781" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malta-18691" group-title="BiaomTV" start-time="1790265600",Andorra vs Malta - Vịt Nướng — UEFA Nations League
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk2NzY4MDM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnJycGx6MGM1eGJidmk0YXd6NzE2cmMwOA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19731484" tvg-name="Úc vs Brazil" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/australia-18730" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/australia-18730" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brazil-18704" group-title="BiaomTV" start-time="1790330400",Úc vs Brazil - NEM NƯỚNG  — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
