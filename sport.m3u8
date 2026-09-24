@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:20:30 24/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1640057_chuoikem" tvg-name="China vs Maldives" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134312_9e50422a.png" group-title="Chuối TV" start-time="1790249700",China vs Maldives - Chuối Kem [FHD] — Giao Hữu Quốc Tế
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 18:40:09 24/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1628995_angao" tvg-name="Japan vs Uruguay" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132807_4c096ae9.png" group-title="Chuối TV" start-time="1790244300",Japan vs Uruguay - A Ngao [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +13,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Ref
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1640057_chuoikem" tvg-name="China vs Maldives" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134312_9e50422a.png" group-title="Chuối TV" start-time="1790249700",China vs Maldives - Chuối Kem [FHD] — Giao Hữu Quốc Tế
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1641701_chuoisay" tvg-name="Myanmar vs Timor-Leste" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_48e9fd27.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_48e9fd27.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132716_11742340.png" group-title="Chuối TV" start-time="1790251200",Myanmar vs Timor-Leste - Chuối Sấy [FHD] — FIFA Asean Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -115,11 +115,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_318q66h8z09lqo9" tvg-name="China vs Maldives" tvg-logo="https://img.thesports.com/football/team/445ef89e5620a875f7c2eaddd033e39d.png" home-logo="https://img.thesports.com/football/team/445ef89e5620a875f7c2eaddd033e39d.png" away-logo="https://img.thesports.com/football/team/debe9dfcc3e4dbea1c509ffab6bf9f0b.png" group-title="Gà Vàng TV" start-time="1790249700",China vs Maldives - MáN NúI — CFA Team China International Tournament
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_k82rekhgle9lrep" tvg-name="Myanmar vs Timor Leste" tvg-logo="https://img.thesports.com/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png" home-logo="https://img.thesports.com/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png" away-logo="https://img.thesports.com/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png" group-title="Gà Vàng TV" start-time="1790251200",Myanmar vs Timor Leste - A Long — FIFA ASEAN Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -204,3 +199,13 @@ https://live05.meung.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_oj7x6szpooos47g" tvg-name="Perth Wildcats vs Adelaide 36ers" tvg-logo="https://img.gvapi.cc/basketball/team/b967348890e26c5ca68f7d26392f5984.png!w80" home-logo="https://img.gvapi.cc/basketball/team/b967348890e26c5ca68f7d26392f5984.png!w80" away-logo="https://img.gvapi.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80" group-title="Cola TV" start-time="1790249400",Perth Wildcats vs Adelaide 36ers - BLV Cozy — Liên đoàn Bóng rổ Quốc gia Úc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_j374oi48d2pfgqo" tvg-name="Trung Quốc vs Maldives" tvg-logo="https://img.gvapi.cc/football/team/445ef89e5620a875f7c2eaddd033e39d.png!w80" home-logo="https://img.gvapi.cc/football/team/445ef89e5620a875f7c2eaddd033e39d.png!w80" away-logo="https://img.gvapi.cc/football/team/debe9dfcc3e4dbea1c509ffab6bf9f0b.png!w80" group-title="Cola TV" start-time="1790249700",Trung Quốc vs Maldives - BLV 247 — CFA Team China International Tournament
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
