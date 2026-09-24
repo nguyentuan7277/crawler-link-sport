@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 14:49:06 24/09/2026
+## Cập nhật lúc: 15:00:16 24/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1641700_chuoisay" tvg-name="Laos vs Brunei" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_ddeb005f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_ddeb005f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132717_27d7fb21.png" group-title="Chuối TV" start-time="1790240400",Laos vs Brunei - Chuối Sấy [HD] — FIFA Asean Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -130,6 +130,16 @@ https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09hk8x4yrz8" tvg-name="FAR Rabat vs Raja Club Athletic" tvg-logo="https://static.sportsfeed.pro/football/team/cded7b7cce01069ad7d13ebf14a03723.png" home-logo="https://static.sportsfeed.pro/football/team/cded7b7cce01069ad7d13ebf14a03723.png" away-logo="https://static.sportsfeed.pro/football/team/a3aa0a3edad49e47cf6018481e51054e.png" group-title="Gà Vàng TV" start-time="1790247600",FAR Rabat vs Raja Club Athletic - khang hi — The Botola Pro
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_2y8m4zhv0177ql0" tvg-name="South Korea vs Ecuador" tvg-logo="https://img.thesports.com/football/team/a3f9a9a7e81748828ce092f0dd488479.png" home-logo="https://img.thesports.com/football/team/a3f9a9a7e81748828ce092f0dd488479.png" away-logo="https://img.thesports.com/football/team/10c94f16a2db4872b22d66aa3949bdc0.png" group-title="Gà Vàng TV" start-time="1790247600",South Korea vs Ecuador - ĐOÀN DỰ — International Friendly
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19793110" tvg-name="Nhật Bản vs Uruguay" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-18597" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-18597" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/uruguay-15251" group-title="BiaomTV" start-time="1790244300",Nhật Bản vs Uruguay - TIGER — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
