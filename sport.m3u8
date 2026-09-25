@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 03:00:09 26/09/2026
+## Cập nhật lúc: 03:20:07 26/09/2026
 
 #EXTINF:-1 tvg-id="cctv_997848_chuoikem" tvg-name="Finland vs France" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="Chuối TV" start-time="1790362800",Finland vs France - Chuối Kem [FHD] — Vô địch Châu Âu Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -66,6 +66,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l7oqdehgkowwr51" tvg-name="Boyaca Chico vs Deportivo Pasto" tvg-logo="https://static.sportsfeed.pro/football/team/1cd42bcb186830f2cffdeef6df5fd2b0.png" home-logo="https://static.sportsfeed.pro/football/team/1cd42bcb186830f2cffdeef6df5fd2b0.png" away-logo="https://static.sportsfeed.pro/football/team/9fbd48de1577477753873c539c3ab106.png" group-title="Gà Vàng TV" start-time="1790377800",Boyaca Chico vs Deportivo Pasto - MeoMeo — Categoría Primera A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19676740" tvg-name="Hungary vs Ukraine" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-18732" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-18732" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ukraine-18624" group-title="BiaomTV" start-time="1790361900",Hungary vs Ukraine - Vịt Nướng — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -166,11 +171,6 @@ https://live05.meung.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/07428422_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_zrkn6i41631awql" tvg-name="ĐTQG Ba Lan vs ĐTQG Bosnia Herzegovina" tvg-logo="https://img.gvapi.cc/football/team/1f47cef5e38c952f94c5d61726027439.png!w80" home-logo="https://img.gvapi.cc/football/team/1f47cef5e38c952f94c5d61726027439.png!w80" away-logo="https://img.gvapi.cc/football/team/5301386c592331424197d34172de723a.png!w80" group-title="Cola TV" start-time="1790361900",ĐTQG Ba Lan vs ĐTQG Bosnia Herzegovina — Giải vô địch bóng đá các quốc gia châu Âu
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live5.dyrur1.com/live/68932610_4d490de19d4680e6208273e4c12cd9b2_h1080p.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_m2q15iz8l4zae76" tvg-name="ĐTQG Hungary vs ĐTQG Ukraine" tvg-logo="https://img.gvapi.cc/football/team/22b55de76e6a8c7258e4661e8343ff3e.png!w80" home-logo="https://img.gvapi.cc/football/team/22b55de76e6a8c7258e4661e8343ff3e.png!w80" away-logo="https://img.gvapi.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80" group-title="Cola TV" start-time="1790361900",ĐTQG Hungary vs ĐTQG Ukraine - BLV SODA — Giải vô địch bóng đá các quốc gia châu Âu
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
