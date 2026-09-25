@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 11:40:08 25/09/2026
+## Cập nhật lúc: 12:00:07 25/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1641614_chuoito" tvg-name="Uzbekistan U23 vs Saudi Arabia U23" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131446_7bd3d526.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131446_7bd3d526.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134339_952f6da3.png" group-title="Chuối TV" start-time="1790312400",Uzbekistan U23 vs Saudi Arabia U23 - Chuối To [FHD] — Asian Games
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -62,17 +62,23 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cctv_998383_chuoitay" tvg-name="Slovakia W vs Poland" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143111_f0cb8ab0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_143111_f0cb8ab0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png" group-title="Chuối TV" start-time="1790348400",Slovakia W vs Poland - Chuối Tây [FHD] — Vô địch Châu Âu Bóng Chuyền
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="cctv_1545602_chuoisay" tvg-name="Armenia vs Latvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134253_26d0ea1f.png" group-title="Chuối TV" start-time="1790352000",Armenia vs Latvia - Chuối Sấy [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1528881_chuoitay" tvg-name="Georgia vs Northern Ireland" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134252_884d8f9e.png" group-title="Chuối TV" start-time="1790352000",Georgia vs Northern Ireland - Chuối Tây [FHD] — UEFA Nations League
+#EXTINF:-1 tvg-id="cctv_1528881_chuoisay" tvg-name="Georgia vs Northern Ireland" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134252_884d8f9e.png" group-title="Chuối TV" start-time="1790352000",Georgia vs Northern Ireland - Chuối Sấy [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528884_chuoichao" tvg-name="Hungary vs Ukraine" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125458_a2e2b5c9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125458_a2e2b5c9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125459_fd6a0e94.png" group-title="Chuối TV" start-time="1790361900",Hungary vs Ukraine - Chuối Chao [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -104,28 +110,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Ref
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1545818_chuoikem" tvg-name="Egypt vs Angola" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132758_5916abfa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132758_5916abfa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132804_5c9e4e30.png" group-title="Chuối TV" start-time="1790362800",Egypt vs Angola - Chuối Kem [FHD] — Africa Cup of Nations - Qualification
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cctv_1545826_chuoito" tvg-name="Morocco vs Gabon" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132757_56274e6a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132757_56274e6a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132800_a7fd586c.png" group-title="Chuối TV" start-time="1790362800",Morocco vs Gabon - Chuối To [FHD] — Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1549795_chuoitay" tvg-name="Chico vs Deportivo Pasto" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_eba6a872.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_eba6a872.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_4547a757.png" group-title="Chuối TV" start-time="1790377800",Chico vs Deportivo Pasto - Chuối Tây [FHD] — VĐQG Colombia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_l7oqdehjyd9nr51" tvg-name="Uzbekistan U23 vs Saudi Arabia U23" tvg-logo="https://img.thesports.com/football/team/4e7245e77764a6d4d68a69bd2f4c2035.png" home-logo="https://img.thesports.com/football/team/4e7245e77764a6d4d68a69bd2f4c2035.png" away-logo="https://img.thesports.com/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png" group-title="Gà Vàng TV" start-time="1790312400",Uzbekistan U23 vs Saudi Arabia U23 - GIàng A Dân — OCA Asian Games
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l5ergphk05kjr8k" tvg-name="China(w) vs Vietnam(w)" tvg-logo="https://img.thesports.com/football/team/fd3dd61e88396b2c01611167ed0867eb.png" home-logo="https://img.thesports.com/football/team/fd3dd61e88396b2c01611167ed0867eb.png" away-logo="https://img.thesports.com/football/team/4e91bada7f302a3370bedc1d4f783066.png" group-title="Gà Vàng TV" start-time="1790316000",China(w) vs Vietnam(w) - SÚP LƠ — OCA Women's Asian Games
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -191,3 +180,8 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3Mzg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om9
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY2OTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmh4NGV3Yngzejl1dGw0ODhkNmdhMnVjcA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_m2q15i801d2ae76" tvg-name="Uzbekistan U23 vs Ả Rập Saudi U23" tvg-logo="https://img.gvapi.cc/football/team/4e7245e77764a6d4d68a69bd2f4c2035.png!w80" home-logo="https://img.gvapi.cc/football/team/4e7245e77764a6d4d68a69bd2f4c2035.png!w80" away-logo="https://img.gvapi.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80" group-title="Cola TV" start-time="1790312400",Uzbekistan U23 vs Ả Rập Saudi U23 - BLV REVIVE — Đại hội Thể thao Châu Á
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
