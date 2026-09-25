@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 07:00:08 25/09/2026
+## Cập nhật lúc: 07:20:07 25/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1549794_chuoisay" tvg-name="Atletico Nacional vs Millonarios" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png" group-title="Chuối TV" start-time="1790296200",Atletico Nacional vs Millonarios - Chuối Sấy [FHD] — VĐQG Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -56,11 +56,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1641703_chuoinho" tvg-name="Indonesia vs Singapore" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" home-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" group-title="Chuối TV" start-time="1790337600",Indonesia vs Singapore - Chuối Nhỏ [FHD] — FIFA Asean Cup
+#EXTINF:-1 tvg-id="cctv_1641703_chuoikem" tvg-name="Indonesia vs Singapore" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" home-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" group-title="Chuối TV" start-time="1790337600",Indonesia vs Singapore - Chuối Kem [FHD] — FIFA Asean Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1545835_troctru" tvg-name="Tanzania vs Guinea-Bissau" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132758_7ab1a2cb.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132758_7ab1a2cb.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134306_c6162edd.png" group-title="Chuối TV" start-time="1790341200",Tanzania vs Guinea-Bissau - Trốc Tru [FHD] — Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -212,6 +212,11 @@ https://live05.meung.app/live/14707124_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cola_l6kegi8l29lsv75" tvg-name="Cayman Islands vs Dominica" tvg-logo="https://img.gvapi.cc/football/team/f6bbfd2ff6735cc0c673ddf4e39aa3dd.png!w80" home-logo="https://img.gvapi.cc/football/team/f6bbfd2ff6735cc0c673ddf4e39aa3dd.png!w80" away-logo="https://img.gvapi.cc/football/team/52e9caed9827b4c611bd6cc7a96ed455.png!w80" group-title="Cola TV" start-time="1790294400",Cayman Islands vs Dominica - BLV BÍ ĐAO — Liên minh bóng đá quốc gia châu Mỹ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="cola_63kv9igdp45cx7e" tvg-name="Cộng hòa Dominican vs Nicaragua" tvg-logo="https://img.gvapi.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png!w80" home-logo="https://img.gvapi.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png!w80" away-logo="https://img.gvapi.cc/football/team/b6d69c1c07b1d8d83b953b28563999ae.png!w80" group-title="Cola TV" start-time="1790294400",Cộng hòa Dominican vs Nicaragua - BLV SPRITE — Liên minh bóng đá quốc gia châu Mỹ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -221,3 +226,8 @@ https://live05.meung.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_9gklzi1gxo9fm7x" tvg-name="Haiti vs Trinidad & Tobago" tvg-logo="https://img.gvapi.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80" home-logo="https://img.gvapi.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80" away-logo="https://img.gvapi.cc/football/team/edb8dfb5b878d0e33c4a86488ad8eb6a.png!w80" group-title="Cola TV" start-time="1790295600",Haiti vs Trinidad & Tobago - BLV HỔ VẰN — Liên minh bóng đá quốc gia châu Mỹ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/07428422_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
