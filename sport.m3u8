@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:00:10 26/09/2026
+## Cập nhật lúc: 05:20:07 26/09/2026
 
 #EXTINF:-1 tvg-id="cctv_997848_chuoikem" tvg-name="Finland vs France" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="Chuối TV" start-time="1790362800",Finland vs France - Chuối Kem [FHD] — Vô địch Châu Âu Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -51,6 +51,11 @@ https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_pxwrxlhyo54pryk" tvg-name="Deportiva Once Caldas vs Atletico Bucaramanga" tvg-logo="https://static.sportsfeed.pro/football/team/b060f70150fe2b52fba8aa026a930c4e.png" home-logo="https://static.sportsfeed.pro/football/team/b060f70150fe2b52fba8aa026a930c4e.png" away-logo="https://static.sportsfeed.pro/football/team/70c92764e181ce7abe6176c411a93fe3.png" group-title="Gà Vàng TV" start-time="1790385300",Deportiva Once Caldas vs Atletico Bucaramanga - KAYTI — Categoría Primera A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19886588" tvg-name="Nhật Bản U23 vs Korea DPR U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-u23-63305" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-u23-63305" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-dpr-u23-280101" group-title="BiaomTV" start-time="1790418600",Nhật Bản U23 vs Korea DPR U23 - TRÚC BẠCH — Asiad
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
