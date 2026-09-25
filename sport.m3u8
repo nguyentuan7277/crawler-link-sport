@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:20:10 25/09/2026
+## Cập nhật lúc: 15:40:06 25/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1641702_chuoichao" tvg-name="Bangladesh vs Malaysia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png" away-logo="https://media.chuoichientv.net/media/20250902_193521_ec2f00c2.png" group-title="Chuối TV" start-time="1790323200",Bangladesh vs Malaysia - Chuối Chao [FHD] — FIFA Asean Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -116,11 +116,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_l5ergphk05kjr8k" tvg-name="China(w) vs Vietnam(w)" tvg-logo="https://img.thesports.com/football/team/fd3dd61e88396b2c01611167ed0867eb.png" home-logo="https://img.thesports.com/football/team/fd3dd61e88396b2c01611167ed0867eb.png" away-logo="https://img.thesports.com/football/team/4e91bada7f302a3370bedc1d4f783066.png" group-title="Gà Vàng TV" start-time="1790316000",China(w) vs Vietnam(w) - SÚP LƠ — OCA Women's Asian Games
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_318q66hxl1vzqo9" tvg-name="Bangladesh vs Malaysia" tvg-logo="https://img.thesports.com/football/team/f00b6379b82a515a9478b6e58b783de9.png" home-logo="https://img.thesports.com/football/team/f00b6379b82a515a9478b6e58b783de9.png" away-logo="https://img.thesports.com/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" group-title="Gà Vàng TV" start-time="1790326800",Bangladesh vs Malaysia - NGƯỜI KIẾN — FIFA ASEAN Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -215,11 +210,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3Mzg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om9
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY2OTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmh4NGV3Yngzejl1dGw0ODhkNmdhMnVjcA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_l6kegir9yrnsv75" tvg-name="Trung Quốc Nữ vs Việt Nam Nữ" tvg-logo="https://img.gvapi.cc/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80" home-logo="https://img.gvapi.cc/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80" away-logo="https://img.gvapi.cc/football/team/4e91bada7f302a3370bedc1d4f783066.png!w80" group-title="Cola TV" start-time="1790316000",Trung Quốc Nữ vs Việt Nam Nữ - BLV Cozy — Đại hội Thể thao Nữ Châu Á
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_l6kersmoxx2tvq5" tvg-name="Anyang KGC vs Busan KTF Sonicboom" tvg-logo="https://img.gvapi.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80" home-logo="https://img.gvapi.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80" away-logo="https://img.gvapi.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80" group-title="Cola TV" start-time="1790321400",Anyang KGC vs Busan KTF Sonicboom - BLV 247 — Korean Basketball League Open Match Day
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
