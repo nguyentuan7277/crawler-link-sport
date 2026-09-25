@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:20:10 25/09/2026
+## Cập nhật lúc: 20:40:25 25/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1641703_troctru" tvg-name="Indonesia vs Singapore" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" home-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" group-title="Chuối TV" start-time="1790341200",Indonesia vs Singapore - Trốc Tru [FHD] — FIFA Asean Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -92,6 +92,16 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_dn1m1ghl6xn4moe" tvg-name="Indonesia vs Singapore" tvg-logo="https://img.thesports.com/football/team/628f16b29939d1b060af49f66ae0f7f8.png" home-logo="https://img.thesports.com/football/team/628f16b29939d1b060af49f66ae0f7f8.png" away-logo="https://img.thesports.com/football/team/bfa20d86a59044ef90a4609dde03985c.png" group-title="Gà Vàng TV" start-time="1790341200",Indonesia vs Singapore - Lữ Bố.vip — FIFA ASEAN Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_k82rekhglk3zrep" tvg-name="Tanzania vs Guinea Bissau" tvg-logo="https://img.thesports.com/football/team/0ebcdb06cf4d039f0d08b356c26bc466.png" home-logo="https://img.thesports.com/football/team/0ebcdb06cf4d039f0d08b356c26bc466.png" away-logo="https://img.thesports.com/football/team/9864c46c05d8590f2ebf70351b062203.png" group-title="Gà Vàng TV" start-time="1790341200",Tanzania vs Guinea Bissau - THICHDUTHU — CAF Africa Cup of Nations
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_4wyrn4h6g3vdq86" tvg-name="Niger vs Lesotho" tvg-logo="https://img.thesports.com/football/team/cd0ec9035e74c703a7e3128db75fdc65.png" home-logo="https://img.thesports.com/football/team/cd0ec9035e74c703a7e3128db75fdc65.png" away-logo="https://img.thesports.com/football/team/2c677b17efb13fe6ec91b3c0bb38934d.png" group-title="Gà Vàng TV" start-time="1790348400",Niger vs Lesotho - ĐOÀN DỰ — CAF Africa Cup of Nations
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -161,3 +171,13 @@ https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_527r3i4rpl0s47e" tvg-name="FK Lida vs Smorgon" tvg-logo="https://img.gvapi.cc/football/team/001e7c76f6571d153feb351f0aec9cee.png!w80" home-logo="https://img.gvapi.cc/football/team/001e7c76f6571d153feb351f0aec9cee.png!w80" away-logo="https://img.gvapi.cc/football/team/17b5b938285aa37439a1dbe7b33334f6.png!w80" group-title="Cola TV" start-time="1790343000",FK Lida vs Smorgon - BLV MOUNTAIN DEW — Giải hạng Hai Belarus
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ndkz6i3dr65uxq3" tvg-name="Kommunalnik Slonim vs Borisov BATE-2" tvg-logo="https://img.gvapi.cc/football/team/0c32d507c2e7d454612e1ada7f4359bf.png!w80" home-logo="https://img.gvapi.cc/football/team/0c32d507c2e7d454612e1ada7f4359bf.png!w80" away-logo="https://img.gvapi.cc/football/team/ad91a51a649604ef81f69462d4bd8e2f.png!w80" group-title="Cola TV" start-time="1790343000",Kommunalnik Slonim vs Borisov BATE-2 - BLV SAMURAI — Giải hạng Hai Belarus
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
