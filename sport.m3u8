@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:20:06 25/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1641133_chuoito" tvg-name="Japan W vs Philippines W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142851_8f44d2ed.png" group-title="Chuối TV" start-time="1790332200",Japan W vs Philippines W - Chuối To [FHD] — Asian Games Women
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 17:40:09 25/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1641702_chuoichao" tvg-name="Bangladesh vs Malaysia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png" away-logo="https://media.chuoichientv.net/media/20250902_193521_ec2f00c2.png" group-title="Chuối TV" start-time="1790323200",Bangladesh vs Malaysia - Chuối Chao [FHD] — FIFA Asean Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +19,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1641615_chuoito" tvg-name="U23 Hàn Quốc  vs U23 Vietnam " tvg-logo="https://media.chuoichientv.net/media/20250902_190339_a6b21e4f.png" home-logo="https://media.chuoichientv.net/media/20250902_190339_a6b21e4f.png" away-logo="https://media.chuoichientv.net/media/20250902_190503_cfcedb98.png" group-title="Chuối TV" start-time="1790332200",U23 Hàn Quốc  vs U23 Vietnam  - Chuối To [FHD] — Asian Games
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1641703_chuoikem" tvg-name="Indonesia vs Singapore" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" home-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" group-title="Chuối TV" start-time="1790337600",Indonesia vs Singapore - Chuối Kem [FHD] — FIFA Asean Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -110,25 +110,16 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cctv_1639942_chuoinho" tvg-name="Jamaica vs Guatemala" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" group-title="Chuối TV" start-time="1790380800",Jamaica vs Guatemala - Chuối Nhỏ [FHD] — CONCACAF Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_318q66hxl1vzqo9" tvg-name="Bangladesh vs Malaysia" tvg-logo="https://img.thesports.com/football/team/f00b6379b82a515a9478b6e58b783de9.png" home-logo="https://img.thesports.com/football/team/f00b6379b82a515a9478b6e58b783de9.png" away-logo="https://img.thesports.com/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" group-title="Gà Vàng TV" start-time="1790326800",Bangladesh vs Malaysia - NGƯỜI KIẾN — FIFA ASEAN Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_4wyrn4hyz7y5q86" tvg-name="Japan(w) vs Philippines(w)" tvg-logo="https://img.thesports.com/football/team/871d73474b2d6b307fe3862403e9c77d.png" home-logo="https://img.thesports.com/football/team/871d73474b2d6b307fe3862403e9c77d.png" away-logo="https://img.thesports.com/football/team/92cbd10529e84d6cfda6125ddad70174.png" group-title="Gà Vàng TV" start-time="1790332200",Japan(w) vs Philippines(w) - MeoMeo — OCA Women's Asian Games
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_jw2r09h547g4rz8" tvg-name="Korea U23 vs Vietnam U23" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png" home-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png" away-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png" group-title="Gà Vàng TV" start-time="1790332200",Korea U23 vs Vietnam U23 - CRIS — OCA Asian Games
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_1l4rjnhny3lzm7v" tvg-name="South Korea(w) vs Uzbekistan(w)" tvg-logo="https://img.thesports.com/football/team/c44bc96860338d531a5b0a78d335d7a7.png" home-logo="https://img.thesports.com/football/team/c44bc96860338d531a5b0a78d335d7a7.png" away-logo="https://img.thesports.com/football/team/0eed1b79b7b63de4fd62d4f861719c03.png" group-title="Gà Vàng TV" start-time="1790332200",South Korea(w) vs Uzbekistan(w) - cố tư nghiêm — OCA Women's Asian Games
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_dj2ryohllzp0q1z" tvg-name="Wuxi Wugou vs Guangxi Hengchen FC" tvg-logo="https://static.sportsfeed.pro/football/team/509b91468e833ffe3fd9edd04f06ddee.png" home-logo="https://static.sportsfeed.pro/football/team/509b91468e833ffe3fd9edd04f06ddee.png" away-logo="https://static.sportsfeed.pro/football/team/7543134c669d639c3ff036bc215a3b62.png" group-title="Gà Vàng TV" start-time="1790334000",Wuxi Wugou vs Guangxi Hengchen FC - ĐOÀN DỰ — Chinese Football League 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -219,3 +210,18 @@ https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/78905744_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_8lk2di30v45tz73" tvg-name="Hàn Quốc Nữ vs Uzbekistan Nữ" tvg-logo="https://img.gvapi.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" home-logo="https://img.gvapi.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" away-logo="https://img.gvapi.cc/football/team/0eed1b79b7b63de4fd62d4f861719c03.png!w80" group-title="Cola TV" start-time="1790332200",Hàn Quốc Nữ vs Uzbekistan Nữ - BLV FANTA — Đại hội Thể thao Nữ Châu Á
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/16226575_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_xvkjoi2r53rc879" tvg-name="Hàn Quốc U23 vs Việt Nam U23" tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" home-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" away-logo="https://img.gvapi.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80" group-title="Cola TV" start-time="1790332200",Hàn Quốc U23 vs Việt Nam U23 - BLV REVIVE — Đại hội Thể thao Châu Á
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ezk96ij0ejzb1kn" tvg-name="Nhật Bản Nữ vs Philippines Nữ" tvg-logo="https://img.gvapi.cc/football/team/90fb994bffbb0b8754b4d971092ef034.png!w80" home-logo="https://img.gvapi.cc/football/team/90fb994bffbb0b8754b4d971092ef034.png!w80" away-logo="https://img.gvapi.cc/football/team/92cbd10529e84d6cfda6125ddad70174.png!w80" group-title="Cola TV" start-time="1790332200",Nhật Bản Nữ vs Philippines Nữ - BLV 247 — Đại hội Thể thao Nữ Châu Á
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
