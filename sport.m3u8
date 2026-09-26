@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 03:00:13 27/09/2026
+## Cập nhật lúc: 03:20:12 27/09/2026
 
 #EXTINF:-1 tvg-id="cctv_999068_chuoikem" tvg-name="France vs Poland" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png" group-title="Chuối TV" start-time="1790449200",France vs Poland - Chuối Kem [FHD] — Vô địch Châu Âu Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1637933_chuoitay" tvg-name="Oman vs Saudi Arabia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_d27d52bf.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_d27d52bf.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132738_952f6da3.png" group-title="Chuối TV" start-time="1790445600",Oman vs Saudi Arabia - Chuối Tây [FHD] — Gulf Cup of Nations
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528892_angao" tvg-name="Czech Republic vs Croatia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125458_7fda1723.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125458_7fda1723.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125448_7dd16e8b.png" group-title="Chuối TV" start-time="1790448300",Czech Republic vs Croatia - Chuối Ngao [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -67,6 +61,36 @@ https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_23xmvkh6y10vqg8" tvg-name="Albania vs Belarus" tvg-logo="https://img.thesports.com/football/team/848ef33f5e745846994a756f211e530b.png" home-logo="https://img.thesports.com/football/team/848ef33f5e745846994a756f211e530b.png" away-logo="https://img.thesports.com/football/team/447d5c2ba3e790ec434c0bee994095ed.png" group-title="Gà Vàng TV" start-time="1790448300",Albania vs Belarus - NGƯỜI KIẾN — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4jwq2ghngy9vm0v" tvg-name="Czechia vs Croatia" tvg-logo="https://img.thesports.com/football/team/445f0bbb49694464b0fee3b1cbdfdafc.png" home-logo="https://img.thesports.com/football/team/445f0bbb49694464b0fee3b1cbdfdafc.png" away-logo="https://img.thesports.com/football/team/a1b3eb19ca424555b5c61384059d21f7.png" group-title="Gà Vàng TV" start-time="1790448300",Czechia vs Croatia - GIàng A Dân — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_n54qllhn4g1vqvy" tvg-name="England vs Spain" tvg-logo="https://img.thesports.com/football/team/70fd3d5ba9c841ef932fae2cf0d7f3e7.png" home-logo="https://img.thesports.com/football/team/70fd3d5ba9c841ef932fae2cf0d7f3e7.png" away-logo="https://img.thesports.com/football/team/9c1958aa257c4a318f87cb4b2d79fa11.png" group-title="Gà Vàng TV" start-time="1790448300",England vs Spain - CRIS — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnh9nol1m7v" tvg-name="North Macedonia vs Switzerland" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png" home-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png" away-logo="https://img.thesports.com/football/team/fad87ff2077540c8a951ade88a87901d.png" group-title="Gà Vàng TV" start-time="1790448300",North Macedonia vs Switzerland - Cá MậP — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_zp5rzghg3vwjq82" tvg-name="Slovakia vs Moldova" tvg-logo="https://img.thesports.com/football/team/e2fcc738438c4e7ca4b605ef8764db73.png" home-logo="https://img.thesports.com/football/team/e2fcc738438c4e7ca4b605ef8764db73.png" away-logo="https://img.thesports.com/football/team/3f13cf4ddf6fc50c0d39a1d5aeb57dd8.png" group-title="Gà Vàng TV" start-time="1790448300",Slovakia vs Moldova - SÚP LƠ — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_ednm9whwwz6pryo" tvg-name="Operario Ferroviario PR vs Ceara" tvg-logo="https://static.sportsfeed.pro/football/team/d10de41c21595dcf71ffbf4c3c105660.png" home-logo="https://static.sportsfeed.pro/football/team/d10de41c21595dcf71ffbf4c3c105660.png" away-logo="https://static.sportsfeed.pro/football/team/af8774ff48aa426f5516ba6d507c5381.png" group-title="Gà Vàng TV" start-time="1790451000",Operario Ferroviario PR vs Ceara - RIO — Brazilian Serie B
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_k82rekh2znlzrep" tvg-name="USA vs Peru" tvg-logo="https://img.thesports.com/football/team/350ec526535f4c9a81f9d9201948d9d5.png" home-logo="https://img.thesports.com/football/team/350ec526535f4c9a81f9d9201948d9d5.png" away-logo="https://img.thesports.com/football/team/77da2f07ed6c94afa27b5f113bea7ebe.png" group-title="Gà Vàng TV" start-time="1790454600",USA vs Peru - A Long — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
