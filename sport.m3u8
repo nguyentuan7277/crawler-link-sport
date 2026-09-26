@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:20:08 26/09/2026
+## Cập nhật lúc: 16:40:27 26/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1641704_chuoito" tvg-name="Pakistan vs Thailand" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" group-title="Chuối TV" start-time="1790413200",Pakistan vs Thailand - Chuối To [FHD] — FIFA Asean Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -120,6 +120,11 @@ https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_l5ergph4gdvvr8k" tvg-name="Vietnam vs Philippines" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png" home-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png" away-logo="https://img.thesports.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png" group-title="Gà Vàng TV" start-time="1790425800",Vietnam vs Philippines - CRIS — FIFA ASEAN Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19886588" tvg-name="Nhật Bản U23 vs Korea DPR U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-u23-63305" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-u23-63305" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-dpr-u23-280101" group-title="BiaomTV" start-time="1790418600",Nhật Bản U23 vs Korea DPR U23 - TRÚC BẠCH — Asiad
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -199,11 +204,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2ODk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onl
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY3ODQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om11bXhlbG1uOWR1ZG9zc3JpbW11bncwMQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_m2q19srveejuek6" tvg-name="Mobis Phoebus vs LG Sakers" tvg-logo="https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" home-logo="https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" away-logo="https://img.gvapi.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80" group-title="Cola TV" start-time="1790407800",Mobis Phoebus vs LG Sakers - BLV POCARI — Korean Basketball League Open Match Day
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_oj7x9ixjxrla47g" tvg-name="CLB Omiya Ardija vs CLB Ventforet" tvg-logo="https://img.gvapi.cc/football/team/f3b0743cbe39963a20d4ffe3a8c64c2e.png!w80" home-logo="https://img.gvapi.cc/football/team/f3b0743cbe39963a20d4ffe3a8c64c2e.png!w80" away-logo="https://img.gvapi.cc/football/team/61e08ae9a3b69ce77f30bf51e71b2a77.png!w80" group-title="Cola TV" start-time="1790409600",CLB Omiya Ardija vs CLB Ventforet - BLV BÍ ĐAO — Giải bóng đá hạng nhì Nhật Bản
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
