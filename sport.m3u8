@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:20:13 26/09/2026
+## Cập nhật lúc: 20:40:13 26/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1641705_angao" tvg-name="Việt Nam vs Philippines" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" away-logo="https://media.chuoichientv.net/media/20251215_200012_37b4c910.png" group-title="Chuối TV" start-time="1790425800",Việt Nam vs Philippines - Chuối Ngao [FHD] — FIFA Asean Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -110,11 +110,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_ednm9whwykegryo" tvg-name="Spartak Kostroma vs Ural Yekaterinburg" tvg-logo="https://static.sportsfeed.pro/football/team/444ccd0f41b3dc4726dbbd26ea3d359c.png" home-logo="https://static.sportsfeed.pro/football/team/444ccd0f41b3dc4726dbbd26ea3d359c.png" away-logo="https://static.sportsfeed.pro/football/team/c44580753ff5e1f47b7784d28b10af2f.png" group-title="Gà Vàng TV" start-time="1790422200",Spartak Kostroma vs Ural Yekaterinburg - ĐOÀN DỰ — Russian First League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_318q66hx65njqo9" tvg-name="Ekenas IF Fotboll vs SJK Seinäjoki" tvg-logo="https://static.sportsfeed.pro/football/team/809acdd49b4b1e55e7393c7575189e81.png" home-logo="https://static.sportsfeed.pro/football/team/809acdd49b4b1e55e7393c7575189e81.png" away-logo="https://static.sportsfeed.pro/football/team/1673aae6c71fb628e98a6b2306ae14d6.png" group-title="Gà Vàng TV" start-time="1790424000",Ekenas IF Fotboll vs SJK Seinäjoki - THICHDUTHU — Finnish Ykkosliiga
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -164,6 +159,11 @@ https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dj2ryohl04d9q1z" tvg-name="Tenerife vs Cadiz CF" tvg-logo="https://static.sportsfeed.pro/football/team/c816a7cc7ab1eb6dcce3fb4408acd320.png" home-logo="https://static.sportsfeed.pro/football/team/c816a7cc7ab1eb6dcce3fb4408acd320.png" away-logo="https://static.sportsfeed.pro/football/team/13ad117ddb310052841244f0d1ed3c1e.png" group-title="Gà Vàng TV" start-time="1790440200",Tenerife vs Cadiz CF - Lữ Bố.vip — Spanish Segunda Division
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19883879" tvg-name="Việt Nam vs Philippines" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-18709" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-18709" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/philippines-18693" group-title="BiaomTV" start-time="1790425800",Việt Nam vs Philippines - TÔM CHIÊN — Cúp ASEAN
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -239,11 +239,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2ODk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onl
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY3ODQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om11bXhlbG1uOWR1ZG9zc3JpbW11bncwMQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_wv78xivvlgdaokr" tvg-name="Nantong Zhiyun vs Changchun Yatai" tvg-logo="https://img.gvapi.cc/football/team/a82e2bf321557e0dd1ab0c09df718a53.png!w80" home-logo="https://img.gvapi.cc/football/team/a82e2bf321557e0dd1ab0c09df718a53.png!w80" away-logo="https://img.gvapi.cc/football/team/aa8cfda1c890f28a3a62fff6f1c6f6a0.png!w80" group-title="Cola TV" start-time="1790422200",Nantong Zhiyun vs Changchun Yatai - BLV FANTA — Giải bóng đá Hạng nhất Trung Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/16226575_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_j374oi0mw53hgqo" tvg-name="Ceuta vs R Sociedad B" tvg-logo="https://img.gvapi.cc/football/team/cb76c8ffac95e7e5429aca574aab5deb.png!w80" home-logo="https://img.gvapi.cc/football/team/cb76c8ffac95e7e5429aca574aab5deb.png!w80" away-logo="https://img.gvapi.cc/football/team/d29164c8a90c597e5333f1bf14f289f2.png!w80" group-title="Cola TV" start-time="1790424000",Ceuta vs R Sociedad B - BLV ROCKSTAR — Giải bóng đá Hạng nhì Tây Ban Nha
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
