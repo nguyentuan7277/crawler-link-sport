@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 14:00:10 26/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1555718_chuoitay" tvg-name="Renofa Yamaguchi vs Sagamihara" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132418_63241790.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132418_63241790.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132427_3482cb2f.png" group-title="Chuối TV" start-time="1790398800",Renofa Yamaguchi vs Sagamihara - Chuối Tây [FHD] — J3 League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 14:20:05 26/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1641726_chuoichao" tvg-name="China PR U23 vs U23 Thailand " tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134337_d547f1b2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134337_d547f1b2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250727_220754_af82f425.png" group-title="Chuối TV" start-time="1790402400",China PR U23 vs U23 Thailand  - Chuối Chao [FHD] — Asian Games
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -115,6 +109,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_998910_chuoikem" tvg-name="South Korea vs Philippines" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" away-logo="https://media.chuoichientv.net/media/20251215_200012_37b4c910.png" group-title="Chuối TV" start-time="1790481600",South Korea vs Philippines - Chuối Kem [FHD] — Asian Games Bóng Chuyền
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_dj2ryohl3181q1z" tvg-name="Iwaki FC vs Vegalta Sendai" tvg-logo="https://static.sportsfeed.pro/football/team/fe52c67f0590ffcce6879aebfd39f165.png" home-logo="https://static.sportsfeed.pro/football/team/fe52c67f0590ffcce6879aebfd39f165.png" away-logo="https://static.sportsfeed.pro/football/team/514eb329116806ef998ead8b3ccb5612.png" group-title="Gà Vàng TV" start-time="1790409600",Iwaki FC vs Vegalta Sendai - khang hi — Japanese J2 League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
