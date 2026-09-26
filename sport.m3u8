@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 11:00:05 26/09/2026
+## Cập nhật lúc: 11:20:09 26/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1550976_chuoisay" tvg-name="Club Tijuana vs Atlas" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133837_c53709bd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133837_c53709bd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133838_cc0218cf.png" group-title="Chuối TV" start-time="1790391600",Club Tijuana vs Atlas - Chuối Sấy [FHD] — VĐQG Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -115,6 +115,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09hkd04orz8" tvg-name="Club Tijuana vs Atlas" tvg-logo="https://static.sportsfeed.pro/football/team/6090f28bfc40d2169607b23256e5a151.png" home-logo="https://static.sportsfeed.pro/football/team/6090f28bfc40d2169607b23256e5a151.png" away-logo="https://static.sportsfeed.pro/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png" group-title="Gà Vàng TV" start-time="1790391600",Club Tijuana vs Atlas - SiêU QuậY — Mexico Liga MX
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19886588" tvg-name="Nhật Bản U23 vs Korea DPR U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-u23-63305" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-u23-63305" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-dpr-u23-280101" group-title="BiaomTV" start-time="1790418600",Nhật Bản U23 vs Korea DPR U23 - TRÚC BẠCH — Asiad
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
