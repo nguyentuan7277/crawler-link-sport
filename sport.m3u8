@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 11:41:04 27/09/2026
+## Cập nhật lúc: 12:00:07 27/09/2026
 
 #EXTINF:-1 tvg-id="cctv_998910_chuoisay" tvg-name="South Korea vs Philippines" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" away-logo="https://media.chuoichientv.net/media/20251215_200012_37b4c910.png" group-title="Chuối TV" start-time="1790481600",South Korea vs Philippines - Chuối Sấy [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1490507_angao" tvg-name="Los Angeles Galaxy vs Colorado Rapids" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_20c3f42a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_20c3f42a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" group-title="Chuối TV" start-time="1790476200",Los Angeles Galaxy vs Colorado Rapids - Chuối Ngao [FHD] — Major League Soccer
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1641706_chuoichao" tvg-name="Hong Kong vs Laos" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134317_1bd3a785.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134317_1bd3a785.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_ddeb005f.png" group-title="Chuối TV" start-time="1790492400",Hong Kong vs Laos - Chuối Chao [FHD] — FIFA Asean Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -115,6 +109,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_995429_chuoitay" tvg-name="Indonesia vs Kyrgyzstan W" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" home-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" away-logo="https://media.chuoichientv.net/media/20260604_133429_24e1757b.webp" group-title="Chuối TV" start-time="1790557200",Indonesia vs Kyrgyzstan W - Chuối Tây [FHD] — Asian Games Bóng Chuyền
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1550982_chuoikem" tvg-name="Leon vs FC Juarez" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_fbad589d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_fbad589d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_9be93a93.png" group-title="Chuối TV" start-time="1790557200",Leon vs FC Juarez - Chuối Kem [FHD] — VĐQG Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
