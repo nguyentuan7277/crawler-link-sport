@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:00:22 27/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1641707_angao" tvg-name="Cambodia vs Myanmar" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_8f17ab4f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_8f17ab4f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_48e9fd27.png" group-title="Chuối TV" start-time="1790503200",Cambodia vs Myanmar - Chuối Ngao [FHD] — FIFA Asean Cup
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 17:20:07 27/09/2026
 
 #EXTINF:-1 tvg-id="cctv_993780_chuoikem" tvg-name="China vs Chinese Taipei" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png" group-title="Chuối TV" start-time="1790503200",China vs Chinese Taipei - Chuối Kem [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -14,17 +8,23 @@ https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1634973_chuoito" tvg-name="Đồng Tháp vs Thai Nguyen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_f9a41cc0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_f9a41cc0.png" away-logo="https://media.api-sports.io/football/teams/28216.png" group-title="Chuối TV" start-time="1790503200",Đồng Tháp vs Thai Nguyen - Chuối To [FHD] — V.League 2
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cctv_995830_chuoitay" tvg-name="Japan vs Uzbekistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_7ff7b895.png" group-title="Chuối TV" start-time="1790504400",Japan vs Uzbekistan - Chuối Tây [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1641707_angao" tvg-name="Cambodia vs Myanmar" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_8f17ab4f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_8f17ab4f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_48e9fd27.png" group-title="Chuối TV" start-time="1790503200",Cambodia vs Myanmar - Chuối Ngao [FHD] — FIFA Asean Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1634973_chuoito" tvg-name="Đồng Tháp vs Thai Nguyen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_f9a41cc0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_f9a41cc0.png" away-logo="https://media.api-sports.io/football/teams/28216.png" group-title="Chuối TV" start-time="1790503200",Đồng Tháp vs Thai Nguyen - Chuối To [FHD] — V.League 2
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1569947_chuoila" tvg-name="Valladolid vs Cordoba" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_3a522956.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_3a522956.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133418_c9c4f719.png" group-title="Chuối TV" start-time="1790510400",Valladolid vs Cordoba - Chuối Lá [FHD] — La Liga 2
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
