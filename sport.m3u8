@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 07:20:08 27/09/2026
+## Cập nhật lúc: 07:40:07 27/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1490497_chuoito" tvg-name="Atlanta United FC vs New York City FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131606_86e503ed.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131606_86e503ed.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_4e107f78.png" group-title="Chuối TV" start-time="1790465400",Atlanta United FC vs New York City FC - Chuối To [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -35,11 +35,6 @@ https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_4jwq2ghn9w8om0v" tvg-name="FC Dallas vs Los Angeles FC" tvg-logo="https://static.sportsfeed.pro/football/team/e829da6b3050ec03f3c8715690ec39c4.png" home-logo="https://static.sportsfeed.pro/football/team/e829da6b3050ec03f3c8715690ec39c4.png" away-logo="https://static.sportsfeed.pro/football/team/9c5ad5227377e12b87f77790d3d88c1c.png" group-title="Gà Vàng TV" start-time="1790469000",FC Dallas vs Los Angeles FC - SiêU QuậY — United States Major League Soccer
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_dn1m1gh9vk6emoe" tvg-name="Mexico vs Colombia" tvg-logo="https://img.thesports.com/football/team/cd5a7e277e91426d9ad74bd09b946fde.png" home-logo="https://img.thesports.com/football/team/cd5a7e277e91426d9ad74bd09b946fde.png" away-logo="https://img.thesports.com/football/team/ef2635db12914681ae86ece2d97bd6c2.png" group-title="Gà Vàng TV" start-time="1790470800",Mexico vs Colombia - MeoMeo — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -155,3 +150,8 @@ https://live05.meung.app/live/78905744_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_vrqwni432xni4qn" tvg-name="CLB Nashville vs CLB Toronto" tvg-logo="https://img.gvapi.cc/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80" home-logo="https://img.gvapi.cc/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80" away-logo="https://img.gvapi.cc/football/team/a6f6290d4b7699729dc19349484841bf.png!w80" group-title="Cola TV" start-time="1790469000",CLB Nashville vs CLB Toronto - BLV AQUA — Major League Soccer
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
