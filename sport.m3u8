@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:40:07 27/09/2026
+## Cập nhật lúc: 19:00:08 27/09/2026
 
 #EXTINF:-1 tvg-id="cctv_993780_chuoikem" tvg-name="China vs Chinese Taipei" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png" group-title="Chuối TV" start-time="1790503200",China vs Chinese Taipei - Chuối Kem [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -8,11 +8,11 @@
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_995830_chuoitay" tvg-name="Japan vs Uzbekistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_7ff7b895.png" group-title="Chuối TV" start-time="1790504400",Japan vs Uzbekistan - Chuối Tây [FHD] — Asian Games Bóng Chuyền
+#EXTINF:-1 tvg-id="cctv_1569947_chuoila" tvg-name="Valladolid vs Cordoba" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_3a522956.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_3a522956.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133418_c9c4f719.png" group-title="Chuối TV" start-time="1790510400",Valladolid vs Cordoba - Chuối Lá [HD] — La Liga 2
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1641707_angao" tvg-name="Cambodia vs Myanmar" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_8f17ab4f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_8f17ab4f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_48e9fd27.png" group-title="Chuối TV" start-time="1790503200",Cambodia vs Myanmar - Chuối Ngao [FHD] — FIFA Asean Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,12 +25,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1569947_chuoila" tvg-name="Valladolid vs Cordoba" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_3a522956.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_3a522956.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133418_c9c4f719.png" group-title="Chuối TV" start-time="1790510400",Valladolid vs Cordoba - Chuối Lá [FHD] — La Liga 2
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1569944_chuoinho" tvg-name="Mallorca vs Almeria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125628_01e49a9d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125628_01e49a9d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133420_69c15fd6.png" group-title="Chuối TV" start-time="1790518500",Mallorca vs Almeria - Chuối Nhỏ [FHD] — La Liga 2
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -121,21 +115,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_1l4rjnh9voy2m7v" tvg-name="Dong Thap vs Thai Nguyen" tvg-logo="https://static.sportsfeed.pro/football/team/b6cae339576dad4050db7d092cdc52b6.png" home-logo="https://static.sportsfeed.pro/football/team/b6cae339576dad4050db7d092cdc52b6.png" away-logo="https://static.sportsfeed.pro/football/team/5bc47b0c1409c6deb22abf1bf86f1ef0.png" group-title="Gà Vàng TV" start-time="1790503200",Dong Thap vs Thai Nguyen - cố tư nghiêm — Vietnam National First Class League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_4wyrn4h6xey6q86" tvg-name="Gangwon FC vs Incheon United" tvg-logo="https://static.sportsfeed.pro/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" home-logo="https://static.sportsfeed.pro/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" away-logo="https://static.sportsfeed.pro/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png" group-title="Gà Vàng TV" start-time="1790503200",Gangwon FC vs Incheon United - Lữ Bố.vip — Korean K League 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_2y8m4zh59x4dql0" tvg-name="Real Valladolid vs Cordoba" tvg-logo="https://static.sportsfeed.pro/football/team/fdf63461c00668597319a4f0db14dcee.png" home-logo="https://static.sportsfeed.pro/football/team/fdf63461c00668597319a4f0db14dcee.png" away-logo="https://static.sportsfeed.pro/football/team/cd6fd11fd9ca07c46747cb03b87f4dbb.png" group-title="Gà Vàng TV" start-time="1790510400",Real Valladolid vs Cordoba - RIO — Spanish Segunda Division
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_zp5rzghge151q82" tvg-name="De Graafschap vs Den Bosch" tvg-logo="https://static.sportsfeed.pro/football/team/0c520a5ff707978cf7ce6e3ff30dc98e.png" home-logo="https://static.sportsfeed.pro/football/team/0c520a5ff707978cf7ce6e3ff30dc98e.png" away-logo="https://static.sportsfeed.pro/football/team/8b2d22b8802f8dc9942899365f5dd716.png" group-title="Gà Vàng TV" start-time="1790512200",De Graafschap vs Den Bosch - THICHDUTHU — Netherlands Eerste Divisie
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -160,11 +139,6 @@ https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19648104" tvg-name="Gangwon FC vs Incheon United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/incheon-united-6922" group-title="BiaomTV" start-time="1790503200",Gangwon FC vs Incheon United - SAPPORO — VĐQG Hàn Quốc
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk2NDgxMDQ6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmY0anNxeWt1MHFjbTQwY3hscmYyc3U5dA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19872289" tvg-name="Trung Quốc vs New Zealand" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/china-pr-18599" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/china-pr-18599" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/new-zealand-18613" group-title="BiaomTV" start-time="1790508900",Trung Quốc vs New Zealand - TÔM CHIÊN — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -231,11 +205,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2ODU6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOm9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_ezk96i3xdj3i1kn" tvg-name="Gangwon vs Incheon United" tvg-logo="https://img.gvapi.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80" home-logo="https://img.gvapi.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80" away-logo="https://img.gvapi.cc/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png!w80" group-title="Cola TV" start-time="1790503200",Gangwon vs Incheon United - BLV PEPSI — Giải K1 Hàn Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_m2q15izzvzxhe76" tvg-name="Tân Châu Huệ Long vs Đại Liên Hoa Nghị" tvg-logo="https://img.gvapi.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80" home-logo="https://img.gvapi.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80" away-logo="https://img.gvapi.cc/football/team/f18777d99ff4bb84e077d3030e26cfcc.png!w80" group-title="Cola TV" start-time="1790506800",Tân Châu Huệ Long vs Đại Liên Hoa Nghị - BLV AQUA — Giải bóng đá Hạng nhất Trung Quốc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -245,3 +214,13 @@ https://live05.meung.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_g6763i5xn6mao7r" tvg-name="Manchester Utd Nữ vs West Ham Nữ" tvg-logo="https://img.gvapi.cc/football/team/db33359c11033fc28c9bedec0a4a89d9.png!w80" home-logo="https://img.gvapi.cc/football/team/db33359c11033fc28c9bedec0a4a89d9.png!w80" away-logo="https://img.gvapi.cc/football/team/f6fd9013a1e10442708bc6e9d09ee236.png!w80" group-title="Cola TV" start-time="1790510400",Manchester Utd Nữ vs West Ham Nữ - BLV MOUNTAIN DEW — Hạng Nhất nữ Anh
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_oj7x9ixld8jh47g" tvg-name="Real Valladolid vs Cordoba" tvg-logo="https://img.gvapi.cc/football/team/fdf63461c00668597319a4f0db14dcee.png!w80" home-logo="https://img.gvapi.cc/football/team/fdf63461c00668597319a4f0db14dcee.png!w80" away-logo="https://img.gvapi.cc/football/team/cd6fd11fd9ca07c46747cb03b87f4dbb.png!w80" group-title="Cola TV" start-time="1790510400",Real Valladolid vs Cordoba - BLV SAMURAI — Giải bóng đá Hạng nhì Tây Ban Nha
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
