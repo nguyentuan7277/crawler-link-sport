@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:00:08 27/09/2026
+## Cập nhật lúc: 23:20:07 27/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1528898_chuoichao" tvg-name="Austria vs Kosovo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125502_71d98139.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125502_71d98139.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f5f28cb7.png" group-title="Chuối TV" start-time="1790524800",Austria vs Kosovo - Chuối Chao [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,12 +19,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1569944_chuoinho" tvg-name="Mallorca vs Almeria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125628_01e49a9d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125628_01e49a9d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133420_69c15fd6.png" group-title="Chuối TV" start-time="1790518500",Mallorca vs Almeria - Chuối Nhỏ [FHD] — La Liga 2
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1637935_chuoikem" tvg-name="Bahrain vs United Arab Emirates" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133415_27f7a7df.png" group-title="Chuối TV" start-time="1790532000",Bahrain vs United Arab Emirates - Chuối Kem [FHD] — Gulf Cup of Nations
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -85,11 +79,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_jw2r09hkv9p5rz8" tvg-name="Mallorca vs Almeria" tvg-logo="https://static.sportsfeed.pro/football/team/fdef90456d2a2eee09976c558457aec7.png" home-logo="https://static.sportsfeed.pro/football/team/fdef90456d2a2eee09976c558457aec7.png" away-logo="https://static.sportsfeed.pro/football/team/d019943fa39f97f70cf49601cccbfa4b.png" group-title="Gà Vàng TV" start-time="1790518500",Mallorca vs Almeria - ĐOÀN DỰ — Spanish Segunda Division
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_y39mp1h6nwkpmoj" tvg-name="Burgos CF vs Eldense" tvg-logo="https://static.sportsfeed.pro/football/team/1e888ca542d892600d3b2818d1c40e22.png" home-logo="https://static.sportsfeed.pro/football/team/1e888ca542d892600d3b2818d1c40e22.png" away-logo="https://static.sportsfeed.pro/football/team/1d6e461df015562ab49d5b6af780d256.png" group-title="Gà Vàng TV" start-time="1790526600",Burgos CF vs Eldense - khang hi — Spanish Segunda Division
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -226,11 +215,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2ODI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY3MzA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omc4aTA3eGozNzlyc2V0emFidGQ2aWlrcg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_xvkjoi8pvg2s879" tvg-name="RCD Mallorca vs CLB Almeria" tvg-logo="https://img.gvapi.cc/football/team/fdef90456d2a2eee09976c558457aec7.png!w80" home-logo="https://img.gvapi.cc/football/team/fdef90456d2a2eee09976c558457aec7.png!w80" away-logo="https://img.gvapi.cc/football/team/d019943fa39f97f70cf49601cccbfa4b.png!w80" group-title="Cola TV" start-time="1790518500",RCD Mallorca vs CLB Almeria - BLV WARRIOR — Giải bóng đá Hạng nhì Tây Ban Nha
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_34kgmiorernbeko" tvg-name="Yemen vs Qatar" tvg-logo="https://img.gvapi.cc/football/team/aa0f9de3c3f38177051c3c8741dac037.png!w80" home-logo="https://img.gvapi.cc/football/team/aa0f9de3c3f38177051c3c8741dac037.png!w80" away-logo="https://img.gvapi.cc/football/team/7303a103c93fea0445384d6ff3f3d1b9.png!w80" group-title="Cola TV" start-time="1790524500",Yemen vs Qatar - BLV GIÀ LÀNG — Cúp Gulf
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -246,10 +230,10 @@ https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_vrqwni40p36h4qn" tvg-name="ĐTQG Áo vs ĐTQG Kosovo" tvg-logo="https://img.gvapi.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80" home-logo="https://img.gvapi.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80" away-logo="https://img.gvapi.cc/football/team/4c93e18166419da61b1ca433c866d9e5.png!w80" group-title="Cola TV" start-time="1790524800",ĐTQG Áo vs ĐTQG Kosovo — Giải vô địch bóng đá các quốc gia châu Âu
+#EXTINF:-1 tvg-id="cola_vrqwni40p36h4qn" tvg-name="ĐTQG Áo vs ĐTQG Kosovo" tvg-logo="https://img.gvapi.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80" home-logo="https://img.gvapi.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80" away-logo="https://img.gvapi.cc/football/team/4c93e18166419da61b1ca433c866d9e5.png!w80" group-title="Cola TV" start-time="1790524800",ĐTQG Áo vs ĐTQG Kosovo - BLV Cozy — Giải vô địch bóng đá các quốc gia châu Âu
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live3.dyrur1.com/live/68932724_8aebabc19e3d00cd0587ac5adb987adc_h1080p.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_o07dni5n9v1smkn" tvg-name="ĐTQG Đan Mạch vs Xứ Wales" tvg-logo="https://img.gvapi.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80" home-logo="https://img.gvapi.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80" away-logo="https://img.gvapi.cc/football/team/588f43d3d2fe15b2dad77de9f2cc5c51.png!w80" group-title="Cola TV" start-time="1790524800",ĐTQG Đan Mạch vs Xứ Wales - BLV ROCKSTAR — Giải vô địch bóng đá các quốc gia châu Âu
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
