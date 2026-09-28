@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:40:06 29/09/2026
+## Cập nhật lúc: 02:00:18 29/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1528904_angao" tvg-name="Belgium vs France" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="Chuối TV" start-time="1790621100",Belgium vs France - Chuối Ngao [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +19,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1528907_chuoisay" tvg-name="Sweden vs Poland" tvg-logo="https://media.chuoichientv.net/media/20250825_180323_118bdf95.png" home-logo="https://media.chuoichientv.net/media/20250825_180323_118bdf95.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png" group-title="Chuối TV" start-time="1790621100",Sweden vs Poland - Chuối Sấy [FHD] — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528905_chuoichao" tvg-name="Türkiye vs Italy" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" group-title="Chuối TV" start-time="1790621100",Türkiye vs Italy - Chuối Chao [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -56,15 +62,25 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_23xmvkh6y1l0qg8" tvg-name="Georgia vs Ukraine" tvg-logo="https://img.thesports.com/football/team/c5b86fa907b96e38e377ddfe82802cc6.png" home-logo="https://img.thesports.com/football/team/c5b86fa907b96e38e377ddfe82802cc6.png" away-logo="https://img.thesports.com/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png" group-title="Gà Vàng TV" start-time="1790611200",Georgia vs Ukraine - SAITAMA — UEFA Nations League
+#EXTINF:-1 tvg-id="gavang_l5ergph46y54r8k" tvg-name="Leganes vs Castellon" tvg-logo="https://static.sportsfeed.pro/football/team/b6728832f1504989e57f8a43479429ec.png" home-logo="https://static.sportsfeed.pro/football/team/b6728832f1504989e57f8a43479429ec.png" away-logo="https://static.sportsfeed.pro/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png" group-title="Gà Vàng TV" start-time="1790620200",Leganes vs Castellon - MáN NúI — Spanish Segunda Division
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_y0or5jh89ywjqwz" tvg-name="Belgium vs France" tvg-logo="https://img.thesports.com/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" home-logo="https://img.thesports.com/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" away-logo="https://img.thesports.com/football/team/70ded7a479aa84ea26b4677f99485f88.png" group-title="Gà Vàng TV" start-time="1790621100",Belgium vs France - SAITAMA — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_zp5rzghg3vd6q82" tvg-name="Northern Ireland vs Hungary" tvg-logo="https://img.thesports.com/football/team/218344619d8fb95d504ccfa11804073f.png" home-logo="https://img.thesports.com/football/team/218344619d8fb95d504ccfa11804073f.png" away-logo="https://img.thesports.com/football/team/22b55de76e6a8c7258e4661e8343ff3e.png" group-title="Gà Vàng TV" start-time="1790621100",Northern Ireland vs Hungary - NGƯỜI KIẾN — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnh9nod4m7v" tvg-name="Romania vs Bosnia Herzegovina" tvg-logo="https://img.thesports.com/football/team/1f8d87e1161af68b81bace188a1ec624.png" home-logo="https://img.thesports.com/football/team/1f8d87e1161af68b81bace188a1ec624.png" away-logo="https://img.thesports.com/football/team/290d84b729b946cb974902162ff7064e.png" group-title="Gà Vàng TV" start-time="1790621100",Romania vs Bosnia Herzegovina - SÚP LƠ — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_4jwq2ghngy5nm0v" tvg-name="Sweden vs Poland" tvg-logo="https://img.thesports.com/football/team/2c0b283b96174c34bff7445f22b00618.png" home-logo="https://img.thesports.com/football/team/2c0b283b96174c34bff7445f22b00618.png" away-logo="https://img.thesports.com/football/team/1f47cef5e38c952f94c5d61726027439.png" group-title="Gà Vàng TV" start-time="1790621100",Sweden vs Poland - khang hi — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -155,3 +171,28 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3ODE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm9
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_wv78xiv19g5cokr" tvg-name="Bỉ vs Pháp" tvg-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80" home-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80" away-logo="https://img.gvapi.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80" group-title="Cola TV" start-time="1790621100",Bỉ vs Pháp - BLV C2 — Giải vô địch bóng đá các quốc gia châu Âu
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_8lk2dir3mwxsz73" tvg-name="CLB Romania vs ĐTQG Bosnia Herzegovina" tvg-logo="https://img.gvapi.cc/football/team/1f8d87e1161af68b81bace188a1ec624.png!w80" home-logo="https://img.gvapi.cc/football/team/1f8d87e1161af68b81bace188a1ec624.png!w80" away-logo="https://img.gvapi.cc/football/team/5301386c592331424197d34172de723a.png!w80" group-title="Cola TV" start-time="1790621100",CLB Romania vs ĐTQG Bosnia Herzegovina - BLV 7UP — Giải vô địch bóng đá các quốc gia châu Âu
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/78905744_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_edq09il2jenseqx" tvg-name="Thổ nhĩ kỳ vs ĐTQG Ý" tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" home-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" away-logo="https://img.gvapi.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" group-title="Cola TV" start-time="1790621100",Thổ nhĩ kỳ vs ĐTQG Ý - BLV REVIVE — Giải vô địch bóng đá các quốc gia châu Âu
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_63kv9ig6nwgsx7e" tvg-name="Thụy Điển vs ĐTQG Ba Lan" tvg-logo="https://img.gvapi.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80" home-logo="https://img.gvapi.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80" away-logo="https://img.gvapi.cc/football/team/1f47cef5e38c952f94c5d61726027439.png!w80" group-title="Cola TV" start-time="1790621100",Thụy Điển vs ĐTQG Ba Lan - BLV AQUA — Giải vô địch bóng đá các quốc gia châu Âu
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_69759igr9dntgk2" tvg-name="ĐTQG Bắc Ireland vs ĐTQG Hungary" tvg-logo="https://img.gvapi.cc/football/team/218344619d8fb95d504ccfa11804073f.png!w80" home-logo="https://img.gvapi.cc/football/team/218344619d8fb95d504ccfa11804073f.png!w80" away-logo="https://img.gvapi.cc/football/team/22b55de76e6a8c7258e4661e8343ff3e.png!w80" group-title="Cola TV" start-time="1790621100",ĐTQG Bắc Ireland vs ĐTQG Hungary - BLV SODA — Giải vô địch bóng đá các quốc gia châu Âu
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/02456966_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
