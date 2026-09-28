@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:40:08 29/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1639956_chuoitay" tvg-name="Cuba vs Bonaire" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_ede472a3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_ede472a3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134340_0915ead8.png" group-title="Chuối TV" start-time="1790629200",Cuba vs Bonaire - Chuối Tây [FHD] — CONCACAF Nations League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 06:00:11 29/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1639957_troctru" tvg-name="Suriname vs Martinique" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132743_25712a70.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132743_25712a70.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134321_e60db733.png" group-title="Chuối TV" start-time="1790632800",Suriname vs Martinique - Trốc Tru [FHD] — CONCACAF Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -36,6 +30,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_n54qllhnv0xpqvy" tvg-name="Guatemala vs El Salvador" tvg-logo="https://img.thesports.com/football/team/a1d4643376bf11b37c51f5c76fcaff79.png" home-logo="https://img.thesports.com/football/team/a1d4643376bf11b37c51f5c76fcaff79.png" away-logo="https://img.thesports.com/football/team/3c7f7c2dae5b4e1dd398cffb26391a58.png" group-title="Gà Vàng TV" start-time="1790647200",Guatemala vs El Salvador - SiêU QuậY — CONCACAF Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19724623" tvg-name="Consadole Sapporo vs Fagiano Okayama" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/consadole-sapporo-2685" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/consadole-sapporo-2685" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fagiano-okayama-5915" group-title="BiaomTV" start-time="1790676000",Consadole Sapporo vs Fagiano Okayama - ASAHI — Cúp Nhật Bản
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
