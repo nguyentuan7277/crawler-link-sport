@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:20:09 28/09/2026
+## Cập nhật lúc: 18:40:08 28/09/2026
 
 #EXTINF:-1 tvg-id="cctv_991840_chuoitay" tvg-name="Chinese Taipei vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="Chuối TV" start-time="1790589600",Chinese Taipei vs South Korea - Chuối Tây [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -108,6 +108,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_x7lm7phxgn4ym2w" tvg-name="South Korea vs Uruguay" tvg-logo="https://img.thesports.com/football/team/a3f9a9a7e81748828ce092f0dd488479.png" home-logo="https://img.thesports.com/football/team/a3f9a9a7e81748828ce092f0dd488479.png" away-logo="https://img.thesports.com/football/team/df95d362f8e4446e9d4637aa0daa8f22.png" group-title="Gà Vàng TV" start-time="1790593200",South Korea vs Uruguay - Cá MậP — International Friendly
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_2y8m4zh5l7g4ql0" tvg-name="Malaysia vs Indonesia" tvg-logo="https://img.thesports.com/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" home-logo="https://img.thesports.com/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" away-logo="https://img.thesports.com/football/team/628f16b29939d1b060af49f66ae0f7f8.png" group-title="Gà Vàng TV" start-time="1790598600",Malaysia vs Indonesia - CRIS — FIFA ASEAN Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
