@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:20:09 28/09/2026
+## Cập nhật lúc: 23:40:16 28/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1528903_chuoichao" tvg-name="Armenia vs Montenegro" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134259_9fd925e4.png" group-title="Chuối TV" start-time="1790611200",Armenia vs Montenegro - Chuối Chao [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -67,6 +67,26 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dn1m1ghlj312moe" tvg-name="MSK Zilina B vs Humenne" tvg-logo="https://static.sportsfeed.pro/football/team/da53b8eeeaa054d55e65f75c3af46ec5.jpg" home-logo="https://static.sportsfeed.pro/football/team/da53b8eeeaa054d55e65f75c3af46ec5.jpg" away-logo="https://static.sportsfeed.pro/football/team/4388151c76d2485226ddc5384b1bdd6b.png" group-title="Gà Vàng TV" start-time="1790607600",MSK Zilina B vs Humenne - ĐOÀN DỰ — Slovak 2.Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_ednm9whw5yp5ryo" tvg-name="Armenia vs Montenegro" tvg-logo="https://img.thesports.com/football/team/13d8532225dea4fca8e0ebdfb27b83e4.png" home-logo="https://img.thesports.com/football/team/13d8532225dea4fca8e0ebdfb27b83e4.png" away-logo="https://img.thesports.com/football/team/9866b8a83d35abdd89ed76d565d71f75.png" group-title="Gà Vàng TV" start-time="1790611200",Armenia vs Montenegro - A Long — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_23xmvkh6y1l0qg8" tvg-name="Georgia vs Ukraine" tvg-logo="https://img.thesports.com/football/team/c5b86fa907b96e38e377ddfe82802cc6.png" home-logo="https://img.thesports.com/football/team/c5b86fa907b96e38e377ddfe82802cc6.png" away-logo="https://img.thesports.com/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png" group-title="Gà Vàng TV" start-time="1790611200",Georgia vs Ukraine - SAITAMA — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyhk8d0wr1g" tvg-name="Latvia vs Cyprus" tvg-logo="https://img.thesports.com/football/team/5b52e27a9d5bf294f5b593c4c071500e.png" home-logo="https://img.thesports.com/football/team/5b52e27a9d5bf294f5b593c4c071500e.png" away-logo="https://img.thesports.com/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png" group-title="Gà Vàng TV" start-time="1790611200",Latvia vs Cyprus - RIO — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_y0or5jh89ywjqwz" tvg-name="Belgium vs France" tvg-logo="https://img.thesports.com/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" home-logo="https://img.thesports.com/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" away-logo="https://img.thesports.com/football/team/70ded7a479aa84ea26b4677f99485f88.png" group-title="Gà Vàng TV" start-time="1790621100",Belgium vs France - SAITAMA — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
