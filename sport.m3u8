@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:20:08 29/09/2026
+## Cập nhật lúc: 05:40:08 29/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1639956_chuoitay" tvg-name="Cuba vs Bonaire" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_ede472a3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_ede472a3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134340_0915ead8.png" group-title="Chuối TV" start-time="1790629200",Cuba vs Bonaire - Chuối Tây [FHD] — CONCACAF Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -31,11 +31,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_x7lm7phjj0n8m2w" tvg-name="America MG vs Juventude" tvg-logo="https://static.sportsfeed.pro/football/team/24403efa393f55163b5593c435bbe4a7.png" home-logo="https://static.sportsfeed.pro/football/team/24403efa393f55163b5593c435bbe4a7.png" away-logo="https://static.sportsfeed.pro/football/team/7a9a6275e29e0f51ea68ba1ec740bf1e.png" group-title="Gà Vàng TV" start-time="1790634600",America MG vs Juventude - cố tư nghiêm — Brazilian Serie B
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_vjxm8ghey1j9r6o" tvg-name="Jamaica vs Honduras" tvg-logo="https://img.thesports.com/football/team/f7779710d2026dca44c41da7a9b7c748.png" home-logo="https://img.thesports.com/football/team/f7779710d2026dca44c41da7a9b7c748.png" away-logo="https://img.thesports.com/football/team/570197ce24c78651ca363a146213ba08.png" group-title="Gà Vàng TV" start-time="1790640000",Jamaica vs Honduras - KAYTI — CONCACAF Nations League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -96,3 +91,8 @@ https://live05.meung.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_527r3i44v16s47e" tvg-name="CLB America MG vs CLB Juventude" tvg-logo="https://img.gvapi.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80" home-logo="https://img.gvapi.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80" away-logo="https://img.gvapi.cc/football/team/7a9a6275e29e0f51ea68ba1ec740bf1e.png!w80" group-title="Cola TV" start-time="1790634600",CLB America MG vs CLB Juventude - BLV POCARI — Giải bóng đá Hạng nhì Brasil
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
