@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 13:20:08 29/09/2026
+## Cập nhật lúc: 13:40:10 29/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1642007_chuoichao" tvg-name="Korea DPR vs China W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142856_67f4ff9c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142856_67f4ff9c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png" group-title="Chuối TV" start-time="1790661600",Korea DPR vs China W - Chuối Chao [FHD] — Asian Games Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -109,6 +109,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y39mp1hdvw4dmoj" tvg-name="Korea DPR(w) vs China(w)" tvg-logo="https://img.thesports.com/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png" home-logo="https://img.thesports.com/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png" away-logo="https://img.thesports.com/football/team/fd3dd61e88396b2c01611167ed0867eb.png" group-title="Gà Vàng TV" start-time="1790661600",Korea DPR(w) vs China(w) - THICHDUTHU — OCA Women's Asian Games
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_8yomo4h1n829q0j" tvg-name="Philippines vs Pakistan" tvg-logo="https://img.thesports.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png" home-logo="https://img.thesports.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png" away-logo="https://img.thesports.com/football/team/573572e4e9a8486a02fbc7eeeaffba7b.png" group-title="Gà Vàng TV" start-time="1790672400",Philippines vs Pakistan - CRIS — FIFA ASEAN Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
