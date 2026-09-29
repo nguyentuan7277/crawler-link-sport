@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:00:15 29/09/2026
+## Cập nhật lúc: 16:20:10 29/09/2026
 
 #EXTINF:-1 tvg-id="cctv_991229_chuoitay" tvg-name="Iran vs Indonesia" tvg-logo="https://media.chuoichientv.net/media/20250922_191534_12d2f8a6.png" home-logo="https://media.chuoichientv.net/media/20250922_191534_12d2f8a6.png" away-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="Chuối TV" start-time="1790665200",Iran vs Indonesia - Chuối Tây [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -97,6 +97,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_8yomo4h1n829q0j" tvg-name="Philippines vs Pakistan" tvg-logo="https://img.thesports.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png" home-logo="https://img.thesports.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png" away-logo="https://img.thesports.com/football/team/573572e4e9a8486a02fbc7eeeaffba7b.png" group-title="Gà Vàng TV" start-time="1790672400",Philippines vs Pakistan - CRIS — FIFA ASEAN Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_zp5rzghg9x6gq82" tvg-name="Australia vs Brazil" tvg-logo="https://img.thesports.com/football/team/46901c88777c4076bcf2ea240223deed.png" home-logo="https://img.thesports.com/football/team/46901c88777c4076bcf2ea240223deed.png" away-logo="https://img.thesports.com/football/team/c718af22dc754a6b8dc103901c554eb8.png" group-title="Gà Vàng TV" start-time="1790676000",Australia vs Brazil - SAITAMA — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
