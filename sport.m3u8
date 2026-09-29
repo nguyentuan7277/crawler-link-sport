@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:40:06 30/09/2026
+## Cập nhật lúc: 06:00:14 30/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1520891_troctru" tvg-name="Botafogo SP vs Ponte Preta" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131456_671d649a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131456_671d649a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131452_deb67d09.png" group-title="Chuối TV" start-time="1790721000",Botafogo SP vs Ponte Preta - Trốc Tru [FHD] — Serie B
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +19,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y0or5jh88ejoqwz" tvg-name="Botafogo SP vs Ponte Preta" tvg-logo="https://static.sportsfeed.pro/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png" home-logo="https://static.sportsfeed.pro/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png" away-logo="https://static.sportsfeed.pro/football/team/fb735adffa94a7306c7f68b9609d929f.png" group-title="Gà Vàng TV" start-time="1790721000",Botafogo SP vs Ponte Preta - SiêU QuậY — Brazilian Serie B
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l5ergphk0y0yr8k" tvg-name="USA vs Chile" tvg-logo="https://img.thesports.com/football/team/350ec526535f4c9a81f9d9201948d9d5.png" home-logo="https://img.thesports.com/football/team/350ec526535f4c9a81f9d9201948d9d5.png" away-logo="https://img.thesports.com/football/team/76b605730bd2606bbcb290f1244dac9a.png" group-title="Gà Vàng TV" start-time="1790726400",USA vs Chile - cố tư nghiêm — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -60,12 +65,12 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmlkaWd0azN6YTJxMTUyd2Z0OWhpcjA3Ng/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_ndqmliw1ez6frkv" tvg-name="French Guiana vs Sint Maarten" tvg-logo="https://img.gvapi.cc/football/team/54803d9a444e58a28e10b6563e60fec8.png!w80" home-logo="https://img.gvapi.cc/football/team/54803d9a444e58a28e10b6563e60fec8.png!w80" away-logo="https://img.gvapi.cc/football/team/cfb0710840515d57d2806e09ec51c1ef.png!w80" group-title="Cola TV" start-time="1790715600",French Guiana vs Sint Maarten - BLV MONSTER — Liên minh bóng đá quốc gia châu Mỹ
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_edq0esd39z6fekx" tvg-name="Indiana Fever vs Las Vegas Aces" tvg-logo="https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80" home-logo="https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80" away-logo="https://img.gvapi.cc/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png!w80" group-title="Cola TV" start-time="1790721000",Indiana Fever vs Las Vegas Aces - BLV Cozy — Hiệp hội bóng rổ quốc gia nữ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_m2q15izoy22ie76" tvg-name="Anguilla vs Aruba" tvg-logo="https://img.gvapi.cc/football/team/b87a20a2b24f9944084890d1a136a22f.png!w80" home-logo="https://img.gvapi.cc/football/team/b87a20a2b24f9944084890d1a136a22f.png!w80" away-logo="https://img.gvapi.cc/football/team/cff843c1f724a378bd0ae42d842ef807.png!w80" group-title="Cola TV" start-time="1790722800",Anguilla vs Aruba - BLV MOUNTAIN DEW — Liên minh bóng đá quốc gia châu Mỹ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
