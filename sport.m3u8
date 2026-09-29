@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 09:00:08 29/09/2026
+## Cập nhật lúc: 09:20:05 29/09/2026
 
 #EXTINF:-1 tvg-id="cctv_994688_chuoikem" tvg-name="Hong Kong vs Việt Nam" tvg-logo="https://media.chuoichientv.net/media/20260927_010540_94a01ee4.png" home-logo="https://media.chuoichientv.net/media/20260927_010540_94a01ee4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="Chuối TV" start-time="1790643600",Hong Kong vs Việt Nam - Chuối Kem [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -61,6 +61,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1641711_troctru" tvg-name="Thailand vs Việt Nam" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="Chuối TV" start-time="1790685000",Thailand vs Việt Nam - Trốc Tru [FHD] — FIFA Asean Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_992056_chuoisay" tvg-name="Thái Lan  vs Việt Nam" tvg-logo="https://media.chuoichientv.net/media/20260929_013250_f0caf5c8.png" home-logo="https://media.chuoichientv.net/media/20260929_013250_f0caf5c8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="Chuối TV" start-time="1790685000",Thái Lan  vs Việt Nam - Chuối Sấy [FHD] — FIFA Asean Cup (Luồng Nam Bộ)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
