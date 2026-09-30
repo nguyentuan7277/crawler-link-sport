@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 07:20:07 30/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1520891_troctru" tvg-name="Botafogo SP vs Ponte Preta" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131456_671d649a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131456_671d649a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131452_deb67d09.png" group-title="Chuối TV" start-time="1790721000",Botafogo SP vs Ponte Preta - Trốc Tru [FHD] — Serie B
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 07:40:06 30/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1629002_angao" tvg-name="USA vs Chile" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132811_2544daac.png" group-title="Chuối TV" start-time="1790726400",USA vs Chile - Chuối Ngao [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -69,3 +63,8 @@ https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_34kgps1jm8vseko" tvg-name="New York Liberty vs Minnesota Lynx" tvg-logo="https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80" home-logo="https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80" away-logo="https://img.gvapi.cc/basketball/team/49fd2772263eaccfe78608a04e5b6f4c.png!w80" group-title="Cola TV" start-time="1790728200",New York Liberty vs Minnesota Lynx - BLV POCARI — Hiệp hội bóng rổ quốc gia nữ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
