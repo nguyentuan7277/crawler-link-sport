@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 19:40:10 30/09/2026
+## Cập nhật lúc: 20:00:20 30/09/2026
+
+#EXTINF:-1 tvg-id="cctv_1641757_chuoila" tvg-name="Egypt U20 vs Tunisia U20" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134341_5916abfa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134341_5916abfa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134343_8efc6b50.png" group-title="Chuối TV" start-time="1790773200",Egypt U20 vs Tunisia U20 - Chuối Lá [HD1] — Africa Cup of Nations U20
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1642011_chuoikem" tvg-name="Uzbekistan U23 vs Japan U23" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131446_7bd3d526.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131446_7bd3d526.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131443_f7c8e720.png" group-title="Chuối TV" start-time="1790764200",Uzbekistan U23 vs Japan U23 - Chuối Kem [FHD] — Asian Games
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -13,12 +19,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1641757_chuoila" tvg-name="Egypt U20 vs Tunisia U20" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134341_5916abfa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134341_5916abfa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134343_8efc6b50.png" group-title="Chuối TV" start-time="1790773200",Egypt U20 vs Tunisia U20 - Chuối Lá [FHD] — Africa Cup of Nations U20
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1636732_chuoitay" tvg-name="Vsetín vs Bohemians 1905" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135754_18d94fc0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_135754_18d94fc0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134752_5d6f58d1.png" group-title="Chuối TV" start-time="1790775000",Vsetín vs Bohemians 1905 - Chuối Tây [FHD] — Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -97,10 +97,30 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_jw2r09hkeyz1rz8" tvg-name="BFF Academy U19 vs Thimphu Raven FC" tvg-logo="https://static.sportsfeed.pro/football/team/9d4caac656f50e75750c905733ce6114.png" home-logo="https://static.sportsfeed.pro/football/team/9d4caac656f50e75750c905733ce6114.png" away-logo="https://static.sportsfeed.pro/football/team/c8b83da02b3c8ad2af4a7f7884f4006e.png" group-title="Gà Vàng TV" start-time="1790769600",BFF Academy U19 vs Thimphu Raven FC - SÚP LƠ — Bhutan Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_3glrw7hnd9j3qdy" tvg-name="Hong Kong vs Brunei Darussalam" tvg-logo="https://img.thesports.com/football/team/df321578b4f5f132345d2e6b39743126.png" home-logo="https://img.thesports.com/football/team/df321578b4f5f132345d2e6b39743126.png" away-logo="https://img.thesports.com/football/team/10d4b366f410a1275f7b684f07a28456.png" group-title="Gà Vàng TV" start-time="1790769600",Hong Kong vs Brunei Darussalam - CRIS — FIFA ASEAN Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_y0or5jh87lojqwz" tvg-name="FC Vsetin vs Bohemians Prague 1905" tvg-logo="https://static.sportsfeed.pro/football/team/5501524558978b8de8ee205103056894.png" home-logo="https://static.sportsfeed.pro/football/team/5501524558978b8de8ee205103056894.png" away-logo="https://static.sportsfeed.pro/football/team/14b6fe766b34ab3e24106a509045c059.png" group-title="Gà Vàng TV" start-time="1790775000",FC Vsetin vs Bohemians Prague 1905 - Cá MậP — Czech Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_n54qllhnv0jwqvy" tvg-name="Eritrea vs South Africa" tvg-logo="https://img.thesports.com/football/team/c8c1fad8f7b657fa96c4e5da96ada7c2.png" home-logo="https://img.thesports.com/football/team/c8c1fad8f7b657fa96c4e5da96ada7c2.png" away-logo="https://img.thesports.com/football/team/f5537e8960824e848e5a9bac16514483.png" group-title="Gà Vàng TV" start-time="1790784000",Eritrea vs South Africa - Lữ Bố.vip — CAF Africa Cup of Nations
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_n54qllhn2wgjqvy" tvg-name="Malta U21 vs Germany U21" tvg-logo="https://img.thesports.com/football/team/f7eb745a5f9b3016b083019da91b5f74.png" home-logo="https://img.thesports.com/football/team/f7eb745a5f9b3016b083019da91b5f74.png" away-logo="https://img.thesports.com/football/team/5856c2f4a854359864b18f9aed3f8874.png" group-title="Gà Vàng TV" start-time="1790784000",Malta U21 vs Germany U21 - SÚP LƠ — UEFA European U21 Championship qualification
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19385349" tvg-name="Cộng hòa Séc U21 vs Bulgaria U21" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/czech-republic-u21-60070" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/czech-republic-u21-60070" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bulgaria-u21-75714" group-title="BiaomTV" start-time="1790784000",Cộng hòa Séc U21 vs Bulgaria U21 - Vịt Nướng — U21 Châu Âu
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
