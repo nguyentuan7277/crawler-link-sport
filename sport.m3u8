@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 07:00:06 30/09/2026
-
-#EXTINF:-1 tvg-id="cctv_1629002_angao" tvg-name="USA vs Chile" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132811_2544daac.png" group-title="Chuối TV" start-time="1790726400",USA vs Chile - Chuối Ngao [HD1] — Giao Hữu Quốc Tế
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 07:20:07 30/09/2026
 
 #EXTINF:-1 tvg-id="cctv_1520891_troctru" tvg-name="Botafogo SP vs Ponte Preta" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131456_671d649a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131456_671d649a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131452_deb67d09.png" group-title="Chuối TV" start-time="1790721000",Botafogo SP vs Ponte Preta - Trốc Tru [FHD] — Serie B
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -14,16 +8,17 @@ https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://liv
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cctv_1629002_angao" tvg-name="USA vs Chile" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132811_2544daac.png" group-title="Chuối TV" start-time="1790726400",USA vs Chile - Chuối Ngao [FHD] — Giao Hữu Quốc Tế
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="cctv_1549719_chuoitay" tvg-name="Atlético Nacional vs Millonarios" tvg-logo="https://media.chuoichientv.net/media/20260917_012723_b0cd7a48.png" home-logo="https://media.chuoichientv.net/media/20260917_012723_b0cd7a48.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png" group-title="Chuối TV" start-time="1790730300",Atlético Nacional vs Millonarios - Chuối Tây [FHD] — VĐQG Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_y0or5jh88ejoqwz" tvg-name="Botafogo SP vs Ponte Preta" tvg-logo="https://static.sportsfeed.pro/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png" home-logo="https://static.sportsfeed.pro/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png" away-logo="https://static.sportsfeed.pro/football/team/fb735adffa94a7306c7f68b9609d929f.png" group-title="Gà Vàng TV" start-time="1790721000",Botafogo SP vs Ponte Preta - SiêU QuậY — Brazilian Serie B
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_jw2r09h54940rz8" tvg-name="Mexico vs Peru" tvg-logo="https://img.thesports.com/football/team/cd5a7e277e91426d9ad74bd09b946fde.png" home-logo="https://img.thesports.com/football/team/cd5a7e277e91426d9ad74bd09b946fde.png" away-logo="https://img.thesports.com/football/team/77da2f07ed6c94afa27b5f113bea7ebe.png" group-title="Gà Vàng TV" start-time="1790730000",Mexico vs Peru - KAYTI — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
