@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:20:08 01/10/2026
+## Cập nhật lúc: 18:40:09 01/10/2026
 
-#EXTINF:-1 tvg-id="cctv_997246_chuoichao" tvg-name="Japan vs Ecuador" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png" group-title="Chuối TV" start-time="1790849400",Japan vs Ecuador - Chuối Chao [FHD] — Kirin Cup
+#EXTINF:-1 tvg-id="cctv_997246_chuoichao" tvg-name="Japan vs Ecuador" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png" group-title="Chuối TV" start-time="1790849400",Japan vs Ecuador - Chuối Chao [HD1] — Kirin Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_992345_chuoikem" tvg-name="Japan vs Qatar" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" group-title="Chuối TV" start-time="1790850000",Japan vs Qatar - Chuối Kem [FHD] — Asian Games Bóng Chuyền
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1641714_chuoisay" tvg-name="Indonesia vs Bangladesh" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" home-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png" group-title="Chuối TV" start-time="1790857800",Indonesia vs Bangladesh - Chuối Sấy [FHD] — FIFA Asean Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
