@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 03:00:09 02/10/2026
+## Cập nhật lúc: 03:20:12 02/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1528919_chuoila" tvg-name="Denmark vs Portugal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125456_dde261ec.png" group-title="Chuối TV" start-time="1790880300",Denmark vs Portugal - Chuối Lá [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -109,6 +109,51 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hx8ydpqo9" tvg-name="Denmark vs Portugal" tvg-logo="https://img.thesports.com/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png" home-logo="https://img.thesports.com/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png" away-logo="https://img.thesports.com/football/team/c9847eeba0c64358960425bb19adbac0.png" group-title="Gà Vàng TV" start-time="1790880300",Denmark vs Portugal - CRIS — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y39mp1h6dg8emoj" tvg-name="Germany vs Serbia" tvg-logo="https://img.thesports.com/football/team/761ccf19be6a4fdf81880acadb81aa4c.png" home-logo="https://img.thesports.com/football/team/761ccf19be6a4fdf81880acadb81aa4c.png" away-logo="https://img.thesports.com/football/team/059bbd8df7767d3bc7829e3735c221e2.png" group-title="Gà Vàng TV" start-time="1790880300",Germany vs Serbia - SAITAMA — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyhk8d9wr1g" tvg-name="Greece vs Netherlands" tvg-logo="https://img.thesports.com/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png" home-logo="https://img.thesports.com/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png" away-logo="https://img.thesports.com/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png" group-title="Gà Vàng TV" start-time="1790880300",Greece vs Netherlands - GIàng A Dân — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4wyrn4h6yp13q86" tvg-name="Ireland vs Austria" tvg-logo="https://img.thesports.com/football/team/c940e50f90b9e73f42045c05d49c6e17.png" home-logo="https://img.thesports.com/football/team/c940e50f90b9e73f42045c05d49c6e17.png" away-logo="https://img.thesports.com/football/team/6010ce94e8e042a687207a7dceb06658.png" group-title="Gà Vàng TV" start-time="1790880300",Ireland vs Austria - Cá MậP — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dn1m1ghl9ydymoe" tvg-name="Israel vs Kosovo" tvg-logo="https://img.thesports.com/football/team/a370afda41a7ae62dcb8d1b721b92bed.png" home-logo="https://img.thesports.com/football/team/a370afda41a7ae62dcb8d1b721b92bed.png" away-logo="https://img.thesports.com/football/team/4c93e18166419da61b1ca433c866d9e5.png" group-title="Gà Vàng TV" start-time="1790880300",Israel vs Kosovo - SÚP LƠ — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_6ypq3nhvkyozmd7" tvg-name="Malta vs Gibraltar" tvg-logo="https://img.thesports.com/football/team/f7eb745a5f9b3016b083019da91b5f74.png" home-logo="https://img.thesports.com/football/team/f7eb745a5f9b3016b083019da91b5f74.png" away-logo="https://img.thesports.com/football/team/275612d39c2aacdf7b64836df54b9229.png" group-title="Gà Vàng TV" start-time="1790880300",Malta vs Gibraltar - NGƯỜI KIẾN — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_k82rekhg2pddrep" tvg-name="Wales vs Norway" tvg-logo="https://img.thesports.com/football/team/588f43d3d2fe15b2dad77de9f2cc5c51.png" home-logo="https://img.thesports.com/football/team/588f43d3d2fe15b2dad77de9f2cc5c51.png" away-logo="https://img.thesports.com/football/team/227d43878fa14347902532126d29b10c.png" group-title="Gà Vàng TV" start-time="1790880300",Wales vs Norway - Lữ Bố.vip — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4wyrn4hyzek8q86" tvg-name="Manchester City(w) vs Real Madrid(w)" tvg-logo="https://static.sportsfeed.pro/football/team/c4a6528a2ee147b99c9885ef24385a4e.png" home-logo="https://static.sportsfeed.pro/football/team/c4a6528a2ee147b99c9885ef24385a4e.png" away-logo="https://static.sportsfeed.pro/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png" group-title="Gà Vàng TV" start-time="1790881200",Manchester City(w) vs Real Madrid(w) - THICHDUTHU — UEFA Women's Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l5ergphk0393r8k" tvg-name="Paris Saint Germain(w) vs Oud Heverlee Leuven(w)" tvg-logo="https://static.sportsfeed.pro/football/team/9b531be11cb41d4f7999fc91a943c75f.png" home-logo="https://static.sportsfeed.pro/football/team/9b531be11cb41d4f7999fc91a943c75f.png" away-logo="https://static.sportsfeed.pro/football/team/00e20bbdad428c6374ba047e0de5d8a6.png" group-title="Gà Vàng TV" start-time="1790881200",Paris Saint Germain(w) vs Oud Heverlee Leuven(w) - RIO — UEFA Women's Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l5ergph4g1vgr8k" tvg-name="Curacao vs Trinidad and Tobago" tvg-logo="https://img.thesports.com/football/team/b5e51cdfe1a14bdf8289260933b2d405.png" home-logo="https://img.thesports.com/football/team/b5e51cdfe1a14bdf8289260933b2d405.png" away-logo="https://img.thesports.com/football/team/edb8dfb5b878d0e33c4a86488ad8eb6a.png" group-title="Gà Vàng TV" start-time="1790892000",Curacao vs Trinidad and Tobago - KAYTI — CONCACAF Nations League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
