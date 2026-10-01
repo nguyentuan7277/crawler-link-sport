@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 02:00:10 02/10/2026
+## Cập nhật lúc: 02:20:08 02/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1528919_chuoila" tvg-name="Denmark vs Portugal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125456_dde261ec.png" group-title="Chuối TV" start-time="1790880300",Denmark vs Portugal - Chuối Lá [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -38,17 +38,77 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1639973_chuoitay" tvg-name="Dominican Republic vs Haiti" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132743_ec3a781d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132743_ec3a781d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132740_8b094d7f.png" group-title="Chuối TV" start-time="1790899200",Dominican Republic vs Haiti - Chuối Tây [FHD] — CONCACAF Nations League
+#EXTINF:-1 tvg-id="cctv_992553_chuoikem" tvg-name="India vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="Chuối TV" start-time="1790902800",India vs South Korea - Chuối Kem [FHD] — Asian Games Bóng Chuyền
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_991866_chuoinho" tvg-name="Qatar vs Thailand" tvg-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" home-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" group-title="Chuối TV" start-time="1790913600",Qatar vs Thailand - Chuối Nhỏ [FHD] — Asian Games Bóng Chuyền
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_996357_chuoikem" tvg-name="Pakistan vs Iran" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" away-logo="https://media.chuoichientv.net/media/20250922_191534_12d2f8a6.png" group-title="Chuối TV" start-time="1790924400",Pakistan vs Iran - Chuối Kem [FHD] — Asian Games Bóng Chuyền
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1641716_chuoisay" tvg-name="Thailand vs Philippines" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" away-logo="https://media.chuoichientv.net/media/20251215_200012_37b4c910.png" group-title="Chuối TV" start-time="1790931600",Thailand vs Philippines - Chuối Sấy [FHD] — FIFA Asean Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1641717_chuoinho" tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" group-title="Chuối TV" start-time="1790931600",Việt Nam vs Pakistan - Chuối Nhỏ [FHD] — FIFA Asean Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1641717_angao" tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" group-title="Chuối TV" start-time="1790931600",Việt Nam vs Pakistan - Chuối Ngao [FHD] — FIFA Asean Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_993965_chuoikem" tvg-name="Việt Nam vs Indonesia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" away-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="Chuối TV" start-time="1790935200",Việt Nam vs Indonesia - Chuối Kem [FHD] — Asian Games Bóng Chuyền
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_998711_chuoitay" tvg-name="Japan vs China" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png" group-title="Chuối TV" start-time="1790936400",Japan vs China - Chuối Tây [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1639974_chuoikem" tvg-name="Nicaragua vs Costa Rica" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134318_ac29542c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134318_ac29542c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_80ee8c4e.png" group-title="Chuối TV" start-time="1790906400",Nicaragua vs Costa Rica - Chuối Kem [FHD] — CONCACAF Nations League
+#EXTINF:-1 tvg-id="cctv_1640074_chuoila" tvg-name="Congo DR vs Uganda" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_10d04719.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_10d04719.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132802_272fef9c.png" group-title="Chuối TV" start-time="1790942400",Congo DR vs Uganda - Chuối Lá [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1528923_chuoichao" tvg-name="Kazakhstan vs Moldova" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134301_14465ab7.png" group-title="Chuối TV" start-time="1790949600",Kazakhstan vs Moldova - Chuối Chao [FHD] — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1528930_chuoinho" tvg-name="Cyprus vs Armenia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png" group-title="Chuối TV" start-time="1790956800",Cyprus vs Armenia - Chuối Nhỏ [FHD] — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1545608_troctru" tvg-name="Latvia vs Montenegro" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134253_26d0ea1f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134253_26d0ea1f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134259_9fd925e4.png" group-title="Chuối TV" start-time="1790956800",Latvia vs Montenegro - Trốc Tru [FHD] — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_318q66h8z0elqo9" tvg-name="Austria Wien (w) vs Inter Milan(w)" tvg-logo="https://static.sportsfeed.pro/football/team/0454e224a578f2d2fb8e4bafc58e140e.png" home-logo="https://static.sportsfeed.pro/football/team/0454e224a578f2d2fb8e4bafc58e140e.png" away-logo="https://static.sportsfeed.pro/football/team/ece43223dd5ca95c06190d491a8238e1.png" group-title="Gà Vàng TV" start-time="1790873100",Austria Wien (w) vs Inter Milan(w) - RIO — UEFA Women's Champions League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -150,7 +210,7 @@ https://live05.meung.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_j374oi0pg1gigqo" tvg-name="Quần đảo Virgin Anh vs Montserrat" tvg-logo="https://img.gvapi.cc/football/team/35ce49daeea2bdae89607a6c0a8e8527.png!w80" home-logo="https://img.gvapi.cc/football/team/35ce49daeea2bdae89607a6c0a8e8527.png!w80" away-logo="https://img.gvapi.cc/football/team/0ee21aceb8c7d32b06bab2f4fac42c49.png!w80" group-title="Cola TV" start-time="1790881200",Quần đảo Virgin Anh vs Montserrat - BLV BÍ ĐAO — Liên minh bóng đá quốc gia châu Mỹ
+#EXTINF:-1 tvg-id="cola_j374oi0pg1gigqo" tvg-name="Quần đảo Virgin Anh vs Montserrat" tvg-logo="https://img.gvapi.cc/football/team/35ce49daeea2bdae89607a6c0a8e8527.png!w80" home-logo="https://img.gvapi.cc/football/team/35ce49daeea2bdae89607a6c0a8e8527.png!w80" away-logo="https://img.gvapi.cc/football/team/0ee21aceb8c7d32b06bab2f4fac42c49.png!w80" group-title="Cola TV" start-time="1790884800",Quần đảo Virgin Anh vs Montserrat - BLV BÍ ĐAO — Liên minh bóng đá quốc gia châu Mỹ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
