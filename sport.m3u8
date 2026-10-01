@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:40:08 01/10/2026
+## Cập nhật lúc: 18:00:12 01/10/2026
 
 #EXTINF:-1 tvg-id="cctv_997246_chuoichao" tvg-name="Japan vs Ecuador" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png" group-title="Chuối TV" start-time="1790849400",Japan vs Ecuador - Chuối Chao [FHD] — Kirin Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -107,6 +107,16 @@ https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09h549l0rz8" tvg-name="Uzbekistan vs Syria" tvg-logo="https://img.thesports.com/football/team/3016a701d47246f082016705f2f7267c.png" home-logo="https://img.thesports.com/football/team/3016a701d47246f082016705f2f7267c.png" away-logo="https://img.thesports.com/football/team/4c5a3c0ad7ea6b1b0643c072cf0b479a.png" group-title="Gà Vàng TV" start-time="1790863200",Uzbekistan vs Syria - ĐOÀN DỰ — International Friendly
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_23xmvkhyv84lqg8" tvg-name="Wolfsburg vs Havelse" tvg-logo="https://static.sportsfeed.pro/football/team/03645e9c1d7fd2c48705622f52fd901e.png" home-logo="https://static.sportsfeed.pro/football/team/03645e9c1d7fd2c48705622f52fd901e.png" away-logo="https://static.sportsfeed.pro/football/team/11b0b5348aef923cf646cedd2648bfaa.png" group-title="Gà Vàng TV" start-time="1790863200",Wolfsburg vs Havelse - Lữ Bố.vip — International Club Friendly
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19883888" tvg-name="Indonesia vs Bangladesh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/indonesia-18705" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/indonesia-18705" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bangladesh-18847" group-title="BiaomTV" start-time="1790857800",Indonesia vs Bangladesh - TIGER — Cúp ASEAN
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
