@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 04:00:12 02/10/2026
+## Cập nhật lúc: 04:20:07 02/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1639970_troctru" tvg-name="Curaçao vs Trinidad and Tobago" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_190812ee.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_190812ee.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_655e51b0.png" group-title="Chuối TV" start-time="1790892000",Curaçao vs Trinidad and Tobago - Trốc Tru [FHD] — CONCACAF Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -99,6 +99,11 @@ https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y39mp1h67264moj" tvg-name="CA Platense vs Estudiantes La Plata" tvg-logo="https://static.sportsfeed.pro/football/team/df9d41a492e324ad411a3e39c7935352.png" home-logo="https://static.sportsfeed.pro/football/team/df9d41a492e324ad411a3e39c7935352.png" away-logo="https://static.sportsfeed.pro/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png" group-title="Gà Vàng TV" start-time="1790900100",CA Platense vs Estudiantes La Plata - cố tư nghiêm — Copa Argentina
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19883880" tvg-name="Thái Lan vs Philippines" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thailand-18593" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thailand-18593" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/philippines-18693" group-title="BiaomTV" start-time="1790931600",Thái Lan vs Philippines - ASAHI — Cúp ASEAN
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
