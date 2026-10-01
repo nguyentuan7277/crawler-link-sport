@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 13:00:17 01/10/2026
-
-#EXTINF:-1 tvg-id="cctv_998840_chuoisay" tvg-name="South Korea vs Iran" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" away-logo="https://media.chuoichientv.net/media/20250922_191534_12d2f8a6.png" group-title="Chuối TV" start-time="1790827200",South Korea vs Iran - Chuối Sấy [FHD] — Asian Games Bóng Chuyền
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 13:20:10 01/10/2026
 
 #EXTINF:-1 tvg-id="cctv_991250_chuoichao" tvg-name="Panama vs New Zealand" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_07ec8953.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_07ec8953.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134204_ca5486e7.png" group-title="Chuối TV" start-time="1790835000",Panama vs New Zealand - Chuối Chao [HD1] — Kirin Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -121,11 +115,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_dn1m1gh9v3zemoe" tvg-name="Panama vs New Zealand" tvg-logo="https://img.thesports.com/football/team/ec01e78e2d9d42d2905f744a38957295.png" home-logo="https://img.thesports.com/football/team/ec01e78e2d9d42d2905f744a38957295.png" away-logo="https://img.thesports.com/football/team/7888d7d6d0a94676a13eaa2319a88583.png" group-title="Gà Vàng TV" start-time="1790835000",Panama vs New Zealand - THICHDUTHU — Japanese Kirin Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_2y8m4zh5l2e1ql0" tvg-name="Erchim vs Tuv Buganuud" tvg-logo="https://static.sportsfeed.pro/football/team/c8188e3985db5cee9be1f4ea436f2fc2.png" home-logo="https://static.sportsfeed.pro/football/team/c8188e3985db5cee9be1f4ea436f2fc2.png" away-logo="https://static.sportsfeed.pro/football/team/7b518d4cb1c747a41d279221bea7ac96.png" group-title="Gà Vàng TV" start-time="1790841600",Erchim vs Tuv Buganuud - SiêU QuậY — Mongolia Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -195,3 +184,8 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2Nzc6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmV
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY2Nzk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnFibHJoZTl6b25neDcxNmw4dmF1N3JraQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_g6763ipn28dao7r" tvg-name="Panama vs New Zealand" tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80" home-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80" away-logo="https://img.gvapi.cc/football/team/f827b5406c7aa5b4fe10062ae06a137b.png!w80" group-title="Cola TV" start-time="1790835000",Panama vs New Zealand - BLV 7UP — Cốc kỳ lân
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/78905744_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
