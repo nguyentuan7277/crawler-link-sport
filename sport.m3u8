@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 22:00:15 01/10/2026
+## Cập nhật lúc: 22:20:35 01/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1640512_chuoila" tvg-name="Uzbekistan vs Syria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_7ff7b895.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_7ff7b895.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134315_50230f93.png" group-title="Chuối TV" start-time="1790863200",Uzbekistan vs Syria - Chuối Lá [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -73,6 +73,16 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09h549l0rz8" tvg-name="Uzbekistan vs Syria" tvg-logo="https://img.thesports.com/football/team/3016a701d47246f082016705f2f7267c.png" home-logo="https://img.thesports.com/football/team/3016a701d47246f082016705f2f7267c.png" away-logo="https://img.thesports.com/football/team/4c5a3c0ad7ea6b1b0643c072cf0b479a.png" group-title="Gà Vàng TV" start-time="1790863200",Uzbekistan vs Syria - ĐOÀN DỰ — International Friendly
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_zp5rzghgjdv2q82" tvg-name="Greece U21 vs Latvia U21" tvg-logo="https://img.thesports.com/football/team/8ba6b4f123aa2cf2832d19b58bf194ef.png" home-logo="https://img.thesports.com/football/team/8ba6b4f123aa2cf2832d19b58bf194ef.png" away-logo="https://img.thesports.com/football/team/bf67bf427619f2d6ea36db45da29ca6c.png" group-title="Gà Vàng TV" start-time="1790866800",Greece U21 vs Latvia U21 - Cá MậP — UEFA European U21 Championship qualification
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_pxwrxlhyl8ojryk" tvg-name="Azerbaijan vs Liechtenstein" tvg-logo="https://img.thesports.com/football/team/f653d5976458f0dcce2b3939259acffa.png" home-logo="https://img.thesports.com/football/team/f653d5976458f0dcce2b3939259acffa.png" away-logo="https://img.thesports.com/football/team/a7ce4026f43a4491f1284bb38d96f440.png" group-title="Gà Vàng TV" start-time="1790870400",Azerbaijan vs Liechtenstein - CRIS — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -178,16 +188,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3NzM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmZ
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NzQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmwyYjBwMWFwa2tub2Zod3l5eGVocHRmcg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_ezk96i342pmu1kn" tvg-name="Al Sharjah vs CLB Al Dhafra" tvg-logo="https://img.gvapi.cc/football/team/c471de7682d1c900df7981bb2cf6536c.png!w80" home-logo="https://img.gvapi.cc/football/team/c471de7682d1c900df7981bb2cf6536c.png!w80" away-logo="https://img.gvapi.cc/football/team/8872919405e0076fb753ae6492a0a2db.png!w80" group-title="Cola TV" start-time="1790860500",Al Sharjah vs CLB Al Dhafra - BLV STING — Cúp liên đoàn UAE
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/14707124_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_g6763i5gzl0io7r" tvg-name="Dubai Hoa Kỳ vs CLB Hatta" tvg-logo="https://img.gvapi.cc/football/team/f1eb0a2465dd34309c64d113ce0c9b96.png!w80" home-logo="https://img.gvapi.cc/football/team/f1eb0a2465dd34309c64d113ce0c9b96.png!w80" away-logo="https://img.gvapi.cc/football/team/bb546c302434af47cf61e8ae3fd53102.png!w80" group-title="Cola TV" start-time="1790860500",Dubai Hoa Kỳ vs CLB Hatta - BLV GIÀ LÀNG — Cúp liên đoàn UAE
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_l6kegir93z3sv75" tvg-name="Maldives vs Liban" tvg-logo="https://img.gvapi.cc/football/team/debe9dfcc3e4dbea1c509ffab6bf9f0b.png!w80" home-logo="https://img.gvapi.cc/football/team/debe9dfcc3e4dbea1c509ffab6bf9f0b.png!w80" away-logo="https://img.gvapi.cc/football/team/a576eafbce762079f7d1f77fca1c5cc2.png!w80" group-title="Cola TV" start-time="1790863200",Maldives vs Liban - BLV SPRITE — Giao hữu Quốc tế
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
