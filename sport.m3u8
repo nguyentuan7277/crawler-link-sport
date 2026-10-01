@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 10:00:10 01/10/2026
+## Cập nhật lúc: 10:20:08 01/10/2026
 
 #EXTINF:-1 tvg-id="cctv_998840_chuoisay" tvg-name="South Korea vs Iran" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" away-logo="https://media.chuoichientv.net/media/20250922_191534_12d2f8a6.png" group-title="Chuối TV" start-time="1790827200",South Korea vs Iran - Chuối Sấy [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -125,6 +125,11 @@ https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dn1m1gh9v3zemoe" tvg-name="Panama vs New Zealand" tvg-logo="https://img.thesports.com/football/team/ec01e78e2d9d42d2905f744a38957295.png" home-logo="https://img.thesports.com/football/team/ec01e78e2d9d42d2905f744a38957295.png" away-logo="https://img.thesports.com/football/team/7888d7d6d0a94676a13eaa2319a88583.png" group-title="Gà Vàng TV" start-time="1790835000",Panama vs New Zealand - THICHDUTHU — Japanese Kirin Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19883888" tvg-name="Indonesia vs Bangladesh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/indonesia-18705" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/indonesia-18705" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bangladesh-18847" group-title="BiaomTV" start-time="1790857800",Indonesia vs Bangladesh - TIGER — Cúp ASEAN
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
