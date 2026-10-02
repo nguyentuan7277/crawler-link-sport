@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 06:20:07 03/10/2026
+## Cập nhật lúc: 06:40:07 03/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1492318_chuoitay" tvg-name="Sao Paulo vs Santos" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png" group-title="Chuối TV" start-time="1790982000",Sao Paulo vs Santos - Chuối Tây [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -20,20 +20,10 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_k82rekhgj6gdrep" tvg-name="CA Independiente vs Instituto" tvg-logo="https://static.sportsfeed.pro/football/team/47174721b260fae6e833329c13c9f2ee.png" home-logo="https://static.sportsfeed.pro/football/team/47174721b260fae6e833329c13c9f2ee.png" away-logo="https://static.sportsfeed.pro/football/team/a01279fdf6589b3c11529ca1ab4201fc.png" group-title="Gà Vàng TV" start-time="1790979300",CA Independiente vs Instituto - cố tư nghiêm — Argentine Division 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_dj2ryohllj4yq1z" tvg-name="Sao Bernardo vs CRB" tvg-logo="https://static.sportsfeed.pro/football/team/e2f40e16499b22e942a5bd1d1d2398d3.png" home-logo="https://static.sportsfeed.pro/football/team/e2f40e16499b22e942a5bd1d1d2398d3.png" away-logo="https://static.sportsfeed.pro/football/team/96413c5ef284eec6c6e0d76c87732471.png" group-title="Gà Vàng TV" start-time="1790980200",Sao Bernardo vs CRB - THICHDUTHU — Brazilian Serie B
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_jw2r09hkkx94rz8" tvg-name="Londrina PR vs Criciuma" tvg-logo="https://static.sportsfeed.pro/football/team/9d3195be22d95cf5d35790272afc724a.png" home-logo="https://static.sportsfeed.pro/football/team/9d3195be22d95cf5d35790272afc724a.png" away-logo="https://static.sportsfeed.pro/football/team/1105c0c62d761d64b6f4c3e34f460278.png" group-title="Gà Vàng TV" start-time="1790983800",Londrina PR vs Criciuma - khang hi — Brazilian Serie B
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l5ergph44v2gr8k" tvg-name="Juventude vs Operario Ferroviario PR" tvg-logo="https://static.sportsfeed.pro/football/team/7a9a6275e29e0f51ea68ba1ec740bf1e.png" home-logo="https://static.sportsfeed.pro/football/team/7a9a6275e29e0f51ea68ba1ec740bf1e.png" away-logo="https://static.sportsfeed.pro/football/team/d10de41c21595dcf71ffbf4c3c105660.png" group-title="Gà Vàng TV" start-time="1790984700",Juventude vs Operario Ferroviario PR - A Long — Brazilian Serie B
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
