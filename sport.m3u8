@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 07:00:11 02/10/2026
+## Cập nhật lúc: 07:20:07 02/10/2026
 
 #EXTINF:-1 tvg-id="cctv_992553_chuoikem" tvg-name="India vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="Chuối TV" start-time="1790902800",India vs South Korea - Chuối Kem [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -74,11 +74,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_y39mp1h67264moj" tvg-name="CA Platense vs Estudiantes La Plata" tvg-logo="https://static.sportsfeed.pro/football/team/df9d41a492e324ad411a3e39c7935352.png" home-logo="https://static.sportsfeed.pro/football/team/df9d41a492e324ad411a3e39c7935352.png" away-logo="https://static.sportsfeed.pro/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png" group-title="Gà Vàng TV" start-time="1790900100",CA Platense vs Estudiantes La Plata - cố tư nghiêm — Copa Argentina
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_dj2ryohl01wkq1z" tvg-name="La Equidad vs Deportiva Once Caldas" tvg-logo="https://static.sportsfeed.pro/football/team/941d154df4d52cab518d2deae12dc83b.png" home-logo="https://static.sportsfeed.pro/football/team/941d154df4d52cab518d2deae12dc83b.png" away-logo="https://static.sportsfeed.pro/football/team/b060f70150fe2b52fba8aa026a930c4e.png" group-title="Gà Vàng TV" start-time="1790902800",La Equidad vs Deportiva Once Caldas - KAYTI — Categoría Primera A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -119,7 +114,12 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3NzM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NzQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmwyYjBwMWFwa2tub2Zod3l5eGVocHRmcg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_69759ig2pvgfgk2" tvg-name="Cộng hòa Dominican vs Haiti" tvg-logo="https://img.gvapi.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png!w80" home-logo="https://img.gvapi.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png!w80" away-logo="https://img.gvapi.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80" group-title="Cola TV" start-time="1790899200",Cộng hòa Dominican vs Haiti - BLV 247 — Liên minh bóng đá quốc gia châu Mỹ
+#EXTINF:-1 tvg-id="cola_69759ig2pvgfgk2" tvg-name="Dominican Republic vs Haiti" tvg-logo="https://img.gvapi.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png!w80" home-logo="https://img.gvapi.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png!w80" away-logo="https://img.gvapi.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80" group-title="Cola TV" start-time="1790899200",Dominican Republic vs Haiti - BLV 247 — Liên minh bóng đá quốc gia châu Mỹ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_vrqwni4wy43f4qn" tvg-name="Platense vs CLB Estudiantes La Plata" tvg-logo="https://img.gvapi.cc/football/team/df9d41a492e324ad411a3e39c7935352.png!w80" home-logo="https://img.gvapi.cc/football/team/df9d41a492e324ad411a3e39c7935352.png!w80" away-logo="https://img.gvapi.cc/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png!w80" group-title="Cola TV" start-time="1790900100",Platense vs CLB Estudiantes La Plata - BLV SAMURAI — Cúp Argentina
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
