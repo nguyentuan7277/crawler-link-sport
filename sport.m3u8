@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 14:20:08 02/10/2026
+## Cập nhật lúc: 14:40:09 02/10/2026
 
 #EXTINF:-1 tvg-id="cctv_996357_chuoikem" tvg-name="Pakistan vs Iran" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" away-logo="https://media.chuoichientv.net/media/20250922_191534_12d2f8a6.png" group-title="Chuối TV" start-time="1790924400",Pakistan vs Iran - Chuối Kem [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -135,6 +135,11 @@ https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dn1m1gh9v70dmoe" tvg-name="Korea DPR(w) vs Japan(w)" tvg-logo="https://img.thesports.com/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png" home-logo="https://img.thesports.com/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png" away-logo="https://img.thesports.com/football/team/871d73474b2d6b307fe3862403e9c77d.png" group-title="Gà Vàng TV" start-time="1790937000",Korea DPR(w) vs Japan(w) - cố tư nghiêm — OCA Women's Asian Games
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19883880" tvg-name="Thái Lan vs Philippines" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thailand-18593" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thailand-18593" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/philippines-18693" group-title="BiaomTV" start-time="1790931600",Thái Lan vs Philippines - ASAHI — Cúp ASEAN
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
