@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 09:00:30 03/10/2026
+## Cập nhật lúc: 09:20:06 03/10/2026
 
-#EXTINF:-1 tvg-id="cctv_995020_chuoikem" tvg-name="Qatar vs South Korea" tvg-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" home-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="Chuối TV" start-time="1790989200",Qatar vs South Korea - Chuối Kem [HD1] — Asian Games Bóng Chuyền
+#EXTINF:-1 tvg-id="cctv_995020_chuoikem" tvg-name="Qatar vs South Korea" tvg-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" home-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="Chuối TV" start-time="1790989200",Qatar vs South Korea - Chuối Kem [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_999726_chuoitay" tvg-name="Thailand vs India" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="Chuối TV" start-time="1791000000",Thailand vs India - Chuối Tây [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -208,11 +208,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3MjA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmJ
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NzI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnNrcjIycWIxOXIyZndtNHE3MHB0cmZueA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_9gklzi5lp0ehm7x" tvg-name="Colombia vs Paraguay" tvg-logo="https://img.gvapi.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80" home-logo="https://img.gvapi.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80" away-logo="https://img.gvapi.cc/football/team/e6092477694f4a62bbb63cf64ee19fe6.png!w80" group-title="Cola TV" start-time="1790985600",Colombia vs Paraguay - BLV BÍ ĐAO — Giao hữu Quốc tế
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_6975lsnm6ogfgk2" tvg-name="Golden State Valkyries vs Dallas Wings" tvg-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" home-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" away-logo="https://img.gvapi.cc/basketball/team/58709b9e7964e03c28ebe777ef823eca.png!w80" group-title="Cola TV" start-time="1790989200",Golden State Valkyries vs Dallas Wings - BLV 247 — Hiệp hội bóng rổ quốc gia nữ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
