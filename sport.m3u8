@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 07:20:10 03/10/2026
+## Cập nhật lúc: 07:40:08 03/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1492318_chuoitay" tvg-name="Sao Paulo vs Santos" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png" group-title="Chuối TV" start-time="1790982000",Sao Paulo vs Santos - Chuối Tây [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -14,31 +14,17 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1639981_chuoisay" tvg-name="El Salvador vs Jamaica" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_d7b2cf85.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_d7b2cf85.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" group-title="Chuối TV" start-time="1790992800",El Salvador vs Jamaica - Chuối Sấy [FHD] — CONCACAF Nations League
+#EXTINF:-1 tvg-id="cctv_995020_chuoikem" tvg-name="Qatar vs South Korea" tvg-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" home-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="Chuối TV" start-time="1790989200",Qatar vs South Korea - Chuối Kem [FHD] — Asian Games Bóng Chuyền
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_dj2ryohllj4yq1z" tvg-name="Sao Bernardo vs CRB" tvg-logo="https://static.sportsfeed.pro/football/team/e2f40e16499b22e942a5bd1d1d2398d3.png" home-logo="https://static.sportsfeed.pro/football/team/e2f40e16499b22e942a5bd1d1d2398d3.png" away-logo="https://static.sportsfeed.pro/football/team/96413c5ef284eec6c6e0d76c87732471.png" group-title="Gà Vàng TV" start-time="1790980200",Sao Bernardo vs CRB - THICHDUTHU — Brazilian Serie B
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_999726_chuoitay" tvg-name="Thailand vs India" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="Chuối TV" start-time="1791000000",Thailand vs India - Chuối Tây [FHD] — Asian Games Bóng Chuyền
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_zp5rzghgd4g6q82" tvg-name="Boca Juniors vs Union Santa Fe" tvg-logo="https://static.sportsfeed.pro/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png" home-logo="https://static.sportsfeed.pro/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png" away-logo="https://static.sportsfeed.pro/football/team/c5d75265caa6875d9ea84f36027312d5.png" group-title="Gà Vàng TV" start-time="1790987400",Boca Juniors vs Union Santa Fe - MeoMeo — Argentine Division 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_318q66hx32xpqo9" tvg-name="Independiente Rivadavia vs Gimnasia La Plata" tvg-logo="https://static.sportsfeed.pro/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png" home-logo="https://static.sportsfeed.pro/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png" away-logo="https://static.sportsfeed.pro/football/team/f323884c2481d25aa4b316a43583b733.png" group-title="Gà Vàng TV" start-time="1790987400",Independiente Rivadavia vs Gimnasia La Plata - cố tư nghiêm — Argentine Division 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_l7oqdehggl64r51" tvg-name="Fortaleza vs Nautico" tvg-logo="https://static.sportsfeed.pro/football/team/84f85d4178e4287ed8ad5f76ad4c5e46.png" home-logo="https://static.sportsfeed.pro/football/team/84f85d4178e4287ed8ad5f76ad4c5e46.png" away-logo="https://static.sportsfeed.pro/football/team/1d8d54bfe19b8bfd6d064eda3556f812.png" group-title="Gà Vàng TV" start-time="1790987700",Fortaleza vs Nautico - KAYTI — Brazilian Serie B
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_23xmvkh6j85xqg8" tvg-name="Deportivo Cali vs Alianza Fútbol Club" tvg-logo="https://static.sportsfeed.pro/football/team/b997a2811a0caed43ff38b631a708420.png" home-logo="https://static.sportsfeed.pro/football/team/b997a2811a0caed43ff38b631a708420.png" away-logo="https://static.sportsfeed.pro/football/team/242d6977e9b86cba5cea704d996edbf8.png" group-title="Gà Vàng TV" start-time="1790988300",Deportivo Cali vs Alianza Fútbol Club - SiêU QuậY — Categoría Primera A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
