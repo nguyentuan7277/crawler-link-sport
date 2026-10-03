@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 21:20:12 03/10/2026
+## Cập nhật lúc: 21:40:08 03/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1528932_chuoikem" tvg-name="Finland vs Albania" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125504_b2d2226a.png" group-title="Chuối TV" start-time="1791032400",Finland vs Albania - Chuối Kem [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -85,11 +85,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_k82rekhg0oeorep" tvg-name="Strommen vs Sandnes Ulf" tvg-logo="https://static.sportsfeed.pro/football/team/fcafc8131a8bb3ae49f77a1378ee1166.png" home-logo="https://static.sportsfeed.pro/football/team/fcafc8131a8bb3ae49f77a1378ee1166.png" away-logo="https://static.sportsfeed.pro/football/team/7aa5666576faea59e2b4b531a69d2fb4.png" group-title="Gà Vàng TV" start-time="1791030600",Strommen vs Sandnes Ulf - MeoMeo — Norwegian 1.Divisjon
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_ednm9whw5y45ryo" tvg-name="Finland vs Albania" tvg-logo="https://img.thesports.com/football/team/3c0b84f6c8ee0d929021de10cbb8cc69.png" home-logo="https://img.thesports.com/football/team/3c0b84f6c8ee0d929021de10cbb8cc69.png" away-logo="https://img.thesports.com/football/team/848ef33f5e745846994a756f211e530b.png" group-title="Gà Vàng TV" start-time="1791032400",Finland vs Albania - CRIS — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
