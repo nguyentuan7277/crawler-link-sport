@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 04:40:14 05/10/2026
+## Cập nhật lúc: 05:00:23 05/10/2026
+
+#EXTINF:-1 tvg-id="cctv_1639988_chuoichao" tvg-name="Trinidad and Tobago vs Curaçao" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_655e51b0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_655e51b0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_190812ee.png" group-title="Chuối TV" start-time="1791151200",Trinidad and Tobago vs Curaçao - Chuối Chao [HD1] — CONCACAF Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1549805_troctru" tvg-name="Cucuta vs Deportivo Pereira" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133658_a2b33348.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133658_a2b33348.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133538_0a9dbb3b.png" group-title="Chuối TV" start-time="1791147900",Cucuta vs Deportivo Pereira - Trốc Tru [FHD] — VĐQG Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1639988_chuoichao" tvg-name="Trinidad and Tobago vs Curaçao" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_655e51b0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_655e51b0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_190812ee.png" group-title="Chuối TV" start-time="1791151200",Trinidad and Tobago vs Curaçao - Chuối Chao [FHD] — CONCACAF Nations League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1639990_chuoisay" tvg-name="Costa Rica vs Haiti" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_80ee8c4e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_80ee8c4e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132740_8b094d7f.png" group-title="Chuối TV" start-time="1791158400",Costa Rica vs Haiti - Chuối Sấy [FHD] — CONCACAF Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,11 +122,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_l5ergph47y49r8k" tvg-name="Talleres Cordoba vs Belgrano" tvg-logo="https://static.sportsfeed.pro/football/team/44cb6b8a76b2194e16849eace4743e54.png" home-logo="https://static.sportsfeed.pro/football/team/44cb6b8a76b2194e16849eace4743e54.png" away-logo="https://static.sportsfeed.pro/football/team/f24c6d2696f439d43875fba52100991d.png" group-title="Gà Vàng TV" start-time="1791144000",Talleres Cordoba vs Belgrano - cố tư nghiêm — Argentine Division 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_n54qllhn670jqvy" tvg-name="Cucuta vs Deportivo Pereira" tvg-logo="https://static.sportsfeed.pro/football/team/972c2e951d1ba7680faee53a342bd0a2.png" home-logo="https://static.sportsfeed.pro/football/team/972c2e951d1ba7680faee53a342bd0a2.png" away-logo="https://static.sportsfeed.pro/football/team/d82c6b70b6fa098483e9afa0589bd7b1.png" group-title="Gà Vàng TV" start-time="1791147900",Cucuta vs Deportivo Pereira - KAYTI — Categoría Primera A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -197,22 +192,17 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3MTQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NjY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmN1aWVlNjRyZmJueGM1MmQzcHF1ZTh0aQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_9gklzi1gx39um7x" tvg-name="Bahamas vs Quần đảo Virgin Mỹ" tvg-logo="https://img.gvapi.cc/football/team/33f4365d46e7dad72e198ab5326ba525.png!w80" home-logo="https://img.gvapi.cc/football/team/33f4365d46e7dad72e198ab5326ba525.png!w80" away-logo="https://img.gvapi.cc/football/team/7de64628d6c08c86d7a1b4a1027b97b8.png!w80" group-title="Cola TV" start-time="1791144000",Bahamas vs Quần đảo Virgin Mỹ - BLV Cozy — Liên minh bóng đá quốc gia châu Mỹ
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_63kvlsoy22mhx7e" tvg-name="Golden State Valkyries vs Las Vegas Aces" tvg-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" home-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" away-logo="https://img.gvapi.cc/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png!w80" group-title="Cola TV" start-time="1791144000",Golden State Valkyries vs Las Vegas Aces - BLV 247 — Hiệp hội bóng rổ quốc gia nữ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_jek33i8l4jnf9ko" tvg-name="Quần đảo Turks & Caicos vs Quần đảo Virgin Anh" tvg-logo="https://img.gvapi.cc/football/team/1415dc375c993c821db970fdf320c0e8.png!w80" home-logo="https://img.gvapi.cc/football/team/1415dc375c993c821db970fdf320c0e8.png!w80" away-logo="https://img.gvapi.cc/football/team/35ce49daeea2bdae89607a6c0a8e8527.png!w80" group-title="Cola TV" start-time="1791144000",Quần đảo Turks & Caicos vs Quần đảo Virgin Anh - BLV AQUA — Liên minh bóng đá quốc gia châu Mỹ
+#EXTINF:-1 tvg-id="cola_m2q15izoyg2fe76" tvg-name="Puerto Rico vs Quần đảo Cayman" tvg-logo="https://img.gvapi.cc/football/team/80ce4326387c091af8b8647f3292c818.png!w80" home-logo="https://img.gvapi.cc/football/team/80ce4326387c091af8b8647f3292c818.png!w80" away-logo="https://img.gvapi.cc/football/team/f6bbfd2ff6735cc0c673ddf4e39aa3dd.png!w80" group-title="Cola TV" start-time="1791151200",Puerto Rico vs Quần đảo Cayman - BLV MOUNTAIN DEW — Liên minh bóng đá quốc gia châu Mỹ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_l6kegi8038ocv75" tvg-name="Talleres Cordoba vs Belgrano" tvg-logo="https://img.gvapi.cc/football/team/44cb6b8a76b2194e16849eace4743e54.png!w80" home-logo="https://img.gvapi.cc/football/team/44cb6b8a76b2194e16849eace4743e54.png!w80" away-logo="https://img.gvapi.cc/football/team/f24c6d2696f439d43875fba52100991d.png!w80" group-title="Cola TV" start-time="1791144000",Talleres Cordoba vs Belgrano - BLV BÍ ĐAO — Giải Bóng đá Vô địch Quốc gia Argentina
+#EXTINF:-1 tvg-id="cola_g6763i5gzwxuo7r" tvg-name="Trinidad & Tobago vs Curacao" tvg-logo="https://img.gvapi.cc/football/team/edb8dfb5b878d0e33c4a86488ad8eb6a.png!w80" home-logo="https://img.gvapi.cc/football/team/edb8dfb5b878d0e33c4a86488ad8eb6a.png!w80" away-logo="https://img.gvapi.cc/football/team/31fd3b7fb312954c8a781d31f83166b7.png!w80" group-title="Cola TV" start-time="1791151200",Trinidad & Tobago vs Curacao - BLV BÍ ĐAO — Liên minh bóng đá quốc gia châu Mỹ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
