@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:00:18 04/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1606684_chuoinho" tvg-name="Vegalta Sendai vs Jubilo Iwata" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132410_e11644a1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132410_e11644a1.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132408_fc3fdb80.png" group-title="Chuối TV" start-time="1791093600",Vegalta Sendai vs Jubilo Iwata - Chuối Nhỏ [FHD] — J2 League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 15:20:11 04/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1606685_chuoichao" tvg-name="Tegevajaro Miyazaki vs Omiya Ardija" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132435_8f67a556.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132435_8f67a556.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132419_8fe883a0.png" group-title="Chuối TV" start-time="1791108000",Tegevajaro Miyazaki vs Omiya Ardija - Chuối Chao [FHD] — J2 League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -26,11 +20,17 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1569954_troctru" tvg-name="Sporting Gijon vs Celta de Vigo II" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133421_7b891bfa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133421_7b891bfa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_140019_7bc14b50.png" group-title="Chuối TV" start-time="1791123300",Sporting Gijon vs Celta de Vigo II - Trốc Tru [FHD] — La Liga 2
+#EXTINF:-1 tvg-id="cctv_1640830_troctru" tvg-name="Comoros vs Senegal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132804_f3da6d9a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132804_f3da6d9a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132755_ee492ea1.png" group-title="Chuối TV" start-time="1791118800",Comoros vs Senegal - Trốc Tru [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1569954_angao" tvg-name="Sporting Gijon vs Celta de Vigo II" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133421_7b891bfa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133421_7b891bfa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_140019_7bc14b50.png" group-title="Chuối TV" start-time="1791123300",Sporting Gijon vs Celta de Vigo II - Chuối Ngao [FHD] — La Liga 2
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528938_chuoinho" tvg-name="Kosovo vs Austria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f5f28cb7.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f5f28cb7.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125502_71d98139.png" group-title="Chuối TV" start-time="1791129600",Kosovo vs Austria - Chuối Nhỏ [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -168,16 +168,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3MTg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnZ
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY2Njg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmt6OTZpZDJ2MWhhMm43Zmo0ODhzNmF4Mw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_8lk2ys6mee4sz73" tvg-name="Adelaide 36ers vs New Zealand Breakers" tvg-logo="https://img.gvapi.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80" home-logo="https://img.gvapi.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80" away-logo="https://img.gvapi.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80" group-title="Cola TV" start-time="1791093600",Adelaide 36ers vs New Zealand Breakers - BLV Cozy — Liên đoàn Bóng rổ Quốc gia Úc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_63kv9igegzmix7e" tvg-name="Vegalta Sendai vs Jubilo Iwata" tvg-logo="https://img.gvapi.cc/football/team/514eb329116806ef998ead8b3ccb5612.png!w80" home-logo="https://img.gvapi.cc/football/team/514eb329116806ef998ead8b3ccb5612.png!w80" away-logo="https://img.gvapi.cc/football/team/771a47aa3a754d19f9f298fdf828e23b.png!w80" group-title="Cola TV" start-time="1791093600",Vegalta Sendai vs Jubilo Iwata - BLV GIÀ LÀNG — Giải bóng đá hạng nhì Nhật Bản
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_o07dzsmrwzztmkn" tvg-name="Busan KTF Sonicboom vs Seoul Samsung Thunders" tvg-logo="https://img.gvapi.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80" home-logo="https://img.gvapi.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80" away-logo="https://img.gvapi.cc/basketball/team/9adc8e5768f7787b81ad366fed7b5edd.png!w80" group-title="Cola TV" start-time="1791099000",Busan KTF Sonicboom vs Seoul Samsung Thunders - BLV ROCKSTAR — Giải bóng rổ nam Hàn Quốc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
