@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:40:15 04/10/2026
+## Cập nhật lúc: 00:00:22 05/10/2026
+
+#EXTINF:-1 tvg-id="cctv_1573600_chuoikem" tvg-name="Barcelona W vs Real Madrid W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133757_0a8041d4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133757_0a8041d4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133759_b6982020.png" group-title="Chuối TV" start-time="1791133200",Barcelona W vs Real Madrid W - Chuối Kem [HD1] — Bóng Đá Nữ Tây Ban Nha
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528938_chuoinho" tvg-name="Kosovo vs Austria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f5f28cb7.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f5f28cb7.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125502_71d98139.png" group-title="Chuối TV" start-time="1791129600",Kosovo vs Austria - Chuối Nhỏ [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,12 +25,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1573600_chuoikem" tvg-name="Barcelona W vs Real Madrid W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133757_0a8041d4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133757_0a8041d4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133759_b6982020.png" group-title="Chuối TV" start-time="1791133200",Barcelona W vs Real Madrid W - Chuối Kem [FHD] — Bóng Đá Nữ Tây Ban Nha
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528939_chuoichao" tvg-name="Greece vs Germany" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_98ea6afc.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_98ea6afc.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png" group-title="Chuối TV" start-time="1791139500",Greece vs Germany - Chuối Chao [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -143,6 +143,16 @@ https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_vjxm8ghe632nr6o" tvg-name="Castellon vs AD Ceuta" tvg-logo="https://static.sportsfeed.pro/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png" home-logo="https://static.sportsfeed.pro/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png" away-logo="https://static.sportsfeed.pro/football/team/cb76c8ffac95e7e5429aca574aab5deb.png" group-title="Gà Vàng TV" start-time="1791131400",Castellon vs AD Ceuta - MáN NúI — Spanish Segunda Division
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_23xmvkh6j9woqg8" tvg-name="Las Palmas vs Real Valladolid" tvg-logo="https://static.sportsfeed.pro/football/team/eff9bb17ae54a84068dfc3b9f1f628cb.png" home-logo="https://static.sportsfeed.pro/football/team/eff9bb17ae54a84068dfc3b9f1f628cb.png" away-logo="https://static.sportsfeed.pro/football/team/fdf63461c00668597319a4f0db14dcee.png" group-title="Gà Vàng TV" start-time="1791131400",Las Palmas vs Real Valladolid - MeoMeo — Spanish Segunda Division
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19676719" tvg-name="Kosovo vs Áo" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kosovo-27488" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kosovo-27488" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/austria-18643" group-title="BiaomTV" start-time="1791129600",Kosovo vs Áo - SAPPORO — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -232,11 +242,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3MTQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnZ
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NjY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmN1aWVlNjRyZmJueGM1MmQzcHF1ZTh0aQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_8lk2dir6l18cz73" tvg-name="Umea vs Hammarby TFF" tvg-logo="https://img.gvapi.cc/football/team/149815eb972b3c370dee3b89d645ae14.jpg!w80" home-logo="https://img.gvapi.cc/football/team/149815eb972b3c370dee3b89d645ae14.jpg!w80" away-logo="https://img.gvapi.cc/football/team/8ff59b3d46d49af66b8e61fe7ea32ef0.png!w80" group-title="Cola TV" start-time="1791126000",Umea vs Hammarby TFF - BLV HỔ VẰN — Giải hạng Ba Thụy Điển
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_ndkz6i3wm39axq3" tvg-name="Manchester City Nữ vs Arsenal Nữ" tvg-logo="https://img.gvapi.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" home-logo="https://img.gvapi.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" away-logo="https://img.gvapi.cc/football/team/b61190e348449a746ef3f802e7ebc701.png!w80" group-title="Cola TV" start-time="1791127800",Manchester City Nữ vs Arsenal Nữ - BLV MOUNTAIN DEW — Hạng Nhất nữ Anh
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
