@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:20:09 05/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1643812_chuoitay" tvg-name="Ecuador vs Panama" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_07ec8953.png" group-title="Chuối TV" start-time="1791181800",Ecuador vs Panama - Chuối Tây [FHD] — Kirin Cup
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 15:40:09 05/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1640437_chuoinho" tvg-name="Hunters vs Amtat FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142519_72f0bbb2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142519_72f0bbb2.png" away-logo="https://media.api-sports.io/football/teams/28430.png" group-title="Chuối TV" start-time="1791187200",Hunters vs Amtat FC - Chuối Nhỏ [FHD] — Ngoại Hạng Mông Cổ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -114,6 +108,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_3glrw7hndxgpqdy" tvg-name="Hunters FC vs Amtat FC" tvg-logo="https://static.sportsfeed.pro/football/team/e8082f36740ea4295a8bc67e28741933.png" home-logo="https://static.sportsfeed.pro/football/team/e8082f36740ea4295a8bc67e28741933.png" away-logo="https://static.sportsfeed.pro/football/team/a812559c6be7a54bd172038ff1ccebec.png" group-title="Gà Vàng TV" start-time="1791187200",Hunters FC vs Amtat FC - MeoMeo — Mongolia Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_n54qllh45npeqvy" tvg-name="Malaysia vs Vietnam" tvg-logo="https://img.thesports.com/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" home-logo="https://img.thesports.com/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" away-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png" group-title="Gà Vàng TV" start-time="1791190800",Malaysia vs Vietnam - CRIS — FIFA ASEAN Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
