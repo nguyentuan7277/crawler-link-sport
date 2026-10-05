@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 06:40:11 05/10/2026
+## Cập nhật lúc: 07:00:57 05/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1639988_chuoichao" tvg-name="Trinidad and Tobago vs Curaçao" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_655e51b0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_655e51b0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_190812ee.png" group-title="Chuối TV" start-time="1791151200",Trinidad and Tobago vs Curaçao - Chuối Chao [FHD] — CONCACAF Nations League
+#EXTINF:-1 tvg-id="cctv_1639990_chuoisay" tvg-name="Costa Rica vs Haiti" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_80ee8c4e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_80ee8c4e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132740_8b094d7f.png" group-title="Chuối TV" start-time="1791158400",Costa Rica vs Haiti - Chuối Sấy [HD1] — CONCACAF Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1639990_chuoisay" tvg-name="Costa Rica vs Haiti" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_80ee8c4e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_80ee8c4e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132740_8b094d7f.png" group-title="Chuối TV" start-time="1791158400",Costa Rica vs Haiti - Chuối Sấy [FHD] — CONCACAF Nations League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1639991_chuoikem" tvg-name="Nicaragua vs Dominican Republic" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134318_ac29542c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134318_ac29542c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132743_ec3a781d.png" group-title="Chuối TV" start-time="1791165600",Nicaragua vs Dominican Republic - Chuối Kem [FHD] — CONCACAF Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,15 +116,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_y0or5jh8w68jqwz" tvg-name="Argentinos Juniors vs Club Atletico Tigre" tvg-logo="https://static.sportsfeed.pro/football/team/5d8f8c8c289dbb2d67203988c8275cbc.png" home-logo="https://static.sportsfeed.pro/football/team/5d8f8c8c289dbb2d67203988c8275cbc.png" away-logo="https://static.sportsfeed.pro/football/team/95c9ef810563d777a5330b142f9ba38b.png" group-title="Gà Vàng TV" start-time="1791152100",Argentinos Juniors vs Club Atletico Tigre - SiêU QuậY — Argentine Division 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1639997_chuoisay" tvg-name="Guatemala vs Suriname" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132743_25712a70.png" group-title="Chuối TV" start-time="1791244800",Guatemala vs Suriname - Chuối Sấy [FHD] — CONCACAF Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_y0or5jh8knp3qwz" tvg-name="Atletico Bucaramanga vs Atletico Junior Barranquilla" tvg-logo="https://static.sportsfeed.pro/football/team/70c92764e181ce7abe6176c411a93fe3.png" home-logo="https://static.sportsfeed.pro/football/team/70c92764e181ce7abe6176c411a93fe3.png" away-logo="https://static.sportsfeed.pro/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png" group-title="Gà Vàng TV" start-time="1791155400",Atletico Bucaramanga vs Atletico Junior Barranquilla - cố tư nghiêm — Categoría Primera A
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_965mkyhk05kwr1g" tvg-name="AA Estudiantes (Río Cuarto) vs Racing Club" tvg-logo="https://static.sportsfeed.pro/football/team/de569a6e3baefad0c13cb9295014364b.png" home-logo="https://static.sportsfeed.pro/football/team/de569a6e3baefad0c13cb9295014364b.png" away-logo="https://static.sportsfeed.pro/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png" group-title="Gà Vàng TV" start-time="1791160200",AA Estudiantes (Río Cuarto) vs Racing Club - KAYTI — Argentine Division 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -192,16 +182,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3MTQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NjY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmN1aWVlNjRyZmJueGM1MmQzcHF1ZTh0aQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_m2q15izoyg2fe76" tvg-name="Puerto Rico vs Quần đảo Cayman" tvg-logo="https://img.gvapi.cc/football/team/80ce4326387c091af8b8647f3292c818.png!w80" home-logo="https://img.gvapi.cc/football/team/80ce4326387c091af8b8647f3292c818.png!w80" away-logo="https://img.gvapi.cc/football/team/f6bbfd2ff6735cc0c673ddf4e39aa3dd.png!w80" group-title="Cola TV" start-time="1791151200",Puerto Rico vs Quần đảo Cayman - BLV MOUNTAIN DEW — Liên minh bóng đá quốc gia châu Mỹ
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_g6763i5gzwxuo7r" tvg-name="Trinidad & Tobago vs Curacao" tvg-logo="https://img.gvapi.cc/football/team/edb8dfb5b878d0e33c4a86488ad8eb6a.png!w80" home-logo="https://img.gvapi.cc/football/team/edb8dfb5b878d0e33c4a86488ad8eb6a.png!w80" away-logo="https://img.gvapi.cc/football/team/31fd3b7fb312954c8a781d31f83166b7.png!w80" group-title="Cola TV" start-time="1791151200",Trinidad & Tobago vs Curacao - BLV BÍ ĐAO — Liên minh bóng đá quốc gia châu Mỹ
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_zrkn6i4jymlcwql" tvg-name="Aruba vs Anguilla" tvg-logo="https://img.gvapi.cc/football/team/cff843c1f724a378bd0ae42d842ef807.png!w80" home-logo="https://img.gvapi.cc/football/team/cff843c1f724a378bd0ae42d842ef807.png!w80" away-logo="https://img.gvapi.cc/football/team/b87a20a2b24f9944084890d1a136a22f.png!w80" group-title="Cola TV" start-time="1791154800",Aruba vs Anguilla - BLV SAMURAI — Liên minh bóng đá quốc gia châu Mỹ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -211,3 +191,8 @@ https://live05.meung.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o17pjio5wp1iy7j" tvg-name="Costa Rica vs Haiti" tvg-logo="https://img.gvapi.cc/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png!w80" home-logo="https://img.gvapi.cc/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png!w80" away-logo="https://img.gvapi.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80" group-title="Cola TV" start-time="1791158400",Costa Rica vs Haiti - BLV SPRITE — Liên minh bóng đá quốc gia châu Mỹ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
