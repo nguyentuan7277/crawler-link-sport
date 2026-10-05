@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 12:00:12 05/10/2026
+## Cập nhật lúc: 12:20:08 05/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1640422_chuoinho" tvg-name="Ulaanbaatar vs Ulaangom City" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_93a5577b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_93a5577b.png" away-logo="https://media.api-sports.io/football/teams/26667.png" group-title="Chuối TV" start-time="1791176400",Ulaanbaatar vs Ulaangom City - Chuối Nhỏ [HD1] — Ngoại Hạng Mông Cổ
+#EXTINF:-1 tvg-id="cctv_1640422_chuoinho" tvg-name="Ulaanbaatar vs Ulaangom City" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_93a5577b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_93a5577b.png" away-logo="https://media.api-sports.io/football/teams/26667.png" group-title="Chuối TV" start-time="1791176400",Ulaanbaatar vs Ulaangom City - Chuối Nhỏ [FHD] — Ngoại Hạng Mông Cổ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1643812_chuoitay" tvg-name="Ecuador vs Panama" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_07ec8953.png" group-title="Chuối TV" start-time="1791181800",Ecuador vs Panama - Chuối Tây [FHD] — Kirin Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -175,3 +175,13 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3MTQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnZ
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NjY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmN1aWVlNjRyZmJueGM1MmQzcHF1ZTh0aQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19609871" tvg-name="St. Louis City vs LA Galaxy" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/st-louis-city-267299" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/st-louis-city-267299" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/la-galaxy-413" group-title="BiaomTV" start-time="1791759600",St. Louis City vs LA Galaxy - TEST SPORT STREAM  — Giải nhà nghề Mỹ
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk2MDk4NzE6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnludm1hOWt1cGhvcnZ1cTMya3N5YXpqaw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ndkzysnplw6tx73" tvg-name="Mobis Phoebus vs KCC Egis" tvg-logo="https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" home-logo="https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" away-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Cola TV" start-time="1791176400",Mobis Phoebus vs KCC Egis - BLV ROCKSTAR — Giải bóng rổ nam Hàn Quốc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
