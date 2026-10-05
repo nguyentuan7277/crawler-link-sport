@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 12:20:08 05/10/2026
+## Cập nhật lúc: 12:40:09 05/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1640422_chuoinho" tvg-name="Ulaanbaatar vs Ulaangom City" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_93a5577b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_93a5577b.png" away-logo="https://media.api-sports.io/football/teams/26667.png" group-title="Chuối TV" start-time="1791176400",Ulaanbaatar vs Ulaangom City - Chuối Nhỏ [FHD] — Ngoại Hạng Mông Cổ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -115,6 +115,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_pxwrxlhyd60eryk" tvg-name="FC Ulaanbaatar vs Ulaangom City" tvg-logo="https://static.sportsfeed.pro/football/team/0c7d6546c9204e45c17bc2d9d05f7a4b.png" home-logo="https://static.sportsfeed.pro/football/team/0c7d6546c9204e45c17bc2d9d05f7a4b.png" away-logo="https://static.sportsfeed.pro/football/team/869f9d5a3552f86ffbe7eed9c0e09d79.png" group-title="Gà Vàng TV" start-time="1791176400",FC Ulaanbaatar vs Ulaangom City - SÚP LƠ — Mongolia Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_zp5rzgh3y58gq82" tvg-name="Ecuador vs Panama" tvg-logo="https://img.thesports.com/football/team/10c94f16a2db4872b22d66aa3949bdc0.png" home-logo="https://img.thesports.com/football/team/10c94f16a2db4872b22d66aa3949bdc0.png" away-logo="https://img.thesports.com/football/team/ec01e78e2d9d42d2905f744a38957295.png" group-title="Gà Vàng TV" start-time="1791181800",Ecuador vs Panama - GIàng A Dân — Japanese Kirin Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
