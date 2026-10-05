@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 13:40:09 05/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1640422_chuoinho" tvg-name="Ulaanbaatar vs Ulaangom City" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_93a5577b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_93a5577b.png" away-logo="https://media.api-sports.io/football/teams/26667.png" group-title="Chuối TV" start-time="1791176400",Ulaanbaatar vs Ulaangom City - Chuối Nhỏ [FHD] — Ngoại Hạng Mông Cổ
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 14:00:15 05/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1643812_chuoitay" tvg-name="Ecuador vs Panama" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_07ec8953.png" group-title="Chuối TV" start-time="1791181800",Ecuador vs Panama - Chuối Tây [FHD] — Kirin Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -116,10 +110,10 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_pxwrxlhyd60eryk" tvg-name="FC Ulaanbaatar vs Ulaangom City" tvg-logo="https://static.sportsfeed.pro/football/team/0c7d6546c9204e45c17bc2d9d05f7a4b.png" home-logo="https://static.sportsfeed.pro/football/team/0c7d6546c9204e45c17bc2d9d05f7a4b.png" away-logo="https://static.sportsfeed.pro/football/team/869f9d5a3552f86ffbe7eed9c0e09d79.png" group-title="Gà Vàng TV" start-time="1791176400",FC Ulaanbaatar vs Ulaangom City - SÚP LƠ — Mongolia Premier League
+#EXTINF:-1 tvg-id="gavang_zp5rzgh3y58gq82" tvg-name="Ecuador vs Panama" tvg-logo="https://img.thesports.com/football/team/10c94f16a2db4872b22d66aa3949bdc0.png" home-logo="https://img.thesports.com/football/team/10c94f16a2db4872b22d66aa3949bdc0.png" away-logo="https://img.thesports.com/football/team/ec01e78e2d9d42d2905f744a38957295.png" group-title="Gà Vàng TV" start-time="1791181800",Ecuador vs Panama - GIàng A Dân — Japanese Kirin Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_3glrw7hndxgpqdy" tvg-name="Hunters FC vs Amtat FC" tvg-logo="https://static.sportsfeed.pro/football/team/e8082f36740ea4295a8bc67e28741933.png" home-logo="https://static.sportsfeed.pro/football/team/e8082f36740ea4295a8bc67e28741933.png" away-logo="https://static.sportsfeed.pro/football/team/a812559c6be7a54bd172038ff1ccebec.png" group-title="Gà Vàng TV" start-time="1791187200",Hunters FC vs Amtat FC - MeoMeo — Mongolia Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -185,11 +179,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NjY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmN
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2MDk4NzE6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnludm1hOWt1cGhvcnZ1cTMya3N5YXpqaw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_ndkzysnplw6tx73" tvg-name="Mobis Phoebus vs KCC Egis" tvg-logo="https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" home-logo="https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" away-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Cola TV" start-time="1791176400",Mobis Phoebus vs KCC Egis - BLV ROCKSTAR — Giải bóng rổ nam Hàn Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_69759irwl2gagk2" tvg-name="Ecuador vs Panama" tvg-logo="https://img.gvapi.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80" home-logo="https://img.gvapi.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80" away-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80" group-title="Cola TV" start-time="1791181800",Ecuador vs Panama - BLV MOUNTAIN DEW — Cốc kỳ lân
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
