@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 14:20:07 06/10/2026
+## Cập nhật lúc: 14:40:11 06/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1636359_angao" tvg-name="Lam Dong vs Song Lam Nghe An" tvg-logo="https://media.api-sports.io/football/teams/28215.png" home-logo="https://media.api-sports.io/football/teams/28215.png" away-logo="https://media.chuoichientv.net/media/20250817_040514_e14149ab.png" group-title="Chuối TV" start-time="1791275400",Lam Dong vs Song Lam Nghe An - Chuối Ngao [FHD] — Cúp Quốc Gia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -110,6 +110,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_1l4rjnh9vgwnm7v" tvg-name="Changchun Xidu vs Guangzhou Dandelion Alpha FC" tvg-logo="https://static.sportsfeed.pro/football/team/0011800200177bdd6d5197b2bd13e8d9.png" home-logo="https://static.sportsfeed.pro/football/team/0011800200177bdd6d5197b2bd13e8d9.png" away-logo="https://static.sportsfeed.pro/football/team/29fce88e5b84b08285533b664cc1ddb9.png" group-title="Gà Vàng TV" start-time="1791270000",Changchun Xidu vs Guangzhou Dandelion Alpha FC - RIO — Chinese Football League 2
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_jw2r09hk8384rz8" tvg-name="BIT FC vs Chengdu Rongcheng B" tvg-logo="https://static.sportsfeed.pro/football/team/3f0164c40c878bc710d0e7f83c6f5d71.png" home-logo="https://static.sportsfeed.pro/football/team/3f0164c40c878bc710d0e7f83c6f5d71.png" away-logo="https://static.sportsfeed.pro/football/team/0c14283bd746445f4b048c5e8f57be74.png" group-title="Gà Vàng TV" start-time="1791271800",BIT FC vs Chengdu Rongcheng B - A Long — Chinese Football League 2
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -184,3 +189,18 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3MTI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOm8
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_xvkjoi8616rc879" tvg-name="Beijing Technology vs Chengdu Rongcheng B" tvg-logo="https://img.gvapi.cc/football/team/3f0164c40c878bc710d0e7f83c6f5d71.png!w80" home-logo="https://img.gvapi.cc/football/team/3f0164c40c878bc710d0e7f83c6f5d71.png!w80" away-logo="https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80" group-title="Cola TV" start-time="1791271800",Beijing Technology vs Chengdu Rongcheng B - BLV MOUNTAIN DEW — Giải bóng đá Hạng hai Trung Quốc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_m2q15izo6o2fe76" tvg-name="Qingdao Red Lions vs Wuhan Three Towns B" tvg-logo="https://img.gvapi.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80" home-logo="https://img.gvapi.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80" away-logo="https://img.gvapi.cc/football/team/606d1fab6be38fe79da58c380fbcd975.png!w80" group-title="Cola TV" start-time="1791271800",Qingdao Red Lions vs Wuhan Three Towns B - BLV 247 — Giải bóng đá Hạng hai Trung Quốc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o07dni5j4lpbmkn" tvg-name="Thượng Hải Saigenda vs Yichun Grand Tiger" tvg-logo="https://img.gvapi.cc/football/team/1cd1f47b6c94e8f7f222f09ac29e9873.png!w80" home-logo="https://img.gvapi.cc/football/team/1cd1f47b6c94e8f7f222f09ac29e9873.png!w80" away-logo="https://img.gvapi.cc/football/team/971baf2cd794e40faa9d10a176a86170.png!w80" group-title="Cola TV" start-time="1791271800",Thượng Hải Saigenda vs Yichun Grand Tiger - BLV C2 — Giải bóng đá Hạng hai Trung Quốc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
