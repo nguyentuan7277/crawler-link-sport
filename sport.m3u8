@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:00:10 06/10/2026
+## Cập nhật lúc: 18:20:09 06/10/2026
 
 #EXTINF:-1 tvg-id="cctv_995186_camry" tvg-name="Novak Djokovic vs Alex de Minaur" tvg-logo="https://media.chuoichientv.net/media/20261006_001557_ebe51e99.webp" home-logo="https://media.chuoichientv.net/media/20261006_001557_ebe51e99.webp" away-logo="https://media.chuoichientv.net/media/20261006_001558_fb3670e1.webp" group-title="Chuối TV" start-time="1791284400",Novak Djokovic vs Alex de Minaur - Camry [HD1] — Chung Kết  ATP Bejing China
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -8,11 +8,11 @@
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/camry/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1636361_chuoitay" tvg-name="Trường Tươi Đồng Nai vs Đồng Tháp" tvg-logo="https://media.chuoichientv.net/media/20251121_155919_59876ece.png" home-logo="https://media.chuoichientv.net/media/20251121_155919_59876ece.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_f9a41cc0.png" group-title="Chuối TV" start-time="1791284400",Trường Tươi Đồng Nai vs Đồng Tháp - Chuối Tây [HD1] — Cúp Quốc Gia
+#EXTINF:-1 tvg-id="cctv_1636361_chuoitay" tvg-name="Trường Tươi Đồng Nai vs Đồng Tháp" tvg-logo="https://media.chuoichientv.net/media/20251121_155919_59876ece.png" home-logo="https://media.chuoichientv.net/media/20251121_155919_59876ece.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_f9a41cc0.png" group-title="Chuối TV" start-time="1791284400",Trường Tươi Đồng Nai vs Đồng Tháp - Chuối Tây [FHD] — Cúp Quốc Gia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1641761_chuoinho" tvg-name="Algeria U20 vs Egypt U20" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134341_0114e58c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134341_0114e58c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134341_5916abfa.png" group-title="Chuối TV" start-time="1791291600",Algeria U20 vs Egypt U20 - Chuối Nhỏ [FHD] — Africa Cup of Nations U20
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -219,10 +219,25 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI5MTA6b3QwY3BrdGJkcmZjNWFnbm1nN2pkZHRyOm5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cola_wv78xivopgvuokr" tvg-name="Bình Phước vs Đồng Tháp" tvg-logo="https://img.gvapi.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80" home-logo="https://img.gvapi.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80" away-logo="https://img.gvapi.cc/football/team/aaf7ff777567dba636caf52a05a45c31.png!w80" group-title="Cola TV" start-time="1791284400",Bình Phước vs Đồng Tháp - BLV MONSTER — Cúp Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="cola_jek33i88zzwc9ko" tvg-name="Changchun Yatai vs Diên Biên Hải Lan Giang" tvg-logo="https://img.gvapi.cc/football/team/aa8cfda1c890f28a3a62fff6f1c6f6a0.png!w80" home-logo="https://img.gvapi.cc/football/team/aa8cfda1c890f28a3a62fff6f1c6f6a0.png!w80" away-logo="https://img.gvapi.cc/football/team/588b1053c1a8f3c518e8b1f15f30a61a.png!w80" group-title="Cola TV" start-time="1791284400",Changchun Yatai vs Diên Biên Hải Lan Giang - BLV C2 — Giải bóng đá Hạng nhất Trung Quốc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jr7owipgg36agq0" tvg-name="Hàn Quốc vs Uzbekistan" tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" home-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" away-logo="https://img.gvapi.cc/football/team/effa571bc3ca24dd7d1f2513bf849a52.png!w80" group-title="Cola TV" start-time="1791284400",Hàn Quốc vs Uzbekistan - BLV REVIVE — Giao hữu Quốc tế
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_527r3i48e5nc47e" tvg-name="PVF CAND vs Huế" tvg-logo="https://img.gvapi.cc/football/team/16b802abec41440eb4996fc68f16125b.png!w80" home-logo="https://img.gvapi.cc/football/team/16b802abec41440eb4996fc68f16125b.png!w80" away-logo="https://img.gvapi.cc/football/team/d183acf4e1500de34a9bb72ff77f2ecc.jpg!w80" group-title="Cola TV" start-time="1791284400",PVF CAND vs Huế - BLV PEPSI — Cúp Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_63kv9iggyyecx7e" tvg-name="Wuxi Wugou vs Suzhou Dongwu" tvg-logo="https://img.gvapi.cc/football/team/509b91468e833ffe3fd9edd04f06ddee.png!w80" home-logo="https://img.gvapi.cc/football/team/509b91468e833ffe3fd9edd04f06ddee.png!w80" away-logo="https://img.gvapi.cc/football/team/bb318757b867c541d704d93053aa1bfb.png!w80" group-title="Cola TV" start-time="1791284400",Wuxi Wugou vs Suzhou Dongwu - BLV AQUA — Giải bóng đá Hạng nhất Trung Quốc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
