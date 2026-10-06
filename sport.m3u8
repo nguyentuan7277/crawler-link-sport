@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 07:20:10 06/10/2026
+## Cập nhật lúc: 07:40:08 06/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1639997_chuoisay" tvg-name="Guatemala vs Suriname" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132743_25712a70.png" group-title="Chuối TV" start-time="1791244800",Guatemala vs Suriname - Chuối Sấy [FHD] — CONCACAF Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -97,6 +97,39 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1640001_troctru" tvg-name="St. Vincent / Grenadines vs Sint Maarten" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134321_15b7cc5d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134321_15b7cc5d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142806_26be2e07.png" group-title="Chuối TV" start-time="1791320400",St. Vincent / Grenadines vs Sint Maarten - Trốc Tru [FHD] — CONCACAF Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1640517_chuoichao" tvg-name="Argentina vs Benin" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132802_a5a9840e.png" group-title="Chuối TV" start-time="1791327600",Argentina vs Benin - Chuối Chao [FHD] — Giao Hữu Quốc Tế
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1629007_chuoikem" tvg-name="USA vs Canada" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_666d88b2.png" group-title="Chuối TV" start-time="1791331200",USA vs Canada - Chuối Kem [FHD] — Giao Hữu Quốc Tế
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09hk8zj4rz8" tvg-name="Guatemala vs Suriname" tvg-logo="https://img.thesports.com/football/team/a1d4643376bf11b37c51f5c76fcaff79.png" home-logo="https://img.thesports.com/football/team/a1d4643376bf11b37c51f5c76fcaff79.png" away-logo="https://img.thesports.com/football/team/d8775b779c58b408703f4e16b9feb26f.png" group-title="Gà Vàng TV" start-time="1791244800",Guatemala vs Suriname - MáN NúI — CONCACAF Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4jwq2ghnje2pm0v" tvg-name="Medellin Independiente vs Independiente Santa Fe" tvg-logo="https://static.sportsfeed.pro/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png" home-logo="https://static.sportsfeed.pro/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png" away-logo="https://static.sportsfeed.pro/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png" group-title="Gà Vàng TV" start-time="1791244800",Medellin Independiente vs Independiente Santa Fe - A Long — Categoría Primera A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_23xmvkh6l960qg8" tvg-name="CA Banfield vs CA Rosario Central" tvg-logo="https://static.sportsfeed.pro/football/team/e142922645466d58b5ad3a27570b5ac5.png" home-logo="https://static.sportsfeed.pro/football/team/e142922645466d58b5ad3a27570b5ac5.png" away-logo="https://static.sportsfeed.pro/football/team/925e9365900b159acf4493eb401fdc18.png" group-title="Gà Vàng TV" start-time="1791245700",CA Banfield vs CA Rosario Central - cố tư nghiêm — Argentine Division 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_x7lm7phxg8oym2w" tvg-name="Australia U23 vs Korea U23" tvg-logo="https://img.thesports.com/football/team/2d8fe42de2f833581faa077f788329fa.png" home-logo="https://img.thesports.com/football/team/2d8fe42de2f833581faa077f788329fa.png" away-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png" group-title="Gà Vàng TV" start-time="1791252000",Australia U23 vs Korea U23 - KAYTI — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
