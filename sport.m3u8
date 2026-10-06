@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 21:00:19 06/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1638604_angao" tvg-name="India vs Uruguay" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132807_4c096ae9.png" group-title="Chuối TV" start-time="1791295200",India vs Uruguay - Chuối Ngao [HD1] — Giao Hữu Quốc Tế
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1528951_troctru" tvg-name="Kazakhstan vs Faroe Islands" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_66f3bf83.png" group-title="Chuối TV" start-time="1791295200",Kazakhstan vs Faroe Islands - Trốc Tru [HD1] — UEFA Nations League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 21:20:14 06/10/2026
 
 #EXTINF:-1 tvg-id="cctv_995186_camry" tvg-name="Novak Djokovic vs Alex de Minaur" tvg-logo="https://media.chuoichientv.net/media/20261006_001557_ebe51e99.webp" home-logo="https://media.chuoichientv.net/media/20261006_001557_ebe51e99.webp" away-logo="https://media.chuoichientv.net/media/20261006_001558_fb3670e1.webp" group-title="Chuối TV" start-time="1791284400",Novak Djokovic vs Alex de Minaur - Camry [FHD] — Chung Kết  ATP Bejing China
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +13,18 @@ https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8|Referer=https://live.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1638604_angao" tvg-name="India vs Uruguay" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132807_4c096ae9.png" group-title="Chuối TV" start-time="1791295200",India vs Uruguay - Chuối Ngao [FHD] — Giao Hữu Quốc Tế
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1528951_troctru" tvg-name="Kazakhstan vs Faroe Islands" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_66f3bf83.png" group-title="Chuối TV" start-time="1791295200",Kazakhstan vs Faroe Islands - Trốc Tru [FHD] — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1640080_chuoikem" tvg-name="Russia vs Nigeria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134248_61eedfe7.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134248_61eedfe7.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132756_2c39a333.png" group-title="Chuối TV" start-time="1791302400",Russia vs Nigeria - Chuối Kem [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -182,6 +182,11 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI5MTA6b3QwY3BrdGJkcmZjNWFnbm1nN2pkZHRyOm5
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ndkz6i3zvvwtxq3" tvg-name="Moldova U21 vs Kazakhstan U21" tvg-logo="https://img.gvapi.cc/football/team/3f13cf4ddf6fc50c0d39a1d5aeb57dd8.png!w80" home-logo="https://img.gvapi.cc/football/team/3f13cf4ddf6fc50c0d39a1d5aeb57dd8.png!w80" away-logo="https://img.gvapi.cc/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80" group-title="Cola TV" start-time="1791295200",Moldova U21 vs Kazakhstan U21 - BLV AQUA — Euro U21
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_j374oi04xxpsgqo" tvg-name="ĐTQG Kazakhstan vs Quần đảo Faroe" tvg-logo="https://img.gvapi.cc/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80" home-logo="https://img.gvapi.cc/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80" away-logo="https://img.gvapi.cc/football/team/90c34175923a36ab7a5de4b981c1972f.png!w80" group-title="Cola TV" start-time="1791295200",ĐTQG Kazakhstan vs Quần đảo Faroe - BLV GIÀ LÀNG — Giải vô địch bóng đá các quốc gia châu Âu
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
