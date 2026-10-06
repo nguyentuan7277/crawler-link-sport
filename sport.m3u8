@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 12:40:07 06/10/2026
+## Cập nhật lúc: 13:00:09 06/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1636359_angao" tvg-name="Lam Dong vs Song Lam Nghe An" tvg-logo="https://media.api-sports.io/football/teams/28215.png" home-logo="https://media.api-sports.io/football/teams/28215.png" away-logo="https://media.chuoichientv.net/media/20250817_040514_e14149ab.png" group-title="Chuối TV" start-time="1791275400",Lam Dong vs Song Lam Nghe An - Chuối Ngao [FHD] — Cúp Quốc Gia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -124,6 +124,11 @@ https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y39mp1h67o2nmoj" tvg-name="Hubei Istar vs Lanzhou Longyuan Athletics" tvg-logo="https://static.sportsfeed.pro/football/team/8eb7e4751d142783aec8a44b1ecaa922.png" home-logo="https://static.sportsfeed.pro/football/team/8eb7e4751d142783aec8a44b1ecaa922.png" away-logo="https://static.sportsfeed.pro/football/team/1db2d340a2b1a902f2da9293c71d2ea0.png" group-title="Gà Vàng TV" start-time="1791277200",Hubei Istar vs Lanzhou Longyuan Athletics - MeoMeo — Chinese Football League 2
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19794873" tvg-name="PVF-CAND vs Huế" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pvfcand-235487" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pvfcand-235487" away-logo="" group-title="BiaomTV" start-time="1791284400",PVF-CAND vs Huế - ASAHI — Cúp Quốc Gia Việt Nam
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
