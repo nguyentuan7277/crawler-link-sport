@@ -1,12 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:20:11 06/10/2026
+## Cập nhật lúc: 15:40:10 06/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1636359_angao" tvg-name="Lam Dong vs Song Lam Nghe An" tvg-logo="https://media.api-sports.io/football/teams/28215.png" home-logo="https://media.api-sports.io/football/teams/28215.png" away-logo="https://media.chuoichientv.net/media/20250817_040514_e14149ab.png" group-title="Chuối TV" start-time="1791275400",Lam Dong vs Song Lam Nghe An - Chuối Ngao [HD1] — Cúp Quốc Gia
+#EXTINF:-1 tvg-id="cctv_1636359_angao" tvg-name="Lam Dong vs Song Lam Nghe An" tvg-logo="https://media.api-sports.io/football/teams/28215.png" home-logo="https://media.api-sports.io/football/teams/28215.png" away-logo="https://media.chuoichientv.net/media/20250817_040514_e14149ab.png" group-title="Chuối TV" start-time="1791275400",Lam Dong vs Song Lam Nghe An - Chuối Ngao [FHD] — Cúp Quốc Gia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_995186_camry" tvg-name="Novak Djokovic vs Alex de Minaur" tvg-logo="https://media.chuoichientv.net/media/20261006_001557_ebe51e99.webp" home-logo="https://media.chuoichientv.net/media/20261006_001557_ebe51e99.webp" away-logo="https://media.chuoichientv.net/media/20261006_001558_fb3670e1.webp" group-title="Chuối TV" start-time="1791284400",Novak Djokovic vs Alex de Minaur - Camry [FHD] — Chung Kết  ATP Bejing China
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1636360_chuoitay" tvg-name="PVF-CAND vs Bóng đá Huế" tvg-logo="https://media.chuoichientv.net/media/20250817_040457_e299eb36.png" home-logo="https://media.chuoichientv.net/media/20250817_040457_e299eb36.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_135805_7670cc2d.png" group-title="Chuối TV" start-time="1791284400",PVF-CAND vs Bóng đá Huế - Chuối Tây [FHD] — Cúp Quốc Gia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -120,11 +126,6 @@ https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_vjxm8ghey475r6o" tvg-name="Lam Dong vs Song Lam Nghe An" tvg-logo="https://static.sportsfeed.pro/football/team/775fb8eca2172951b0f3d904cabfd337.png" home-logo="https://static.sportsfeed.pro/football/team/775fb8eca2172951b0f3d904cabfd337.png" away-logo="https://static.sportsfeed.pro/football/team/7f95b001711ce3978d498602e1d2c9fd.png" group-title="Gà Vàng TV" start-time="1791275400",Lam Dong vs Song Lam Nghe An - MáN NúI — Vietnam National Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_y39mp1h67o2nmoj" tvg-name="Hubei Istar vs Lanzhou Longyuan Athletics" tvg-logo="https://static.sportsfeed.pro/football/team/8eb7e4751d142783aec8a44b1ecaa922.png" home-logo="https://static.sportsfeed.pro/football/team/8eb7e4751d142783aec8a44b1ecaa922.png" away-logo="https://static.sportsfeed.pro/football/team/1db2d340a2b1a902f2da9293c71d2ea0.png" group-title="Gà Vàng TV" start-time="1791277200",Hubei Istar vs Lanzhou Longyuan Athletics - MeoMeo — Chinese Football League 2
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -159,6 +160,26 @@ https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y39mp1h6622lmoj" tvg-name="Dingnan United vs Meizhou Hakka FC" tvg-logo="https://static.sportsfeed.pro/football/team/b34589daf40274c74efdf970f5f41672.png" home-logo="https://static.sportsfeed.pro/football/team/b34589daf40274c74efdf970f5f41672.png" away-logo="https://static.sportsfeed.pro/football/team/195ea54483b74f03a1019847eed4a9e1.png" group-title="Gà Vàng TV" start-time="1791286200",Dingnan United vs Meizhou Hakka FC - KAYTI — Chinese Football League 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyhkk66dr1g" tvg-name="Nantong Zhiyun FC vs Shanghai Jiading Huilong" tvg-logo="https://static.sportsfeed.pro/football/team/a82e2bf321557e0dd1ab0c09df718a53.png" home-logo="https://static.sportsfeed.pro/football/team/a82e2bf321557e0dd1ab0c09df718a53.png" away-logo="https://static.sportsfeed.pro/football/team/f012f96bb1da6709ed63ccb10e6ed829.png" group-title="Gà Vàng TV" start-time="1791286200",Nantong Zhiyun FC vs Shanghai Jiading Huilong - cố tư nghiêm — Chinese Football League 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_k82rekhgg777rep" tvg-name="Shijiazhuang Gongfu vs Dalian K'un City" tvg-logo="https://static.sportsfeed.pro/football/team/0408f34aeb9005f8f65c4c2e80478235.png" home-logo="https://static.sportsfeed.pro/football/team/0408f34aeb9005f8f65c4c2e80478235.png" away-logo="https://static.sportsfeed.pro/football/team/f18777d99ff4bb84e077d3030e26cfcc.png" group-title="Gà Vàng TV" start-time="1791286200",Shijiazhuang Gongfu vs Dalian K'un City - MeoMeo — Chinese Football League 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y39mp1h6xlk4moj" tvg-name="China vs Tajikistan" tvg-logo="https://img.thesports.com/football/team/445ef89e5620a875f7c2eaddd033e39d.png" home-logo="https://img.thesports.com/football/team/445ef89e5620a875f7c2eaddd033e39d.png" away-logo="https://img.thesports.com/football/team/79d0360cd882c01f1ac008b3bb85feb3.png" group-title="Gà Vàng TV" start-time="1791286500",China vs Tajikistan - SÚP LƠ — CFA Team China International Tournament
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19794873" tvg-name="PVF-CAND vs Huế" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pvfcand-235487" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pvfcand-235487" away-logo="" group-title="BiaomTV" start-time="1791284400",PVF-CAND vs Huế - ASAHI — Cúp Quốc Gia Việt Nam
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -229,3 +250,8 @@ https://live05.meung.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ndkz6i35zvnaxq3" tvg-name="Lam Dong vs Sông Lam Nghệ An" tvg-logo="https://img.gvapi.cc/football/team/775fb8eca2172951b0f3d904cabfd337.png!w80" home-logo="https://img.gvapi.cc/football/team/775fb8eca2172951b0f3d904cabfd337.png!w80" away-logo="https://img.gvapi.cc/football/team/7f95b001711ce3978d498602e1d2c9fd.png!w80" group-title="Cola TV" start-time="1791275400",Lam Dong vs Sông Lam Nghệ An - BLV GIÀ LÀNG — Cúp Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/14830711_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
