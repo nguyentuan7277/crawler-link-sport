@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 08:20:07 07/10/2026
+## Cập nhật lúc: 08:40:10 07/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1640517_chuoichao" tvg-name="Argentina vs Benin" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132802_a5a9840e.png" group-title="Chuối TV" start-time="1791327600",Argentina vs Benin - Chuối Chao [FHD] — Giao Hữu Quốc Tế
+#EXTINF:-1 tvg-id="cctv_993162_chuoichao" tvg-name="Argentina vs Benin" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132802_a5a9840e.png" group-title="Chuối TV" start-time="1791327600",Argentina vs Benin - Chuối Chao [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
@@ -97,11 +97,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_y39mp1hdvwjymoj" tvg-name="Argentina vs Benin" tvg-logo="https://img.thesports.com/football/team/ef7329946e1741b9ade4fedbf739158a.png" home-logo="https://img.thesports.com/football/team/ef7329946e1741b9ade4fedbf739158a.png" away-logo="https://img.thesports.com/football/team/77983cf4f308d34fe7865a10a25ae39d.png" group-title="Gà Vàng TV" start-time="1791329400",Argentina vs Benin - A Long — International Friendly
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_318q66h8z2vkqo9" tvg-name="Colombia vs Peru" tvg-logo="https://img.thesports.com/football/team/ef2635db12914681ae86ece2d97bd6c2.png" home-logo="https://img.thesports.com/football/team/ef2635db12914681ae86ece2d97bd6c2.png" away-logo="https://img.thesports.com/football/team/77da2f07ed6c94afa27b5f113bea7ebe.png" group-title="Gà Vàng TV" start-time="1791330300",Colombia vs Peru - MeoMeo — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
