@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:00:20 07/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1635580_angao" tvg-name="FC Tokyo vs Shonan Bellmare" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_1f072485.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_1f072485.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132409_a2a3aa19.png" group-title="Chuối TV" start-time="1791367200",FC Tokyo vs Shonan Bellmare - Chuối Ngao [HD1] — Cup Bóng Đá Nhật
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 17:20:10 07/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1635591_chuoichao" tvg-name="Urawa vs Omiya Ardija" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131431_dcdeb466.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131431_dcdeb466.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132419_8fe883a0.png" group-title="Chuối TV" start-time="1791363600",Urawa vs Omiya Ardija - Chuối Chao [FHD] — Cup Bóng Đá Nhật
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -14,17 +8,17 @@ https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://liv
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1635579_chuoitay" tvg-name="Cerezo Osaka vs Kagoshima United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132411_05a7d523.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132411_05a7d523.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132422_b0811ae5.png" group-title="Chuối TV" start-time="1791365400",Cerezo Osaka vs Kagoshima United - Chuối Tây [FHD] — Cup Bóng Đá Nhật
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cctv_1635589_chuoitay" tvg-name="Sanfrecce Hiroshima vs Iwaki" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132408_a8809b85.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132408_a8809b85.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132430_b1ec8ce9.png" group-title="Chuối TV" start-time="1791365400",Sanfrecce Hiroshima vs Iwaki - Chuối Tây [FHD] — Cup Bóng Đá Nhật
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1635580_angao" tvg-name="FC Tokyo vs Shonan Bellmare" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_1f072485.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_1f072485.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132409_a2a3aa19.png" group-title="Chuối TV" start-time="1791367200",FC Tokyo vs Shonan Bellmare - Chuối Ngao [FHD] — Cup Bóng Đá Nhật
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1551229_chuoila" tvg-name="Buriram United vs Pusamania Borneo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131733_ebcabb99.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131733_ebcabb99.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_2456a9ca.png" group-title="Chuối TV" start-time="1791374400",Buriram United vs Pusamania Borneo - Chuối Lá [FHD] — ASEAN Club Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -91,11 +85,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_dn1m1ghl6x14moe" tvg-name="Sanfrecce Hiroshima vs Iwaki FC" tvg-logo="https://static.sportsfeed.pro/football/team/c81d5ff7a33a4f6a9312a8703f619352.png" home-logo="https://static.sportsfeed.pro/football/team/c81d5ff7a33a4f6a9312a8703f619352.png" away-logo="https://static.sportsfeed.pro/football/team/fe52c67f0590ffcce6879aebfd39f165.png" group-title="Gà Vàng TV" start-time="1791365400",Sanfrecce Hiroshima vs Iwaki FC - cố tư nghiêm — Japanese Emperor's Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_318q66hxx559qo9" tvg-name="Shenzhen Juniors vs Guangdong GZ-Power" tvg-logo="https://static.sportsfeed.pro/football/team/a08ac642f929244efa8a75289ec5d75a.png" home-logo="https://static.sportsfeed.pro/football/team/a08ac642f929244efa8a75289ec5d75a.png" away-logo="https://static.sportsfeed.pro/football/team/8c08e09f2c1d5628cf599b883fe999bf.png" group-title="Gà Vàng TV" start-time="1791370800",Shenzhen Juniors vs Guangdong GZ-Power - Cá MậP — Chinese Football League 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -130,16 +119,6 @@ https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MTY0Njg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onlpa3JpaTZ2MTljcWVuZHM4NjJoMm93dg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19716463" tvg-name="FC Tokyo vs Shonan Bellmare" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-tokyo-2988" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-tokyo-2988" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shonan-bellmare-2453" group-title="BiaomTV" start-time="1791367200",FC Tokyo vs Shonan Bellmare - Vịt Nướng — Cúp Hoàng Đế Nhật Bản
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MTY0NjM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm5kNmw4dmdxZWFlbHcxc2x6bm8yd2draA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19716469" tvg-name="Yokohama F. Marinos vs Kyoto Sangyo University" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yokohama-f-marinos-2756" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yokohama-f-marinos-2756" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyoto-sangyo-university-63135" group-title="BiaomTV" start-time="1791367200",Yokohama F. Marinos vs Kyoto Sangyo University - TÔM CHIÊN — Cúp Hoàng Đế Nhật Bản
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MTY0Njk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmVxMm5rdWVoZXkwaXU0YXM5NGl3bnM0dw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19720479" tvg-name="Buriram United vs Borneo" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borneo-3157" group-title="BiaomTV" start-time="1791374400",Buriram United vs Borneo - NEM NƯỚNG  — ASEAN Club Championship
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
