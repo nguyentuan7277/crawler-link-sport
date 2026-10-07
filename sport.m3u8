@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:00:14 07/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1551230_chuoikem" tvg-name="Kuching FA vs Tampines Rovers" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133857_ce6dbf10.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133857_ce6dbf10.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png" group-title="Chuối TV" start-time="1791378000",Kuching FA vs Tampines Rovers - Chuối Kem [HD2] — ASEAN Club Championship
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 20:20:22 07/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1551229_chuoila" tvg-name="Buriram United vs Pusamania Borneo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131733_ebcabb99.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131733_ebcabb99.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_2456a9ca.png" group-title="Chuối TV" start-time="1791374400",Buriram United vs Pusamania Borneo - Chuối Lá [FHD] — ASEAN Club Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +13,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1551230_chuoikem" tvg-name="Kuching FA vs Tampines Rovers" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133857_ce6dbf10.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133857_ce6dbf10.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png" group-title="Chuối TV" start-time="1791378000",Kuching FA vs Tampines Rovers - Chuối Kem [FHD] — ASEAN Club Championship
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1516149_chuoila" tvg-name="Neftchi vs Xorazm" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131730_66336252.png" group-title="Chuối TV" start-time="1791381600",Neftchi vs Xorazm - Chuối Lá [FHD] — VĐQG Uzbekistan
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -82,6 +82,11 @@ https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_1l4rjnh9pv8zm7v" tvg-name="Kuching City FC vs Tampines Rovers FC" tvg-logo="https://static.sportsfeed.pro/football/team/81f5727743f8759ae7a99b8d7f2557e3.png" home-logo="https://static.sportsfeed.pro/football/team/81f5727743f8759ae7a99b8d7f2557e3.png" away-logo="https://static.sportsfeed.pro/football/team/23dc72567ad2999491dfe56b50f7df62.png" group-title="Gà Vàng TV" start-time="1791378000",Kuching City FC vs Tampines Rovers FC - SÚP LƠ — Asean Club Championship Shopee Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_4jwq2ghgo0zxm0v" tvg-name="Asyut Petroleum vs Al Ahly FC" tvg-logo="https://static.sportsfeed.pro/football/team/8ae657d992b70843447d0e50108cbf37.png" home-logo="https://static.sportsfeed.pro/football/team/8ae657d992b70843447d0e50108cbf37.png" away-logo="https://static.sportsfeed.pro/football/team/e40a14044c93d0e5e2f9d558aa1640fa.png" group-title="Gà Vàng TV" start-time="1791381600",Asyut Petroleum vs Al Ahly FC - GIàng A Dân — Egypt League Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -122,11 +127,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzgyNTI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzI5MTA6b3QwY3BrdGJkcmZjNWFnbm1nN2pkZHRyOm5zanRmY21ua3hscHBubmlxdms1bnVzcg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_j374oi00jj2igqo" tvg-name="Thanh niên Thâm Quyến vs Quảng Châu E-Power FC" tvg-logo="https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80" home-logo="https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80" away-logo="https://img.gvapi.cc/football/team/8c08e09f2c1d5628cf599b883fe999bf.png!w80" group-title="Cola TV" start-time="1791370800",Thanh niên Thâm Quyến vs Quảng Châu E-Power FC - BLV HỔ VẰN — Giải bóng đá Hạng nhất Trung Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_ezk96i338v0f1kn" tvg-name="Dongguan Guanlian vs Câu lạc bộ bóng đá Quảng Tây Hengchen" tvg-logo="https://img.gvapi.cc/football/team/2612e942c2ee9018e485e756b48fbcc8.png!w80" home-logo="https://img.gvapi.cc/football/team/2612e942c2ee9018e485e756b48fbcc8.png!w80" away-logo="https://img.gvapi.cc/football/team/7543134c669d639c3ff036bc215a3b62.png!w80" group-title="Cola TV" start-time="1791372600",Dongguan Guanlian vs Câu lạc bộ bóng đá Quảng Tây Hengchen - BLV SODA — Giải bóng đá Hạng nhất Trung Quốc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -142,7 +142,7 @@ https://live05.meung.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_8lk2dirpej5iz73" tvg-name="Kuching City FC vs CLB Tampines" tvg-logo="https://img.gvapi.cc/football/team/81f5727743f8759ae7a99b8d7f2557e3.png!w80" home-logo="https://img.gvapi.cc/football/team/81f5727743f8759ae7a99b8d7f2557e3.png!w80" away-logo="https://img.gvapi.cc/football/team/23dc72567ad2999491dfe56b50f7df62.png!w80" group-title="Cola TV" start-time="1791378000",Kuching City FC vs CLB Tampines — Asean Club Championship Shopee Cup
+#EXTINF:-1 tvg-id="cola_8lk2dirpej5iz73" tvg-name="Kuching City FC vs CLB Tampines" tvg-logo="https://img.gvapi.cc/football/team/81f5727743f8759ae7a99b8d7f2557e3.png!w80" home-logo="https://img.gvapi.cc/football/team/81f5727743f8759ae7a99b8d7f2557e3.png!w80" away-logo="https://img.gvapi.cc/football/team/23dc72567ad2999491dfe56b50f7df62.png!w80" group-title="Cola TV" start-time="1791378000",Kuching City FC vs CLB Tampines - BLV HỔ VẰN — Asean Club Championship Shopee Cup
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live1.dyrur1.com/live/72597050_37b5780797dfe24df29f8d3166911517_h1080p.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/07428422_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
