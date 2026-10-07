@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 02:20:05 08/10/2026
+## Cập nhật lúc: 02:40:07 08/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1492395_troctru" tvg-name="Internacional vs Corinthians" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125535_ec3a86e6.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125535_ec3a86e6.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_cd0ff28f.png" group-title="Chuối TV" start-time="1791412200",Internacional vs Corinthians - Trốc Tru [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +25,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_6ypq3nhv705nmd7" tvg-name="Remo Belem vs Gremio" tvg-logo="https://static.sportsfeed.pro/football/team/fb9a4cf4290646122b3afe17bd914737.png" home-logo="https://static.sportsfeed.pro/football/team/fb9a4cf4290646122b3afe17bd914737.png" away-logo="https://static.sportsfeed.pro/football/team/e1f593199d4ee1d98b2db8a9522b605f.png" group-title="Gà Vàng TV" start-time="1791412200",Remo Belem vs Gremio - A Long — Brazilian Serie A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19872910" tvg-name="Thể Công-Viettel vs Hồng Lĩnh Hà Tĩnh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hong-linh-ha-tinh-12296" group-title="BiaomTV" start-time="1791461700",Thể Công-Viettel vs Hồng Lĩnh Hà Tĩnh - Vịt Nướng — VĐQG Việt Nam
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
