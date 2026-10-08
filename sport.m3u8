@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:00:12 08/10/2026
+## Cập nhật lúc: 16:20:08 08/10/2026
 
 #EXTINF:-1 tvg-id="cctv_992978_chuoichao" tvg-name="Hồ Chí Minh City W vs TKS Việt Nam Nữ" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_150323_715237fc.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_150323_715237fc.png" away-logo="https://media.chuoichientv.net/media/20251007_195940_68fd6f5c.png" group-title="Chuối TV" start-time="1791450000",Hồ Chí Minh City W vs TKS Việt Nam Nữ - Chuối Chao [HD1] — Vô địch Quốc gia Nữ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -106,6 +106,11 @@ https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_dj2ryohl8477q1z" tvg-name="Viettel vs Hong Linh Ha Tinh" tvg-logo="https://static.sportsfeed.pro/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png" home-logo="https://static.sportsfeed.pro/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png" away-logo="https://static.sportsfeed.pro/football/team/83dd94c5ca68e8f9a3980f036afcb511.png" group-title="Gà Vàng TV" start-time="1791461700",Viettel vs Hong Linh Ha Tinh - Lữ Bố.vip — Vietnam National Champion League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19720474" tvg-name="Lion City Sailors FC vs Công an Hà Nội" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lion-city-sailors-fc-8007" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lion-city-sailors-fc-8007" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="BiaomTV" start-time="1791459000",Lion City Sailors FC vs Công an Hà Nội - Lẩu Ếch — ASEAN Club Championship
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -150,3 +155,8 @@ https://live05.meung.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_j374oi0ynl6sgqo" tvg-name="Phong Phú Hà Nam Nữ vs Hà Nội Nữ" tvg-logo="https://img.gvapi.cc/football/team/2ee0214c45e742b6ae9a1107593918d5.png!w80" home-logo="https://img.gvapi.cc/football/team/2ee0214c45e742b6ae9a1107593918d5.png!w80" away-logo="https://img.gvapi.cc/football/team/b196a9a7e627dc15cfa96268035c454e.png!w80" group-title="Cola TV" start-time="1791450000",Phong Phú Hà Nam Nữ vs Hà Nội Nữ - BLV GIÀ LÀNG — Women's National League
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/14830711_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
