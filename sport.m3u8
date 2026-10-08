@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 02:40:09 09/10/2026
+## Cập nhật lúc: 03:00:20 09/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1565207_troctru" tvg-name="CFR Cluj vs Universitatea Cluj" tvg-logo="https://media.chuoichientv.net/media/20260722_214708_c16acfba.png" home-logo="https://media.chuoichientv.net/media/20260722_214708_c16acfba.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133915_9fee4393.png" group-title="Chuối TV" start-time="1791480600",CFR Cluj vs Universitatea Cluj - Trốc Tru [FHD] — VĐQG Roma
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -41,6 +41,11 @@ https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09hk6lxwrz8" tvg-name="Athletico Paranaense vs Atlético Mineiro - MG" tvg-logo="https://static.sportsfeed.pro/football/team/1b54e9fdbe9c936023c55299da4165b7.png" home-logo="https://static.sportsfeed.pro/football/team/1b54e9fdbe9c936023c55299da4165b7.png" away-logo="https://static.sportsfeed.pro/football/team/079e86cebd6511ce807cc6073a3e26ee.png" group-title="Gà Vàng TV" start-time="1791500400",Athletico Paranaense vs Atlético Mineiro - MG - MáN NúI — Brazilian Serie A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19813518" tvg-name="Persik Kediri vs Madura United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persik-kediri-7162" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persik-kediri-7162" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/madura-united-7188" group-title="BiaomTV" start-time="1791534600",Persik Kediri vs Madura United - ASAHI — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
