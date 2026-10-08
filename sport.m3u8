@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:00:06 09/10/2026
+## Cập nhật lúc: 05:20:07 09/10/2026
+
+#EXTINF:-1 tvg-id="cctv_1492398_chuoitay" tvg-name="Santos vs Flamengo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_af573eed.png" group-title="Chuối TV" start-time="1791498600",Santos vs Flamengo - Chuối Tây [HD1] — VĐQG Brazil
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1549505_troctru" tvg-name="Atletico Grau vs Cultural Santa Rosa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133902_e9e0b736.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133902_e9e0b736.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133902_6231933f.png" group-title="Chuối TV" start-time="1791491400",Atletico Grau vs Cultural Santa Rosa - Trốc Tru [FHD] — VĐQG Peru
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1492398_chuoitay" tvg-name="Santos vs Flamengo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_af573eed.png" group-title="Chuối TV" start-time="1791498600",Santos vs Flamengo - Chuối Tây [FHD] — VĐQG Brazil
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1492394_chuoisay" tvg-name="Fluminense vs Coritiba" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png" group-title="Chuối TV" start-time="1791505800",Fluminense vs Coritiba - Chuối Sấy [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -55,6 +55,11 @@ https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l5ergph46w1jr8k" tvg-name="Fortaleza vs Millonarios" tvg-logo="https://static.sportsfeed.pro/football/team/5a721f997fe18b1c151116a96b1b4ea8.png" home-logo="https://static.sportsfeed.pro/football/team/5a721f997fe18b1c151116a96b1b4ea8.png" away-logo="https://static.sportsfeed.pro/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png" group-title="Gà Vàng TV" start-time="1791508200",Fortaleza vs Millonarios - SiêU QuậY — Categoría Primera A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19813518" tvg-name="Persik Kediri vs Madura United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persik-kediri-7162" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persik-kediri-7162" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/madura-united-7188" group-title="BiaomTV" start-time="1791534600",Persik Kediri vs Madura United - ASAHI — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
