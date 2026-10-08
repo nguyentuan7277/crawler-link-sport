@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:40:08 09/10/2026
+## Cập nhật lúc: 06:00:07 09/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1492398_chuoitay" tvg-name="Santos vs Flamengo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_af573eed.png" group-title="Chuối TV" start-time="1791498600",Santos vs Flamengo - Chuối Tây [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -21,11 +21,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_dn1m1ghld30emoe" tvg-name="Atletico Grau vs Los Chankas" tvg-logo="https://static.sportsfeed.pro/football/team/6a6cce9aa801c9ba65832a685dd144b7.png" home-logo="https://static.sportsfeed.pro/football/team/6a6cce9aa801c9ba65832a685dd144b7.png" away-logo="https://static.sportsfeed.pro/football/team/8677ea6ab6a6dcd8ac9a1c3b86c66bd7.png" group-title="Gà Vàng TV" start-time="1791491400",Atletico Grau vs Los Chankas - MáN NúI — Peruvian Liga 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_jw2r09hk6lxwrz8" tvg-name="Athletico Paranaense vs Atlético Mineiro - MG" tvg-logo="https://static.sportsfeed.pro/football/team/1b54e9fdbe9c936023c55299da4165b7.png" home-logo="https://static.sportsfeed.pro/football/team/1b54e9fdbe9c936023c55299da4165b7.png" away-logo="https://static.sportsfeed.pro/football/team/079e86cebd6511ce807cc6073a3e26ee.png" group-title="Gà Vàng TV" start-time="1791500400",Athletico Paranaense vs Atlético Mineiro - MG - MáN NúI — Brazilian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -139,3 +134,13 @@ https://live05.meung.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_xvkjoi8z9olb879" tvg-name="Athletico-PR vs CLB Atletico Mineiro" tvg-logo="https://img.gvapi.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80" home-logo="https://img.gvapi.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80" away-logo="https://img.gvapi.cc/football/team/079e86cebd6511ce807cc6073a3e26ee.png!w80" group-title="Cola TV" start-time="1791500400",Athletico-PR vs CLB Atletico Mineiro - BLV FANTA — Giải bóng đá Hạng nhất Brasil
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/16226575_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_9gkl6s62gr4umkx" tvg-name="Cleveland Cavaliers vs Đội bóng rổ Boston Celtics" tvg-logo="https://img.gvapi.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80" home-logo="https://img.gvapi.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80" away-logo="https://img.gvapi.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80" group-title="Cola TV" start-time="1791500400",Cleveland Cavaliers vs Đội bóng rổ Boston Celtics - BLV Cozy — Hiệp hội Bóng rổ Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
