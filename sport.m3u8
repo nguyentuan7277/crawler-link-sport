@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 03:20:09 09/10/2026
+## Cập nhật lúc: 03:40:08 09/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1549505_troctru" tvg-name="Atletico Grau vs Cultural Santa Rosa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133902_e9e0b736.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133902_e9e0b736.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133902_6231933f.png" group-title="Chuối TV" start-time="1791491400",Atletico Grau vs Cultural Santa Rosa - Trốc Tru [HD1] — VĐQG Peru
+#EXTINF:-1 tvg-id="cctv_1549505_troctru" tvg-name="Atletico Grau vs Cultural Santa Rosa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133902_e9e0b736.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133902_e9e0b736.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133902_6231933f.png" group-title="Chuối TV" start-time="1791491400",Atletico Grau vs Cultural Santa Rosa - Trốc Tru [FHD] — VĐQG Peru
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1492398_chuoitay" tvg-name="Santos vs Flamengo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_af573eed.png" group-title="Chuối TV" start-time="1791498600",Santos vs Flamengo - Chuối Tây [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,11 +25,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_dn1m1ghld30emoe" tvg-name="Atletico Grau vs Los Chankas" tvg-logo="https://static.sportsfeed.pro/football/team/6a6cce9aa801c9ba65832a685dd144b7.png" home-logo="https://static.sportsfeed.pro/football/team/6a6cce9aa801c9ba65832a685dd144b7.png" away-logo="https://static.sportsfeed.pro/football/team/8677ea6ab6a6dcd8ac9a1c3b86c66bd7.png" group-title="Gà Vàng TV" start-time="1791491400",Atletico Grau vs Los Chankas - MáN NúI — Peruvian Liga 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_n54qllhnp28oqvy" tvg-name="Santos vs CR Flamengo" tvg-logo="https://static.sportsfeed.pro/football/team/0840bace9b911b3f0dbadb710ea20316.png" home-logo="https://static.sportsfeed.pro/football/team/0840bace9b911b3f0dbadb710ea20316.png" away-logo="https://static.sportsfeed.pro/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png" group-title="Gà Vàng TV" start-time="1791498600",Santos vs CR Flamengo - A Long — Brazilian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
