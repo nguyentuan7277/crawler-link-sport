@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:20:07 09/10/2026
+## Cập nhật lúc: 01:40:07 09/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1638103_chuoila" tvg-name="KuPS vs AC Oulu" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_7659ea88.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_7659ea88.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131802_a142868b.png" group-title="Chuối TV" start-time="1791475200",KuPS vs AC Oulu - Chuối Lá [FHD] — VĐQG Phần Lan
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -43,6 +43,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyh8l9y3r1g" tvg-name="Khorfakkan vs Al-Wasl SC" tvg-logo="https://static.sportsfeed.pro/football/team/e1113e780b7ceaee329d95bedc2de575.png" home-logo="https://static.sportsfeed.pro/football/team/e1113e780b7ceaee329d95bedc2de575.png" away-logo="https://static.sportsfeed.pro/football/team/17b767b98695df2fb512e992dd8a7af4.png" group-title="Gà Vàng TV" start-time="1791474300",Khorfakkan vs Al-Wasl SC - RIO — United Arab Emirates ADIB Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_dj2ryoh7vdepq1z" tvg-name="Ghazl El Mahallah vs Abu Qir Semad" tvg-logo="https://static.sportsfeed.pro/football/team/dcd5567e877fde74ca81cb1bb46c8de0.png" home-logo="https://static.sportsfeed.pro/football/team/dcd5567e877fde74ca81cb1bb46c8de0.png" away-logo="https://static.sportsfeed.pro/football/team/abc619ec1945b54ceeaa2e9716fe2963.png" group-title="Gà Vàng TV" start-time="1791478800",Ghazl El Mahallah vs Abu Qir Semad - Lữ Bố.vip — Egypt League Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
