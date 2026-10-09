@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:20:15 09/10/2026
+## Cập nhật lúc: 23:40:21 09/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1576191_chuoichao" tvg-name="1. FC Heidenheim vs 1. FC Kaiserslautern" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_c28b2547.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_c28b2547.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130304_70e5752c.png" group-title="Chuối TV" start-time="1791563400",1. FC Heidenheim vs 1. FC Kaiserslautern - Chuối Chao [HD2] — Bundesliga 2
+#EXTINF:-1 tvg-id="cctv_1576191_chuoichao" tvg-name="1. FC Heidenheim vs 1. FC Kaiserslautern" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_c28b2547.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_c28b2547.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130304_70e5752c.png" group-title="Chuối TV" start-time="1791563400",1. FC Heidenheim vs 1. FC Kaiserslautern - Chuối Chao [HD1] — Bundesliga 2
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1576189_chuoinho" tvg-name="Eintracht Braunschweig vs Holstein Kiel" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_c6ba388a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_c6ba388a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125559_6c094200.png" group-title="Chuối TV" start-time="1791563400",Eintracht Braunschweig vs Holstein Kiel - Chuối Nhỏ [HD1] — Bundesliga 2
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -251,3 +251,18 @@ https://live05.meung.app/live/14707124_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/02456966_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ndkz6i301mnuxq3" tvg-name="Braunschweig vs CLB Holstein Kiel" tvg-logo="https://img.gvapi.cc/football/team/0a38b45c20a019398526a4944553f8e6.png!w80" home-logo="https://img.gvapi.cc/football/team/0a38b45c20a019398526a4944553f8e6.png!w80" away-logo="https://img.gvapi.cc/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png!w80" group-title="Cola TV" start-time="1791563400",Braunschweig vs CLB Holstein Kiel - BLV AQUA — Giải bóng đá Hạng hai Đức
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_vrqwni4jloyf4qn" tvg-name="Heidenheimer vs CLB Kaiserslautern" tvg-logo="https://img.gvapi.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80" home-logo="https://img.gvapi.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80" away-logo="https://img.gvapi.cc/football/team/6544eff3f60d98faf65649c8bf1c81eb.png!w80" group-title="Cola TV" start-time="1791563400",Heidenheimer vs CLB Kaiserslautern - BLV MONSTER — Giải bóng đá Hạng hai Đức
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jek33i8w900i9ko" tvg-name="Rostov vs Akron Togliatti" tvg-logo="https://img.gvapi.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" home-logo="https://img.gvapi.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" away-logo="https://img.gvapi.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80" group-title="Cola TV" start-time="1791563400",Rostov vs Akron Togliatti - BLV SPRITE — Giải Bóng đá Ngoại hạng Nga
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
