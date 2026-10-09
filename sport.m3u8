@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:20:19 10/10/2026
+## Cập nhật lúc: 01:40:17 10/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1575176_angao" tvg-name="Borussia Dortmund vs Werder Bremen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125554_076ca6ba.png" group-title="Chuối TV" start-time="1791570600",Borussia Dortmund vs Werder Bremen - Chuối Ngao [HD1] — Bundesliga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -8,29 +8,17 @@
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1576191_chuoichao" tvg-name="1. FC Heidenheim vs 1. FC Kaiserslautern" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_c28b2547.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_c28b2547.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130304_70e5752c.png" group-title="Chuối TV" start-time="1791563400",1. FC Heidenheim vs 1. FC Kaiserslautern - Chuối Chao [FHD] — Bundesliga 2
+#EXTINF:-1 tvg-id="cctv_1552775_chuoinho" tvg-name="Lens vs Lyon" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_51812477.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_51812477.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" group-title="Chuối TV" start-time="1791571500",Lens vs Lyon - Chuối Nhỏ [HD1] — Ligue 1
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1576189_chuoinho" tvg-name="Eintracht Braunschweig vs Holstein Kiel" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_c6ba388a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_c6ba388a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125559_6c094200.png" group-title="Chuối TV" start-time="1791563400",Eintracht Braunschweig vs Holstein Kiel - Chuối Nhỏ [FHD] — Bundesliga 2
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1603042_chuoila" tvg-name="Al-Nassr vs Al Diriyah" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png" away-logo="https://media.api-sports.io/football/teams/26738.png" group-title="Chuối TV" start-time="1791568800",Al-Nassr vs Al Diriyah - Chuối Lá [FHD] — Saudi Pro League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1552775_chuoinho" tvg-name="Lens vs Lyon" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_51812477.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_51812477.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" group-title="Chuối TV" start-time="1791571500",Lens vs Lyon - Chuối Nhỏ [FHD] — Ligue 1
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1570408_troctru" tvg-name="Malaga vs Espanyol" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_6033b66c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_6033b66c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125624_d0355588.png" group-title="Chuối TV" start-time="1791572400",Malaga vs Espanyol - Trốc Tru [FHD] — La Liga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -56,20 +44,95 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_vjxm8ghe69v5r6o" tvg-name="Eintracht Braunschweig vs Holstein Kiel" tvg-logo="https://static.sportsfeed.pro/football/team/0a38b45c20a019398526a4944553f8e6.png" home-logo="https://static.sportsfeed.pro/football/team/0a38b45c20a019398526a4944553f8e6.png" away-logo="https://static.sportsfeed.pro/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png" group-title="Gà Vàng TV" start-time="1791563400",Eintracht Braunschweig vs Holstein Kiel - NGƯỜI KIẾN — German Bundesliga 2
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1634970_chuoinho" tvg-name="Long An FC vs Than Quang Ninh" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_3ef2d96e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_3ef2d96e.png" away-logo="https://media.api-sports.io/football/teams/3679.png" group-title="Chuối TV" start-time="1791622800",Long An FC vs Than Quang Ninh - Chuối Nhỏ [FHD] — V.League 2
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_ednm9whw4zyyryo" tvg-name="FK Rostov vs Akron Togliatti" tvg-logo="https://static.sportsfeed.pro/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" home-logo="https://static.sportsfeed.pro/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" away-logo="https://static.sportsfeed.pro/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png" group-title="Gà Vàng TV" start-time="1791563400",FK Rostov vs Akron Togliatti - RIO — Russian Premier League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1633902_angao" tvg-name="Hoang Anh Gia Lai vs Da Nang" tvg-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png" home-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png" group-title="Chuối TV" start-time="1791626400",Hoang Anh Gia Lai vs Da Nang - Chuối Ngao [FHD] — V.League 1
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_y39mp1h6np32moj" tvg-name="Heidenheim vs Kaiserslautern" tvg-logo="https://static.sportsfeed.pro/football/team/65ee743f20fa7db286fdeda4d33c6980.png" home-logo="https://static.sportsfeed.pro/football/team/65ee743f20fa7db286fdeda4d33c6980.png" away-logo="https://static.sportsfeed.pro/football/team/6544eff3f60d98faf65649c8bf1c81eb.png" group-title="Gà Vàng TV" start-time="1791563400",Heidenheim vs Kaiserslautern - SAITAMA — German Bundesliga 2
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1633903_chuoichao" tvg-name="Hai Phong vs Thanh Hóa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_2fa85175.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_2fa85175.png" away-logo="https://media.chuoichientv.net/media/20250817_040540_cdc05b23.png" group-title="Chuối TV" start-time="1791630000",Hai Phong vs Thanh Hóa - Chuối Chao [FHD] — V.League 1
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1633904_chuoisay" tvg-name="Nam Dinh vs Ninh Bình FC" tvg-logo="https://media.chuoichientv.net/media/20251204_035149_f918db1e.png" home-logo="https://media.chuoichientv.net/media/20251204_035149_f918db1e.png" away-logo="https://media.chuoichientv.net/media/20250912_195620_46ee0fc6.png" group-title="Chuối TV" start-time="1791630000",Nam Dinh vs Ninh Bình FC - Chuối Sấy [FHD] — V.League 1
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1557417_chuoila" tvg-name="Arsenal vs Leeds" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130851_9f58f9f7.png" group-title="Chuối TV" start-time="1791631800",Arsenal vs Leeds - Chuối Lá [FHD] — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1557417_troctru" tvg-name="Arsenal vs Leeds" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130851_9f58f9f7.png" group-title="Chuối TV" start-time="1791631800",Arsenal vs Leeds - Trốc Tru [FHD] — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1575180_chuoikem" tvg-name="FC Augsburg vs Bayern München" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125556_af369dcc.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125556_af369dcc.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png" group-title="Chuối TV" start-time="1791639000",FC Augsburg vs Bayern München - Chuối Kem [FHD] — Bundesliga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1557418_angao" tvg-name="Aston Villa vs Brentford" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125551_69278a74.png" group-title="Chuối TV" start-time="1791640800",Aston Villa vs Brentford - Chuối Ngao [FHD] — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1557419_chuoisay" tvg-name="Chelsea vs Bournemouth" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125549_a4353df0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125549_a4353df0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_e668d998.png" group-title="Chuối TV" start-time="1791640800",Chelsea vs Bournemouth - Chuối Sấy [FHD] — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1570403_chuoila" tvg-name="Alaves vs Atletico Madrid" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_7a707dd9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_7a707dd9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png" group-title="Chuối TV" start-time="1791641700",Alaves vs Atletico Madrid - Chuối Lá [FHD] — La Liga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1550141_chuoikem" tvg-name="Inter vs Parma" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125605_14c915ad.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125605_14c915ad.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_8a506f33.png" group-title="Chuối TV" start-time="1791648000",Inter vs Parma - Chuối Kem [FHD] — Serie A
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1570404_chuoichao" tvg-name="Barcelona vs Getafe" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_e2044734.png" group-title="Chuối TV" start-time="1791649800",Barcelona vs Getafe - Chuối Chao [FHD] — La Liga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1557425_chuoinho" tvg-name="Manchester United vs Tottenham" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_6dff7e1a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_6dff7e1a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125548_a24442be.png" group-title="Chuối TV" start-time="1791649800",Manchester United vs Tottenham - Chuối Nhỏ [FHD] — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1557425_troctru" tvg-name="Manchester United vs Tottenham" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_6dff7e1a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_6dff7e1a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125548_a24442be.png" group-title="Chuối TV" start-time="1791649800",Manchester United vs Tottenham - Trốc Tru [FHD] — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1550144_chuoitay" tvg-name="Napoli vs Frosinone" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_1ca3923a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_1ca3923a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133427_2c58ddc2.png" group-title="Chuối TV" start-time="1791657900",Napoli vs Frosinone - Chuối Tây [FHD] — Serie A
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l5ergph4lenzr8k" tvg-name="Brann vs Viking" tvg-logo="https://static.sportsfeed.pro/football/team/448b88beb6cdaf0accf126b280b177d9.png" home-logo="https://static.sportsfeed.pro/football/team/448b88beb6cdaf0accf126b280b177d9.png" away-logo="https://static.sportsfeed.pro/football/team/2fa0840e0cb77fd66f104fa932302a72.png" group-title="Gà Vàng TV" start-time="1791565200",Brann vs Viking - A Long — Norwegian Eliteserien
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -130,16 +193,6 @@ https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19735442" tvg-name="Eintracht Braunschweig vs Holstein Kiel" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/eintracht-braunschweig-3565" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/eintracht-braunschweig-3565" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/holstein-kiel-3611" group-title="BiaomTV" start-time="1791563400",Eintracht Braunschweig vs Holstein Kiel - TÔM CHIÊN — Hạng Hai Đức
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MzU0NDI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmV2MHRkdmwyNnpidXF2amp1eWo2d3loeQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19735448" tvg-name="Heidenheim vs Kaiserslautern" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/heidenheim-2831" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/heidenheim-2831" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kaiserslautern-1638" group-title="BiaomTV" start-time="1791563400",Heidenheim vs Kaiserslautern - TRÚC BẠCH — Hạng Hai Đức
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MzU0NDg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnZpNDZ3ZDdqcHBqZTgzaG1pZnR2MWxydg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19746594" tvg-name="Galatasaray vs Kasımpaşa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kasmpasa-1071" group-title="BiaomTV" start-time="1791565200",Galatasaray vs Kasımpaşa - Vịt Nướng — VĐQG Thổ Nhĩ Kỳ
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -261,21 +314,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NjQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NjQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJtZ3dpYjAyMGgweGhxOGlkZ3Zwem50YQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_ndkz6i301mnuxq3" tvg-name="Braunschweig vs CLB Holstein Kiel" tvg-logo="https://img.gvapi.cc/football/team/0a38b45c20a019398526a4944553f8e6.png!w80" home-logo="https://img.gvapi.cc/football/team/0a38b45c20a019398526a4944553f8e6.png!w80" away-logo="https://img.gvapi.cc/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png!w80" group-title="Cola TV" start-time="1791563400",Braunschweig vs CLB Holstein Kiel - BLV AQUA — Giải bóng đá Hạng hai Đức
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_vrqwni4jloyf4qn" tvg-name="Heidenheimer vs CLB Kaiserslautern" tvg-logo="https://img.gvapi.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80" home-logo="https://img.gvapi.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80" away-logo="https://img.gvapi.cc/football/team/6544eff3f60d98faf65649c8bf1c81eb.png!w80" group-title="Cola TV" start-time="1791563400",Heidenheimer vs CLB Kaiserslautern - BLV MONSTER — Giải bóng đá Hạng hai Đức
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_jek33i8w900i9ko" tvg-name="Rostov vs Akron Togliatti" tvg-logo="https://img.gvapi.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" home-logo="https://img.gvapi.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" away-logo="https://img.gvapi.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80" group-title="Cola TV" start-time="1791563400",Rostov vs Akron Togliatti - BLV SPRITE — Giải Bóng đá Ngoại hạng Nga
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_69759igpymlagk2" tvg-name="CLB Al Sadd vs Al Arabi" tvg-logo="https://img.gvapi.cc/football/team/5c794bfbf3227563c85323bb624721ec.png!w80" home-logo="https://img.gvapi.cc/football/team/5c794bfbf3227563c85323bb624721ec.png!w80" away-logo="https://img.gvapi.cc/football/team/00bb4a98ec1224af879bd139519ce3b7.png!w80" group-title="Cola TV" start-time="1791565200",CLB Al Sadd vs Al Arabi - BLV MOUNTAIN DEW — Giải vô địch quốc gia Qatar
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -300,3 +338,8 @@ https://live05.meung.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/78905744_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_l6kegi85y8mhv75" tvg-name="Borussia Dortmund vs SV Werder Bremen" tvg-logo="https://img.gvapi.cc/football/team/bbfacbdbe67705172c6414d7e9c21b58.png!w80" home-logo="https://img.gvapi.cc/football/team/bbfacbdbe67705172c6414d7e9c21b58.png!w80" away-logo="https://img.gvapi.cc/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png!w80" group-title="Cola TV" start-time="1791570600",Borussia Dortmund vs SV Werder Bremen - BLV REVIVE — Giải bóng đá vô địch quốc gia Đức
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
