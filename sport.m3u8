@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 12:40:11 09/10/2026
+## Cập nhật lúc: 13:00:19 09/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1507076_chuoisay" tvg-name="Daejeon Citizen vs Jeonbuk Motors" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133954_6190ac3c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133954_6190ac3c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133955_c8eda616.png" group-title="Chuối TV" start-time="1791522000",Daejeon Citizen vs Jeonbuk Motors - Chuối Sấy [FHD] — K League 1
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -116,6 +116,16 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_y39mp1h6z5dwmoj" tvg-name="Daejeon Citizen vs Jeonbuk Hyundai Motors" tvg-logo="https://static.sportsfeed.pro/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png" home-logo="https://static.sportsfeed.pro/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png" away-logo="https://static.sportsfeed.pro/football/team/ee2117f952745163fecfa4b74a6a2bea.png" group-title="Gà Vàng TV" start-time="1791522000",Daejeon Citizen vs Jeonbuk Hyundai Motors - MeoMeo — Korean K League 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09hk2xonrz8" tvg-name="Suwon FC vs Hwaseong FC" tvg-logo="https://static.sportsfeed.pro/football/team/1865239eb652f9778782fef6ee1a071c.png" home-logo="https://static.sportsfeed.pro/football/team/1865239eb652f9778782fef6ee1a071c.png" away-logo="https://static.sportsfeed.pro/football/team/6c587a70c78a298fc1ef874985de79e9.png" group-title="Gà Vàng TV" start-time="1791522000",Suwon FC vs Hwaseong FC - Cá MậP — Korean K League 2
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_dn1m1ghl2elomoe" tvg-name="Gangwon FC vs Bucheon FC 1995" tvg-logo="https://static.sportsfeed.pro/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" home-logo="https://static.sportsfeed.pro/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" away-logo="https://static.sportsfeed.pro/football/team/640f8c62cb294e1cc308a44ed2a62891.png" group-title="Gà Vàng TV" start-time="1791531000",Gangwon FC vs Bucheon FC 1995 - SAITAMA — Korean K League 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -135,6 +145,11 @@ https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4jwq2ghgokkdm0v" tvg-name="JDT vs Penang" tvg-logo="https://static.sportsfeed.pro/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png" home-logo="https://static.sportsfeed.pro/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png" away-logo="https://static.sportsfeed.pro/football/team/66b3836d1ca52c4aa07cecac8ae89f35.png" group-title="Gà Vàng TV" start-time="1791536400",JDT vs Penang - cố tư nghiêm — Malaysian FA Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19813518" tvg-name="Persik Kediri vs Madura United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persik-kediri-7162" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persik-kediri-7162" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/madura-united-7188" group-title="BiaomTV" start-time="1791534600",Persik Kediri vs Madura United - ASAHI — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
