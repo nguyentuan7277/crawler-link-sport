@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 08:00:09 10/10/2026
+## Cập nhật lúc: 08:20:06 10/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1550984_chuoichao" tvg-name="Puebla vs Leon" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_fbad589d.png" group-title="Chuối TV" start-time="1791594000",Puebla vs Leon - Chuối Chao [HD1] — VĐQG Mexico
+#EXTINF:-1 tvg-id="cctv_1550984_chuoichao" tvg-name="Puebla vs Leon" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_fbad589d.png" group-title="Chuối TV" start-time="1791594000",Puebla vs Leon - Chuối Chao [FHD] — VĐQG Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1549813_chuoitay" tvg-name="Alianza Petrolera vs Rionegro Aguilas" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133537_d8e8dc3e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133537_d8e8dc3e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133538_447f3892.png" group-title="Chuối TV" start-time="1791586800",Alianza Petrolera vs Rionegro Aguilas - Chuối Tây [FHD] — VĐQG Colombia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1550986_chuoikem" tvg-name="Tigres UANL vs Toluca" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133406_3bc30a80.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133406_3bc30a80.png" away-logo="https://media.chuoichientv.net/media/20250921_010707_d23dff4c.png" group-title="Chuối TV" start-time="1791601200",Tigres UANL vs Toluca - Chuối Kem [FHD] — VĐQG Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -128,6 +122,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cctv_1490523_chuoitay" tvg-name="Colorado Rapids vs San Jose Earthquakes" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131600_44f931ad.png" group-title="Chuối TV" start-time="1791682200",Colorado Rapids vs San Jose Earthquakes - Chuối Tây [FHD] — Major League Soccer
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_y0or5jh8dol0qwz" tvg-name="Tigres UANL vs Toluca" tvg-logo="https://static.sportsfeed.pro/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png" home-logo="https://static.sportsfeed.pro/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png" away-logo="https://static.sportsfeed.pro/football/team/725ccd5793be6b4f8dd917170dd17d04.png" group-title="Gà Vàng TV" start-time="1791601200",Tigres UANL vs Toluca - SiêU QuậY — Mexico Liga MX
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -238,7 +238,7 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NjQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_9gkl6s6xprpfmkx" tvg-name="Chicago Bulls vs Memphis Grizzlies" tvg-logo="https://img.gvapi.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" home-logo="https://img.gvapi.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" away-logo="https://img.gvapi.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80" group-title="Cola TV" start-time="1791591000",Chicago Bulls vs Memphis Grizzlies - BLV ROCKSTAR — Hiệp hội Bóng rổ Quốc gia
+#EXTINF:-1 tvg-id="cola_9gkl6s6xprpfmkx" tvg-name="Chicago Bulls vs Memphis Grizzlies" tvg-logo="https://img.gvapi.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" home-logo="https://img.gvapi.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" away-logo="https://img.gvapi.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80" group-title="Cola TV" start-time="1791590400",Chicago Bulls vs Memphis Grizzlies - BLV ROCKSTAR — Hiệp hội Bóng rổ Quốc gia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
