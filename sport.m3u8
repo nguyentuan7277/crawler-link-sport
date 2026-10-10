@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 06:00:09 11/10/2026
+## Cập nhật lúc: 06:20:08 11/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1490513_chuoichao" tvg-name="Inter Miami vs DC United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131609_875a8901.png" group-title="Chuối TV" start-time="1791675000",Inter Miami vs DC United - Chuối Chao [FHD] — Major League Soccer
+#EXTINF:-1 tvg-id="cctv_1490513_chuoichao" tvg-name="Inter Miami vs DC United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131609_875a8901.png" group-title="Chuối TV" start-time="1791675000",Inter Miami vs DC United - Chuối Chao [HD1] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1490523_chuoitay" tvg-name="Colorado Rapids vs San Jose Earthquakes" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131600_44f931ad.png" group-title="Chuối TV" start-time="1791682200",Colorado Rapids vs San Jose Earthquakes - Chuối Tây [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -134,6 +134,11 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1ODQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnE
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NjY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnNxMHNnYmt5bHgxZDZiZTlubDk0cWZ1Yg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_527r3i4xleps47e" tvg-name="Queretaro vs CLB Atlante" tvg-logo="https://img.gvapi.cc/football/team/e93c69c95a943755907a17adf4d7d732.png!w80" home-logo="https://img.gvapi.cc/football/team/e93c69c95a943755907a17adf4d7d732.png!w80" away-logo="https://img.gvapi.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80" group-title="Cola TV" start-time="1791673200",Queretaro vs CLB Atlante - BLV AQUA — Giải Vô địch Bóng đá Quốc gia Mexico
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_zrknxs5y3eniwql" tvg-name="Washington Wizards vs Detroit Pistons" tvg-logo="https://img.gvapi.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" home-logo="https://img.gvapi.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" away-logo="https://img.gvapi.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80" group-title="Cola TV" start-time="1791673200",Washington Wizards vs Detroit Pistons - BLV ROCKSTAR — Hiệp hội Bóng rổ Quốc gia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
