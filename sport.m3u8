@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 10:20:09 10/10/2026
+## Cập nhật lúc: 10:40:09 10/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1550986_chuoikem" tvg-name="Tigres UANL vs Toluca" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133406_3bc30a80.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133406_3bc30a80.png" away-logo="https://media.chuoichientv.net/media/20250921_010707_d23dff4c.png" group-title="Chuối TV" start-time="1791601200",Tigres UANL vs Toluca - Chuối Kem [FHD] — VĐQG Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -127,6 +127,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y0or5jh8dol0qwz" tvg-name="Tigres UANL vs Toluca" tvg-logo="https://static.sportsfeed.pro/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png" home-logo="https://static.sportsfeed.pro/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png" away-logo="https://static.sportsfeed.pro/football/team/725ccd5793be6b4f8dd917170dd17d04.png" group-title="Gà Vàng TV" start-time="1791601200",Tigres UANL vs Toluca - SiêU QuậY — Mexico Liga MX
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_6ypq3nhv3538md7" tvg-name="FC Seoul vs Jeju SK FC" tvg-logo="https://static.sportsfeed.pro/football/team/ad010af729c420626d1865ad744168d3.png" home-logo="https://static.sportsfeed.pro/football/team/ad010af729c420626d1865ad744168d3.png" away-logo="https://static.sportsfeed.pro/football/team/2d2abe914435bb9b7140cf2154c50de9.png" group-title="Gà Vàng TV" start-time="1791608400",FC Seoul vs Jeju SK FC - NGƯỜI KIẾN — Korean K League 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
