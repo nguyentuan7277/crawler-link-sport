@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:20:10 10/10/2026
+## Cập nhật lúc: 17:40:09 10/10/2026
 
 #EXTINF:-1 tvg-id="cctv_992987_chuoitay" tvg-name="Hisamitsu Springs W vs Body Queenseis W" tvg-logo="https://media.chuoichientv.net/media/20251107_144450_2fc776cf.png" home-logo="https://media.chuoichientv.net/media/20251107_144450_2fc776cf.png" away-logo="https://media.chuoichientv.net/media/20251011_220656_88a30ccd.png" group-title="Chuối TV" start-time="1791623100",Hisamitsu Springs W vs Body Queenseis W - Chuối Tây [HD1] — Bóng Chuyền SEA V.LEAGUE
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1634970_chuoinho" tvg-name="Long An FC vs Than Quang Ninh" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_3ef2d96e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_3ef2d96e.png" away-logo="https://media.api-sports.io/football/teams/3679.png" group-title="Chuối TV" start-time="1791622800",Long An FC vs Than Quang Ninh - Chuối Nhỏ [FHD] — V.League 2
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1633902_angao" tvg-name="Hoang Anh Gia Lai vs Da Nang" tvg-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png" home-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png" group-title="Chuối TV" start-time="1791626400",Hoang Anh Gia Lai vs Da Nang - Chuối Ngao [FHD] — V.League 1
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -142,6 +136,26 @@ https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_3glrw7hn5ln2qdy" tvg-name="Augsburg vs Bayern Munich" tvg-logo="https://static.sportsfeed.pro/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png" home-logo="https://static.sportsfeed.pro/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png" away-logo="https://static.sportsfeed.pro/football/team/ef19a84a6745fe57aa786873d2b18e8a.png" group-title="Gà Vàng TV" start-time="1791639000",Augsburg vs Bayern Munich - NGƯỜI KIẾN — Bundesliga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_8yomo4h1o516q0j" tvg-name="Hoffenheim vs Hamburger SV" tvg-logo="https://static.sportsfeed.pro/football/team/72ab7862a610b350aef7650ec0e06e06.png" home-logo="https://static.sportsfeed.pro/football/team/72ab7862a610b350aef7650ec0e06e06.png" away-logo="https://static.sportsfeed.pro/football/team/81f8f9e258e6b73bc522bab06730720a.png" group-title="Gà Vàng TV" start-time="1791639000",Hoffenheim vs Hamburger SV - Cá MậP — Bundesliga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y0or5jh8k08vqwz" tvg-name="Mainz vs Bayer Leverkusen" tvg-logo="https://static.sportsfeed.pro/football/team/903089d338485f6c68fbc5da690a0628.png" home-logo="https://static.sportsfeed.pro/football/team/903089d338485f6c68fbc5da690a0628.png" away-logo="https://static.sportsfeed.pro/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png" group-title="Gà Vàng TV" start-time="1791639000",Mainz vs Bayer Leverkusen - SÚP LƠ — Bundesliga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_k82rekhg4828rep" tvg-name="SC Paderborn 07 vs Stuttgart" tvg-logo="https://static.sportsfeed.pro/football/team/7c8c3c50966c793eba910e18659759a1.png" home-logo="https://static.sportsfeed.pro/football/team/7c8c3c50966c793eba910e18659759a1.png" away-logo="https://static.sportsfeed.pro/football/team/bfdd500484330d63a723cbc396df762c.png" group-title="Gà Vàng TV" start-time="1791639000",SC Paderborn 07 vs Stuttgart - RIO — Bundesliga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19884408" tvg-name="South Melbourne vs Melbourne Victory" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/south-melbourne-1509" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/south-melbourne-1509" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" group-title="BiaomTV" start-time="1791621300",South Melbourne vs Melbourne Victory - ASAHI — Cúp Úc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -242,16 +256,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NjQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NjQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJtZ3dpYjAyMGgweGhxOGlkZ3Zwem50YQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_69759igm93jugk2" tvg-name="Arema Malang vs Bhayangkara Solo" tvg-logo="https://img.gvapi.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80" home-logo="https://img.gvapi.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80" away-logo="https://img.gvapi.cc/football/team/837cf9a178940067578b7343018e003a.png!w80" group-title="Cola TV" start-time="1791621000",Arema Malang vs Bhayangkara Solo - BLV HỔ VẰN — Giải bóng đá Liga 1 Indonesia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_wv784sx9oonhoqr" tvg-name="South East Melbourne vs Melbourne Tigers" tvg-logo="https://img.gvapi.cc/basketball/team/fb957ad093d309e8c337aeb83ebe7857.png!w80" home-logo="https://img.gvapi.cc/basketball/team/fb957ad093d309e8c337aeb83ebe7857.png!w80" away-logo="https://img.gvapi.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80" group-title="Cola TV" start-time="1791621000",South East Melbourne vs Melbourne Tigers - BLV Cozy — Liên đoàn Bóng rổ Quốc gia Úc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_ndkz6i2m9n8bxq3" tvg-name="South Melbourne vs Melbourne Victory" tvg-logo="https://img.gvapi.cc/football/team/3728683390847f335552d077cf0b8752.png!w80" home-logo="https://img.gvapi.cc/football/team/3728683390847f335552d077cf0b8752.png!w80" away-logo="https://img.gvapi.cc/football/team/04230721124ae33d7fb527413b54106f.png!w80" group-title="Cola TV" start-time="1791622200",South Melbourne vs Melbourne Victory - BLV STING — Cúp bóng đá của Hiệp hội Bóng đá Úc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -261,3 +265,8 @@ https://live05.meung.app/live/14707124_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_527rjsw288jh4ke" tvg-name="Perth Wildcats vs New Zealand Breakers" tvg-logo="https://img.gvapi.cc/basketball/team/b967348890e26c5ca68f7d26392f5984.png!w80" home-logo="https://img.gvapi.cc/basketball/team/b967348890e26c5ca68f7d26392f5984.png!w80" away-logo="https://img.gvapi.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80" group-title="Cola TV" start-time="1791628200",Perth Wildcats vs New Zealand Breakers - BLV ROCKSTAR — Liên đoàn Bóng rổ Quốc gia Úc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.meung.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
