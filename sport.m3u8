@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 09:00:16 11/10/2026
+## Cập nhật lúc: 09:20:12 11/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1490523_chuoitay" tvg-name="Colorado Rapids vs San Jose Earthquakes" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131600_44f931ad.png" group-title="Chuối TV" start-time="1791682200",Colorado Rapids vs San Jose Earthquakes - Chuối Tây [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -128,11 +128,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_k82rekhg0vyzrep" tvg-name="Sao Paulo vs Vitoria BA" tvg-logo="https://static.sportsfeed.pro/football/team/31f5171de0e1404fdebcef19cd7cd409.png" home-logo="https://static.sportsfeed.pro/football/team/31f5171de0e1404fdebcef19cd7cd409.png" away-logo="https://static.sportsfeed.pro/football/team/b44aef0db79a96caff676333b2e5ff7b.png" group-title="Gà Vàng TV" start-time="1791676800",Sao Paulo vs Vitoria BA - SiêU QuậY — Brazilian Serie A
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_y0or5jh8w69jqwz" tvg-name="River Plate vs AA Estudiantes (Río Cuarto)" tvg-logo="https://static.sportsfeed.pro/football/team/c7aa5e458bdcad0051f6786ff93c48ed.png" home-logo="https://static.sportsfeed.pro/football/team/c7aa5e458bdcad0051f6786ff93c48ed.png" away-logo="https://static.sportsfeed.pro/football/team/de569a6e3baefad0c13cb9295014364b.png" group-title="Gà Vàng TV" start-time="1791678600",River Plate vs AA Estudiantes (Río Cuarto) - MeoMeo — Argentine Division 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -257,11 +252,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NjY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.meung.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_ndqmliw3xo4trkv" tvg-name="CLB Sao Paulo vs CLB Vitoria BA" tvg-logo="https://img.gvapi.cc/football/team/31f5171de0e1404fdebcef19cd7cd409.png!w80" home-logo="https://img.gvapi.cc/football/team/31f5171de0e1404fdebcef19cd7cd409.png!w80" away-logo="https://img.gvapi.cc/football/team/b44aef0db79a96caff676333b2e5ff7b.png!w80" group-title="Cola TV" start-time="1791676800",CLB Sao Paulo vs CLB Vitoria BA - BLV MONSTER — Giải bóng đá Hạng nhất Brasil
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_34kgps189e3seko" tvg-name="Miami Heat vs Minnesota Timberwolves" tvg-logo="https://img.gvapi.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80" home-logo="https://img.gvapi.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80" away-logo="https://img.gvapi.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80" group-title="Cola TV" start-time="1791676800",Miami Heat vs Minnesota Timberwolves - BLV POCARI — Hiệp hội Bóng rổ Quốc gia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
