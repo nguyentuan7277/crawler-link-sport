@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 06:00:28 12/10/2026
+## Cập nhật lúc: 06:20:10 12/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1549818_chuoitay" tvg-name="Jaguares vs Deportes Tolima" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_50dbb307.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_50dbb307.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133537_5e882eb3.png" group-title="Chuối TV" start-time="1791752700",Jaguares vs Deportes Tolima - Chuối Tây [FHD] — VĐQG Colombia
+#EXTINF:-1 tvg-id="cctv_1490525_chuoisay" tvg-name="St. Louis City vs Los Angeles Galaxy" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131613_7a80410a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131613_7a80410a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_20c3f42a.png" group-title="Chuối TV" start-time="1791759600",St. Louis City vs Los Angeles Galaxy - Chuối Sấy [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1550992_chuoikem" tvg-name="U.N.A.M. - Pumas vs Cruz Azul" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133409_8be40e19.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133409_8be40e19.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133409_6f6ed437.png" group-title="Chuối TV" start-time="1791766800",U.N.A.M. - Pumas vs Cruz Azul - Chuối Kem [FHD] — VĐQG Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -29,6 +29,31 @@ https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="biaom_19867133" tvg-name="Pakhtakor Tashkent vs Al-Qadsiah" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/alqadsiah-13092" group-title="BiaomTV" start-time="1791812700",Pakhtakor Tashkent vs Al-Qadsiah - TRÚC BẠCH — C1 Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjcxMzM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9rcGE4dGhqdWVlOXRvZjl2OW44MXFkbw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19878237" tvg-name="VPS vs Gnistan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vps-1840" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vps-1840" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gnistan-9036" group-title="BiaomTV" start-time="1791817200",VPS vs Gnistan - Vịt Nướng — VĐQG Phần Lan
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NzgyMzc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnl5cmN1YzczdHNhNmIzb21oaWoycmZ5Mg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19867120" tvg-name="Al Wasl vs Al Ahli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-wasl-6931" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-wasl-6931" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ahli-9908" group-title="BiaomTV" start-time="1791820800",Al Wasl vs Al Ahli - NEM NƯỚNG  — C1 Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjcxMjA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnM4bXFsZWhuMjA4NWRremV5c3lsOHh6aA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19867125" tvg-name="Tractor Sazi vs Al Shamal SC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tractor-sazi-3411" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tractor-sazi-3411" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-shamal-sc-2419" group-title="BiaomTV" start-time="1791820800",Tractor Sazi vs Al Shamal SC - TÔM CHIÊN — C1 Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjcxMjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnY3NjMxMXB1dmo5azlhY2p2eTBvNWxqYw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19713567" tvg-name="Atalanta vs Venezia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/venezia-267" group-title="BiaomTV" start-time="1791822600",Atalanta vs Venezia - Lẩu Ếch — VĐQG Ý
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MTM1Njc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng5dzdodm5uY2VzMGxmZ2Ztemp4bzFsZw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="cola_jek33i8d6jzt9ko" tvg-name="Bahia vs CLB Mirassol" tvg-logo="https://img.gvapi.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80" home-logo="https://img.gvapi.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80" away-logo="https://img.gvapi.cc/football/team/b20645448c644b701286477f55b11e24.png!w80" group-title="Cola TV" start-time="1791757800",Bahia vs CLB Mirassol - BLV BÍ ĐAO — Giải bóng đá Hạng nhất Brasil
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -49,7 +74,12 @@ https://live05.zhwpg.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.zhwpg.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_63kv9igrwj8ix7e" tvg-name="Thành phố St. Louis SC vs CLB LA Galaxy" tvg-logo="https://img.gvapi.cc/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png!w80" home-logo="https://img.gvapi.cc/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png!w80" away-logo="https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80" group-title="Cola TV" start-time="1791759600",Thành phố St. Louis SC vs CLB LA Galaxy - BLV MOUNTAIN DEW — Major League Soccer
+#EXTINF:-1 tvg-id="cola_wv78xivzmp8tokr" tvg-name="Pachuca vs Necaxa" tvg-logo="https://img.gvapi.cc/football/team/cff411edceeeb7c1677d9db65ce47164.png!w80" home-logo="https://img.gvapi.cc/football/team/cff411edceeeb7c1677d9db65ce47164.png!w80" away-logo="https://img.gvapi.cc/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png!w80" group-title="Cola TV" start-time="1791760200",Pachuca vs Necaxa - BLV SAMURAI — Giải Vô địch Bóng đá Quốc gia Mexico
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.zhwpg.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_63kv9igrwj8ix7e" tvg-name="Thành phố St. Louis SC vs CLB LA Galaxy" tvg-logo="https://img.gvapi.cc/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png!w80" home-logo="https://img.gvapi.cc/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png!w80" away-logo="https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80" group-title="Cola TV" start-time="1791760200",Thành phố St. Louis SC vs CLB LA Galaxy - BLV MOUNTAIN DEW — Major League Soccer
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.zhwpg.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
