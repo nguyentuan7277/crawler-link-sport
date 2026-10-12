@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:40:10 12/10/2026
+## Cập nhật lúc: 16:00:17 12/10/2026
+
+#EXTINF:-1 tvg-id="cctv_991681_chuoitay" tvg-name="Phong Phú Hà Nam Nữ vs Ha Noi" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_f148dbb7.png" home-logo="https://media.chuoichientv.net/media/20250903_205412_f148dbb7.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" group-title="Chuối TV" start-time="1791795600",Phong Phú Hà Nam Nữ vs Ha Noi - Chuối Tây [HD1] — Vô địch Quốc gia Nữ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1638521_angao" tvg-name="Guangzhou Dandelion vs Shanghai Second" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140636_78e6132b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_140636_78e6132b.png" away-logo="https://media.api-sports.io/football/teams/27619.png" group-title="Chuối TV" start-time="1791792000",Guangzhou Dandelion vs Shanghai Second - Chuối Ngao [FHD] — League Two
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_991681_chuoitay" tvg-name="Phong Phú Hà Nam Nữ vs Ha Noi" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_f148dbb7.png" home-logo="https://media.chuoichientv.net/media/20250903_205412_f148dbb7.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" group-title="Chuối TV" start-time="1791795600",Phong Phú Hà Nam Nữ vs Ha Noi - Chuối Tây [FHD] — Vô địch Quốc gia Nữ
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1565493_chuoikem" tvg-name="Livyi Bereh vs Zorya Luhansk" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125804_1da6c1c7.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125804_1da6c1c7.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125750_a98fa71d.png" group-title="Chuối TV" start-time="1791799200",Livyi Bereh vs Zorya Luhansk - Chuối Kem [FHD] — Ngoại Hạng Ukraine
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -127,11 +127,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_l5ergph4j2e6r8k" tvg-name="Phong Phu Ha Nam(w) vs Ha Noi II(w)" tvg-logo="https://static.sportsfeed.pro/football/team/a60899e8cdf54bc29a058073fb11d176.png" home-logo="https://static.sportsfeed.pro/football/team/a60899e8cdf54bc29a058073fb11d176.png" away-logo="https://static.sportsfeed.pro/football/team/424ac25c370b644caebd91d8ba01df34.png" group-title="Gà Vàng TV" start-time="1791795600",Phong Phu Ha Nam(w) vs Ha Noi II(w) - khang hi — Women's National League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_l5ergph464l4r8k" tvg-name="FC Livyi Bereh vs Zorya" tvg-logo="https://static.sportsfeed.pro/football/team/37569e4747c66dd9e1456c49e93fa568.png" home-logo="https://static.sportsfeed.pro/football/team/37569e4747c66dd9e1456c49e93fa568.png" away-logo="https://static.sportsfeed.pro/football/team/af3ce39628baa47fdcac155123ed60e5.png" group-title="Gà Vàng TV" start-time="1791799200",FC Livyi Bereh vs Zorya - SÚP LƠ — Ukrainian Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -146,6 +141,16 @@ https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l7oqdehgk2dxr51" tvg-name="Real Valladolid vs Albacete" tvg-logo="https://static.sportsfeed.pro/football/team/fdf63461c00668597319a4f0db14dcee.png" home-logo="https://static.sportsfeed.pro/football/team/fdf63461c00668597319a4f0db14dcee.png" away-logo="https://static.sportsfeed.pro/football/team/a2f731e9147f64082f22b9a561425308.png" group-title="Gà Vàng TV" start-time="1791806400",Real Valladolid vs Albacete - SAITAMA — Spanish Segunda Division
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_8yomo4h1l03jq0j" tvg-name="Syunik vs Shirak" tvg-logo="https://static.sportsfeed.pro/football/team/a66117942deb5319245c8b7a70026ccd.png" home-logo="https://static.sportsfeed.pro/football/team/a66117942deb5319245c8b7a70026ccd.png" away-logo="https://static.sportsfeed.pro/football/team/079bdbf302d4831bbbd8d623d25f27ff.png" group-title="Gà Vàng TV" start-time="1791806400",Syunik vs Shirak - Lữ Bố.vip — Armenian Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19867133" tvg-name="Pakhtakor Tashkent vs Al-Qadsiah" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/alqadsiah-13092" group-title="BiaomTV" start-time="1791812700",Pakhtakor Tashkent vs Al-Qadsiah - TRÚC BẠCH — C1 Châu Á
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
