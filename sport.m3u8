@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:00:13 12/10/2026
+## Cập nhật lúc: 15:20:10 12/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1638521_angao" tvg-name="Guangzhou Dandelion vs Shanghai Second" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140636_78e6132b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_140636_78e6132b.png" away-logo="https://media.api-sports.io/football/teams/27619.png" group-title="Chuối TV" start-time="1791792000",Guangzhou Dandelion vs Shanghai Second - Chuối Ngao [FHD] — League Two
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -121,6 +121,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4wyrn4h61041q86" tvg-name="Ho Chi Minh City FC B(w) vs Than Ksvn(w)" tvg-logo="https://static.sportsfeed.pro/football/team/ec2dbd5c069753ced4b26b40d826ae60.png" home-logo="https://static.sportsfeed.pro/football/team/ec2dbd5c069753ced4b26b40d826ae60.png" away-logo="https://static.sportsfeed.pro/football/team/d659af726f5fa75d16d3e08c6470e844.png" group-title="Gà Vàng TV" start-time="1791792000",Ho Chi Minh City FC B(w) vs Than Ksvn(w) - SiêU QuậY — Women's National League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l5ergph4j2e6r8k" tvg-name="Phong Phu Ha Nam(w) vs Ha Noi II(w)" tvg-logo="https://static.sportsfeed.pro/football/team/a60899e8cdf54bc29a058073fb11d176.png" home-logo="https://static.sportsfeed.pro/football/team/a60899e8cdf54bc29a058073fb11d176.png" away-logo="https://static.sportsfeed.pro/football/team/424ac25c370b644caebd91d8ba01df34.png" group-title="Gà Vàng TV" start-time="1791795600",Phong Phu Ha Nam(w) vs Ha Noi II(w) - khang hi — Women's National League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
