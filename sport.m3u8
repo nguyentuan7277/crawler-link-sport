@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:00:34 12/10/2026
+## Cập nhật lúc: 20:20:16 12/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1569969_chuoila" tvg-name="Valladolid vs Albacete" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_3a522956.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_3a522956.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133419_dd306d1b.png" group-title="Chuối TV" start-time="1791806400",Valladolid vs Albacete - Chuối Lá [FHD] — La Liga 2
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -121,6 +121,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1637327_chuoila" tvg-name="Galatasaray U19 vs Barcelona U19" tvg-logo="https://media.api-sports.io/football/teams/7900.png" home-logo="https://media.api-sports.io/football/teams/7900.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134407_0863f8f9.png" group-title="Chuối TV" start-time="1791889200",Galatasaray U19 vs Barcelona U19 - Chuối Lá [FHD] — UEFA Youth League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_23xmvkh651d5qg8" tvg-name="Hougang United FC vs Balestier Khalsa FC" tvg-logo="https://static.sportsfeed.pro/football/team/22bd6a4d9cba9a0127b11c10faefb219.png" home-logo="https://static.sportsfeed.pro/football/team/22bd6a4d9cba9a0127b11c10faefb219.png" away-logo="https://static.sportsfeed.pro/football/team/8847bfa7c65b05a14f9259f0abc93f28.png" group-title="Gà Vàng TV" start-time="1791804600",Hougang United FC vs Balestier Khalsa FC - A Long — Singapore Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
