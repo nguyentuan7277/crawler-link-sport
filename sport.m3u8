@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:20:12 13/10/2026
+## Cập nhật lúc: 00:40:10 13/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1629928_troctru" tvg-name="Al-Wasl FC vs Al-Ahli Jeddah" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125816_a44b61a5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125816_a44b61a5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_e6842fb5.png" group-title="Chuối TV" start-time="1791820800",Al-Wasl FC vs Al-Ahli Jeddah - Trốc Tru [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,11 +122,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1585787_chuoisay" tvg-name="Sarıyer vs BB Bodrumspor" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125859_b0d078aa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125859_b0d078aa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125846_83fcddf0.png" group-title="Chuối TV" start-time="1791900000",Sarıyer vs BB Bodrumspor - Chuối Sấy [FHD] — Hạng Nhất Thổ Nhĩ Kỳ
+#EXTINF:-1 tvg-id="cctv_1637326_chuoinho" tvg-name="Atlético Madrid U19 vs Manchester United U19" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134407_3f128115.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134407_3f128115.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134419_6dff7e1a.png" group-title="Chuối TV" start-time="1791900000",Atlético Madrid U19 vs Manchester United U19 - Chuối Nhỏ [FHD] — UEFA Youth League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_jw2r09hk83jjrz8" tvg-name="AC Oulu vs HJK Helsinki" tvg-logo="https://static.sportsfeed.pro/football/team/348fa7d49029584354427690fe88f874.png" home-logo="https://static.sportsfeed.pro/football/team/348fa7d49029584354427690fe88f874.png" away-logo="https://static.sportsfeed.pro/football/team/fd1a9c51505300dec9c26e5847114851.png" group-title="Gà Vàng TV" start-time="1791820800",AC Oulu vs HJK Helsinki - Lữ Bố.vip — Finnish Veikkausliiga
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -152,6 +152,26 @@ https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_zp5rzghge49xq82" tvg-name="Aarhus AGF vs Sonderjyske" tvg-logo="https://static.sportsfeed.pro/football/team/a0da10be11be5910b71c5ca79af53350.png" home-logo="https://static.sportsfeed.pro/football/team/a0da10be11be5910b71c5ca79af53350.png" away-logo="https://static.sportsfeed.pro/football/team/2a247b5fb7ff72e24a051b71a796d71b.png" group-title="Gà Vàng TV" start-time="1791824400",Aarhus AGF vs Sonderjyske - MáN NúI — Danish Superliga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_pxwrxlhyx95eryk" tvg-name="Elfsborg vs Halmstads" tvg-logo="https://static.sportsfeed.pro/football/team/983e56ee1d89379148cbb1d28384b6af.png" home-logo="https://static.sportsfeed.pro/football/team/983e56ee1d89379148cbb1d28384b6af.png" away-logo="https://static.sportsfeed.pro/football/team/d84614f172a18a18947a7567a9625b45.png" group-title="Gà Vàng TV" start-time="1791824400",Elfsborg vs Halmstads - khang hi — Sweden Allsvenskan
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_x7lm7phj3w5nm2w" tvg-name="KFUM Oslo vs Valerenga" tvg-logo="https://static.sportsfeed.pro/football/team/78581e2ef61df4a79eb3b24254665b88.png" home-logo="https://static.sportsfeed.pro/football/team/78581e2ef61df4a79eb3b24254665b88.png" away-logo="https://static.sportsfeed.pro/football/team/c2f900f8f34b392faf1ca8ecb248bff1.png" group-title="Gà Vàng TV" start-time="1791824400",KFUM Oslo vs Valerenga - SÚP LƠ — Norwegian Eliteserien
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_n54qllhnpx74qvy" tvg-name="Malmo FF vs Kalmar" tvg-logo="https://static.sportsfeed.pro/football/team/339c6acafe9c245dc5d8627c60528ca2.png" home-logo="https://static.sportsfeed.pro/football/team/339c6acafe9c245dc5d8627c60528ca2.png" away-logo="https://static.sportsfeed.pro/football/team/7774a1be5a0fb551d44ba25244760edd.png" group-title="Gà Vàng TV" start-time="1791824400",Malmo FF vs Kalmar - A Long — Sweden Allsvenskan
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l7oqdehgk278r51" tvg-name="FC Universitatea Cluj vs FC Rapid 1923" tvg-logo="https://static.sportsfeed.pro/football/team/74c37787bcf9656e1372913981f69859.png" home-logo="https://static.sportsfeed.pro/football/team/74c37787bcf9656e1372913981f69859.png" away-logo="https://static.sportsfeed.pro/football/team/6bb1babe89fffc1f77f25a47db40c847.png" group-title="Gà Vàng TV" start-time="1791828000",FC Universitatea Cluj vs FC Rapid 1923 - MeoMeo — Romanian Super Liga
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
