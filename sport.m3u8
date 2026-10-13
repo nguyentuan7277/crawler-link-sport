@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:20:09 13/10/2026
+## Cập nhật lúc: 17:40:10 13/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1629934_chuoisay" tvg-name="Kyoto Sanga vs Ratchaburi" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132415_d79fbc72.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132415_d79fbc72.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131732_9a3f3007.png" group-title="Chuối TV" start-time="1791885600",Kyoto Sanga vs Ratchaburi - Chuối Sấy [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -20,7 +20,7 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1637327_chuoila" tvg-name="Galatasaray U19 vs Barcelona U19" tvg-logo="https://media.api-sports.io/football/teams/7900.png" home-logo="https://media.api-sports.io/football/teams/7900.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134407_0863f8f9.png" group-title="Chuối TV" start-time="1791889200",Galatasaray U19 vs Barcelona U19 - Chuối Lá [FHD] — UEFA Youth League
+#EXTINF:-1 tvg-id="cctv_1585780_chuoila" tvg-name="Bandırmaspor vs Sivasspor" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125843_8b97318c.png" group-title="Chuối TV" start-time="1791891000",Bandırmaspor vs Sivasspor - Chuối Lá [FHD] — Hạng Nhất Thổ Nhĩ Kỳ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
@@ -121,6 +121,21 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09hkep26rz8" tvg-name="Kyoto Sanga vs Ratchaburi" tvg-logo="https://static.sportsfeed.pro/football/team/7d6fa50ea67cde7d66612a8189897ba5.png" home-logo="https://static.sportsfeed.pro/football/team/7d6fa50ea67cde7d66612a8189897ba5.png" away-logo="https://static.sportsfeed.pro/football/team/ca2b8d70931647840c78209be51763a3.png" group-title="Gà Vàng TV" start-time="1791885600",Kyoto Sanga vs Ratchaburi - KAYTI — AFC Champions League Elite
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_23xmvkh6egp7qg8" tvg-name="Pohang Steelers vs JDT" tvg-logo="https://static.sportsfeed.pro/football/team/6f05c460789939ac83282bd0686446f1.png" home-logo="https://static.sportsfeed.pro/football/team/6f05c460789939ac83282bd0686446f1.png" away-logo="https://static.sportsfeed.pro/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png" group-title="Gà Vàng TV" start-time="1791885600",Pohang Steelers vs JDT - CRIS — AFC Champions League Elite
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_ednm9whwjdxzryo" tvg-name="Shanghai Port FC vs Daejeon Citizen" tvg-logo="https://static.sportsfeed.pro/football/team/c4e143e537412003565cdb7c2d212538.png" home-logo="https://static.sportsfeed.pro/football/team/c4e143e537412003565cdb7c2d212538.png" away-logo="https://static.sportsfeed.pro/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png" group-title="Gà Vàng TV" start-time="1791885600",Shanghai Port FC vs Daejeon Citizen - SiêU QuậY — AFC Champions League Elite
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_pxwrxlhy8yleryk" tvg-name="Bandirmaspor vs Sivasspor" tvg-logo="https://static.sportsfeed.pro/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png" home-logo="https://static.sportsfeed.pro/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png" away-logo="https://static.sportsfeed.pro/football/team/228386b1b704899dc028000dbd27cac1.png" group-title="Gà Vàng TV" start-time="1791891000",Bandirmaspor vs Sivasspor - Lữ Bố.vip — Turkish First League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
