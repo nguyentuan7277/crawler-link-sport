@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:00:10 13/10/2026
+## Cập nhật lúc: 15:20:07 13/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1629933_chuoikem" tvg-name="Newcastle Jets vs Gamba Osaka" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130441_f1a2632a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130441_f1a2632a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_e5fc55e1.png" group-title="Chuối TV" start-time="1791877500",Newcastle Jets vs Gamba Osaka - Chuối Kem [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -121,6 +121,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_pxwrxlhy623wryk" tvg-name="Newcastle Jets vs Gamba Osaka" tvg-logo="https://static.sportsfeed.pro/football/team/d81fb9c5f0a147090f050e3c120c651c.png" home-logo="https://static.sportsfeed.pro/football/team/d81fb9c5f0a147090f050e3c120c651c.png" away-logo="https://static.sportsfeed.pro/football/team/91008a96b5de8c75376d17057f89890e.png" group-title="Gà Vàng TV" start-time="1791877500",Newcastle Jets vs Gamba Osaka - cố tư nghiêm — AFC Champions League Elite
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_jw2r09hkep26rz8" tvg-name="Kyoto Sanga vs Ratchaburi" tvg-logo="https://static.sportsfeed.pro/football/team/7d6fa50ea67cde7d66612a8189897ba5.png" home-logo="https://static.sportsfeed.pro/football/team/7d6fa50ea67cde7d66612a8189897ba5.png" away-logo="https://static.sportsfeed.pro/football/team/ca2b8d70931647840c78209be51763a3.png" group-title="Gà Vàng TV" start-time="1791885600",Kyoto Sanga vs Ratchaburi - KAYTI — AFC Champions League Elite
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
