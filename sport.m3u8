@@ -1,6 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:20:09 13/10/2026
+## Cập nhật lúc: 23:40:09 13/10/2026
+
+#EXTINF:-1 tvg-id="cctv_1635679_chuoichao" tvg-name="Lens vs Sporting CP" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_51812477.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_51812477.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125618_6227fe0e.png" group-title="Chuối TV" start-time="1791909900",Lens vs Sporting CP - Chuối Chao [FHD] — UEFA Champions League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1635721_chuoila" tvg-name="Sabah FA vs Slavia Praha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130531_4e687848.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130531_4e687848.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125647_4b493ed1.png" group-title="Chuối TV" start-time="1791909900",Sabah FA vs Slavia Praha - Chuối Lá [HD1] — UEFA Champions League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1629939_troctru" tvg-name="Al Sadd vs Al-Hilal Saudi FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_c56f6979.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_c56f6979.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png" group-title="Chuối TV" start-time="1791907200",Al Sadd vs Al-Hilal Saudi FC - Trốc Tru [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -13,18 +25,6 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1635679_chuoichao" tvg-name="Lens vs Sporting CP" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_51812477.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_51812477.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125618_6227fe0e.png" group-title="Chuối TV" start-time="1791909900",Lens vs Sporting CP - Chuối Chao [FHD] — UEFA Champions League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1635721_chuoila" tvg-name="Sabah FA vs Slavia Praha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130531_4e687848.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130531_4e687848.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125647_4b493ed1.png" group-title="Chuối TV" start-time="1791909900",Sabah FA vs Slavia Praha - Chuối Lá [FHD] — UEFA Champions League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1635612_chuoitay" tvg-name="Arsenal vs Lille" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125509_02157926.png" group-title="Chuối TV" start-time="1791918000",Arsenal vs Lille - Chuối Tây [FHD] — UEFA Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -132,6 +132,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_8yomo4h1w554q0j" tvg-name="Al Sadd vs Al-Hilal Saudi FC" tvg-logo="https://static.sportsfeed.pro/football/team/5c794bfbf3227563c85323bb624721ec.png" home-logo="https://static.sportsfeed.pro/football/team/5c794bfbf3227563c85323bb624721ec.png" away-logo="https://static.sportsfeed.pro/football/team/07a555616afab7be32e00150eacf4197.png" group-title="Gà Vàng TV" start-time="1791907200",Al Sadd vs Al-Hilal Saudi FC - SAITAMA — AFC Champions League Elite
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l7oqdehgvw85r51" tvg-name="Lens vs SCP" tvg-logo="https://static.sportsfeed.pro/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png" home-logo="https://static.sportsfeed.pro/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png" away-logo="https://static.sportsfeed.pro/football/team/6a5153c73922a32013b9bc6cfbc20b26.png" group-title="Gà Vàng TV" start-time="1791909900",Lens vs SCP - CRIS — UEFA Champions League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
