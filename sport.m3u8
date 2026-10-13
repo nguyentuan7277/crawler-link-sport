@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:00:16 13/10/2026
+## Cập nhật lúc: 18:20:12 13/10/2026
+
+#EXTINF:-1 tvg-id="cctv_1585780_chuoila" tvg-name="Bandırmaspor vs Sivasspor" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125843_8b97318c.png" group-title="Chuối TV" start-time="1791891000",Bandırmaspor vs Sivasspor - Chuối Lá [HD2] — Hạng Nhất Thổ Nhĩ Kỳ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1629934_chuoisay" tvg-name="Kyoto Sanga vs Ratchaburi" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132415_d79fbc72.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132415_d79fbc72.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131732_9a3f3007.png" group-title="Chuối TV" start-time="1791885600",Kyoto Sanga vs Ratchaburi - Chuối Sấy [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,12 +25,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1585780_chuoila" tvg-name="Bandırmaspor vs Sivasspor" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125843_8b97318c.png" group-title="Chuối TV" start-time="1791891000",Bandırmaspor vs Sivasspor - Chuối Lá [FHD] — Hạng Nhất Thổ Nhĩ Kỳ
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1629937_chuoikem" tvg-name="Buriram United vs Beijing Guoan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131733_ebcabb99.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131733_ebcabb99.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133504_eae218ac.png" group-title="Chuối TV" start-time="1791893700",Buriram United vs Beijing Guoan - Chuối Kem [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
