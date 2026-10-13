@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 21:40:10 13/10/2026
+## Cập nhật lúc: 22:00:16 13/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1630360_chuoitay" tvg-name="East Bengal II vs Al Shorta" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145044_1d75f929.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145044_1d75f929.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133244_20e8efef.png" group-title="Chuối TV" start-time="1791899100",East Bengal II vs Al Shorta - Chuối Tây [HD1] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -98,6 +98,30 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cctv_1640440_chuoito" tvg-name="Deren vs Erchim" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142515_21a2fe99.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142515_21a2fe99.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142515_2677a0e1.png" group-title="Chuối TV" start-time="1791954000",Deren vs Erchim - Chuối To [FHD] — Ngoại Hạng Mông Cổ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1630362_chuoisay" tvg-name="Melbourne Victory vs FC Seoul" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_bcff7572.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_bcff7572.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133956_15774ffd.png" group-title="Chuối TV" start-time="1791963900",Melbourne Victory vs FC Seoul - Chuối Sấy [FHD] — AFC Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1643272_angao" tvg-name="Yokohama FC vs Urawa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132417_d7e4c062.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132417_d7e4c062.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131431_dcdeb466.png" group-title="Chuối TV" start-time="1791970200",Yokohama FC vs Urawa - Chuối Ngao [FHD] — J-League Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1629941_chuoinho" tvg-name="Kashiwa Reysol vs Port FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132408_f7de4656.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132408_f7de4656.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131734_5b38fa5e.png" group-title="Chuối TV" start-time="1791972000",Kashiwa Reysol vs Port FC - Chuối Nhỏ [FHD] — AFC Champions League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_dj2ryohlwdgjq1z" tvg-name="East Bengal FC vs Al Shorta" tvg-logo="https://static.sportsfeed.pro/football/team/21649c3d173c8f4ec9d526432ad9f088.png" home-logo="https://static.sportsfeed.pro/football/team/21649c3d173c8f4ec9d526432ad9f088.png" away-logo="https://static.sportsfeed.pro/football/team/24cb68778b46e3795fa58ad593e98b5d.png" group-title="Gà Vàng TV" start-time="1791899100",East Bengal FC vs Al Shorta - THICHDUTHU — AFC Champions League Two
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -132,6 +156,11 @@ https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19862354" tvg-name="East Bengal vs Al Shorta" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/east-bengal-4017" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/east-bengal-4017" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-shorta-9650" group-title="BiaomTV" start-time="1791899100",East Bengal vs Al Shorta - TÔM CHIÊN — Cúp Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjIzNTQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Oms2aGE3OG11ZW41M3g3N25iaGMwNmh4Mw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19873660" tvg-name="Lens vs Sporting CP" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sporting-cp-58" group-title="BiaomTV" start-time="1791909900",Lens vs Sporting CP - TÔM CHIÊN — C1 Châu Âu
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -257,3 +286,8 @@ https://live05.zhwpg.app/live/78905744_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.zhwpg.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_34kgmigv42vueko" tvg-name="Serbia Nữ vs Phần Lan Nữ" tvg-logo="https://img.gvapi.cc/football/team/059bbd8df7767d3bc7829e3735c221e2.png!w80" home-logo="https://img.gvapi.cc/football/team/059bbd8df7767d3bc7829e3735c221e2.png!w80" away-logo="https://img.gvapi.cc/football/team/61a10e6abb1149ad9d08f303267f9bc4.png!w80" group-title="Cola TV" start-time="1791903600",Serbia Nữ vs Phần Lan Nữ - BLV PEPSI — Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.zhwpg.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
