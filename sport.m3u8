@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 08:40:08 14/10/2026
+## Cập nhật lúc: 09:00:10 14/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1549812_chuoisay" tvg-name="Millonarios vs Once Caldas" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_9251abf9.png" group-title="Chuối TV" start-time="1791941400",Millonarios vs Once Caldas - Chuối Sấy [HD1] — VĐQG Colombia
+#EXTINF:-1 tvg-id="cctv_1551699_chuoisay" tvg-name="San Carlos vs Inter San Carlos" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133456_c39080c4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133456_c39080c4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134641_1206ae36.png" group-title="Chuối TV" start-time="1791943200",San Carlos vs Inter San Carlos - Chuối Sấy [HD1] — VĐQG Costa Rica
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
@@ -196,3 +196,13 @@ https://live05.zhwpg.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.zhwpg.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_oj7x6szpozeb47g" tvg-name="Los Angeles Lakers vs Golden State Warriors" tvg-logo="https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80" home-logo="https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80" away-logo="https://img.gvapi.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80" group-title="Cola TV" start-time="1791943200",Los Angeles Lakers vs Golden State Warriors - BLV ROCKSTAR — Hiệp hội Bóng rổ Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.zhwpg.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o07dzsmry0zimkn" tvg-name="Sacramento Kings vs Portland Trail Blazers" tvg-logo="https://img.gvapi.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" home-logo="https://img.gvapi.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" away-logo="https://img.gvapi.cc/basketball/team/4512175b1415f69816e816160093bcc0.png!w80" group-title="Cola TV" start-time="1791943200",Sacramento Kings vs Portland Trail Blazers - BLV 247 — Hiệp hội Bóng rổ Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.zhwpg.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
