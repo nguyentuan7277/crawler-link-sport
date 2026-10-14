@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 19:00:35 14/10/2026
+## Cập nhật lúc: 19:20:21 14/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1637492_angao" tvg-name="Persib Bandung vs Viettel" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134451_f0892f53.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134451_f0892f53.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png" group-title="Chuối TV" start-time="1791980100",Persib Bandung vs Viettel - Chuối Ngao [HD1] — AFC Cup
+#EXTINF:-1 tvg-id="cctv_1637492_angao" tvg-name="Persib Bandung vs Viettel" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134451_f0892f53.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134451_f0892f53.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png" group-title="Chuối TV" start-time="1791980100",Persib Bandung vs Viettel - Chuối Ngao [FHD] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_996517_chuoitay" tvg-name="Aras Kargo Women vs Galatasaray Women" tvg-logo="https://media.chuoichientv.net/media/20261013_145352_8ccf9433.png" home-logo="https://media.chuoichientv.net/media/20261013_145352_8ccf9433.png" away-logo="https://media.chuoichientv.net/media/20261013_145353_527e513c.png" group-title="Chuối TV" start-time="1791982800",Aras Kargo Women vs Galatasaray Women - Chuối Tây [FHD] — Bóng Chuyền Thổ Nhĩ Kỳ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -109,6 +109,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_2y8m4zh5l5wzql0" tvg-name="AS Roma Youth vs Real Madrid U19" tvg-logo="https://static.sportsfeed.pro/football/team/a5f78d25cf21309ea257f28343efad5f.png" home-logo="https://static.sportsfeed.pro/football/team/a5f78d25cf21309ea257f28343efad5f.png" away-logo="https://static.sportsfeed.pro/football/team/5e754f0f66a62ae8806a63677b45caa4.png" group-title="Gà Vàng TV" start-time="1791979200",AS Roma Youth vs Real Madrid U19 - MeoMeo — UEFA Youth League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_y0or5jh8v03wqwz" tvg-name="Persib Bandung vs Viettel" tvg-logo="https://static.sportsfeed.pro/football/team/b2004093bf25a5a8d1768970d6e49d71.png" home-logo="https://static.sportsfeed.pro/football/team/b2004093bf25a5a8d1768970d6e49d71.png" away-logo="https://static.sportsfeed.pro/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png" group-title="Gà Vàng TV" start-time="1791980100",Persib Bandung vs Viettel - Lữ Bố.vip — AFC Champions League Two
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -179,11 +184,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MDU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzM2NzU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmsxdWY1dHpiZWk3cTd0MmpxMWtyMjQycw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_m2q19sryzzjcek6" tvg-name="KoGas vs Suwon KT" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/9/90/Daegu_KOGAS_Pegasus.svg/1920px-Daegu_KOGAS_Pegasus.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" home-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/9/90/Daegu_KOGAS_Pegasus.svg/1920px-Daegu_KOGAS_Pegasus.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" away-logo="https://img.gvapi.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80" group-title="Cola TV" start-time="1791972000",KoGas vs Suwon KT - BLV POCARI — Giải bóng rổ nam Hàn Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.zhwpg.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_9gklzi1215rim7x" tvg-name="Batman Petrolspor vs CLB Istanbulspor" tvg-logo="https://img.gvapi.cc/football/team/76f8bb9319b6286ffe099b3eb1edae41.png!w80" home-logo="https://img.gvapi.cc/football/team/76f8bb9319b6286ffe099b3eb1edae41.png!w80" away-logo="https://img.gvapi.cc/football/team/0bfea2ba6182289ed677f5b2450baf4b.png!w80" group-title="Cola TV" start-time="1791977400",Batman Petrolspor vs CLB Istanbulspor - BLV 7UP — Giải Bóng đá Vô địch Quốc gia Thổ Nhĩ Kỳ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -193,3 +193,8 @@ https://live05.zhwpg.app/live/78905744_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.zhwpg.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_wv78xiv036gcokr" tvg-name="CLB Persib Bandung vs Thể Công - Viettel" tvg-logo="https://img.gvapi.cc/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80" home-logo="https://img.gvapi.cc/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80" away-logo="https://img.gvapi.cc/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png!w80" group-title="Cola TV" start-time="1791980100",CLB Persib Bandung vs Thể Công - Viettel - BLV GIÀ LÀNG — AFC Giải vô địch Champions 2
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.zhwpg.app/live/14830711_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
