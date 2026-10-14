@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 06:20:09 15/10/2026
+## Cập nhật lúc: 06:40:08 15/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1490526_chuoichao" tvg-name="Inter Miami vs New York City FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_4e107f78.png" group-title="Chuối TV" start-time="1792020600",Inter Miami vs New York City FC - Chuối Chao [HD2] — Major League Soccer
+#EXTINF:-1 tvg-id="cctv_1490526_chuoichao" tvg-name="Inter Miami vs New York City FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_4e107f78.png" group-title="Chuối TV" start-time="1792020600",Inter Miami vs New York City FC - Chuối Chao [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1549721_troctru" tvg-name="Junior vs Deportivo Pereira" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_095d7988.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_095d7988.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133538_0a9dbb3b.png" group-title="Chuối TV" start-time="1792013400",Junior vs Deportivo Pereira - Trốc Tru [FHD] — VĐQG Colombia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1490536_chuoisay" tvg-name="Colorado Rapids vs Minnesota United FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131608_bba55c72.png" group-title="Chuối TV" start-time="1792027800",Colorado Rapids vs Minnesota United FC - Chuối Sấy [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -86,20 +80,40 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cctv_1636401_chuoisay" tvg-name="CSKA Sofia vs Monaco" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134217_e5915ef5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134217_e5915ef5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125514_371080d3.png" group-title="Chuối TV" start-time="1792082700",CSKA Sofia vs Monaco - Chuối Sấy [FHD] — UEFA Europa Conference League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636279_chuoinho" tvg-name="Lech Poznan vs Bayer Leverkusen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134629_65fc6459.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134629_65fc6459.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125556_780bfce1.png" group-title="Chuối TV" start-time="1792082700",Lech Poznan vs Bayer Leverkusen - Chuối Nhỏ [FHD] — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636293_angao" tvg-name="Lyon vs Crystal Palace" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_3a5b60eb.png" group-title="Chuối TV" start-time="1792082700",Lyon vs Crystal Palace - Chuối Ngao [FHD] — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636332_chuoila" tvg-name="Red Bull Salzburg vs AC Milan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125648_5a000bd4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125648_5a000bd4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" group-title="Chuối TV" start-time="1792082700",Red Bull Salzburg vs AC Milan - Chuối Lá [FHD] — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636328_troctru" tvg-name="Union St. Gilloise vs Real Sociedad" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125530_a8277fe1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125530_a8277fe1.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_f23143f4.png" group-title="Chuối TV" start-time="1792082700",Union St. Gilloise vs Real Sociedad - Trốc Tru [FHD] — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_4wyrn4h65263q86" tvg-name="CA Sarmiento vs River Plate" tvg-logo="https://static.sportsfeed.pro/football/team/173f9983cdfd064d8bdd1a341e1bd8e4.png" home-logo="https://static.sportsfeed.pro/football/team/173f9983cdfd064d8bdd1a341e1bd8e4.png" away-logo="https://static.sportsfeed.pro/football/team/c7aa5e458bdcad0051f6786ff93c48ed.png" group-title="Gà Vàng TV" start-time="1792015200",CA Sarmiento vs River Plate - SiêU QuậY — Argentine Division 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_3glrw7hnp923qdy" tvg-name="Club Internacional de Futbol Miami vs New York City Football Club" tvg-logo="https://static.sportsfeed.pro/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" home-logo="https://static.sportsfeed.pro/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" away-logo="https://static.sportsfeed.pro/football/team/f5bbc8573e1b019164b11b13c49598bd.png" group-title="Gà Vàng TV" start-time="1792020600",Club Internacional de Futbol Miami vs New York City Football Club - MáN NúI — United States Major League Soccer
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_8yomo4h148l9q0j" tvg-name="Columbus Crew vs Charlotte FC" tvg-logo="https://static.sportsfeed.pro/football/team/b6d8f81e8454813b3e672b179e627d3a.png" home-logo="https://static.sportsfeed.pro/football/team/b6d8f81e8454813b3e672b179e627d3a.png" away-logo="https://static.sportsfeed.pro/football/team/5c01731e3c513a3797c85b95c436e0d9.png" group-title="Gà Vàng TV" start-time="1792020600",Columbus Crew vs Charlotte FC - MeoMeo — United States Major League Soccer
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_pxwrxlhlp943ryk" tvg-name="Fluminense RJ vs Palmeiras" tvg-logo="https://static.sportsfeed.pro/football/team/a6bce9adfac7903426bed2b253991a18.png" home-logo="https://static.sportsfeed.pro/football/team/a6bce9adfac7903426bed2b253991a18.png" away-logo="https://static.sportsfeed.pro/football/team/e6a85b64d28f448601e90857eb799140.png" group-title="Gà Vàng TV" start-time="1792024200",Fluminense RJ vs Palmeiras - cố tư nghiêm — CONMEBOL Copa Libertadores
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -115,6 +129,11 @@ https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dj2ryohlxpo2q1z" tvg-name="Los Angeles FC vs Austin FC" tvg-logo="https://static.sportsfeed.pro/football/team/9c5ad5227377e12b87f77790d3d88c1c.png" home-logo="https://static.sportsfeed.pro/football/team/9c5ad5227377e12b87f77790d3d88c1c.png" away-logo="https://static.sportsfeed.pro/football/team/90c95cd154f9b016cbf26854770b8401.png" group-title="Gà Vàng TV" start-time="1792031400",Los Angeles FC vs Austin FC - MeoMeo — United States Major League Soccer
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19862284" tvg-name="Gangwon FC vs Phnom Penh Crown" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/phnom-penh-crown-9822" group-title="BiaomTV" start-time="1792058400",Gangwon FC vs Phnom Penh Crown - Vịt Nướng — Cúp Châu Á
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -205,3 +224,18 @@ https://live05.zhwpg.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.zhwpg.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_j374ws9xp91cgko" tvg-name="Boston Celtics vs Charlotte Hornets" tvg-logo="https://img.gvapi.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80" home-logo="https://img.gvapi.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80" away-logo="https://img.gvapi.cc/basketball/team/e52f6ac53681289c91703501a960cb3c.png!w80" group-title="Cola TV" start-time="1792020600",Boston Celtics vs Charlotte Hornets - BLV POCARI — Hiệp hội Bóng rổ Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.zhwpg.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_34kgmioe485feko" tvg-name="CLB Toronto vs Orlando City" tvg-logo="https://img.gvapi.cc/football/team/a6f6290d4b7699729dc19349484841bf.png!w80" home-logo="https://img.gvapi.cc/football/team/a6f6290d4b7699729dc19349484841bf.png!w80" away-logo="https://img.gvapi.cc/football/team/b4ad649e6c6a9a6cf91493bf5e92ffbe.png!w80" group-title="Cola TV" start-time="1792020600",CLB Toronto vs Orlando City - BLV AQUA — Major League Soccer
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.zhwpg.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_9gklzi1rj26bm7x" tvg-name="Inter Miami vs New York City" tvg-logo="https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80" home-logo="https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80" away-logo="https://img.gvapi.cc/football/team/f5bbc8573e1b019164b11b13c49598bd.png!w80" group-title="Cola TV" start-time="1792020600",Inter Miami vs New York City - BLV PEPSI — Major League Soccer
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.zhwpg.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
