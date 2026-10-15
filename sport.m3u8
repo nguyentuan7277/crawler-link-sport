@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:20:22 15/10/2026
+## Cập nhật lúc: 20:42:32 15/10/2026
+
+#EXTINF:-1 tvg-id="cctv_1603046_chuoichao" tvg-name="Al-Faisaly FC vs Al Kholood" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134008_ab62e860.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134008_ab62e860.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134007_c7a4bc71.png" group-title="Chuối TV" start-time="1792071600",Al-Faisaly FC vs Al Kholood - Chuối Chao [FHD] — Saudi Pro League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1630372_chuoisay" tvg-name="Pathum United vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png" home-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_7beb7455.png" group-title="Chuối TV" start-time="1792066500",Pathum United vs Adelaide United - Chuối Sấy [FHD] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -20,13 +26,7 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1603046_chuoichao" tvg-name="Al-Faisaly FC vs Al Kholood" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134008_ab62e860.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134008_ab62e860.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134007_c7a4bc71.png" group-title="Chuối TV" start-time="1792071600",Al-Faisaly FC vs Al Kholood - Chuối Chao [FHD] — Saudi Pro League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1585784_chuoito" tvg-name="Mardin BB vs Fatih Karagümrük" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125922_f9d0fbe8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125922_f9d0fbe8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_078e1090.png" group-title="Chuối TV" start-time="1792072800",Mardin BB vs Fatih Karagümrük - Chuối To [FHD] — Hạng Nhất Thổ Nhĩ Kỳ
+#EXTINF:-1 tvg-id="cctv_1516153_chuoito" tvg-name="Andijan vs Qizilqum" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131727_9cb5bb96.png" group-title="Chuối TV" start-time="1792072800",Andijan vs Qizilqum - Chuối To [FHD] — VĐQG Uzbekistan
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
@@ -50,23 +50,17 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1636293_angao" tvg-name="Lyon vs Crystal Palace" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_3a5b60eb.png" group-title="Chuối TV" start-time="1792082700",Lyon vs Crystal Palace - Chuối Ngao [FHD] — UEFA Europa League
+#EXTINF:-1 tvg-id="cctv_1636293_troctru" tvg-name="Lyon vs Crystal Palace" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_3a5b60eb.png" group-title="Chuối TV" start-time="1792082700",Lyon vs Crystal Palace - Trốc Tru [FHD] — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1636332_chuoila" tvg-name="Red Bull Salzburg vs AC Milan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125648_5a000bd4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125648_5a000bd4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" group-title="Chuối TV" start-time="1792082700",Red Bull Salzburg vs AC Milan - Chuối Lá [FHD] — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1636328_troctru" tvg-name="Union St. Gilloise vs Real Sociedad" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125530_a8277fe1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125530_a8277fe1.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_f23143f4.png" group-title="Chuối TV" start-time="1792082700",Union St. Gilloise vs Real Sociedad - Trốc Tru [FHD] — UEFA Europa League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1636228_chuoichao" tvg-name="Benfica vs Celtic" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125629_aa00f11e.png" group-title="Chuối TV" start-time="1792090800",Benfica vs Celtic - Chuối Chao [FHD] — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -120,20 +114,10 @@ https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_pxwrxlhy62z5ryk" tvg-name="Svay Rieng FC vs Shanghai Shenhua FC" tvg-logo="https://static.sportsfeed.pro/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png" home-logo="https://static.sportsfeed.pro/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png" away-logo="https://static.sportsfeed.pro/football/team/e8327d4681b4a73c83be9fe087b30721.png" group-title="Gà Vàng TV" start-time="1792066500",Svay Rieng FC vs Shanghai Shenhua FC - ĐOÀN DỰ — AFC Champions League Two
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_vjxm8ghen2pkr6o" tvg-name="Tampines Rovers FC vs Machida Zelvia" tvg-logo="https://static.sportsfeed.pro/football/team/23dc72567ad2999491dfe56b50f7df62.png" home-logo="https://static.sportsfeed.pro/football/team/23dc72567ad2999491dfe56b50f7df62.png" away-logo="https://static.sportsfeed.pro/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png" group-title="Gà Vàng TV" start-time="1792066500",Tampines Rovers FC vs Machida Zelvia - SAITAMA — AFC Champions League Two
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_vjxm8ghe1owkr6o" tvg-name="Al Faisaly Harmah vs Al Kholood" tvg-logo="https://static.sportsfeed.pro/football/team/4e9f55c1006ca24b2b535054a52187e8.png" home-logo="https://static.sportsfeed.pro/football/team/4e9f55c1006ca24b2b535054a52187e8.png" away-logo="https://static.sportsfeed.pro/football/team/068aa9b10aa4d47ab3a8fdbe8b716518.png" group-title="Gà Vàng TV" start-time="1792071600",Al Faisaly Harmah vs Al Kholood - A Long — Saudi Professional League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_n54qllhn0yzyqvy" tvg-name="Al Khaleej Club vs Al-Fayha" tvg-logo="https://static.sportsfeed.pro/football/team/6d48cbd483dee74ed9aef387bb082d64.png" home-logo="https://static.sportsfeed.pro/football/team/6d48cbd483dee74ed9aef387bb082d64.png" away-logo="https://static.sportsfeed.pro/football/team/95f41dd3e8e9d2f6006feed0c024dd9e.png" group-title="Gà Vàng TV" start-time="1792075800",Al Khaleej Club vs Al-Fayha - MeoMeo — Saudi Professional League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -239,3 +223,8 @@ https://live05.zhwpg.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.zhwpg.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ndkz6i3pyj2cxq3" tvg-name="Al Faisaly Harmah vs Al Kholood" tvg-logo="https://img.gvapi.cc/football/team/4e9f55c1006ca24b2b535054a52187e8.png!w80" home-logo="https://img.gvapi.cc/football/team/4e9f55c1006ca24b2b535054a52187e8.png!w80" away-logo="https://img.gvapi.cc/football/team/068aa9b10aa4d47ab3a8fdbe8b716518.png!w80" group-title="Cola TV" start-time="1792071600",Al Faisaly Harmah vs Al Kholood - BLV GIÀ LÀNG — Giải Vô địch quốc gia Ả-rập Xê-út
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.zhwpg.app/live/14830711_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
