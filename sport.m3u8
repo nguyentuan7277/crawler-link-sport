@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 19:40:16 15/10/2026
+## Cập nhật lúc: 20:00:17 15/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1630372_chuoisay" tvg-name="Pathum United vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png" home-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_7beb7455.png" group-title="Chuối TV" start-time="1792066500",Pathum United vs Adelaide United - Chuối Sấy [FHD] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -145,6 +145,11 @@ https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_4wyrn4h6648nq86" tvg-name="RFS vs Super Nova" tvg-logo="https://static.sportsfeed.pro/football/team/83a9f5e1089098a8df85932d23f74191.png" home-logo="https://static.sportsfeed.pro/football/team/83a9f5e1089098a8df85932d23f74191.png" away-logo="https://static.sportsfeed.pro/football/team/6ecfe734e6971ff83a4a3808b669d059.png" group-title="Gà Vàng TV" start-time="1792080000",RFS vs Super Nova - MáN NúI — Latvian Higher League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19862278" tvg-name="BG Pathum United vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bg-pathum-united-13363" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bg-pathum-united-13363" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/adelaide-united-2967" group-title="BiaomTV" start-time="1792066500",BG Pathum United vs Adelaide United - TÔM CHIÊN — Cúp Châu Á
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -164,6 +169,16 @@ https://cdnhls.xbdbotv.live/live/MTk4NjIyNzU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnI
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NjIyNzI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmJsaWloZWFkcmdkeWZ4czlyYXc4NmQxbw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19862284" tvg-name="Gangwon FC vs Phnom Penh Crown" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/phnom-penh-crown-9822" group-title="BiaomTV" start-time="1792058400",Gangwon FC vs Phnom Penh Crown - Vịt Nướng — Cúp Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjIyODQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm1pdDlmODVtMHZoMHhsemk0MmEzNmk0aA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19862291" tvg-name="Wofoo Tai Po vs Lion City Sailors FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wofoo-tai-po-5971" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wofoo-tai-po-5971" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lion-city-sailors-fc-8007" group-title="BiaomTV" start-time="1792058400",Wofoo Tai Po vs Lion City Sailors FC - TRÚC BẠCH — Cúp Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjIyOTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnFsdzllcGtvdzVhenZrc21hbmF6M25lcw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19873962" tvg-name="KuPS vs Trabzonspor" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kups-4323" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kups-4323" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/trabzonspor-688" group-title="BiaomTV" start-time="1792082700",KuPS vs Trabzonspor - Lẩu Ếch — Europa Conference League
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
