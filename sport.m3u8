@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:00:10 16/10/2026
+## Cập nhật lúc: 01:20:07 16/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1636401_chuoisay" tvg-name="CSKA Sofia vs Monaco" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134217_e5915ef5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134217_e5915ef5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125514_371080d3.png" group-title="Chuối TV" start-time="1792082700",CSKA Sofia vs Monaco - Chuối Sấy [FHD] — UEFA Europa Conference League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -131,6 +131,11 @@ https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19873962" tvg-name="KuPS vs Trabzonspor" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kups-4323" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kups-4323" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/trabzonspor-688" group-title="BiaomTV" start-time="1792082700",KuPS vs Trabzonspor - Lẩu Ếch — Europa Conference League
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NzM5NjI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm91MWFmNTFwZjUyc3pmN2ZlMWE2M2liaQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19873874" tvg-name="Lech Poznań vs Bayer Leverkusen" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lech-poznan-302" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lech-poznan-302" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bayer-04-leverkusen-3321" group-title="BiaomTV" start-time="1792082700",Lech Poznań vs Bayer Leverkusen - TRÚC BẠCH — Europa League
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
