@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 19:20:11 16/10/2026
+## Cập nhật lúc: 19:40:10 16/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1603471_chuoila" tvg-name="Tanjong Pagar vs Hougang United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133032_d788340f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133032_d788340f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133030_4a5b6a64.png" group-title="Chuối TV" start-time="1792150200",Tanjong Pagar vs Hougang United - Chuối Lá [FHD] — VĐQG Singapore
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -85,26 +85,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_zp5rzghgkvzlq82" tvg-name="Tanjong Pagar United vs Hougang United FC" tvg-logo="https://static.sportsfeed.pro/football/team/60ec3eff9d5505195d32364a32670d36.jpg" home-logo="https://static.sportsfeed.pro/football/team/60ec3eff9d5505195d32364a32670d36.jpg" away-logo="https://static.sportsfeed.pro/football/team/22bd6a4d9cba9a0127b11c10faefb219.png" group-title="Gà Vàng TV" start-time="1792150200",Tanjong Pagar United vs Hougang United FC - MáN NúI — Singapore Premier League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_4wyrn4h66l29q86" tvg-name="Henan FC vs Tianjin Jinmen Tiger FC" tvg-logo="https://static.sportsfeed.pro/football/team/f336520db254da6d6d5294b720d26d83.png" home-logo="https://static.sportsfeed.pro/football/team/f336520db254da6d6d5294b720d26d83.png" away-logo="https://static.sportsfeed.pro/football/team/e0080960b4e935d70f4037aaf3a0b917.png" group-title="Gà Vàng TV" start-time="1792150500",Henan FC vs Tianjin Jinmen Tiger FC - SAITAMA — Chinese Football Super League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_ednm9whwnzy3ryo" tvg-name="Ayutthaya United vs Lamphun Warriors" tvg-logo="https://static.sportsfeed.pro/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png" home-logo="https://static.sportsfeed.pro/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png" away-logo="https://static.sportsfeed.pro/football/team/4ae0f663455112a2fdc1594e3810aff2.png" group-title="Gà Vàng TV" start-time="1792152000",Ayutthaya United vs Lamphun Warriors - MeoMeo — Thai League 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_4wyrn4h6kp8yq86" tvg-name="Malut United vs Bali United" tvg-logo="https://static.sportsfeed.pro/football/team/2a0ed6cd242323e53d426715a55aedc0.png" home-logo="https://static.sportsfeed.pro/football/team/2a0ed6cd242323e53d426715a55aedc0.png" away-logo="https://static.sportsfeed.pro/football/team/09fe2ecf88f68970da755f8655d5da8a.png" group-title="Gà Vàng TV" start-time="1792152000",Malut United vs Bali United - cố tư nghiêm — Indonesian Super League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_zp5rzghgkonzq82" tvg-name="Kelantan Red Warrior vs Imigresen FC" tvg-logo="https://static.sportsfeed.pro/football/team/142f3c0514bb9729cd759402938856f4.png" home-logo="https://static.sportsfeed.pro/football/team/142f3c0514bb9729cd759402938856f4.png" away-logo="https://static.sportsfeed.pro/football/team/cdc4c0ec8848a89a3e16b273a6da6c5b.png" group-title="Gà Vàng TV" start-time="1792155600",Kelantan Red Warrior vs Imigresen FC - Cá MậP — Malaysian Super League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
