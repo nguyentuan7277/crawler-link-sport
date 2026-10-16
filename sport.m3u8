@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 19:40:10 16/10/2026
+## Cập nhật lúc: 20:00:21 16/10/2026
+
+#EXTINF:-1 tvg-id="cctv_1601140_chuoikem" tvg-name="Kelantan Red Warrior FC vs Imigresen" tvg-logo="https://media.api-sports.io/football/teams/27373.png" home-logo="https://media.api-sports.io/football/teams/27373.png" away-logo="https://media.api-sports.io/football/teams/10430.png" group-title="Chuối TV" start-time="1792155600",Kelantan Red Warrior FC vs Imigresen - Chuối Kem [HD2] — VĐQG Malaysia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1603471_chuoila" tvg-name="Tanjong Pagar vs Hougang United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133032_d788340f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133032_d788340f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133030_4a5b6a64.png" group-title="Chuối TV" start-time="1792150200",Tanjong Pagar vs Hougang United - Chuối Lá [FHD] — VĐQG Singapore
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,18 +31,6 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1601140_chuoikem" tvg-name="Kelantan Red Warrior FC vs Imigresen" tvg-logo="https://media.api-sports.io/football/teams/27373.png" home-logo="https://media.api-sports.io/football/teams/27373.png" away-logo="https://media.api-sports.io/football/teams/10430.png" group-title="Chuối TV" start-time="1792155600",Kelantan Red Warrior FC vs Imigresen - Chuối Kem [FHD] — VĐQG Malaysia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1603050_chuoito" tvg-name="Al-Qadisiyah FC vs Abha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134002_4cd99b1a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134002_4cd99b1a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134011_ddd85980.png" group-title="Chuối TV" start-time="1792156500",Al-Qadisiyah FC vs Abha - Chuối To [FHD] — Saudi Pro League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1603051_chuoinho" tvg-name="Al Riyadh vs Al-Hilal Saudi FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134007_30496d9e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134007_30496d9e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png" group-title="Chuối TV" start-time="1792162800",Al Riyadh vs Al-Hilal Saudi FC - Chuối Nhỏ [FHD] — Saudi Pro League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -86,10 +80,25 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_zp5rzghgkonzq82" tvg-name="Kelantan Red Warrior vs Imigresen FC" tvg-logo="https://static.sportsfeed.pro/football/team/142f3c0514bb9729cd759402938856f4.png" home-logo="https://static.sportsfeed.pro/football/team/142f3c0514bb9729cd759402938856f4.png" away-logo="https://static.sportsfeed.pro/football/team/cdc4c0ec8848a89a3e16b273a6da6c5b.png" group-title="Gà Vàng TV" start-time="1792155600",Kelantan Red Warrior vs Imigresen FC - Cá MậP — Malaysian Super League
+#EXTINF:-1 tvg-id="gavang_zp5rzghgkvzlq82" tvg-name="Tanjong Pagar United vs Hougang United FC" tvg-logo="https://static.sportsfeed.pro/football/team/60ec3eff9d5505195d32364a32670d36.jpg" home-logo="https://static.sportsfeed.pro/football/team/60ec3eff9d5505195d32364a32670d36.jpg" away-logo="https://static.sportsfeed.pro/football/team/22bd6a4d9cba9a0127b11c10faefb219.png" group-title="Gà Vàng TV" start-time="1792150200",Tanjong Pagar United vs Hougang United FC - MáN NúI — Singapore Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4wyrn4h66l29q86" tvg-name="Henan FC vs Tianjin Jinmen Tiger FC" tvg-logo="https://static.sportsfeed.pro/football/team/f336520db254da6d6d5294b720d26d83.png" home-logo="https://static.sportsfeed.pro/football/team/f336520db254da6d6d5294b720d26d83.png" away-logo="https://static.sportsfeed.pro/football/team/e0080960b4e935d70f4037aaf3a0b917.png" group-title="Gà Vàng TV" start-time="1792150500",Henan FC vs Tianjin Jinmen Tiger FC - SAITAMA — Chinese Football Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_ednm9whwnzy3ryo" tvg-name="Ayutthaya United vs Lamphun Warriors" tvg-logo="https://static.sportsfeed.pro/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png" home-logo="https://static.sportsfeed.pro/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png" away-logo="https://static.sportsfeed.pro/football/team/4ae0f663455112a2fdc1594e3810aff2.png" group-title="Gà Vàng TV" start-time="1792152000",Ayutthaya United vs Lamphun Warriors - MeoMeo — Thai League 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4wyrn4h6kp8yq86" tvg-name="Malut United vs Bali United" tvg-logo="https://static.sportsfeed.pro/football/team/2a0ed6cd242323e53d426715a55aedc0.png" home-logo="https://static.sportsfeed.pro/football/team/2a0ed6cd242323e53d426715a55aedc0.png" away-logo="https://static.sportsfeed.pro/football/team/09fe2ecf88f68970da755f8655d5da8a.png" group-title="Gà Vàng TV" start-time="1792152000",Malut United vs Bali United - cố tư nghiêm — Indonesian Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_4wyrn4hyz3yeq86" tvg-name="Al Dhafra FC vs United" tvg-logo="https://static.sportsfeed.pro/football/team/8872919405e0076fb753ae6492a0a2db.png" home-logo="https://static.sportsfeed.pro/football/team/8872919405e0076fb753ae6492a0a2db.png" away-logo="https://static.sportsfeed.pro/football/team/ddccee28a094cd3c8e2a43208f314f9a.png" group-title="Gà Vàng TV" start-time="1792155900",Al Dhafra FC vs United - NGƯỜI KIẾN — United Arab Emirates Adnoc Pro-League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -115,6 +124,16 @@ https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l5ergphk01kvr8k" tvg-name="Baniyas Club vs Al-Wasl SC" tvg-logo="https://static.sportsfeed.pro/football/team/25a7ebe2fc19902b896b3a184ef420c9.png" home-logo="https://static.sportsfeed.pro/football/team/25a7ebe2fc19902b896b3a184ef420c9.png" away-logo="https://static.sportsfeed.pro/football/team/17b767b98695df2fb512e992dd8a7af4.png" group-title="Gà Vàng TV" start-time="1792165500",Baniyas Club vs Al-Wasl SC - ĐOÀN DỰ — United Arab Emirates Adnoc Pro-League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4wyrn4h6p805q86" tvg-name="Rotor Volgograd vs FC Sochi" tvg-logo="https://static.sportsfeed.pro/football/team/6ae485ecee17acfc249fa06c8500d0a0.png" home-logo="https://static.sportsfeed.pro/football/team/6ae485ecee17acfc249fa06c8500d0a0.png" away-logo="https://static.sportsfeed.pro/football/team/77414d59a2d7001928f99ce10477dfb2.png" group-title="Gà Vàng TV" start-time="1792166400",Rotor Volgograd vs FC Sochi - THICHDUTHU — Russian First League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19674601" tvg-name="Henan Songshan Longmen vs Tianjin Jinmen Tiger" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/henan-songshan-longmen-8428" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/henan-songshan-longmen-8428" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tianjin-jinmen-tiger-2665" group-title="BiaomTV" start-time="1792150500",Henan Songshan Longmen vs Tianjin Jinmen Tiger - TÔM CHIÊN — VĐQG Trung Quốc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
