@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 03:20:07 17/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1575187_troctru" tvg-name="Eintracht Frankfurt vs 1.FC Köln" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125556_bdd9ff42.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125556_bdd9ff42.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_d0b10a92.png" group-title="Chuối TV" start-time="1792175400",Eintracht Frankfurt vs 1.FC Köln - Trốc Tru [FHD] — Bundesliga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 03:40:06 17/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1550151_chuoila" tvg-name="Frosinone vs Sassuolo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133427_2c58ddc2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133427_2c58ddc2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png" group-title="Chuối TV" start-time="1792176300",Frosinone vs Sassuolo - Chuối Lá [FHD] — Serie A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -116,20 +110,16 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_pxwrxlhyo2loryk" tvg-name="Eintracht Frankfurt vs FC Köln" tvg-logo="https://static.sportsfeed.pro/football/team/fe636189a2f3db78d0554c34f0bdaae6.png" home-logo="https://static.sportsfeed.pro/football/team/fe636189a2f3db78d0554c34f0bdaae6.png" away-logo="https://static.sportsfeed.pro/football/team/887b7663a0d47031528921d9972ae3a6.png" group-title="Gà Vàng TV" start-time="1792175400",Eintracht Frankfurt vs FC Köln - CRIS — Bundesliga
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1557431_chuoito" tvg-name="Fulham vs Hull City" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_3735bd31.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_3735bd31.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130851_e5825be5.png" group-title="Chuối TV" start-time="1792245600",Fulham vs Hull City - Chuối To [FHD] — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_x7lm7phjdk62m2w" tvg-name="Frosinone vs Sassuolo" tvg-logo="https://static.sportsfeed.pro/football/team/93c278d5d8d1d5e2d390ff686359963d.png" home-logo="https://static.sportsfeed.pro/football/team/93c278d5d8d1d5e2d390ff686359963d.png" away-logo="https://static.sportsfeed.pro/football/team/616bf242a532f72e970648f2ead423cf.png" group-title="Gà Vàng TV" start-time="1792176300",Frosinone vs Sassuolo - THICHDUTHU — Italian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_4wyrn4h6143nq86" tvg-name="Le Mans vs Toulouse" tvg-logo="https://static.sportsfeed.pro/football/team/5de17e3d35ef312559baf1f8c0b0b585.png" home-logo="https://static.sportsfeed.pro/football/team/5de17e3d35ef312559baf1f8c0b0b585.png" away-logo="https://static.sportsfeed.pro/football/team/2947fe2f42551a5b7eccca7fc948f879.png" group-title="Gà Vàng TV" start-time="1792176300",Le Mans vs Toulouse - NGƯỜI KIẾN — French Ligue 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_jw2r09hkvn8nrz8" tvg-name="Burnley vs Wolves" tvg-logo="https://static.sportsfeed.pro/football/team/1091af5aa9fc4a30411785954edb9159.png" home-logo="https://static.sportsfeed.pro/football/team/1091af5aa9fc4a30411785954edb9159.png" away-logo="https://static.sportsfeed.pro/football/team/5759932ca2512c6701d86dfbd58380a7.png" group-title="Gà Vàng TV" start-time="1792177200",Burnley vs Wolves - SAITAMA — English Football League Championship
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -141,20 +131,10 @@ https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_x7lm7phjdw8xm2w" tvg-name="Los Chankas vs AD Tarma" tvg-logo="https://static.sportsfeed.pro/football/team/8677ea6ab6a6dcd8ac9a1c3b86c66bd7.png" home-logo="https://static.sportsfeed.pro/football/team/8677ea6ab6a6dcd8ac9a1c3b86c66bd7.png" away-logo="https://static.sportsfeed.pro/football/team/99a341d00ad5eb1ace5cf21e080d7653.png" group-title="Gà Vàng TV" start-time="1792182600",Los Chankas vs AD Tarma - A Long — Peruvian Liga 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_318q66hx328pqo9" tvg-name="Defensa Y Justicia vs Instituto" tvg-logo="https://static.sportsfeed.pro/football/team/49a35dd00c51fc958ebf44054bce4c48.png" home-logo="https://static.sportsfeed.pro/football/team/49a35dd00c51fc958ebf44054bce4c48.png" away-logo="https://static.sportsfeed.pro/football/team/a01279fdf6589b3c11529ca1ab4201fc.png" group-title="Gà Vàng TV" start-time="1792188000",Defensa Y Justicia vs Instituto - MáN NúI — Argentine Division 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19735150" tvg-name="Eintracht Frankfurt vs FC Köln" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/eintracht-frankfurt-366" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/eintracht-frankfurt-366" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-koln-3320" group-title="BiaomTV" start-time="1792175400",Eintracht Frankfurt vs FC Köln - TÔM CHIÊN — VĐQG Đức
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MzUxNTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxhMmJlZGhuaWFlbnMzaDkwMzQwenc5ag/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19713555" tvg-name="Frosinone vs Sassuolo" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/frosinone-4070" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/frosinone-4070" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sassuolo-2714" group-title="BiaomTV" start-time="1792176300",Frosinone vs Sassuolo - Vịt Nướng — VĐQG Ý
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -176,11 +156,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1ODE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NjA6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnYzbHhtajRkejBsZG5mbWk4cjF5bGw1eg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_jr7owip4ny4bgq0" tvg-name="Eintracht Frankfurt vs 1. FC Köln" tvg-logo="https://img.gvapi.cc/football/team/fe636189a2f3db78d0554c34f0bdaae6.png!w80" home-logo="https://img.gvapi.cc/football/team/fe636189a2f3db78d0554c34f0bdaae6.png!w80" away-logo="https://img.gvapi.cc/football/team/887b7663a0d47031528921d9972ae3a6.png!w80" group-title="Cola TV" start-time="1792175400",Eintracht Frankfurt vs 1. FC Köln - BLV MOUNTAIN DEW — Giải bóng đá vô địch quốc gia Đức
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.zhwpg.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_527r3i4xed5i47e" tvg-name="Frosinone vs U.S. Sassuolo Calcio" tvg-logo="https://img.gvapi.cc/football/team/93c278d5d8d1d5e2d390ff686359963d.png!w80" home-logo="https://img.gvapi.cc/football/team/93c278d5d8d1d5e2d390ff686359963d.png!w80" away-logo="https://img.gvapi.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" group-title="Cola TV" start-time="1792176300",Frosinone vs U.S. Sassuolo Calcio - BLV SAMURAI — Giải bóng đá Serie A Italia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -190,11 +165,6 @@ https://live05.zhwpg.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.zhwpg.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_xvkjoi8pm6mb879" tvg-name="CLB Burnley vs Wolverhampton Wanderers" tvg-logo="https://img.gvapi.cc/football/team/1091af5aa9fc4a30411785954edb9159.png!w80" home-logo="https://img.gvapi.cc/football/team/1091af5aa9fc4a30411785954edb9159.png!w80" away-logo="https://img.gvapi.cc/football/team/5759932ca2512c6701d86dfbd58380a7.png!w80" group-title="Cola TV" start-time="1792177200",CLB Burnley vs Wolverhampton Wanderers - BLV 247 — Championship
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.zhwpg.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_ndkz6i30r9obxq3" tvg-name="Dep. La Coruna vs CLB Levante" tvg-logo="https://img.gvapi.cc/football/team/e28443c9a1a5b87394ed79c3690ebbd7.png!w80" home-logo="https://img.gvapi.cc/football/team/e28443c9a1a5b87394ed79c3690ebbd7.png!w80" away-logo="https://img.gvapi.cc/football/team/13e2038bd23a38ce32a3eb259c8bf7d8.png!w80" group-title="Cola TV" start-time="1792177200",Dep. La Coruna vs CLB Levante - BLV 7UP — Giải Bóng đá Vô địch Quốc gia Tây Ban Nha
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
