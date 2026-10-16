@@ -1,30 +1,24 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:00:12 16/10/2026
+## Cập nhật lúc: 18:20:07 16/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1593680_chuoikem" tvg-name="Sydney vs Western Sydney Wanderers" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_53d90f93.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_53d90f93.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130438_eb01dea2.png" group-title="Chuối TV" start-time="1792141200",Sydney vs Western Sydney Wanderers - Chuối Kem [FHD] — A-League
+#EXTINF:-1 tvg-id="cctv_1603471_chuoila" tvg-name="Tanjong Pagar vs Hougang United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133032_d788340f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133032_d788340f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133030_4a5b6a64.png" group-title="Chuối TV" start-time="1792150200",Tanjong Pagar vs Hougang United - Chuối Lá [HD1] — VĐQG Singapore
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1523275_chuoichao" tvg-name="Henan Jianye vs Tianjin Teda" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133505_f9e2ab10.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133505_f9e2ab10.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133505_6a49f032.png" group-title="Chuối TV" start-time="1792150500",Henan Jianye vs Tianjin Teda - Chuối Chao [HD1] — Ngoại Hạng Trung Quốc
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1634976_chuoinho" tvg-name="Đồng Tháp vs Quy Nhơn FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_f9a41cc0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_f9a41cc0.png" away-logo="https://media.chuoichientv.net/media/20250912_195544_125d9f93.jpeg" group-title="Chuối TV" start-time="1792144800",Đồng Tháp vs Quy Nhơn FC - Chuối Nhỏ [FHD] — V.League 2
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1603471_chuoila" tvg-name="Tanjong Pagar vs Hougang United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133032_d788340f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133032_d788340f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133030_4a5b6a64.png" group-title="Chuối TV" start-time="1792150200",Tanjong Pagar vs Hougang United - Chuối Lá [FHD] — VĐQG Singapore
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1523275_chuoichao" tvg-name="Henan Jianye vs Tianjin Teda" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133505_f9e2ab10.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133505_f9e2ab10.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133505_6a49f032.png" group-title="Chuối TV" start-time="1792150500",Henan Jianye vs Tianjin Teda - Chuối Chao [FHD] — Ngoại Hạng Trung Quốc
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1622792_troctru" tvg-name="Arema FC vs Bali United" tvg-logo="https://media.chuoichientv.net/media/20260913_083933_ccd775e2.png" home-logo="https://media.chuoichientv.net/media/20260913_083933_ccd775e2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" group-title="Chuối TV" start-time="1792152000",Arema FC vs Bali United - Trốc Tru [FHD] — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -98,11 +92,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_x7lm7phj6kj1m2w" tvg-name="Sydney FC vs Western Sydney Wanderers FC" tvg-logo="https://static.sportsfeed.pro/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png" home-logo="https://static.sportsfeed.pro/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png" away-logo="https://static.sportsfeed.pro/football/team/aa46424fa1a452a4b1af49fd3be10edb.png" group-title="Gà Vàng TV" start-time="1792141200",Sydney FC vs Western Sydney Wanderers FC - CRIS — Australia A-League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_zp5rzghgkvzlq82" tvg-name="Tanjong Pagar United vs Hougang United FC" tvg-logo="https://static.sportsfeed.pro/football/team/60ec3eff9d5505195d32364a32670d36.jpg" home-logo="https://static.sportsfeed.pro/football/team/60ec3eff9d5505195d32364a32670d36.jpg" away-logo="https://static.sportsfeed.pro/football/team/22bd6a4d9cba9a0127b11c10faefb219.png" group-title="Gà Vàng TV" start-time="1792150200",Tanjong Pagar United vs Hougang United FC - MáN NúI — Singapore Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -147,11 +136,6 @@ https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19758822" tvg-name="Sydney vs Western Sydney Wanderers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sydney-253" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sydney-253" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" group-title="BiaomTV" start-time="1792141200",Sydney vs Western Sydney Wanderers - SAPPORO — VĐQG Úc
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3NTg4MjI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmhqbXoyZmhhajR5N20wNmMwMzczeGphcQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19674601" tvg-name="Henan Songshan Longmen vs Tianjin Jinmen Tiger" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/henan-songshan-longmen-8428" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/henan-songshan-longmen-8428" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tianjin-jinmen-tiger-2665" group-title="BiaomTV" start-time="1792150500",Henan Songshan Longmen vs Tianjin Jinmen Tiger - TÔM CHIÊN — VĐQG Trung Quốc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -202,11 +186,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1ODE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmY
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NjA6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnYzbHhtajRkejBsZG5mbWk4cjF5bGw1eg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_527r3i4de4gh47e" tvg-name="Sydney FC vs CLB Western Sydney" tvg-logo="https://img.gvapi.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" home-logo="https://img.gvapi.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" away-logo="https://img.gvapi.cc/football/team/65ad5821ea90c2eb91c4c159c6e62745.png!w80" group-title="Cola TV" start-time="1792141200",Sydney FC vs CLB Western Sydney - BLV GIÀ LÀNG — Giải vô địch quốc gia Úc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.zhwpg.app/live/14830711_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_zrknxs5y40wuwql" tvg-name="Goyang Carrot Jumpers vs Mobis Phoebus" tvg-logo="https://img.gvapi.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" home-logo="https://img.gvapi.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" away-logo="https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" group-title="Cola TV" start-time="1792144800",Goyang Carrot Jumpers vs Mobis Phoebus - BLV ROCKSTAR — Giải bóng rổ nam Hàn Quốc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
