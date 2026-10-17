@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 11:20:12 17/10/2026
+## Cập nhật lúc: 11:40:13 17/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1550995_chuoisay" tvg-name="Atlante FC vs U.N.A.M. - Pumas" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133843_6c2369a8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133843_6c2369a8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133409_8be40e19.png" group-title="Chuối TV" start-time="1792206000",Atlante FC vs U.N.A.M. - Pumas - Chuối Sấy [FHD] — VĐQG Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -132,6 +132,11 @@ https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_l7oqdehgzo3pr51" tvg-name="Shimizu S Pulse vs Gamba Osaka" tvg-logo="https://static.sportsfeed.pro/football/team/fa4105f0408ef893d941e70ae003ab4c.png" home-logo="https://static.sportsfeed.pro/football/team/fa4105f0408ef893d941e70ae003ab4c.png" away-logo="https://static.sportsfeed.pro/football/team/91008a96b5de8c75376d17057f89890e.png" group-title="Gà Vàng TV" start-time="1792209600",Shimizu S Pulse vs Gamba Osaka - SiêU QuậY — Japanese J1 League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19758819" tvg-name="Central Coast Mariners vs Newcastle Jets" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/central-coast-mariners-410" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/central-coast-mariners-410" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-jets-557" group-title="BiaomTV" start-time="1792226400",Central Coast Mariners vs Newcastle Jets - ASAHI — VĐQG Úc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -226,11 +231,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1NzU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnB
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmRoNTM2M3lmcHNya2VxbWhmNWFweTBlcQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_xvkjvszj6zlh8k9" tvg-name="Golden State Warriors vs Portland Trail Blazers" tvg-logo="https://img.gvapi.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80" home-logo="https://img.gvapi.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80" away-logo="https://img.gvapi.cc/basketball/team/4512175b1415f69816e816160093bcc0.png!w80" group-title="Cola TV" start-time="1792202400",Golden State Warriors vs Portland Trail Blazers - BLV POCARI — Hiệp hội Bóng rổ Quốc gia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.zhwpg.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_vmqy6sn32nzcgk9" tvg-name="Los Angeles Lakers vs Denver Nuggets" tvg-logo="https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80" home-logo="https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80" away-logo="https://img.gvapi.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="Cola TV" start-time="1792204200",Los Angeles Lakers vs Denver Nuggets - BLV ROCKSTAR — Hiệp hội Bóng rổ Quốc gia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
