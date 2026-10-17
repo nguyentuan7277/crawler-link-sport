@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 11:40:13 17/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1550995_chuoisay" tvg-name="Atlante FC vs U.N.A.M. - Pumas" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133843_6c2369a8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133843_6c2369a8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133409_8be40e19.png" group-title="Chuối TV" start-time="1792206000",Atlante FC vs U.N.A.M. - Pumas - Chuối Sấy [FHD] — VĐQG Mexico
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 12:00:14 17/10/2026
 
 #EXTINF:-1 tvg-id="cctv_999350_chuoikem" tvg-name="Hitachi W vs Gunma Bank Green Wings W" tvg-logo="https://media.chuoichientv.net/media/20260102_193355_5b8801ab.png" home-logo="https://media.chuoichientv.net/media/20260102_193355_5b8801ab.png" away-logo="https://media.chuoichientv.net/media/20251011_220657_399c6a8e.png" group-title="Chuối TV" start-time="1792213500",Hitachi W vs Gunma Bank Green Wings W - Chuối Kem [FHD] — SV.League W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +13,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1550995_chuoisay" tvg-name="Atlante FC vs U.N.A.M. - Pumas" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133843_6c2369a8.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133843_6c2369a8.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133409_8be40e19.png" group-title="Chuối TV" start-time="1792206000",Atlante FC vs U.N.A.M. - Pumas - Chuối Sấy [FHD] — VĐQG Mexico
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1593682_chuoisay" tvg-name="Macarthur vs Perth Glory" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130443_17f12eea.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130443_17f12eea.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130438_8fde6a88.png" group-title="Chuối TV" start-time="1792216800",Macarthur vs Perth Glory - Chuối Sấy [FHD] — A-League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,6 +122,11 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_3glrw7hn7dylqdy" tvg-name="Vancouver FC vs HFX Wanderers FC" tvg-logo="https://static.sportsfeed.pro/football/team/2be300dfaf22aea36b0f57a2832859ae.png" home-logo="https://static.sportsfeed.pro/football/team/2be300dfaf22aea36b0f57a2832859ae.png" away-logo="https://static.sportsfeed.pro/football/team/83b65de5bac0affa4abc6faa2c3a24e6.jpg" group-title="Gà Vàng TV" start-time="1792203000",Vancouver FC vs HFX Wanderers FC - MáN NúI — Canadian Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_zp5rzghgewjoq82" tvg-name="Atlante vs Pumas" tvg-logo="https://static.sportsfeed.pro/football/team/ea3dc231c5b640b286b5c609b415f8e1.png" home-logo="https://static.sportsfeed.pro/football/team/ea3dc231c5b640b286b5c609b415f8e1.png" away-logo="https://static.sportsfeed.pro/football/team/7654a95374767f93f6bec6a3d4819f76.png" group-title="Gà Vàng TV" start-time="1792206000",Atlante vs Pumas - MeoMeo — Mexico Liga MX
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -131,11 +136,6 @@ https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_l7oqdehgzo3pr51" tvg-name="Shimizu S Pulse vs Gamba Osaka" tvg-logo="https://static.sportsfeed.pro/football/team/fa4105f0408ef893d941e70ae003ab4c.png" home-logo="https://static.sportsfeed.pro/football/team/fa4105f0408ef893d941e70ae003ab4c.png" away-logo="https://static.sportsfeed.pro/football/team/91008a96b5de8c75376d17057f89890e.png" group-title="Gà Vàng TV" start-time="1792209600",Shimizu S Pulse vs Gamba Osaka - SiêU QuậY — Japanese J1 League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19758819" tvg-name="Central Coast Mariners vs Newcastle Jets" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/central-coast-mariners-410" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/central-coast-mariners-410" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-jets-557" group-title="BiaomTV" start-time="1792226400",Central Coast Mariners vs Newcastle Jets - ASAHI — VĐQG Úc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -237,17 +237,12 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NTQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.zhwpg.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_69759igez3xsgk2" tvg-name="CLB Atlante vs U.N.A.M.- Pumas" tvg-logo="https://img.gvapi.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80" home-logo="https://img.gvapi.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80" away-logo="https://img.gvapi.cc/football/team/7654a95374767f93f6bec6a3d4819f76.png!w80" group-title="Cola TV" start-time="1792206000",CLB Atlante vs U.N.A.M.- Pumas - BLV HỔ VẰN — Giải Vô địch Bóng đá Quốc gia Mexico
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.zhwpg.app/live/07428422_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_69759igp3g3igk2" tvg-name="Auckland FC vs Clb Melbourne city" tvg-logo="https://img.gvapi.cc/football/team/1d4c98a8072a4c3c0efc42a790d9c8cb.png!w80" home-logo="https://img.gvapi.cc/football/team/1d4c98a8072a4c3c0efc42a790d9c8cb.png!w80" away-logo="https://img.gvapi.cc/football/team/36806061ca70613f4c30f1211ee0b1ba.png!w80" group-title="Cola TV" start-time="1792209600",Auckland FC vs Clb Melbourne city - BLV GIÀ LÀNG — Giải vô địch quốc gia Úc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.zhwpg.app/live/14830711_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_m2q15izxpwyhe76" tvg-name="Shimizu S-Pulse vs Gamba Osaka" tvg-logo="https://img.gvapi.cc/football/team/fa4105f0408ef893d941e70ae003ab4c.png!w80" home-logo="https://img.gvapi.cc/football/team/fa4105f0408ef893d941e70ae003ab4c.png!w80" away-logo="https://img.gvapi.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80" group-title="Cola TV" start-time="1792209600",Shimizu S-Pulse vs Gamba Osaka - BLV FANTA — Giải vô địch quốc gia Nhật Bản
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.zhwpg.app/live/16226575_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_34kgps1lo5gseko" tvg-name="Wonju Dongbu Promy vs Seoul Samsung Thunders" tvg-logo="https://img.gvapi.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80" home-logo="https://img.gvapi.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80" away-logo="https://img.gvapi.cc/basketball/team/9adc8e5768f7787b81ad366fed7b5edd.png!w80" group-title="Cola TV" start-time="1792213200",Wonju Dongbu Promy vs Seoul Samsung Thunders - BLV Cozy — Giải bóng rổ nam Hàn Quốc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.zhwpg.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
