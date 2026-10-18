@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 03:20:10 19/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1550152_troctru" tvg-name="Juventus vs Lazio" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_ea0cc895.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_ea0cc895.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125559_9e8fc4c8.png" group-title="Chuối TV" start-time="1792349100",Juventus vs Lazio - Trốc Tru [FHD] — Serie A
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 03:40:26 19/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1570420_chuoila" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_9a1b10da.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_9a1b10da.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_bcacccf3.png" group-title="Chuối TV" start-time="1792350000",Real Madrid vs Sevilla - Chuối Lá [FHD] — La Liga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -32,11 +26,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_318q66hxdop9qo9" tvg-name="Juventus vs Lazio" tvg-logo="https://static.sportsfeed.pro/football/team/314ca8463a6fd047b11d474287b24c50.png" home-logo="https://static.sportsfeed.pro/football/team/314ca8463a6fd047b11d474287b24c50.png" away-logo="https://static.sportsfeed.pro/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png" group-title="Gà Vàng TV" start-time="1792349100",Juventus vs Lazio - CRIS — Italian Serie A
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_l7oqdehgz0p5r51" tvg-name="OL vs Nice" tvg-logo="https://static.sportsfeed.pro/football/team/92fb3cf79ea2ba919b94b04668e13491.png" home-logo="https://static.sportsfeed.pro/football/team/92fb3cf79ea2ba919b94b04668e13491.png" away-logo="https://static.sportsfeed.pro/football/team/ff8991853f7aabce7cb66f09cda0c58e.png" group-title="Gà Vàng TV" start-time="1792349100",OL vs Nice - GIàng A Dân — French Ligue 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -46,11 +35,6 @@ https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_k82rekhgdo03rep" tvg-name="Alianza Atletico Sullana vs Universitario De Deportes" tvg-logo="https://static.sportsfeed.pro/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png" home-logo="https://static.sportsfeed.pro/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png" away-logo="https://static.sportsfeed.pro/football/team/415e4ed317b0b0a4aea7c8ddc5cdd658.png" group-title="Gà Vàng TV" start-time="1792355400",Alianza Atletico Sullana vs Universitario De Deportes - MáN NúI — Peruvian Liga 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_k82rekhgxe4lrep" tvg-name="FC Cincinnati vs Columbus Crew" tvg-logo="https://static.sportsfeed.pro/football/team/1d14acf20b6647d3bf1f70959a875c8f.png" home-logo="https://static.sportsfeed.pro/football/team/1d14acf20b6647d3bf1f70959a875c8f.png" away-logo="https://static.sportsfeed.pro/football/team/b6d8f81e8454813b3e672b179e627d3a.png" group-title="Gà Vàng TV" start-time="1792357200",FC Cincinnati vs Columbus Crew - MeoMeo — United States Major League Soccer
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -66,11 +50,6 @@ https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19713554" tvg-name="Juventus vs Lazio" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lazio-43" group-title="BiaomTV" start-time="1792349100",Juventus vs Lazio - NEM NƯỚNG  — VĐQG Ý
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NTQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnhzMDE5cWtpa2Znb3hhMXozbWRkZ3RueQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19715578" tvg-name="Olympique Lyon vs OGC Nice" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-lyonnais-79" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-lyonnais-79" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nice-450" group-title="BiaomTV" start-time="1792349100",Olympique Lyon vs OGC Nice - TRÚC BẠCH — VĐQG Pháp
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -116,11 +95,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnR
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnkyNWdicThxcWU1Y2R0MDN1dmt2czBlNg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_j374oi0y1m2cgqo" tvg-name="Juventus F.C. vs S.S. Lazio" tvg-logo="https://img.gvapi.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80" home-logo="https://img.gvapi.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80" away-logo="https://img.gvapi.cc/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png!w80" group-title="Cola TV" start-time="1792349100",Juventus F.C. vs S.S. Lazio - BLV C2 — Giải bóng đá Serie A Italia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.zhwpg.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_m2q15izxnyvce76" tvg-name="Olympique Lyonnais vs OGC Nice" tvg-logo="https://img.gvapi.cc/football/team/92fb3cf79ea2ba919b94b04668e13491.png!w80" home-logo="https://img.gvapi.cc/football/team/92fb3cf79ea2ba919b94b04668e13491.png!w80" away-logo="https://img.gvapi.cc/football/team/ff8991853f7aabce7cb66f09cda0c58e.png!w80" group-title="Cola TV" start-time="1792349100",Olympique Lyonnais vs OGC Nice - BLV SPRITE — Ligue 1
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
