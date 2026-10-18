@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 02:20:11 19/10/2026
+## Cập nhật lúc: 02:40:11 19/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1550152_troctru" tvg-name="Juventus vs Lazio" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_ea0cc895.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_ea0cc895.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125559_9e8fc4c8.png" group-title="Chuối TV" start-time="1792349100",Juventus vs Lazio - Trốc Tru [FHD] — Serie A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -51,6 +51,11 @@ https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4jwq2ghnj1vzm0v" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://static.sportsfeed.pro/football/team/7dacaa934fe4be00f23c1e209b5ef947.png" home-logo="https://static.sportsfeed.pro/football/team/7dacaa934fe4be00f23c1e209b5ef947.png" away-logo="https://static.sportsfeed.pro/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png" group-title="Gà Vàng TV" start-time="1792350000",Real Madrid vs Sevilla - SAITAMA — Spanish La Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_k82rekhgdo03rep" tvg-name="Alianza Atletico Sullana vs Universitario De Deportes" tvg-logo="https://static.sportsfeed.pro/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png" home-logo="https://static.sportsfeed.pro/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png" away-logo="https://static.sportsfeed.pro/football/team/415e4ed317b0b0a4aea7c8ddc5cdd658.png" group-title="Gà Vàng TV" start-time="1792355400",Alianza Atletico Sullana vs Universitario De Deportes - MáN NúI — Peruvian Liga 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
