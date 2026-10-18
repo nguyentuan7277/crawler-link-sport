@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:20:17 19/10/2026
+## Cập nhật lúc: 00:40:11 19/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1557435_chuoichao" tvg-name="Nottingham Forest vs Arsenal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_9c96cd68.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_9c96cd68.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png" group-title="Chuối TV" start-time="1792337400",Nottingham Forest vs Arsenal - Chuối Chao [FHD] — Ngoại Hạng Anh
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -56,21 +56,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_dj2ryohl3gowq1z" tvg-name="Paris FC vs Rennes" tvg-logo="https://static.sportsfeed.pro/football/team/83a982f8219a768e7cd29d1ac765b199.png" home-logo="https://static.sportsfeed.pro/football/team/83a982f8219a768e7cd29d1ac765b199.png" away-logo="https://static.sportsfeed.pro/football/team/eab8f0e847742fd328bb581299bd99ca.png" group-title="Gà Vàng TV" start-time="1792336500",Paris FC vs Rennes - Lữ Bố.vip — French Ligue 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_x7lm7phje5x1m2w" tvg-name="Borussia M’gladbach vs Hoffenheim" tvg-logo="https://static.sportsfeed.pro/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png" home-logo="https://static.sportsfeed.pro/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png" away-logo="https://static.sportsfeed.pro/football/team/72ab7862a610b350aef7650ec0e06e06.png" group-title="Gà Vàng TV" start-time="1792337400",Borussia M’gladbach vs Hoffenheim - ĐOÀN DỰ — Bundesliga
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_1l4rjnh9p0eem7v" tvg-name="Nott'm Forest vs Arsenal" tvg-logo="https://static.sportsfeed.pro/football/team/62572999d107f777efa4aeb907443527.png" home-logo="https://static.sportsfeed.pro/football/team/62572999d107f777efa4aeb907443527.png" away-logo="https://static.sportsfeed.pro/football/team/d6f5debc456da1119256ab66462ab510.png" group-title="Gà Vàng TV" start-time="1792337400",Nott'm Forest vs Arsenal - CRIS — English Premier League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_dj2ryohl3ko4q1z" tvg-name="Milan vs Atalanta" tvg-logo="https://static.sportsfeed.pro/football/team/643ef4101b017dc1495dbd9e9d5cce28.png" home-logo="https://static.sportsfeed.pro/football/team/643ef4101b017dc1495dbd9e9d5cce28.png" away-logo="https://static.sportsfeed.pro/football/team/45c9647899b8bf2fb6f988c6c33b964c.png" group-title="Gà Vàng TV" start-time="1792339200",Milan vs Atalanta - RIO — Italian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -106,15 +91,10 @@ https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_19722135" tvg-name="Nottingham Forest vs Arsenal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nottingham-forest-63" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nottingham-forest-63" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="BiaomTV" start-time="1792337400",Nottingham Forest vs Arsenal - NEM NƯỚNG  — Ngoại Hạng Anh
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTINF:-1 tvg-id="gavang_k82rekhgdo03rep" tvg-name="Alianza Atletico Sullana vs Universitario De Deportes" tvg-logo="https://static.sportsfeed.pro/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png" home-logo="https://static.sportsfeed.pro/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png" away-logo="https://static.sportsfeed.pro/football/team/415e4ed317b0b0a4aea7c8ddc5cdd658.png" group-title="Gà Vàng TV" start-time="1792355400",Alianza Atletico Sullana vs Universitario De Deportes - MáN NúI — Peruvian Liga 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMzU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmF0OWFoOXJta3kzejJ3NmQ3aXM2bXg3ZQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19722135" tvg-name="Nottingham Forest vs Arsenal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nottingham-forest-63" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nottingham-forest-63" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="BiaomTV" start-time="1792337400",Nottingham Forest vs Arsenal - SAPPORO — Ngoại Hạng Anh
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMzU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm51NGIxcjBhbGZ3ZzEzOHltZTBsZGNrdA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19732657" tvg-name="Málaga vs Real Sociedad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaga-126" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaga-126" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-sociedad-594" group-title="BiaomTV" start-time="1792341000",Málaga vs Real Sociedad - TRÚC BẠCH — VĐQG Tây Ban Nha
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -140,21 +120,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1Nzg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnV
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnpodnkzbzV4MjY2cXVidnJjMXZ4dmNhYQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_zrkn6i4gnyzfwql" tvg-name="Paris FC vs Stade Rennais" tvg-logo="https://img.gvapi.cc/football/team/83a982f8219a768e7cd29d1ac765b199.png!w80" home-logo="https://img.gvapi.cc/football/team/83a982f8219a768e7cd29d1ac765b199.png!w80" away-logo="https://img.gvapi.cc/football/team/eab8f0e847742fd328bb581299bd99ca.png!w80" group-title="Cola TV" start-time="1792336500",Paris FC vs Stade Rennais - BLV ROCKSTAR — Ligue 1
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.zhwpg.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_527r3i4zm3gh47e" tvg-name="Borussia Mönchengladbach vs TSG 1899 Hoffenheim" tvg-logo="https://img.gvapi.cc/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png!w80" home-logo="https://img.gvapi.cc/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png!w80" away-logo="https://img.gvapi.cc/football/team/72ab7862a610b350aef7650ec0e06e06.png!w80" group-title="Cola TV" start-time="1792337400",Borussia Mönchengladbach vs TSG 1899 Hoffenheim - BLV SPRITE — Giải bóng đá vô địch quốc gia Đức
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.zhwpg.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_8lk2dirpl99hz73" tvg-name="Nottingham Forest vs Arsenal" tvg-logo="https://img.gvapi.cc/football/team/62572999d107f777efa4aeb907443527.png!w80" home-logo="https://img.gvapi.cc/football/team/62572999d107f777efa4aeb907443527.png!w80" away-logo="https://img.gvapi.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="Cola TV" start-time="1792337400",Nottingham Forest vs Arsenal - BLV C2 — Giải bóng đá Ngoại hạng Anh
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.zhwpg.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_zrkn6i4gmy3uwql" tvg-name="AC Milan vs Atalanta B.C." tvg-logo="https://img.gvapi.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80" home-logo="https://img.gvapi.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80" away-logo="https://img.gvapi.cc/football/team/45c9647899b8bf2fb6f988c6c33b964c.png!w80" group-title="Cola TV" start-time="1792339200",AC Milan vs Atalanta B.C. - BLV HỔ VẰN — Giải bóng đá Serie A Italia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
