@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 09:00:11 18/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1593684_chuoikem" tvg-name="Wellington Phoenix vs Melbourne Victory" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130439_bf7a95dc.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130439_bf7a95dc.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_bcff7572.png" group-title="Chuối TV" start-time="1792288800",Wellington Phoenix vs Melbourne Victory - Chuối Kem [HD1] — A-League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 09:20:10 18/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1550998_chuoito" tvg-name="Leon vs Club America" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_fbad589d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_fbad589d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png" group-title="Chuối TV" start-time="1792285200",Leon vs Club America - Chuối To [FHD] — VĐQG Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1593684_chuoikem" tvg-name="Wellington Phoenix vs Melbourne Victory" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130439_bf7a95dc.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130439_bf7a95dc.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_bcff7572.png" group-title="Chuối TV" start-time="1792288800",Wellington Phoenix vs Melbourne Victory - Chuối Kem [FHD] — A-League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_998646_chuoikem" tvg-name="JT Marvelous W vs Okayama Seagulls W" tvg-logo="https://media.chuoichientv.net/media/20260214_071514_67fc35cf.png" home-logo="https://media.chuoichientv.net/media/20260214_071514_67fc35cf.png" away-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" group-title="Chuối TV" start-time="1792296300",JT Marvelous W vs Okayama Seagulls W - Chuối Kem [FHD] — SV.League W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -222,3 +222,8 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NTU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnp
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.zhwpg.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ndkz6i3pz6dhxq3" tvg-name="Wellington Phoenix vs Melbourne Victory" tvg-logo="https://img.gvapi.cc/football/team/1162efa593827d2a7566b5862dee72e4.png!w80" home-logo="https://img.gvapi.cc/football/team/1162efa593827d2a7566b5862dee72e4.png!w80" away-logo="https://img.gvapi.cc/football/team/04230721124ae33d7fb527413b54106f.png!w80" group-title="Cola TV" start-time="1792288800",Wellington Phoenix vs Melbourne Victory - BLV SODA — Giải vô địch quốc gia Úc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.zhwpg.app/live/02456966_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
