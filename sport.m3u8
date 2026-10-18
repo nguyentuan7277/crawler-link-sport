@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 13:00:19 18/10/2026
+## Cập nhật lúc: 13:20:14 18/10/2026
 
-#EXTINF:-1 tvg-id="cctv_998646_chuoikem" tvg-name="JT Marvelous W vs Okayama Seagulls W" tvg-logo="https://media.chuoichientv.net/media/20260214_071514_67fc35cf.png" home-logo="https://media.chuoichientv.net/media/20260214_071514_67fc35cf.png" away-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" group-title="Chuối TV" start-time="1792296300",JT Marvelous W vs Okayama Seagulls W - Chuối Kem [HD1] — SV.League W
+#EXTINF:-1 tvg-id="cctv_998568_chuoitay" tvg-name="Hitachi W vs Gunma Bank Green Wings W" tvg-logo="https://media.chuoichientv.net/media/20260102_193355_5b8801ab.png" home-logo="https://media.chuoichientv.net/media/20260102_193355_5b8801ab.png" away-logo="https://media.chuoichientv.net/media/20251011_220657_399c6a8e.png" group-title="Chuối TV" start-time="1792299900",Hitachi W vs Gunma Bank Green Wings W - Chuối Tây [HD1] — SV.League W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_998568_chuoitay" tvg-name="Hitachi W vs Gunma Bank Green Wings W" tvg-logo="https://media.chuoichientv.net/media/20260102_193355_5b8801ab.png" home-logo="https://media.chuoichientv.net/media/20260102_193355_5b8801ab.png" away-logo="https://media.chuoichientv.net/media/20251011_220657_399c6a8e.png" group-title="Chuối TV" start-time="1792299900",Hitachi W vs Gunma Bank Green Wings W - Chuối Tây [FHD] — SV.League W
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1622797_chuoinho" tvg-name="Persebaya Surabaya vs PSS Sleman" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_39c4ce6c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_39c4ce6c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134619_ae32ec34.png" group-title="Chuối TV" start-time="1792312200",Persebaya Surabaya vs PSS Sleman - Chuối Nhỏ [FHD] — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
