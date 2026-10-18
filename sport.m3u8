@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 13:20:14 18/10/2026
+## Cập nhật lúc: 13:40:12 18/10/2026
 
 #EXTINF:-1 tvg-id="cctv_998568_chuoitay" tvg-name="Hitachi W vs Gunma Bank Green Wings W" tvg-logo="https://media.chuoichientv.net/media/20260102_193355_5b8801ab.png" home-logo="https://media.chuoichientv.net/media/20260102_193355_5b8801ab.png" away-logo="https://media.chuoichientv.net/media/20251011_220657_399c6a8e.png" group-title="Chuối TV" start-time="1792299900",Hitachi W vs Gunma Bank Green Wings W - Chuối Tây [HD1] — SV.League W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -121,6 +121,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1551001_chuoisay" tvg-name="Monterrey vs Pachuca" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131433_e85dcdc4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131433_e85dcdc4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_2bc770b2.png" group-title="Chuối TV" start-time="1792371600",Monterrey vs Pachuca - Chuối Sấy [FHD] — VĐQG Mexico
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_8yomo4h1j3xnq0j" tvg-name="Fagiano Okayama vs Vissel Kobe" tvg-logo="https://static.sportsfeed.pro/football/team/fb5c6121bf5b351f60ebf8ffd5b9d887.png" home-logo="https://static.sportsfeed.pro/football/team/fb5c6121bf5b351f60ebf8ffd5b9d887.png" away-logo="https://static.sportsfeed.pro/football/team/d85cce27ab583e5b3cead155f02b098a.png" group-title="Gà Vàng TV" start-time="1792299300",Fagiano Okayama vs Vissel Kobe - SiêU QuậY — Japanese J1 League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
