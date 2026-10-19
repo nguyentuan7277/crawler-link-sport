@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:00:21 19/10/2026
+## Cập nhật lúc: 17:20:09 19/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1531010_chuoichao" tvg-name="FarDu vs Metalourg" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142658_72f0bbb2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142658_72f0bbb2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_09716b66.png" group-title="Chuối TV" start-time="1792404000",FarDu vs Metalourg - Chuối Chao [HD1] — Pro League A
+#EXTINF:-1 tvg-id="cctv_1531010_chuoichao" tvg-name="FarDu vs Metalourg" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142658_72f0bbb2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142658_72f0bbb2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_09716b66.png" group-title="Chuối TV" start-time="1792404000",FarDu vs Metalourg - Chuối Chao [FHD] — Pro League A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1633913_chuoisay" tvg-name="TP. Hồ Chí Minh vs Viettel" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" home-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png" group-title="Chuối TV" start-time="1792407600",TP. Hồ Chí Minh vs Viettel - Chuối Sấy [FHD] — V.League 1
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -74,7 +74,49 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_vjxm8ghe1npwr6o" tvg-name="Lee Man vs Kitchee" tvg-logo="https://static.sportsfeed.pro/football/team/8488d5d93a28b78eaeae55758ad25fb5.png" home-logo="https://static.sportsfeed.pro/football/team/8488d5d93a28b78eaeae55758ad25fb5.png" away-logo="https://static.sportsfeed.pro/football/team/8d9561a580262bbe28642af67c42cf83.png" group-title="Gà Vàng TV" start-time="1792405800",Lee Man vs Kitchee - Định mệnh — Chinese Hong Kong Premier League
+#EXTINF:-1 tvg-id="cctv_1622799_chuoisay" tvg-name="Adhyaksa vs Arema FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140543_5edf4a37.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_140543_5edf4a37.png" away-logo="https://media.chuoichientv.net/media/20260913_083933_ccd775e2.png" group-title="Chuối TV" start-time="1792485000",Adhyaksa vs Arema FC - Chuối Sấy [FHD] — VĐQG Indonesia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1531115_chuoinho" tvg-name="Olimpik-Mobiuz vs Yaypan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142652_d58a7037.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142652_d58a7037.png" away-logo="https://media.api-sports.io/football/teams/27588.png" group-title="Chuối TV" start-time="1792490400",Olimpik-Mobiuz vs Yaypan - Chuối Nhỏ [FHD] — Pro League A
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1622800_chuoichao" tvg-name="Dewa United vs Persijap" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134622_a3813d5b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134622_a3813d5b.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_140539_b51e900d.png" group-title="Chuối TV" start-time="1792497600",Dewa United vs Persijap - Chuối Chao [FHD] — VĐQG Indonesia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1637349_chuoila" tvg-name="PSG U19 vs Barcelona U19" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134416_11cf8169.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134416_11cf8169.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134407_0863f8f9.png" group-title="Chuối TV" start-time="1792497600",PSG U19 vs Barcelona U19 - Chuối Lá [FHD] — UEFA Youth League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1637347_chuoikem" tvg-name="Manchester City U19 vs AEK Athens U19" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134414_459543d1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134414_459543d1.png" away-logo="https://media.api-sports.io/football/teams/7944.png" group-title="Chuối TV" start-time="1792504800",Manchester City U19 vs AEK Athens U19 - Chuối Kem [FHD] — UEFA Youth League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1612263_troctru" tvg-name="Wadi Degla vs National Bank of Egypt" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141659_628c1ec3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141659_628c1ec3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130130_1849a67a.png" group-title="Chuối TV" start-time="1792508400",Wadi Degla vs National Bank of Egypt - Trốc Tru [FHD] — Ngoại Hạng Ai Cập 
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1635661_chuoinho" tvg-name="Fenerbahce vs Slavia Praha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125650_26561183.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125650_26561183.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125647_4b493ed1.png" group-title="Chuối TV" start-time="1792514700",Fenerbahce vs Slavia Praha - Chuối Nhỏ [FHD] — UEFA Champions League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_vjxm8ghe1npwr6o" tvg-name="Lee Man vs Kitchee" tvg-logo="https://static.sportsfeed.pro/football/team/8488d5d93a28b78eaeae55758ad25fb5.png" home-logo="https://static.sportsfeed.pro/football/team/8488d5d93a28b78eaeae55758ad25fb5.png" away-logo="https://static.sportsfeed.pro/football/team/8d9561a580262bbe28642af67c42cf83.png" group-title="Gà Vàng TV" start-time="1792405800",Lee Man vs Kitchee - Lá Chanh — Chinese Hong Kong Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
