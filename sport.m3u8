@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:00:06 20/10/2026
+## Cập nhật lúc: 05:20:08 20/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1492414_chuoitay" tvg-name="Corinthians vs Vitoria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_cd0ff28f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_cd0ff28f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_69da02c8.png" group-title="Chuối TV" start-time="1792450800",Corinthians vs Vitoria - Chuối Tây [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -104,6 +104,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_dj2ryohl94pvq1z" tvg-name="CA Newell's Old Boys vs CA Central Cordoba SDE" tvg-logo="https://static.sportsfeed.pro/football/team/845eed665066a19144dad9f96e550b50.png" home-logo="https://static.sportsfeed.pro/football/team/845eed665066a19144dad9f96e550b50.png" away-logo="https://static.sportsfeed.pro/football/team/73eb62698518ab54028aee31105931ae.png" group-title="Gà Vàng TV" start-time="1792447200",CA Newell's Old Boys vs CA Central Cordoba SDE - KAYTI — Argentine Division 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_8yomo4h110kzq0j" tvg-name="Goiás EC vs Nautico" tvg-logo="https://static.sportsfeed.pro/football/team/86cb19586d66a7d65de64a3bad288c1f.png" home-logo="https://static.sportsfeed.pro/football/team/86cb19586d66a7d65de64a3bad288c1f.png" away-logo="https://static.sportsfeed.pro/football/team/1d8d54bfe19b8bfd6d064eda3556f812.png" group-title="Gà Vàng TV" start-time="1792449000",Goiás EC vs Nautico - SiêU QuậY — Brazilian Serie B
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -114,15 +119,10 @@ https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_19732658" tvg-name="Getafe vs Rayo Vallecano" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/getafe-106" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/getafe-106" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rayo-vallecano-377" group-title="BiaomTV" start-time="1792436400",Getafe vs Rayo Vallecano - Lẩu Ếch — VĐQG Tây Ban Nha
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTINF:-1 tvg-id="gavang_x7lm7phjez10m2w" tvg-name="Deportivo Pasto vs Alianza Fútbol Club" tvg-logo="https://static.sportsfeed.pro/football/team/9fbd48de1577477753873c539c3ab106.png" home-logo="https://static.sportsfeed.pro/football/team/9fbd48de1577477753873c539c3ab106.png" away-logo="https://static.sportsfeed.pro/football/team/242d6977e9b86cba5cea704d996edbf8.png" group-title="Gà Vàng TV" start-time="1792458300",Deportivo Pasto vs Alianza Fútbol Club - SiêU QuậY — Categoría Primera A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnRtdGk5MnozM2t0dXozZjR1OGluZWt3cA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19722134" tvg-name="Tottenham Hotspur vs Coventry City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tottenham-hotspur-6" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tottenham-hotspur-6" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/coventry-city-117" group-title="BiaomTV" start-time="1792436400",Tottenham Hotspur vs Coventry City - TRÚC BẠCH — Ngoại Hạng Anh
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnkyNWdicThxcWU1Y2R0MDN1dmt2czBlNg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19813529" tvg-name="Bhayangkara vs PSIM Yogyakarta" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bhayangkara-5631" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bhayangkara-5631" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/psim-yogyakarta-27652" group-title="BiaomTV" start-time="1792497600",Bhayangkara vs PSIM Yogyakarta - ASAHI — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -178,3 +178,8 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI1OTI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmZ
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzMyMjc6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnFzMmdrd3plbWNscmY1MmNnem1zcWViNg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_zrkn6i483pruwql" tvg-name="CLB Newells Old Boys vs Central Cordoba SDE" tvg-logo="https://img.gvapi.cc/football/team/845eed665066a19144dad9f96e550b50.png!w80" home-logo="https://img.gvapi.cc/football/team/845eed665066a19144dad9f96e550b50.png!w80" away-logo="https://img.gvapi.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="Cola TV" start-time="1792447200",CLB Newells Old Boys vs Central Cordoba SDE - BLV AQUA — Giải Bóng đá Vô địch Quốc gia Argentina
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.zhwpg.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
