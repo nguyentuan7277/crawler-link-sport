@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:00:11 20/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1603058_chuoinho" tvg-name="Al-Hilal Saudi FC vs Al-Hazm" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134009_2a638385.png" group-title="Chuối TV" start-time="1792432800",Al-Hilal Saudi FC vs Al-Hazm - Chuối Nhỏ [FHD] — Saudi Pro League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 01:20:10 20/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1603057_chuoito" tvg-name="Al-Fayha vs Al-Ahli Jeddah" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134005_86951109.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134005_86951109.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_e6842fb5.png" group-title="Chuối TV" start-time="1792422300",Al-Fayha vs Al-Ahli Jeddah - Chuối To [FHD] — Saudi Pro League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +13,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1603058_chuoinho" tvg-name="Al-Hilal Saudi FC vs Al-Hazm" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134009_2a638385.png" group-title="Chuối TV" start-time="1792432800",Al-Hilal Saudi FC vs Al-Hazm - Chuối Nhỏ [FHD] — Saudi Pro League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1550154_chuoichao" tvg-name="Parma vs Torino" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_8a506f33.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_8a506f33.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125604_aafec1fd.png" group-title="Chuối TV" start-time="1792435500",Parma vs Torino - Chuối Chao [FHD] — Serie A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
