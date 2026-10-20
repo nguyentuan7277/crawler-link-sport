@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:20:11 20/10/2026
+## Cập nhật lúc: 18:40:16 20/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1531115_chuoinho" tvg-name="Olimpik-Mobiuz vs Yaypan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142652_d58a7037.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142652_d58a7037.png" away-logo="https://media.api-sports.io/football/teams/27588.png" group-title="Chuối TV" start-time="1792490400",Olimpik-Mobiuz vs Yaypan - Chuối Nhỏ [FHD] — Pro League A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -104,6 +104,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_23xmvkh676pyqg8" tvg-name="FC Porto U19 vs PSV Eindhoven U19" tvg-logo="https://static.sportsfeed.pro/football/team/b572dd2ea0433f892aba8d78d2e97bc8.png" home-logo="https://static.sportsfeed.pro/football/team/b572dd2ea0433f892aba8d78d2e97bc8.png" away-logo="https://static.sportsfeed.pro/football/team/bb1ee3913de6db06451968adf4d89a29.png" group-title="Gà Vàng TV" start-time="1792494000",FC Porto U19 vs PSV Eindhoven U19 - SAITAMA — UEFA Youth League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_3glrw7hnv2wdqdy" tvg-name="Bhayangkara Presisi Indonesia FC vs PSIM Yogyakarta" tvg-logo="https://static.sportsfeed.pro/football/team/837cf9a178940067578b7343018e003a.png" home-logo="https://static.sportsfeed.pro/football/team/837cf9a178940067578b7343018e003a.png" away-logo="https://static.sportsfeed.pro/football/team/1a64731cd883e9d734e29a83301ea849.png" group-title="Gà Vàng TV" start-time="1792497600",Bhayangkara Presisi Indonesia FC vs PSIM Yogyakarta - Cá MậP — Indonesian Super League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -203,3 +208,13 @@ https://live05.qioetj.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.qioetj.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_g676jslxdw8cokr" tvg-name="Beijing Shougang vs Guangdong Southern Tigers" tvg-logo="https://img.gvapi.cc/basketball/team/46cf02209721e88c21a85f35faeaa5f1.png!w80" home-logo="https://img.gvapi.cc/basketball/team/46cf02209721e88c21a85f35faeaa5f1.png!w80" away-logo="https://img.gvapi.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="Cola TV" start-time="1792496100",Beijing Shougang vs Guangdong Southern Tigers - BLV ROCKSTAR — Giải bóng rổ nam Trung Quốc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_j374ws9jdeyugko" tvg-name="Ningbo Tingwo vs Shanxi Fenjiu" tvg-logo="https://img.gvapi.cc/basketball/team/9b17d2feb1397b99fa0530fba4c7385b.png!w80" home-logo="https://img.gvapi.cc/basketball/team/9b17d2feb1397b99fa0530fba4c7385b.png!w80" away-logo="https://img.gvapi.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="Cola TV" start-time="1792496100",Ningbo Tingwo vs Shanxi Fenjiu - BLV 247 — Giải bóng rổ nam Trung Quốc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
