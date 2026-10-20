@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:00:09 20/10/2026
+## Cập nhật lúc: 17:20:12 20/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1531115_chuoinho" tvg-name="Olimpik-Mobiuz vs Yaypan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142652_d58a7037.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142652_d58a7037.png" away-logo="https://media.api-sports.io/football/teams/27588.png" group-title="Chuối TV" start-time="1792490400",Olimpik-Mobiuz vs Yaypan - Chuối Nhỏ [HD1] — Pro League A
+#EXTINF:-1 tvg-id="cctv_1531115_chuoinho" tvg-name="Olimpik-Mobiuz vs Yaypan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142652_d58a7037.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142652_d58a7037.png" away-logo="https://media.api-sports.io/football/teams/27588.png" group-title="Chuối TV" start-time="1792490400",Olimpik-Mobiuz vs Yaypan - Chuối Nhỏ [FHD] — Pro League A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1622800_chuoichao" tvg-name="Dewa United vs Persijap" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134622_a3813d5b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134622_a3813d5b.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_140539_b51e900d.png" group-title="Chuối TV" start-time="1792497600",Dewa United vs Persijap - Chuối Chao [FHD] — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -188,3 +188,13 @@ https://cdnhls.xbdbotv.live/live/MTk4NzMyMjc6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnF
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.qioetj.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jek33i8p16gi9ko" tvg-name="FK Olympic Tashkent B vs Yaypan FK" tvg-logo="https://img.gvapi.cc/football/team/44c1dadc2be145799eebb39b4dc72984.png!w80" home-logo="https://img.gvapi.cc/football/team/44c1dadc2be145799eebb39b4dc72984.png!w80" away-logo="https://img.gvapi.cc/football/team/a4f0f6927ad2a2ab41fc8606b0d826cd.png!w80" group-title="Cola TV" start-time="1792490400",FK Olympic Tashkent B vs Yaypan FK - BLV MOUNTAIN DEW — Bóng đá Hạng 2 Uzbekistan
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jr7o9s3gr9nag70" tvg-name="Seoul Knights vs Anyang KGC" tvg-logo="https://img.gvapi.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80" home-logo="https://img.gvapi.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80" away-logo="https://img.gvapi.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80" group-title="Cola TV" start-time="1792490400",Seoul Knights vs Anyang KGC - BLV POCARI — Giải bóng rổ nam Hàn Quốc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
