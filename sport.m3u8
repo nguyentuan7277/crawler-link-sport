@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:20:25 21/10/2026
+## Cập nhật lúc: 15:40:10 21/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1622802_chuoikem" tvg-name="Bali United vs Garudayaksa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" away-logo="https://media.api-sports.io/football/teams/26645.png" group-title="Chuối TV" start-time="1792571400",Bali United vs Garudayaksa - Chuối Kem [HD1] — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -110,11 +110,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_vjxm8ghezdgvr6o" tvg-name="Bali United vs Garudayaksa FC" tvg-logo="https://static.sportsfeed.pro/football/team/09fe2ecf88f68970da755f8655d5da8a.png" home-logo="https://static.sportsfeed.pro/football/team/09fe2ecf88f68970da755f8655d5da8a.png" away-logo="https://static.sportsfeed.pro/football/team/3990ecb8ff4fa39127a6606f4ee53ba2.png" group-title="Gà Vàng TV" start-time="1792571400",Bali United vs Garudayaksa FC - KAYTI — Indonesian Super League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_ednm9wh58zk8ryo" tvg-name="Kasuka FC vs Shan United" tvg-logo="https://static.sportsfeed.pro/football/team/84ae0a3b7a1c1a1cc9cbd45ccd558e72.png" home-logo="https://static.sportsfeed.pro/football/team/84ae0a3b7a1c1a1cc9cbd45ccd558e72.png" away-logo="https://static.sportsfeed.pro/football/team/81591ca25d2179a9877ec9c24bbe59e3.png" group-title="Gà Vàng TV" start-time="1792575000",Kasuka FC vs Shan United - SiêU QuậY — AFC Challenge League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -155,6 +150,11 @@ https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_pxwrxlhyw5xgryk" tvg-name="Yokohama Marinos vs Tokyo Verdy" tvg-logo="https://static.sportsfeed.pro/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png" home-logo="https://static.sportsfeed.pro/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png" away-logo="https://static.sportsfeed.pro/football/team/2a8adb34e764602183a7bee8f51726e4.png" group-title="Gà Vàng TV" start-time="1792576800",Yokohama Marinos vs Tokyo Verdy - RIO — Japanese J1 League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_6ypq3nhvd34ymd7" tvg-name="Urawa Red Diamonds vs JEF United Ichihara Chiba" tvg-logo="https://static.sportsfeed.pro/football/team/ca15e36551392e8c99b53b5b2f8531d3.png" home-logo="https://static.sportsfeed.pro/football/team/ca15e36551392e8c99b53b5b2f8531d3.png" away-logo="https://static.sportsfeed.pro/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png" group-title="Gà Vàng TV" start-time="1792578600",Urawa Red Diamonds vs JEF United Ichihara Chiba - Lữ Bố.vip — Japanese J1 League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -164,6 +164,11 @@ https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l5ergph41xn5r8k" tvg-name="Lion City Sailors vs Tampines Rovers FC" tvg-logo="https://static.sportsfeed.pro/football/team/a17724405028a3e21a2a2372736aa757.png" home-logo="https://static.sportsfeed.pro/football/team/a17724405028a3e21a2a2372736aa757.png" away-logo="https://static.sportsfeed.pro/football/team/23dc72567ad2999491dfe56b50f7df62.png" group-title="Gà Vàng TV" start-time="1792582200",Lion City Sailors vs Tampines Rovers FC - ĐOÀN DỰ — Singapore Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19719112" tvg-name="Avispa Fukuoka vs Gamba Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/avispa-fukuoka-2882" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/avispa-fukuoka-2882" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gamba-osaka-14754" group-title="BiaomTV" start-time="1792576800",Avispa Fukuoka vs Gamba Osaka - Vịt Nướng — VĐQG Nhật Bản
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -224,3 +229,13 @@ https://cdnhls.xbdbotv.live/live/MTk4NzM2OTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmF
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzM2OTA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnZ0YnZuOW5qNGVpOWx4bWVlcjJzaDR4Zg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ndkz6i3w48mbxq3" tvg-name="Bali United vs Garudayaksa FC" tvg-logo="https://img.gvapi.cc/football/team/09fe2ecf88f68970da755f8655d5da8a.png!w80" home-logo="https://img.gvapi.cc/football/team/09fe2ecf88f68970da755f8655d5da8a.png!w80" away-logo="https://img.gvapi.cc/football/team/015df51660b2918c97305936453e454c.png!w80" group-title="Cola TV" start-time="1792571400",Bali United vs Garudayaksa FC - BLV TEPPY — Giải bóng đá Liga 1 Indonesia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/33860426_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_l6kersmdljdcvq5" tvg-name="Tasmania JackNgười Nhảy vs Brisbane Bullets" tvg-logo="https://img.gvapi.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80" home-logo="https://img.gvapi.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80" away-logo="https://img.gvapi.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" group-title="Cola TV" start-time="1792571400",Tasmania JackNgười Nhảy vs Brisbane Bullets - BLV POCARI — Liên đoàn Bóng rổ Quốc gia Úc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
