@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 03:20:22 22/10/2026
+## Cập nhật lúc: 03:40:24 22/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1635621_chuoitay" tvg-name="Aston Villa vs Viking" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133438_3983bb8a.png" group-title="Chuối TV" start-time="1792609200",Aston Villa vs Viking - Chuối Tây [FHD] — UEFA Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -55,6 +55,41 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hx9y26qo9" tvg-name="Aston Villa vs Viking" tvg-logo="https://static.sportsfeed.pro/football/team/a3c32d6a906083118cac2cb796edaab3.png" home-logo="https://static.sportsfeed.pro/football/team/a3c32d6a906083118cac2cb796edaab3.png" away-logo="https://static.sportsfeed.pro/football/team/2fa0840e0cb77fd66f104fa932302a72.png" group-title="Gà Vàng TV" start-time="1792609200",Aston Villa vs Viking - GIàng A Dân — UEFA Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_6ypq3nhv2ye9md7" tvg-name="Bayern Munich vs Arsenal" tvg-logo="https://static.sportsfeed.pro/football/team/ef19a84a6745fe57aa786873d2b18e8a.png" home-logo="https://static.sportsfeed.pro/football/team/ef19a84a6745fe57aa786873d2b18e8a.png" away-logo="https://static.sportsfeed.pro/football/team/d6f5debc456da1119256ab66462ab510.png" group-title="Gà Vàng TV" start-time="1792609200",Bayern Munich vs Arsenal - CRIS — UEFA Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hx9yg6qo9" tvg-name="Club Brugge vs Lens" tvg-logo="https://static.sportsfeed.pro/football/team/2e9f652d28ec91e0b66c0b714bff8d78.png" home-logo="https://static.sportsfeed.pro/football/team/2e9f652d28ec91e0b66c0b714bff8d78.png" away-logo="https://static.sportsfeed.pro/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png" group-title="Gà Vàng TV" start-time="1792609200",Club Brugge vs Lens - Lữ Bố.vip — UEFA Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y39mp1h6xg0dmoj" tvg-name="Inter vs FC Shakhtar Donetsk" tvg-logo="https://static.sportsfeed.pro/football/team/aa2245702c40f77799a5ad4b119581a8.png" home-logo="https://static.sportsfeed.pro/football/team/aa2245702c40f77799a5ad4b119581a8.png" away-logo="https://static.sportsfeed.pro/football/team/141bcf6ab6d0bc7b8c67dc5eeb9f347d.png" group-title="Gà Vàng TV" start-time="1792609200",Inter vs FC Shakhtar Donetsk - Cá MậP — UEFA Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_n54qllhnlgzeqvy" tvg-name="Real Betis vs Feyenoord" tvg-logo="https://static.sportsfeed.pro/football/team/018e260ad68bdad741c61e3171c4c608.png" home-logo="https://static.sportsfeed.pro/football/team/018e260ad68bdad741c61e3171c4c608.png" away-logo="https://static.sportsfeed.pro/football/team/44073f2d2c979a9388f98505ac3b754d.png" group-title="Gà Vàng TV" start-time="1792609200",Real Betis vs Feyenoord - Lá Chanh — UEFA Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnh98o9lm7v" tvg-name="Real Madrid vs RB Leipzig" tvg-logo="https://static.sportsfeed.pro/football/team/7dacaa934fe4be00f23c1e209b5ef947.png" home-logo="https://static.sportsfeed.pro/football/team/7dacaa934fe4be00f23c1e209b5ef947.png" away-logo="https://static.sportsfeed.pro/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png" group-title="Gà Vàng TV" start-time="1792609200",Real Madrid vs RB Leipzig - SAITAMA — UEFA Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y39mp1h6xgddmoj" tvg-name="SCP vs LASK Linz" tvg-logo="https://static.sportsfeed.pro/football/team/6a5153c73922a32013b9bc6cfbc20b26.png" home-logo="https://static.sportsfeed.pro/football/team/6a5153c73922a32013b9bc6cfbc20b26.png" away-logo="https://static.sportsfeed.pro/football/team/5d33f831f779428858138d28c9dd4480.png" group-title="Gà Vàng TV" start-time="1792609200",SCP vs LASK Linz - SimonZ — UEFA Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ad087284c3981dd68475913.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_k82rekh2zo4zrep" tvg-name="Torque vs Atlético Mineiro - MG" tvg-logo="https://static.sportsfeed.pro/football/team/bb5004650a388d73f47cc3ca08623cc8.png" home-logo="https://static.sportsfeed.pro/football/team/bb5004650a388d73f47cc3ca08623cc8.png" away-logo="https://static.sportsfeed.pro/football/team/079e86cebd6511ce807cc6073a3e26ee.png" group-title="Gà Vàng TV" start-time="1792620000",Torque vs Atlético Mineiro - MG - cố tư nghiêm — CONMEBOL Copa Sudamericana
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
