@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 12:00:07 21/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1551005_chuoikem" tvg-name="Tigres UANL vs Leon" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133406_3bc30a80.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133406_3bc30a80.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_fbad589d.png" group-title="Chuối TV" start-time="1792551600",Tigres UANL vs Leon - Chuối Kem [FHD] — VĐQG Mexico
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 12:20:09 21/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1622802_chuoitay" tvg-name="Bali United vs Garudayaksa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" away-logo="https://media.api-sports.io/football/teams/26645.png" group-title="Chuối TV" start-time="1792571400",Bali United vs Garudayaksa - Chuối Tây [FHD] — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -116,16 +110,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_jw2r09hkd0nnrz8" tvg-name="Tigres UANL vs Club Leon" tvg-logo="https://static.sportsfeed.pro/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png" home-logo="https://static.sportsfeed.pro/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png" away-logo="https://static.sportsfeed.pro/football/team/4695f653aca6ac49ff2baa4a961fa67b.png" group-title="Gà Vàng TV" start-time="1792552200",Tigres UANL vs Club Leon - A Long — Mexico Liga MX
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_ednm9whwlw89ryo" tvg-name="Montedio Yamagata vs Consadole Sapporo" tvg-logo="https://static.sportsfeed.pro/football/team/5f12aeb3876fe101ab8b486ff9ea679a.png" home-logo="https://static.sportsfeed.pro/football/team/5f12aeb3876fe101ab8b486ff9ea679a.png" away-logo="https://static.sportsfeed.pro/football/team/2a2a5d251c157be485891c94a1e1a495.png" group-title="Gà Vàng TV" start-time="1792555200",Montedio Yamagata vs Consadole Sapporo - MáN NúI — Japanese J2 League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_19719112" tvg-name="Avispa Fukuoka vs Gamba Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/avispa-fukuoka-2882" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/avispa-fukuoka-2882" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gamba-osaka-14754" group-title="BiaomTV" start-time="1792576800",Avispa Fukuoka vs Gamba Osaka - Vịt Nướng — VĐQG Nhật Bản
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -185,11 +169,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzM2OTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmF
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzM2OTA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnZ0YnZuOW5qNGVpOWx4bWVlcjJzaDR4Zg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_xvkjoi8ynmmh879" tvg-name="Tigres vs Club Leon" tvg-logo="https://img.gvapi.cc/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png!w80" home-logo="https://img.gvapi.cc/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png!w80" away-logo="https://img.gvapi.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png!w80" group-title="Cola TV" start-time="1792552200",Tigres vs Club Leon - BLV GIÀ LÀNG — Giải Vô địch Bóng đá Quốc gia Mexico
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.qioetj.app/live/14830711_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_jek33i8r8xjh9ko" tvg-name="CLB Yamagata vs Hokkaido Consadole Sapporo" tvg-logo="https://img.gvapi.cc/football/team/5f12aeb3876fe101ab8b486ff9ea679a.png!w80" home-logo="https://img.gvapi.cc/football/team/5f12aeb3876fe101ab8b486ff9ea679a.png!w80" away-logo="https://img.gvapi.cc/football/team/2a2a5d251c157be485891c94a1e1a495.png!w80" group-title="Cola TV" start-time="1792555200",CLB Yamagata vs Hokkaido Consadole Sapporo - BLV BÍ ĐAO — Giải bóng đá hạng nhì Nhật Bản
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
