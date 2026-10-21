@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:00:18 21/10/2026
+## Cập nhật lúc: 15:20:25 21/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1622802_chuoitay" tvg-name="Bali United vs Garudayaksa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" away-logo="https://media.api-sports.io/football/teams/26645.png" group-title="Chuối TV" start-time="1792571400",Bali United vs Garudayaksa - Chuối Tây [FHD] — VĐQG Indonesia
+#EXTINF:-1 tvg-id="cctv_1622802_chuoikem" tvg-name="Bali United vs Garudayaksa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" away-logo="https://media.api-sports.io/football/teams/26645.png" group-title="Chuối TV" start-time="1792571400",Bali United vs Garudayaksa - Chuối Kem [HD1] — VĐQG Indonesia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1556107_chuoitay" tvg-name="Shimizu S-pulse vs Machida Zelvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132409_e59d2efe.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132409_e59d2efe.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132416_e9d110f2.png" group-title="Chuối TV" start-time="1792576800",Shimizu S-pulse vs Machida Zelvia - Chuối Tây [FHD] — J1 League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1556107_chuoikem" tvg-name="Shimizu S-pulse vs Machida Zelvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132409_e59d2efe.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132409_e59d2efe.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132416_e9d110f2.png" group-title="Chuối TV" start-time="1792576800",Shimizu S-pulse vs Machida Zelvia - Chuối Kem [FHD] — J1 League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1637356_chuoinho" tvg-name="Como U19 vs Manchester United U19" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143950_6df9c0b7.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_143950_6df9c0b7.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134419_6dff7e1a.png" group-title="Chuối TV" start-time="1792580400",Como U19 vs Manchester United U19 - Chuối Nhỏ [FHD] — UEFA Youth League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -154,11 +154,6 @@ https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_pxwrxlhyw5xgryk" tvg-name="Yokohama Marinos vs Tokyo Verdy" tvg-logo="https://static.sportsfeed.pro/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png" home-logo="https://static.sportsfeed.pro/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png" away-logo="https://static.sportsfeed.pro/football/team/2a8adb34e764602183a7bee8f51726e4.png" group-title="Gà Vàng TV" start-time="1792576800",Yokohama Marinos vs Tokyo Verdy - RIO — Japanese J1 League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_6ypq3nhvd34ymd7" tvg-name="Urawa Red Diamonds vs JEF United Ichihara Chiba" tvg-logo="https://static.sportsfeed.pro/football/team/ca15e36551392e8c99b53b5b2f8531d3.png" home-logo="https://static.sportsfeed.pro/football/team/ca15e36551392e8c99b53b5b2f8531d3.png" away-logo="https://static.sportsfeed.pro/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png" group-title="Gà Vàng TV" start-time="1792578600",Urawa Red Diamonds vs JEF United Ichihara Chiba - Lữ Bố.vip — Japanese J1 League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
