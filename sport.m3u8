@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:40:07 22/10/2026
+## Cập nhật lúc: 06:00:07 22/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1490439_troctru" tvg-name="FC Cincinnati vs DC United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131611_88284967.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131611_88284967.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131609_875a8901.png" group-title="Chuối TV" start-time="1792623600",FC Cincinnati vs DC United - Trốc Tru [FHD] — Major League Soccer
+#EXTINF:-1 tvg-id="cctv_1490439_troctru" tvg-name="FC Cincinnati vs DC United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131611_88284967.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131611_88284967.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131609_875a8901.png" group-title="Chuối TV" start-time="1792623600",FC Cincinnati vs DC United - Trốc Tru [HD1] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1551006_chuoikem" tvg-name="Atlas vs Club America" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133838_cc0218cf.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133838_cc0218cf.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png" group-title="Chuối TV" start-time="1792630800",Atlas vs Club America - Chuối Kem [FHD] — VĐQG Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,11 +19,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_4wyrn4h6l5z7q86" tvg-name="FC Cincinnati vs DC United" tvg-logo="https://static.sportsfeed.pro/football/team/1d14acf20b6647d3bf1f70959a875c8f.png" home-logo="https://static.sportsfeed.pro/football/team/1d14acf20b6647d3bf1f70959a875c8f.png" away-logo="https://static.sportsfeed.pro/football/team/2d846f3eea3e2d5067b26de498f83d94.png" group-title="Gà Vàng TV" start-time="1792623600",FC Cincinnati vs DC United - MáN NúI — United States Major League Soccer
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l7oqdehjnnn3r51" tvg-name="Columbus Crew vs St. Louis City SC" tvg-logo="https://static.sportsfeed.pro/football/team/b6d8f81e8454813b3e672b179e627d3a.png" home-logo="https://static.sportsfeed.pro/football/team/b6d8f81e8454813b3e672b179e627d3a.png" away-logo="https://static.sportsfeed.pro/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png" group-title="Gà Vàng TV" start-time="1792627200",Columbus Crew vs St. Louis City SC - KAYTI — United States Open Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -129,3 +124,8 @@ https://live05.qioetj.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.qioetj.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_527rjswd645a4ke" tvg-name="Washington Wizards vs Milwaukee Bucks" tvg-logo="https://img.gvapi.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" home-logo="https://img.gvapi.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" away-logo="https://img.gvapi.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80" group-title="Cola TV" start-time="1792623600",Washington Wizards vs Milwaukee Bucks - BLV ROCKSTAR — Hiệp hội Bóng rổ Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
