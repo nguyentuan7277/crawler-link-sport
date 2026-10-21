@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 13:20:07 21/10/2026
+## Cập nhật lúc: 13:40:14 21/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1622802_chuoitay" tvg-name="Bali United vs Garudayaksa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" away-logo="https://media.api-sports.io/football/teams/26645.png" group-title="Chuối TV" start-time="1792571400",Bali United vs Garudayaksa - Chuối Tây [FHD] — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -114,6 +114,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_ednm9wh58zk8ryo" tvg-name="Kasuka FC vs Shan United" tvg-logo="https://static.sportsfeed.pro/football/team/84ae0a3b7a1c1a1cc9cbd45ccd558e72.png" home-logo="https://static.sportsfeed.pro/football/team/84ae0a3b7a1c1a1cc9cbd45ccd558e72.png" away-logo="https://static.sportsfeed.pro/football/team/81591ca25d2179a9877ec9c24bbe59e3.png" group-title="Gà Vàng TV" start-time="1792575000",Kasuka FC vs Shan United - SiêU QuậY — AFC Challenge League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19719112" tvg-name="Avispa Fukuoka vs Gamba Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/avispa-fukuoka-2882" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/avispa-fukuoka-2882" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gamba-osaka-14754" group-title="BiaomTV" start-time="1792576800",Avispa Fukuoka vs Gamba Osaka - Vịt Nướng — VĐQG Nhật Bản
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
