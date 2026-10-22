@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 07:40:08 22/10/2026
+## Cập nhật lúc: 08:00:08 22/10/2026
+
+#EXTINF:-1 tvg-id="cctv_1551006_chuoikem" tvg-name="Atlas vs Club America" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133838_cc0218cf.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133838_cc0218cf.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png" group-title="Chuối TV" start-time="1792630800",Atlas vs Club America - Chuối Kem [HD1] — VĐQG Mexico
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1490439_troctru" tvg-name="FC Cincinnati vs DC United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131611_88284967.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131611_88284967.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131609_875a8901.png" group-title="Chuối TV" start-time="1792623600",FC Cincinnati vs DC United - Trốc Tru [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -8,37 +14,112 @@
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1551006_chuoikem" tvg-name="Atlas vs Club America" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133838_cc0218cf.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133838_cc0218cf.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png" group-title="Chuối TV" start-time="1792630800",Atlas vs Club America - Chuối Kem [FHD] — VĐQG Mexico
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cctv_1551010_chuoisay" tvg-name="Santos Laguna vs U.N.A.M. - Pumas" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133838_4f6c2505.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133838_4f6c2505.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133409_8be40e19.png" group-title="Chuối TV" start-time="1792638000",Santos Laguna vs U.N.A.M. - Pumas - Chuối Sấy [FHD] — VĐQG Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_k82rekh2zo4zrep" tvg-name="Torque vs Atlético Mineiro - MG" tvg-logo="https://static.sportsfeed.pro/football/team/bb5004650a388d73f47cc3ca08623cc8.png" home-logo="https://static.sportsfeed.pro/football/team/bb5004650a388d73f47cc3ca08623cc8.png" away-logo="https://static.sportsfeed.pro/football/team/079e86cebd6511ce807cc6073a3e26ee.png" group-title="Gà Vàng TV" start-time="1792620000",Torque vs Atlético Mineiro - MG - cố tư nghiêm — CONMEBOL Copa Sudamericana
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1622804_chuoichao" tvg-name="Persik Kediri vs PSS Sleman" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134620_da259809.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134620_da259809.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134619_ae32ec34.png" group-title="Chuối TV" start-time="1792657800",Persik Kediri vs PSS Sleman - Chuối Chao [FHD] — VĐQG Indonesia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1634983_chuoitay" tvg-name="Văn Hiến vs Đồng Tháp" tvg-logo="https://media.api-sports.io/football/teams/26603.png" home-logo="https://media.api-sports.io/football/teams/26603.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_f9a41cc0.png" group-title="Chuối TV" start-time="1792663200",Văn Hiến vs Đồng Tháp - Chuối Tây [FHD] — V.League 2
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1634984_chuoisay" tvg-name="Xuan Thien Phu Tho vs PVF-CAND" tvg-logo="https://media.api-sports.io/football/teams/26745.png" home-logo="https://media.api-sports.io/football/teams/26745.png" away-logo="https://media.chuoichientv.net/media/20250817_040457_e299eb36.png" group-title="Chuối TV" start-time="1792666800",Xuan Thien Phu Tho vs PVF-CAND - Chuối Sấy [FHD] — V.League 2
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1622806_chuoila" tvg-name="Persepam Madura Utd vs Persib Bandung" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_ea998238.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_ea998238.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134451_f0892f53.png" group-title="Chuối TV" start-time="1792670400",Persepam Madura Utd vs Persib Bandung - Chuối Lá [FHD] — VĐQG Indonesia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1633914_angao" tvg-name="Công An Hà Nội vs Thanh Hóa" tvg-logo="https://media.chuoichientv.net/media/20250823_192612_72e9a551.webp" home-logo="https://media.chuoichientv.net/media/20250823_192612_72e9a551.webp" away-logo="https://media.chuoichientv.net/media/20250817_040540_cdc05b23.png" group-title="Chuối TV" start-time="1792671300",Công An Hà Nội vs Thanh Hóa - Chuối Già [FHD] — V.League 1
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1603065_troctru" tvg-name="Al-Hazm vs Al-Fayha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134009_2a638385.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134009_2a638385.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134005_86951109.png" group-title="Chuối TV" start-time="1792676400",Al-Hazm vs Al-Fayha - Trốc Tru [FHD] — Saudi Pro League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636434_chuoinho" tvg-name="Kairat Almaty vs Panathinaikos" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132450_f5f26915.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132450_f5f26915.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130221_d0b5abb2.png" group-title="Chuối TV" start-time="1792679400",Kairat Almaty vs Panathinaikos - Chuối Nhỏ [FHD] — UEFA Europa Conference League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636397_chuoichao" tvg-name="FK Crvena Zvezda vs FC Copenhagen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125649_f7535d07.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125649_f7535d07.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130611_87bcfaa1.png" group-title="Chuối TV" start-time="1792687500",FK Crvena Zvezda vs FC Copenhagen - Chuối Chao [FHD] — UEFA Europa Conference League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636430_chuoikem" tvg-name="FK Jablonec vs Brighton" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134751_808f75ce.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134751_808f75ce.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_d9b536ef.png" group-title="Chuối TV" start-time="1792687500",FK Jablonec vs Brighton - Chuối Kem [FHD] — UEFA Europa Conference League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636276_chuoitay" tvg-name="Juventus vs Rennes" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_ea0cc895.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_ea0cc895.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125515_505c803f.png" group-title="Chuối TV" start-time="1792687500",Juventus vs Rennes - Chuối Tây [FHD] — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636303_chuoisay" tvg-name="OFI vs Bayer Leverkusen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130224_7b46c5fc.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130224_7b46c5fc.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125556_780bfce1.png" group-title="Chuối TV" start-time="1792687500",OFI vs Bayer Leverkusen - Chuối Sấy [FHD] — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636340_chuoila" tvg-name="Sturm Graz vs Marseille" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_3b9e9923.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_3b9e9923.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125511_cf0f54fc.png" group-title="Chuối TV" start-time="1792687500",Sturm Graz vs Marseille - Chuối Lá [FHD] — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636234_troctru" tvg-name="Besiktas vs Crystal Palace" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_3a5b60eb.png" group-title="Chuối TV" start-time="1792695600",Besiktas vs Crystal Palace - Trốc Tru [FHD] — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636235_angao" tvg-name="Bournemouth vs AC Milan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_e668d998.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_e668d998.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" group-title="Chuối TV" start-time="1792695600",Bournemouth vs AC Milan - Chuối Già [FHD] — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636454_chuoinho" tvg-name="Monaco vs SC Freiburg" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125514_371080d3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125514_371080d3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_54f643a6.png" group-title="Chuối TV" start-time="1792695600",Monaco vs SC Freiburg - Chuối Nhỏ [FHD] — UEFA Europa Conference League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1636311_chuoikem" tvg-name="Omonia Nicosia vs Benfica" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134705_48a34322.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134705_48a34322.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png" group-title="Chuối TV" start-time="1792695600",Omonia Nicosia vs Benfica - Chuối Kem [FHD] — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_4wyrn4h6l5z7q86" tvg-name="FC Cincinnati vs DC United" tvg-logo="https://static.sportsfeed.pro/football/team/1d14acf20b6647d3bf1f70959a875c8f.png" home-logo="https://static.sportsfeed.pro/football/team/1d14acf20b6647d3bf1f70959a875c8f.png" away-logo="https://static.sportsfeed.pro/football/team/2d846f3eea3e2d5067b26de498f83d94.png" group-title="Gà Vàng TV" start-time="1792623600",FC Cincinnati vs DC United - MáN NúI — United States Major League Soccer
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_l7oqdehgz364r51" tvg-name="Atlas vs Club America" tvg-logo="https://static.sportsfeed.pro/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png" home-logo="https://static.sportsfeed.pro/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png" away-logo="https://static.sportsfeed.pro/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png" group-title="Gà Vàng TV" start-time="1792630800",Atlas vs Club America - MeoMeo — Mexico Liga MX
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_dj2ryohl3xygq1z" tvg-name="Puebla vs Rayados de Monterrey" tvg-logo="https://static.sportsfeed.pro/football/team/a98bd615308472b65dc82bcc3a2d54fb.png" home-logo="https://static.sportsfeed.pro/football/team/a98bd615308472b65dc82bcc3a2d54fb.png" away-logo="https://static.sportsfeed.pro/football/team/5c3f819a35454f424d85df5757650f8b.png" group-title="Gà Vàng TV" start-time="1792630800",Puebla vs Rayados de Monterrey - cố tư nghiêm — Mexico Liga MX
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_pxwrxlhyo5opryk" tvg-name="Independiente Santa Fe vs Jaguares de Cordoba" tvg-logo="https://static.sportsfeed.pro/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png" home-logo="https://static.sportsfeed.pro/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png" away-logo="https://static.sportsfeed.pro/football/team/b7f3a068b301edd82ad4c56496f41063.png" group-title="Gà Vàng TV" start-time="1792632000",Independiente Santa Fe vs Jaguares de Cordoba - KAYTI — Categoría Primera A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -144,3 +225,13 @@ https://live05.qioetj.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.qioetj.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_9gklzi5l3x6hm7x" tvg-name="Palmeiras vs Fluminense RJ" tvg-logo="https://img.gvapi.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80" home-logo="https://img.gvapi.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80" away-logo="https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80" group-title="Cola TV" start-time="1792629000",Palmeiras vs Fluminense RJ - BLV MOUNTAIN DEW — Giải Vô địch các Câu lạc bộ Nam Mỹ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_zrkn6i4gelncwql" tvg-name="CLB Puebla vs Monterrey" tvg-logo="https://img.gvapi.cc/football/team/a98bd615308472b65dc82bcc3a2d54fb.png!w80" home-logo="https://img.gvapi.cc/football/team/a98bd615308472b65dc82bcc3a2d54fb.png!w80" away-logo="https://img.gvapi.cc/football/team/5c3f819a35454f424d85df5757650f8b.png!w80" group-title="Cola TV" start-time="1792630800",CLB Puebla vs Monterrey - BLV SAMURAI — Giải Vô địch Bóng đá Quốc gia Mexico
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
