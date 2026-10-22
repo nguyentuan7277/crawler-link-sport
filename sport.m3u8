@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:40:10 22/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1603065_troctru" tvg-name="Al-Hazm vs Al-Fayha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134009_2a638385.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134009_2a638385.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134005_86951109.png" group-title="Chuối TV" start-time="1792676400",Al-Hazm vs Al-Fayha - Trốc Tru [HD1] — Saudi Pro League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 21:00:18 22/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1634984_chuoisay" tvg-name="Xuan Thien Phu Tho vs PVF-CAND" tvg-logo="https://media.api-sports.io/football/teams/26745.png" home-logo="https://media.api-sports.io/football/teams/26745.png" away-logo="https://media.chuoichientv.net/media/20250817_040457_e299eb36.png" group-title="Chuối TV" start-time="1792666800",Xuan Thien Phu Tho vs PVF-CAND - Chuối Sấy [FHD] — V.League 2
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +19,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1603065_troctru" tvg-name="Al-Hazm vs Al-Fayha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134009_2a638385.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134009_2a638385.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134005_86951109.png" group-title="Chuối TV" start-time="1792676400",Al-Hazm vs Al-Fayha - Trốc Tru [FHD] — Saudi Pro League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1636434_chuoinho" tvg-name="Kairat Almaty vs Panathinaikos" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132450_f5f26915.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132450_f5f26915.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130221_d0b5abb2.png" group-title="Chuối TV" start-time="1792679400",Kairat Almaty vs Panathinaikos - Chuối Nhỏ [FHD] — UEFA Europa Conference League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -103,26 +103,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_2y8m4zh5oj2jql0" tvg-name="Al Shahaniya vs Al Sadd" tvg-logo="https://static.sportsfeed.pro/football/team/7e9f03a408f176192cac0fbe6185f2d6.png" home-logo="https://static.sportsfeed.pro/football/team/7e9f03a408f176192cac0fbe6185f2d6.png" away-logo="https://static.sportsfeed.pro/football/team/5c794bfbf3227563c85323bb624721ec.png" group-title="Gà Vàng TV" start-time="1792679400",Al Shahaniya vs Al Sadd - RIO — Qatar Stars League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_6ypq3nhv2xg8md7" tvg-name="FC Kairat Almaty vs Panathinaikos" tvg-logo="https://static.sportsfeed.pro/football/team/3ef04912f88c3166f1a47864cde71949.png" home-logo="https://static.sportsfeed.pro/football/team/3ef04912f88c3166f1a47864cde71949.png" away-logo="https://static.sportsfeed.pro/football/team/bd7aa5be4c2c9a2f20e6597ee2c1738b.png" group-title="Gà Vàng TV" start-time="1792679400",FC Kairat Almaty vs Panathinaikos - THICHDUTHU — UEFA Europa Conference League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_dj2ryohlo3e5q1z" tvg-name="Al Fateh vs Al-Shabab FC" tvg-logo="https://static.sportsfeed.pro/football/team/625f099ab7eeec5bde434ec68723fdff.png" home-logo="https://static.sportsfeed.pro/football/team/625f099ab7eeec5bde434ec68723fdff.png" away-logo="https://static.sportsfeed.pro/football/team/b16d1e3b04364c5cd64203d8b4ef76e2.png" group-title="Gà Vàng TV" start-time="1792680300",Al Fateh vs Al-Shabab FC - ĐOÀN DỰ — Saudi Professional League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19813534" tvg-name="Madura United vs Persib" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/madura-united-7188" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/madura-united-7188" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="BiaomTV" start-time="1792670400",Madura United vs Persib - TRÚC BẠCH — VĐQG Indonesia
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk4MTM1MzQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOng5YTV5aGQ0cjA1bnQ2aGozaDJubmpsaA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19872923" tvg-name="Công an Hà Nội vs Đông Á Thanh Hoá" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ong-a-thanh-hoa-11246" group-title="BiaomTV" start-time="1792671300",Công an Hà Nội vs Đông Á Thanh Hoá - TÔM CHIÊN — VĐQG Việt Nam
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
