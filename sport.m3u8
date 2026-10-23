@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:20:12 23/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1603063_chuoila" tvg-name="Al-Faisaly FC vs Al-Nassr" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134008_ab62e860.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134008_ab62e860.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png" group-title="Chuối TV" start-time="1792762200",Al-Faisaly FC vs Al-Nassr - Chuối Lá [HD1] — Saudi Pro League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 20:40:18 23/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1633916_chuoisay" tvg-name="Viettel vs Bắc Ninh" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png" away-logo="https://media.api-sports.io/football/teams/26601.png" group-title="Chuối TV" start-time="1792757700",Viettel vs Bắc Ninh - Chuối Sấy [FHD] — V.League 1
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1603063_chuoila" tvg-name="Al-Faisaly FC vs Al-Nassr" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134008_ab62e860.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134008_ab62e860.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png" group-title="Chuối TV" start-time="1792762200",Al-Faisaly FC vs Al-Nassr - Chuối Lá [FHD] — Saudi Pro League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1603066_chuoichao" tvg-name="Al-Ittihad FC vs Al Diriyah" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134004_7d88a6fc.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134004_7d88a6fc.png" away-logo="https://media.api-sports.io/football/teams/26738.png" group-title="Chuối TV" start-time="1792769400",Al-Ittihad FC vs Al Diriyah - Chuối Chao [FHD] — Saudi Pro League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -80,10 +80,20 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_ednm9whw1y80ryo" tvg-name="Becamex Binh Duong vs Thai Nguyen" tvg-logo="https://static.sportsfeed.pro/football/team/8781d3f729c7f3a9baacbee4385f7c84.png" home-logo="https://static.sportsfeed.pro/football/team/8781d3f729c7f3a9baacbee4385f7c84.png" away-logo="https://static.sportsfeed.pro/football/team/5bc47b0c1409c6deb22abf1bf86f1ef0.png" group-title="Gà Vàng TV" start-time="1792753200",Becamex Binh Duong vs Thai Nguyen - Lá Chanh — Vietnam National First Class League
+#EXTINF:-1 tvg-id="gavang_x7lm7phj486om2w" tvg-name="Ahal FK vs Al Ansar SC" tvg-logo="https://static.sportsfeed.pro/football/team/9e711eed66626f029224625549071450.png" home-logo="https://static.sportsfeed.pro/football/team/9e711eed66626f029224625549071450.png" away-logo="https://static.sportsfeed.pro/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png" group-title="Gà Vàng TV" start-time="1792756800",Ahal FK vs Al Ansar SC - SimonZ — AFC Challenge League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ad087284c3981dd68475913.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyhkp5wnr1g" tvg-name="Viettel vs TDTT Bac Ninh" tvg-logo="https://static.sportsfeed.pro/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png" home-logo="https://static.sportsfeed.pro/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png" away-logo="https://static.sportsfeed.pro/football/team/40b7d679de613aedfb80bcaba85fa7e0.png" group-title="Gà Vàng TV" start-time="1792757700",Viettel vs TDTT Bac Ninh - SAITAMA — Vietnam National Champion League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66h8z5j1qo9" tvg-name="Fujairah vs Al-Wahda FC" tvg-logo="https://static.sportsfeed.pro/football/team/d20e05eaa26e170108d9d29c7b48504e.png" home-logo="https://static.sportsfeed.pro/football/team/d20e05eaa26e170108d9d29c7b48504e.png" away-logo="https://static.sportsfeed.pro/football/team/da5a07224920e4856d3b14e7e1a86741.png" group-title="Gà Vàng TV" start-time="1792760100",Fujairah vs Al-Wahda FC - Cá MậP — United Arab Emirates President Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l7oqdehgpz8er51" tvg-name="Al Faisaly Harmah vs Al Nassr" tvg-logo="https://static.sportsfeed.pro/football/team/4e9f55c1006ca24b2b535054a52187e8.png" home-logo="https://static.sportsfeed.pro/football/team/4e9f55c1006ca24b2b535054a52187e8.png" away-logo="https://static.sportsfeed.pro/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png" group-title="Gà Vàng TV" start-time="1792762200",Al Faisaly Harmah vs Al Nassr - CRIS — Saudi Professional League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -100,10 +110,45 @@ https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_x7lm7phjy9j0m2w" tvg-name="FC Pyunik vs Gandzasar" tvg-logo="https://static.sportsfeed.pro/football/team/73bbf9f60325dd616ffed763f958f36d.png" home-logo="https://static.sportsfeed.pro/football/team/73bbf9f60325dd616ffed763f958f36d.png" away-logo="https://static.sportsfeed.pro/football/team/c00f2b8a2f32ddbc2fa44bb8f7c73a6b.png" group-title="Gà Vàng TV" start-time="1792767600",FC Pyunik vs Gandzasar - RIO — Armenian Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_23xmvkh6139xqg8" tvg-name="Torpedo Moskva vs Rotor Volgograd" tvg-logo="https://static.sportsfeed.pro/football/team/96f0d5ec582ed73e580e646551127d0e.png" home-logo="https://static.sportsfeed.pro/football/team/96f0d5ec582ed73e580e646551127d0e.png" away-logo="https://static.sportsfeed.pro/football/team/6ae485ecee17acfc249fa06c8500d0a0.png" group-title="Gà Vàng TV" start-time="1792767600",Torpedo Moskva vs Rotor Volgograd - NGƯỜI KIẾN — Russian First League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_8yomo4h1pjg4q0j" tvg-name="Al-Ittihad Club vs Al Draih" tvg-logo="https://static.sportsfeed.pro/football/team/dea986d20115216c05d1a45ba9a6162e.png" home-logo="https://static.sportsfeed.pro/football/team/dea986d20115216c05d1a45ba9a6162e.png" away-logo="https://static.sportsfeed.pro/football/team/40d58121de465f839f09c6cd8db668d2.png" group-title="Gà Vàng TV" start-time="1792769400",Al-Ittihad Club vs Al Draih - SimonZ — Saudi Professional League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ad087284c3981dd68475913.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dn1m1gh9vw8gmoe" tvg-name="Al-Nasr Dubai vs Baniyas Club" tvg-logo="https://static.sportsfeed.pro/football/team/2011473c10a119e01f2085bb836b62b2.png" home-logo="https://static.sportsfeed.pro/football/team/2011473c10a119e01f2085bb836b62b2.png" away-logo="https://static.sportsfeed.pro/football/team/25a7ebe2fc19902b896b3a184ef420c9.png" group-title="Gà Vàng TV" start-time="1792771200",Al-Nasr Dubai vs Baniyas Club - Cá MậP — United Arab Emirates President Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_23xmvkh6z185qg8" tvg-name="Motor Lublin vs Zaglebie Lubin" tvg-logo="https://static.sportsfeed.pro/football/team/35a7a15e3999424a0c7161e876e9afc9.png" home-logo="https://static.sportsfeed.pro/football/team/35a7a15e3999424a0c7161e876e9afc9.png" away-logo="https://static.sportsfeed.pro/football/team/9d70c0303c9942dc0be30cc7e1fe4673.png" group-title="Gà Vàng TV" start-time="1792771200",Motor Lublin vs Zaglebie Lubin - ĐOÀN DỰ — PKO Bank Polski EKSTRAKLASA
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hxpv5lqo9" tvg-name="Akhmat Grozny vs Gazovik Orenburg" tvg-logo="https://static.sportsfeed.pro/football/team/dfb637acd761b88a27e200393e29319f.png" home-logo="https://static.sportsfeed.pro/football/team/dfb637acd761b88a27e200393e29319f.png" away-logo="https://static.sportsfeed.pro/football/team/0f5f64c52541a333596d8892b25aa310.png" group-title="Gà Vàng TV" start-time="1792773000",Akhmat Grozny vs Gazovik Orenburg - Lá Chanh — Russian Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y0or5jh8kj3kqwz" tvg-name="Bochum vs Wolfsburg" tvg-logo="https://static.sportsfeed.pro/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png" home-logo="https://static.sportsfeed.pro/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png" away-logo="https://static.sportsfeed.pro/football/team/03645e9c1d7fd2c48705622f52fd901e.png" group-title="Gà Vàng TV" start-time="1792773000",Bochum vs Wolfsburg - SAITAMA — German Bundesliga 2
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dn1m1ghlzkevmoe" tvg-name="SV Darmstadt 98 vs St. Pauli" tvg-logo="https://static.sportsfeed.pro/football/team/da5997a60373a56628e684ae3c16f2c8.png" home-logo="https://static.sportsfeed.pro/football/team/da5997a60373a56628e684ae3c16f2c8.png" away-logo="https://static.sportsfeed.pro/football/team/65503b155488a643de688e8dfa849b1f.png" group-title="Gà Vàng TV" start-time="1792773000",SV Darmstadt 98 vs St. Pauli - GIàng A Dân — German Bundesliga 2
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19872925" tvg-name="Thể Công-Viettel vs Bắc Ninh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bac-ninh-272273" group-title="BiaomTV" start-time="1792757700",Thể Công-Viettel vs Bắc Ninh - TÔM CHIÊN — VĐQG Việt Nam
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -155,16 +200,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8ybGtqNmZ4eXM1NmhkcHoxaHcxaHR4OQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_ndkzysnw8oxsx73" tvg-name="Nanjing Toupaisujiu vs Shandong Hi-Speed" tvg-logo="https://img.cltvap.cc/basketball/team/a5117efc96b29138d9db8f5abc1aa699.png!w80" home-logo="https://img.cltvap.cc/basketball/team/a5117efc96b29138d9db8f5abc1aa699.png!w80" away-logo="https://img.cltvap.cc/basketball/team/fd94971d5354c254a48249ad402cfb92.png!w80" group-title="Cola TV" start-time="1792755300",Nanjing Toupaisujiu vs Shandong Hi-Speed - BLV POCARI — Giải bóng rổ nam Trung Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.qioetj.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_wv784sxld63foqr" tvg-name="Zhejiang Chouzhou vs Qingdao Guoxin Aquatic Products" tvg-logo="https://img.cltvap.cc/basketball/team/d1d77f07287fe840a7e77459e5bd1bfc.png!w80" home-logo="https://img.cltvap.cc/basketball/team/d1d77f07287fe840a7e77459e5bd1bfc.png!w80" away-logo="https://img.cltvap.cc/basketball/team/8265cde14b18d7e3716bb1e0b0aed623.png!w80" group-title="Cola TV" start-time="1792755300",Zhejiang Chouzhou vs Qingdao Guoxin Aquatic Products - BLV Cozy — Giải bóng rổ nam Trung Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.qioetj.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_527r3i486d9i47e" tvg-name="Ahal vs Al Ansar" tvg-logo="https://img.cltvap.cc/football/team/bb9a9d9af0da02ccce0d6b7ab4826724.png!w80" home-logo="https://img.cltvap.cc/football/team/bb9a9d9af0da02ccce0d6b7ab4826724.png!w80" away-logo="https://img.cltvap.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="Cola TV" start-time="1792756800",Ahal vs Al Ansar - BLV MOUNTAIN DEW — AFC Giải thách Liên đoàn
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -179,3 +214,8 @@ https://live05.qioetj.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.qioetj.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_m2q15izyxrmie76" tvg-name="Al Faisaly Harmah vs Al-Nassr" tvg-logo="https://img.cltvap.cc/football/team/4e9f55c1006ca24b2b535054a52187e8.png!w80" home-logo="https://img.cltvap.cc/football/team/4e9f55c1006ca24b2b535054a52187e8.png!w80" away-logo="https://img.cltvap.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80" group-title="Cola TV" start-time="1792762200",Al Faisaly Harmah vs Al-Nassr - BLV REVIVE — Giải Vô địch quốc gia Ả-rập Xê-út
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
