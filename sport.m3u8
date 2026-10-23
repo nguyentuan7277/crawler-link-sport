@@ -1,24 +1,24 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:40:09 23/10/2026
+## Cập nhật lúc: 16:00:14 23/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1640337_chuoila" tvg-name="Adelaide City vs Wests APIA" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141345_3b263f88.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141345_3b263f88.png" away-logo="https://media.api-sports.io/football/teams/26874.png" group-title="Chuối TV" start-time="1792744200",Adelaide City vs Wests APIA - Chuối Lá [HD1] — Australian Championship
+#EXTINF:-1 tvg-id="cctv_1593686_chuoinho" tvg-name="Brisbane Roar vs Perth Glory" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_411732ef.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_411732ef.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130438_8fde6a88.png" group-title="Chuối TV" start-time="1792746000",Brisbane Roar vs Perth Glory - Chuối Nhỏ [HD1] — A-League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1593686_chuoinho" tvg-name="Brisbane Roar vs Perth Glory" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_411732ef.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_411732ef.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130438_8fde6a88.png" group-title="Chuối TV" start-time="1792746000",Brisbane Roar vs Perth Glory - Chuối Nhỏ [FHD] — A-League
+#EXTINF:-1 tvg-id="cctv_993383_chuoitay" tvg-name="Body Queenseis W vs JT Marvelous W" tvg-logo="https://media.chuoichientv.net/media/20251011_220656_88a30ccd.png" home-logo="https://media.chuoichientv.net/media/20251011_220656_88a30ccd.png" away-logo="https://media.chuoichientv.net/media/20260214_071514_67fc35cf.png" group-title="Chuối TV" start-time="1792746300",Body Queenseis W vs JT Marvelous W - Chuối Tây [HD1] — Bóng Chuyền SEA V.LEAGUE
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_993383_chuoitay" tvg-name="Body Queenseis W vs JT Marvelous W" tvg-logo="https://media.chuoichientv.net/media/20251011_220656_88a30ccd.png" home-logo="https://media.chuoichientv.net/media/20251011_220656_88a30ccd.png" away-logo="https://media.chuoichientv.net/media/20260214_071514_67fc35cf.png" group-title="Chuối TV" start-time="1792746300",Body Queenseis W vs JT Marvelous W - Chuối Tây [FHD] — Bóng Chuyền SEA V.LEAGUE
+#EXTINF:-1 tvg-id="cctv_1640337_chuoila" tvg-name="Adelaide City vs Wests APIA" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141345_3b263f88.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141345_3b263f88.png" away-logo="https://media.api-sports.io/football/teams/26874.png" group-title="Chuối TV" start-time="1792744200",Adelaide City vs Wests APIA - Chuối Lá [FHD] — Australian Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1633915_angao" tvg-name="Hoang Anh Gia Lai vs Song Lam Nghe An" tvg-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png" home-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png" away-logo="https://media.chuoichientv.net/media/20250817_040514_e14149ab.png" group-title="Chuối TV" start-time="1792749600",Hoang Anh Gia Lai vs Song Lam Nghe An - Chuối Già [FHD] — V.League 1
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -110,10 +110,15 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_965mkyhkv72lr1g" tvg-name="Brisbane Roar vs Perth Glory" tvg-logo="https://static.sportsfeed.pro/football/team/50822161edbaa30e6dd8399555c4af52.png" home-logo="https://static.sportsfeed.pro/football/team/50822161edbaa30e6dd8399555c4af52.png" away-logo="https://static.sportsfeed.pro/football/team/cb4fe1c58ad556e3644c6cfdfd9ada25.png" group-title="Gà Vàng TV" start-time="1792746000",Brisbane Roar vs Perth Glory - MáN NúI — Australia A-League
+#EXTINF:-1 tvg-id="gavang_l5ergphk0zp0r8k" tvg-name="Adelaide City FC vs A.P.I.A. Leichhardt Tigers" tvg-logo="https://static.sportsfeed.pro/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png" home-logo="https://static.sportsfeed.pro/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png" away-logo="https://static.sportsfeed.pro/football/team/5e7f98b3e6dba2955758797b84e94868.png" group-title="Gà Vàng TV" start-time="1792744200",Adelaide City FC vs A.P.I.A. Leichhardt Tigers - A Long — Aus Champ
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_zp5rzgh3ynx3q82" tvg-name="South Melbourne vs Sydney United 58 FC" tvg-logo="https://static.sportsfeed.pro/football/team/3728683390847f335552d077cf0b8752.png" home-logo="https://static.sportsfeed.pro/football/team/3728683390847f335552d077cf0b8752.png" away-logo="https://static.sportsfeed.pro/football/team/a2f47271892fb491ffab880158419ca0.png" group-title="Gà Vàng TV" start-time="1792744200",South Melbourne vs Sydney United 58 FC - khang hi — Aus Champ
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_zp5rzghg9g5zq82" tvg-name="Dynamo Kyiv vs Kudrivka" tvg-logo="https://static.sportsfeed.pro/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png" home-logo="https://static.sportsfeed.pro/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png" away-logo="https://static.sportsfeed.pro/football/team/5eab2b12a063dde5bc6e048524c39909.png" group-title="Gà Vàng TV" start-time="1792749600",Dynamo Kyiv vs Kudrivka - THICHDUTHU — Ukrainian Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -159,6 +164,11 @@ https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_x7lm7phj486om2w" tvg-name="Ahal FK vs Al Ansar SC" tvg-logo="https://static.sportsfeed.pro/football/team/9e711eed66626f029224625549071450.png" home-logo="https://static.sportsfeed.pro/football/team/9e711eed66626f029224625549071450.png" away-logo="https://static.sportsfeed.pro/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png" group-title="Gà Vàng TV" start-time="1792756800",Ahal FK vs Al Ansar SC - SimonZ — AFC Challenge League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ad087284c3981dd68475913.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19758816" tvg-name="Brisbane Roar vs Perth Glory" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" group-title="BiaomTV" start-time="1792746000",Brisbane Roar vs Perth Glory - SAPPORO — VĐQG Úc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -239,3 +249,8 @@ https://live05.qioetj.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.qioetj.app/live/33860426_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o07dni5rdmyumkn" tvg-name="CLB Brisbane Roar vs CLB Perth Glory" tvg-logo="https://img.cltvap.cc/football/team/a6bdb997f37f85a411b14348fb35c2ee.png!w80" home-logo="https://img.cltvap.cc/football/team/a6bdb997f37f85a411b14348fb35c2ee.png!w80" away-logo="https://img.cltvap.cc/football/team/9cfac3b42730170807894c159f4ca47e.png!w80" group-title="Cola TV" start-time="1792746000",CLB Brisbane Roar vs CLB Perth Glory - BLV GIÀ LÀNG — Giải vô địch quốc gia Úc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/14830711_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
