@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:20:09 23/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1561419_chuoikem" tvg-name="Akhmat vs FC Orenburg" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133528_1a049d96.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133528_1a049d96.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133527_bc14001f.png" group-title="Chuối TV" start-time="1792773000",Akhmat vs FC Orenburg - Chuối Kem [HD1] — Ngoại Hạng Nga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 23:40:07 23/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1603066_chuoichao" tvg-name="Al-Ittihad FC vs Al Diriyah" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134004_7d88a6fc.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134004_7d88a6fc.png" away-logo="https://media.api-sports.io/football/teams/26738.png" group-title="Chuối TV" start-time="1792769400",Al-Ittihad FC vs Al Diriyah - Chuối Chao [FHD] — Saudi Pro League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1561419_chuoikem" tvg-name="Akhmat vs FC Orenburg" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133528_1a049d96.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133528_1a049d96.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133527_bc14001f.png" group-title="Chuối TV" start-time="1792773000",Akhmat vs FC Orenburg - Chuối Kem [FHD] — Ngoại Hạng Nga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1575196_angao" tvg-name="VfB Stuttgart vs Borussia Mönchengladbach" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125554_b218cb7e.png" group-title="Chuối TV" start-time="1792780200",VfB Stuttgart vs Borussia Mönchengladbach - Chuối Già [FHD] — Bundesliga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -72,21 +72,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_318q66hxpv5lqo9" tvg-name="Akhmat Grozny vs Gazovik Orenburg" tvg-logo="https://static.sportsfeed.pro/football/team/dfb637acd761b88a27e200393e29319f.png" home-logo="https://static.sportsfeed.pro/football/team/dfb637acd761b88a27e200393e29319f.png" away-logo="https://static.sportsfeed.pro/football/team/0f5f64c52541a333596d8892b25aa310.png" group-title="Gà Vàng TV" start-time="1792773000",Akhmat Grozny vs Gazovik Orenburg - Lá Chanh — Russian Premier League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_y0or5jh8kj3kqwz" tvg-name="Bochum vs Wolfsburg" tvg-logo="https://static.sportsfeed.pro/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png" home-logo="https://static.sportsfeed.pro/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png" away-logo="https://static.sportsfeed.pro/football/team/03645e9c1d7fd2c48705622f52fd901e.png" group-title="Gà Vàng TV" start-time="1792773000",Bochum vs Wolfsburg - SAITAMA — German Bundesliga 2
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_dn1m1ghlzkevmoe" tvg-name="SV Darmstadt 98 vs St. Pauli" tvg-logo="https://static.sportsfeed.pro/football/team/da5997a60373a56628e684ae3c16f2c8.png" home-logo="https://static.sportsfeed.pro/football/team/da5997a60373a56628e684ae3c16f2c8.png" away-logo="https://static.sportsfeed.pro/football/team/65503b155488a643de688e8dfa849b1f.png" group-title="Gà Vàng TV" start-time="1792773000",SV Darmstadt 98 vs St. Pauli - GIàng A Dân — German Bundesliga 2
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_dj2ryohloywkq1z" tvg-name="Al Sailiya vs Al Rayyan" tvg-logo="https://static.sportsfeed.pro/football/team/6b3994cecbf1c9c1fc4e1eb2ee01a6cf.png" home-logo="https://static.sportsfeed.pro/football/team/6b3994cecbf1c9c1fc4e1eb2ee01a6cf.png" away-logo="https://static.sportsfeed.pro/football/team/d36d53da32742efb1d00f27e959603a0.png" group-title="Gà Vàng TV" start-time="1792773900",Al Sailiya vs Al Rayyan - cố tư nghiêm — Qatar Stars League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -148,11 +133,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8ybGtqNmZ4eXM1NmhkcHoxaHcxaHR4OQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_o17pjiowr2pty7j" tvg-name="Al Shamal vs Qatar SC" tvg-logo="https://img.cltvap.cc/football/team/af47207f36a49c89502312138e54f6a7.png!w80" home-logo="https://img.cltvap.cc/football/team/af47207f36a49c89502312138e54f6a7.png!w80" away-logo="https://img.cltvap.cc/football/team/6bd99a31fd562a9e6b1db99d42d40b34.png!w80" group-title="Cola TV" start-time="1792765800",Al Shamal vs Qatar SC - BLV FANTA — Giải vô địch quốc gia Qatar
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.qioetj.app/live/16226575_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_ndkz6i30jz0cxq3" tvg-name="Botosani vs Petrolul" tvg-logo="https://img.cltvap.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" home-logo="https://img.cltvap.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" away-logo="https://img.cltvap.cc/football/team/a568766c6a9883fa021d0469ec813dc2.png!w80" group-title="Cola TV" start-time="1792767600",Botosani vs Petrolul - BLV SODA — Giải Vô địch quốc gia Romania
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -162,3 +142,18 @@ https://live05.qioetj.app/live/02456966_tsc.m3u8|Referer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.qioetj.app/live/14830711_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_j374oi0mejpugqo" tvg-name="Akhmat Grozny vs Gazovik Orenburg" tvg-logo="https://img.cltvap.cc/football/team/dfb637acd761b88a27e200393e29319f.png!w80" home-logo="https://img.cltvap.cc/football/team/dfb637acd761b88a27e200393e29319f.png!w80" away-logo="https://img.cltvap.cc/football/team/0f5f64c52541a333596d8892b25aa310.png!w80" group-title="Cola TV" start-time="1792773000",Akhmat Grozny vs Gazovik Orenburg - BLV SPRITE — Giải Bóng đá Ngoại hạng Nga
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_g6763i58ydnuo7r" tvg-name="Darmstadt vs St. Pauli" tvg-logo="https://img.cltvap.cc/football/team/da5997a60373a56628e684ae3c16f2c8.png!w80" home-logo="https://img.cltvap.cc/football/team/da5997a60373a56628e684ae3c16f2c8.png!w80" away-logo="https://img.cltvap.cc/football/team/65503b155488a643de688e8dfa849b1f.png!w80" group-title="Cola TV" start-time="1792773000",Darmstadt vs St. Pauli - BLV ROCKSTAR — Giải bóng đá Hạng hai Đức
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_wv78xivr56rbokr" tvg-name="VfL Bochum vs VfL Wolfsburg" tvg-logo="https://img.cltvap.cc/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png!w80" home-logo="https://img.cltvap.cc/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png!w80" away-logo="https://img.cltvap.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80" group-title="Cola TV" start-time="1792773000",VfL Bochum vs VfL Wolfsburg - BLV AQUA — Giải bóng đá Hạng hai Đức
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
