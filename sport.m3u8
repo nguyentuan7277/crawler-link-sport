@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 06:20:09 24/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1493203_troctru" tvg-name="Gimnasia M. vs Platense" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130359_9bbe8861.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130359_9bbe8861.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132727_54c57774.png" group-title="Chuối TV" start-time="1792791000",Gimnasia M. vs Platense - Trốc Tru [FHD] — VĐQG Argentina
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 06:40:09 24/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1492422_chuoitay" tvg-name="Cruzeiro vs remo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131458_67aafe70.png" group-title="Chuối TV" start-time="1792796400",Cruzeiro vs remo - Chuối Tây [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,15 +116,21 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_zp5rzgh3yzo5q82" tvg-name="Independiente del Valle vs Universidad Católica" tvg-logo="https://static.sportsfeed.pro/football/team/cb9797fa8614b9664231a4861ed71875.png" home-logo="https://static.sportsfeed.pro/football/team/cb9797fa8614b9664231a4861ed71875.png" away-logo="https://static.sportsfeed.pro/football/team/6038ad3b4367e35e235f6bdd24282c52.png" group-title="Gà Vàng TV" start-time="1792789800",Independiente del Valle vs Universidad Católica - MeoMeo — LigaPro Serie A
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1570425_troctru" tvg-name="Atletico Madrid vs Deportivo La Coruna" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133417_d0c889f0.png" group-title="Chuối TV" start-time="1792868400",Atletico Madrid vs Deportivo La Coruna - Trốc Tru [FHD] — La Liga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_zp5rzghgd4o6q82" tvg-name="Gimnasia Mendoza vs CA Platense" tvg-logo="https://static.sportsfeed.pro/football/team/532600afe76be2528effd5790fb51a33.png" home-logo="https://static.sportsfeed.pro/football/team/532600afe76be2528effd5790fb51a33.png" away-logo="https://static.sportsfeed.pro/football/team/df9d41a492e324ad411a3e39c7935352.png" group-title="Gà Vàng TV" start-time="1792791000",Gimnasia Mendoza vs CA Platense - KAYTI — Argentine Division 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_n54qllhnp21eqvy" tvg-name="Cruzeiro Esporte Clube vs Remo Belem" tvg-logo="https://static.sportsfeed.pro/football/team/b1cac6380900d22bdb0d31763c658434.png" home-logo="https://static.sportsfeed.pro/football/team/b1cac6380900d22bdb0d31763c658434.png" away-logo="https://static.sportsfeed.pro/football/team/fb9a4cf4290646122b3afe17bd914737.png" group-title="Gà Vàng TV" start-time="1792796400",Cruzeiro Esporte Clube vs Remo Belem - MeoMeo — Brazilian Serie A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_1l4rjnh99zlnm7v" tvg-name="Sport Club Recife PE vs Criciuma" tvg-logo="https://static.sportsfeed.pro/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png" home-logo="https://static.sportsfeed.pro/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png" away-logo="https://static.sportsfeed.pro/football/team/1105c0c62d761d64b6f4c3e34f460278.png" group-title="Gà Vàng TV" start-time="1792800000",Sport Club Recife PE vs Criciuma - KAYTI — Brazilian Serie B
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -226,11 +226,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1NzE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omw0bXFsNTlrdm9pY2ZraTY0dGE4NjQwag/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_69759igd0xnigk2" tvg-name="Gimnasia Mendoza vs Platense" tvg-logo="https://img.cltvap.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" home-logo="https://img.cltvap.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" away-logo="https://img.cltvap.cc/football/team/df9d41a492e324ad411a3e39c7935352.png!w80" group-title="Cola TV" start-time="1792791000",Gimnasia Mendoza vs Platense - BLV MOUNTAIN DEW — Giải Bóng đá Vô địch Quốc gia Argentina
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.qioetj.app/live/87547578_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_edq09ildmnpbeqx" tvg-name="CLB Cruzeiro vs Remo Belem (PA)" tvg-logo="https://img.cltvap.cc/football/team/b1cac6380900d22bdb0d31763c658434.png!w80" home-logo="https://img.cltvap.cc/football/team/b1cac6380900d22bdb0d31763c658434.png!w80" away-logo="https://img.cltvap.cc/football/team/fb9a4cf4290646122b3afe17bd914737.png!w80" group-title="Cola TV" start-time="1792796400",CLB Cruzeiro vs Remo Belem (PA) - BLV AQUA — Giải bóng đá Hạng nhất Brasil
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
