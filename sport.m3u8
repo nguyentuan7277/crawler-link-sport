@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:20:08 23/10/2026
+## Cập nhật lúc: 15:40:09 23/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1640337_chuoila" tvg-name="Adelaide City vs Wests APIA" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141345_3b263f88.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141345_3b263f88.png" away-logo="https://media.api-sports.io/football/teams/26874.png" group-title="Chuối TV" start-time="1792744200",Adelaide City vs Wests APIA - Chuối Lá [HD1] — Australian Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -110,16 +110,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_l5ergphk0zp0r8k" tvg-name="Adelaide City FC vs A.P.I.A. Leichhardt Tigers" tvg-logo="https://static.sportsfeed.pro/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png" home-logo="https://static.sportsfeed.pro/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png" away-logo="https://static.sportsfeed.pro/football/team/5e7f98b3e6dba2955758797b84e94868.png" group-title="Gà Vàng TV" start-time="1792744200",Adelaide City FC vs A.P.I.A. Leichhardt Tigers - A Long — Aus Champ
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_zp5rzgh3ynx3q82" tvg-name="South Melbourne vs Sydney United 58 FC" tvg-logo="https://static.sportsfeed.pro/football/team/3728683390847f335552d077cf0b8752.png" home-logo="https://static.sportsfeed.pro/football/team/3728683390847f335552d077cf0b8752.png" away-logo="https://static.sportsfeed.pro/football/team/a2f47271892fb491ffab880158419ca0.png" group-title="Gà Vàng TV" start-time="1792744200",South Melbourne vs Sydney United 58 FC - khang hi — Aus Champ
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_965mkyhkv72lr1g" tvg-name="Brisbane Roar vs Perth Glory" tvg-logo="https://static.sportsfeed.pro/football/team/50822161edbaa30e6dd8399555c4af52.png" home-logo="https://static.sportsfeed.pro/football/team/50822161edbaa30e6dd8399555c4af52.png" away-logo="https://static.sportsfeed.pro/football/team/cb4fe1c58ad556e3644c6cfdfd9ada25.png" group-title="Gà Vàng TV" start-time="1792746000",Brisbane Roar vs Perth Glory - MáN NúI — Australia A-League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -159,6 +149,16 @@ https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_zp5rzghgvxg2q82" tvg-name="FK Van vs Ararat Yerevan" tvg-logo="https://static.sportsfeed.pro/football/team/f233f6fd187259b5017a1cac48ddc1e6.png" home-logo="https://static.sportsfeed.pro/football/team/f233f6fd187259b5017a1cac48ddc1e6.png" away-logo="https://static.sportsfeed.pro/football/team/9594e7abdcb42f6e8a178db6d4f37a94.png" group-title="Gà Vàng TV" start-time="1792755000",FK Van vs Ararat Yerevan - MáN NúI — Armenian Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_23xmvkhyv131qg8" tvg-name="Inter Kashi vs East Bengal FC" tvg-logo="https://static.sportsfeed.pro/football/team/ef47a299ed88735ebf75770b11597127.png" home-logo="https://static.sportsfeed.pro/football/team/ef47a299ed88735ebf75770b11597127.png" away-logo="https://static.sportsfeed.pro/football/team/21649c3d173c8f4ec9d526432ad9f088.png" group-title="Gà Vàng TV" start-time="1792755000",Inter Kashi vs East Bengal FC - A Long — Indian Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19758816" tvg-name="Brisbane Roar vs Perth Glory" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" group-title="BiaomTV" start-time="1792746000",Brisbane Roar vs Perth Glory - SAPPORO — VĐQG Úc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -229,3 +229,13 @@ https://live05.qioetj.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.qioetj.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_l6kegir9jg9sv75" tvg-name="Adelaide City FC vs APIA Tigers" tvg-logo="https://img.cltvap.cc/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png!w80" home-logo="https://img.cltvap.cc/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png!w80" away-logo="https://img.cltvap.cc/football/team/5e7f98b3e6dba2955758797b84e94868.png!w80" group-title="Cola TV" start-time="1792744200",Adelaide City FC vs APIA Tigers - BLV SPRITE — Aus Champ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_69759irwojrigk2" tvg-name="South Melbourne vs Sydney Utd" tvg-logo="https://img.cltvap.cc/football/team/3728683390847f335552d077cf0b8752.png!w80" home-logo="https://img.cltvap.cc/football/team/3728683390847f335552d077cf0b8752.png!w80" away-logo="https://img.cltvap.cc/football/team/a2f47271892fb491ffab880158419ca0.png!w80" group-title="Cola TV" start-time="1792744200",South Melbourne vs Sydney Utd - BLV TEPPY — Aus Champ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.qioetj.app/live/33860426_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
