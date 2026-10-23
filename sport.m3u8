@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 12:40:11 23/10/2026
+## Cập nhật lúc: 13:00:07 23/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1640337_chuoila" tvg-name="Adelaide City vs Wests APIA" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141345_3b263f88.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141345_3b263f88.png" away-logo="https://media.api-sports.io/football/teams/26874.png" group-title="Chuối TV" start-time="1792744200",Adelaide City vs Wests APIA - Chuối Lá [FHD] — Australian Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -119,6 +119,11 @@ https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyhkv72lr1g" tvg-name="Brisbane Roar vs Perth Glory" tvg-logo="https://static.sportsfeed.pro/football/team/50822161edbaa30e6dd8399555c4af52.png" home-logo="https://static.sportsfeed.pro/football/team/50822161edbaa30e6dd8399555c4af52.png" away-logo="https://static.sportsfeed.pro/football/team/cb4fe1c58ad556e3644c6cfdfd9ada25.png" group-title="Gà Vàng TV" start-time="1792746000",Brisbane Roar vs Perth Glory - MáN NúI — Australia A-League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19758816" tvg-name="Brisbane Roar vs Perth Glory" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" group-title="BiaomTV" start-time="1792746000",Brisbane Roar vs Perth Glory - SAPPORO — VĐQG Úc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
