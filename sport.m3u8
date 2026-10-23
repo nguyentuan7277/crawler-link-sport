@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 04:40:07 24/10/2026
+## Cập nhật lúc: 05:00:13 24/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1493203_troctru" tvg-name="Gimnasia M. vs Platense" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130359_9bbe8861.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130359_9bbe8861.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132727_54c57774.png" group-title="Chuối TV" start-time="1792791000",Gimnasia M. vs Platense - Trốc Tru [FHD] — VĐQG Argentina
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -137,6 +137,21 @@ https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_pxwrxlhyw317ryk" tvg-name="Necaxa vs FC Juarez" tvg-logo="https://static.sportsfeed.pro/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png" home-logo="https://static.sportsfeed.pro/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png" away-logo="https://static.sportsfeed.pro/football/team/2ef06350057f561b5dce57c7fca99a74.png" group-title="Gà Vàng TV" start-time="1792803600",Necaxa vs FC Juarez - cố tư nghiêm — Mexico Liga MX
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19732652" tvg-name="Deportivo Alavés vs Málaga" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/deportivo-alaves-2975" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/deportivo-alaves-2975" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaga-126" group-title="BiaomTV" start-time="1792782000",Deportivo Alavés vs Málaga - NEM NƯỚNG  — VĐQG Tây Ban Nha
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJ0am52OGlxcjVnZGwwcXdsZjhkNWxtMw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19722127" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ipswich-town-116" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ipswich-town-116" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nottingham-forest-63" group-title="BiaomTV" start-time="1792782000",Ipswich Town vs Nottingham Forest - Lẩu Ếch — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8ybGtqNmZ4eXM1NmhkcHoxaHcxaHR4OQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19722132" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-9" group-title="BiaomTV" start-time="1792841400",Aston Villa vs Manchester City - ASAHI — Ngoại Hạng Anh
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -191,11 +206,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMzE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm9
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NDM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnNtejB2Z2J5MmQ1OXhqamwzaTd4YjJzdw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_9gklzi12o95um7x" tvg-name="Vitoria Guimaraes vs Maritimo" tvg-logo="https://img.cltvap.cc/football/team/ad97b71fe0d8df0e60f7c534fee24132.png!w80" home-logo="https://img.cltvap.cc/football/team/ad97b71fe0d8df0e60f7c534fee24132.png!w80" away-logo="https://img.cltvap.cc/football/team/a5caa04e895b6b33ba8e816522795c30.png!w80" group-title="Cola TV" start-time="1792784700",Vitoria Guimaraes vs Maritimo - BLV SPRITE — Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.qioetj.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_69759igd0xnigk2" tvg-name="Gimnasia Mendoza vs Platense" tvg-logo="https://img.cltvap.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" home-logo="https://img.cltvap.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" away-logo="https://img.cltvap.cc/football/team/df9d41a492e324ad411a3e39c7935352.png!w80" group-title="Cola TV" start-time="1792791000",Gimnasia Mendoza vs Platense - BLV MOUNTAIN DEW — Giải Bóng đá Vô địch Quốc gia Argentina
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
