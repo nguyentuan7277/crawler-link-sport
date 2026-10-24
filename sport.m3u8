@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 21:20:19 24/10/2026
+## Cập nhật lúc: 21:40:12 24/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1550159_chuoitay" tvg-name="Como vs Sassuolo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125607_2784433a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125607_2784433a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png" group-title="Chuối TV" start-time="1792846800",Como vs Sassuolo - Chuối Tây [FHD] — Serie A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -86,17 +86,7 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_vjxm8gheo62vr6o" tvg-name="Aston Villa vs Man City" tvg-logo="https://static.sportsfeed.pro/football/team/a3c32d6a906083118cac2cb796edaab3.png" home-logo="https://static.sportsfeed.pro/football/team/a3c32d6a906083118cac2cb796edaab3.png" away-logo="https://static.sportsfeed.pro/football/team/c4a6528a2ee147b99c9885ef24385a4e.png" group-title="Gà Vàng TV" start-time="1792841400",Aston Villa vs Man City - CRIS — English Premier League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_3glrw7hn5oyjqdy" tvg-name="Vallecano vs Elche CF" tvg-logo="https://static.sportsfeed.pro/football/team/5005d8feab109ce64e40beb98073cc1f.png" home-logo="https://static.sportsfeed.pro/football/team/5005d8feab109ce64e40beb98073cc1f.png" away-logo="https://static.sportsfeed.pro/football/team/e5ecd0553885f1a3af731758dddce2ec.png" group-title="Gà Vàng TV" start-time="1792843200",Vallecano vs Elche CF - THICHDUTHU — Spanish La Liga
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_ednm9whwldvgryo" tvg-name="FC Utrecht vs PEC Zwolle" tvg-logo="https://static.sportsfeed.pro/football/team/181ee8709b75f543a1cf4c943ae3304b.png" home-logo="https://static.sportsfeed.pro/football/team/181ee8709b75f543a1cf4c943ae3304b.png" away-logo="https://static.sportsfeed.pro/football/team/4e806cd5495e72600ef1123c1c138aa0.png" group-title="Gà Vàng TV" start-time="1792852200",FC Utrecht vs PEC Zwolle - THICHDUTHU — Netherlands Eredivisie
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -245,3 +235,8 @@ https://live05.yefpwmc.app/live/02456966_tsc.m3u8|Referer=https://colatvttbdh.tv
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.yefpwmc.app/live/16226575_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jr7owip9dnvsgq0" tvg-name="Estrela vs Casa Pia AC" tvg-logo="https://img.cltvap.cc/football/team/606eca9e363f1c1e62542f8b23fdc71a.png!w80" home-logo="https://img.cltvap.cc/football/team/606eca9e363f1c1e62542f8b23fdc71a.png!w80" away-logo="https://img.cltvap.cc/football/team/0ee6b6e8c21275bb7a79e64c4baf90c1.png!w80" group-title="Cola TV" start-time="1792852200",Estrela vs Casa Pia AC - BLV TEPPY — Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/33860426_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
