@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 04:20:07 25/10/2026
+## Cập nhật lúc: 04:40:17 25/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1490558_chuoichao" tvg-name="New York Red Bulls vs Inter Miami" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131603_9cb4c304.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131603_9cb4c304.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" group-title="Chuối TV" start-time="1792877400",New York Red Bulls vs Inter Miami - Chuối Chao [HD2] — Major League Soccer
+#EXTINF:-1 tvg-id="cctv_1490558_chuoichao" tvg-name="New York Red Bulls vs Inter Miami" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131603_9cb4c304.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131603_9cb4c304.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" group-title="Chuối TV" start-time="1792877400",New York Red Bulls vs Inter Miami - Chuối Chao [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1549834_troctru" tvg-name="America de Cali vs Cucuta" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133658_a2b33348.png" group-title="Chuối TV" start-time="1792883100",America de Cali vs Cucuta - Trốc Tru [FHD] — VĐQG Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -38,20 +38,10 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_3glrw7hn2yl6qdy" tvg-name="Gil Vicente vs FC Porto" tvg-logo="https://static.sportsfeed.pro/football/team/6a2005d20c872db3173d2bf995768055.png" home-logo="https://static.sportsfeed.pro/football/team/6a2005d20c872db3173d2bf995768055.png" away-logo="https://static.sportsfeed.pro/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png" group-title="Gà Vàng TV" start-time="1792870200",Gil Vicente vs FC Porto - MáN NúI — Portuguese Primera Liga
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_k82rekhgj6edrep" tvg-name="Talleres Cordoba vs Defensa Y Justicia" tvg-logo="https://static.sportsfeed.pro/football/team/44cb6b8a76b2194e16849eace4743e54.png" home-logo="https://static.sportsfeed.pro/football/team/44cb6b8a76b2194e16849eace4743e54.png" away-logo="https://static.sportsfeed.pro/football/team/49a35dd00c51fc958ebf44054bce4c48.png" group-title="Gà Vàng TV" start-time="1792872000",Talleres Cordoba vs Defensa Y Justicia - MeoMeo — Argentine Division 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_n54qllhnz3w3qvy" tvg-name="New York Red Bulls vs Club Internacional de Futbol Miami" tvg-logo="https://static.sportsfeed.pro/football/team/8b8fe90668461b90ddc20516b0e6796d.png" home-logo="https://static.sportsfeed.pro/football/team/8b8fe90668461b90ddc20516b0e6796d.png" away-logo="https://static.sportsfeed.pro/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" group-title="Gà Vàng TV" start-time="1792877400",New York Red Bulls vs Club Internacional de Futbol Miami - KAYTI — United States Major League Soccer
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l7oqdehg8n18r51" tvg-name="Chapecoense SC vs Fluminense RJ" tvg-logo="https://static.sportsfeed.pro/football/team/4970b9a9a215c78759a6bb84ecaa3701.png" home-logo="https://static.sportsfeed.pro/football/team/4970b9a9a215c78759a6bb84ecaa3701.png" away-logo="https://static.sportsfeed.pro/football/team/a6bce9adfac7903426bed2b253991a18.png" group-title="Gà Vàng TV" start-time="1792881000",Chapecoense SC vs Fluminense RJ - MeoMeo — Brazilian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -153,12 +143,7 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NDg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NDg6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmxwODBkemhwdzZoN3JnZHlkbzgzcXgzNg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_9gklzi12o9pam7x" tvg-name="Gil Vicente vs Porto" tvg-logo="https://img.cltvap.cc/football/team/6a2005d20c872db3173d2bf995768055.png!w80" home-logo="https://img.cltvap.cc/football/team/6a2005d20c872db3173d2bf995768055.png!w80" away-logo="https://img.cltvap.cc/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png!w80" group-title="Cola TV" start-time="1792870200",Gil Vicente vs Porto - BLV FANTA — Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha
+#EXTINF:-1 tvg-id="cola_edq09ilowewceqx" tvg-name="New York Red Bulls vs Inter Miami" tvg-logo="https://img.cltvap.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80" home-logo="https://img.cltvap.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80" away-logo="https://img.cltvap.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80" group-title="Cola TV" start-time="1792877400",New York Red Bulls vs Inter Miami - BLV SPRITE — Major League Soccer
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.yefpwmc.app/live/16226575_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_wv78xivmyg1bokr" tvg-name="CLB Columbus Crew vs CLB Toronto" tvg-logo="https://img.cltvap.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80" home-logo="https://img.cltvap.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80" away-logo="https://img.cltvap.cc/football/team/a6f6290d4b7699729dc19349484841bf.png!w80" group-title="Cola TV" start-time="1792870800",CLB Columbus Crew vs CLB Toronto - BLV SAMURAI — Major League Soccer
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.yefpwmc.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/75748097_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
