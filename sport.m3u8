@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:20:11 25/10/2026
+## Cập nhật lúc: 00:40:13 25/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1550164_chuoichao" tvg-name="Napoli vs AS Roma" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_1ca3923a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_1ca3923a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png" group-title="Chuối TV" start-time="1792857600",Napoli vs AS Roma - Chuối Chao [FHD] — Serie A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -92,11 +92,6 @@ https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_y39mp1h64oexmoj" tvg-name="Montreal Impact vs Nashville SC" tvg-logo="https://static.sportsfeed.pro/football/team/abd87a03b9befd43df6c45c9b17e9a79.png" home-logo="https://static.sportsfeed.pro/football/team/abd87a03b9befd43df6c45c9b17e9a79.png" away-logo="https://static.sportsfeed.pro/football/team/eafb707bc6f8028dc71923176915c8e3.png" group-title="Gà Vàng TV" start-time="1792863000",Montreal Impact vs Nashville SC - THICHDUTHU — United States Major League Soccer
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_3glrw7hn8e3nqdy" tvg-name="Al-Riyadh vs Al Taawoun" tvg-logo="https://static.sportsfeed.pro/football/team/aa2d8e24a68822387257f31d692c4297.png" home-logo="https://static.sportsfeed.pro/football/team/aa2d8e24a68822387257f31d692c4297.png" away-logo="https://static.sportsfeed.pro/football/team/440da1fad5d16ada9a9742bf5d14c98e.png" group-title="Gà Vàng TV" start-time="1792864800",Al-Riyadh vs Al Taawoun - RIO — Saudi Professional League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -207,3 +202,8 @@ https://live05.yefpwmc.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.yefpwmc.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_vrqwni432mxt4qn" tvg-name="CLB Montreal Impact vs CLB Nashville" tvg-logo="https://img.cltvap.cc/football/team/abd87a03b9befd43df6c45c9b17e9a79.png!w80" home-logo="https://img.cltvap.cc/football/team/abd87a03b9befd43df6c45c9b17e9a79.png!w80" away-logo="https://img.cltvap.cc/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80" group-title="Cola TV" start-time="1792863000",CLB Montreal Impact vs CLB Nashville - BLV FANTA — Major League Soccer
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/16226575_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
