@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:40:11 25/10/2026
+## Cập nhật lúc: 06:00:16 25/10/2026
+
+#EXTINF:-1 tvg-id="cctv_1549834_troctru" tvg-name="America de Cali vs Cucuta" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133658_a2b33348.png" group-title="Chuối TV" start-time="1792883100",America de Cali vs Cucuta - Trốc Tru [HD1] — VĐQG Colombia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1490558_chuoichao" tvg-name="New York Red Bulls vs Inter Miami" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131603_9cb4c304.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131603_9cb4c304.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" group-title="Chuối TV" start-time="1792877400",New York Red Bulls vs Inter Miami - Chuối Chao [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1549834_troctru" tvg-name="America de Cali vs Cucuta" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133658_a2b33348.png" group-title="Chuối TV" start-time="1792883100",America de Cali vs Cucuta - Trốc Tru [FHD] — VĐQG Colombia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1593690_angao" tvg-name="Wellington Phoenix vs Central Coast Mariners" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130439_bf7a95dc.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130439_bf7a95dc.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130439_20e4bfd2.png" group-title="Chuối TV" start-time="1792893600",Wellington Phoenix vs Central Coast Mariners - Chuối Già [FHD] — A-League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -42,11 +42,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_vjxm8gheowgwr6o" tvg-name="Club Leon vs Toluca" tvg-logo="https://static.sportsfeed.pro/football/team/4695f653aca6ac49ff2baa4a961fa67b.png" home-logo="https://static.sportsfeed.pro/football/team/4695f653aca6ac49ff2baa4a961fa67b.png" away-logo="https://static.sportsfeed.pro/football/team/725ccd5793be6b4f8dd917170dd17d04.png" group-title="Gà Vàng TV" start-time="1792882800",Club Leon vs Toluca - cố tư nghiêm — Mexico Liga MX
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_4jwq2ghnz4p1m0v" tvg-name="Santos vs Esporte Clube Bahia" tvg-logo="https://static.sportsfeed.pro/football/team/0840bace9b911b3f0dbadb710ea20316.png" home-logo="https://static.sportsfeed.pro/football/team/0840bace9b911b3f0dbadb710ea20316.png" away-logo="https://static.sportsfeed.pro/football/team/20456802ad5f8243dc282c4650c414e1.png" group-title="Gà Vàng TV" start-time="1792886400",Santos vs Esporte Clube Bahia - KAYTI — Brazilian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
