@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:00:07 25/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1556112_chuoinho" tvg-name="FC Tokyo vs Mito Hollyhock" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_1f072485.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_1f072485.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132416_803238d6.png" group-title="Chuối TV" start-time="1792911600",FC Tokyo vs Mito Hollyhock - Chuối Nhỏ [FHD] — J1 League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 16:20:19 25/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1622810_chuoichao" tvg-name="Arema FC vs Dewa United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134615_6b83f5fd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134615_6b83f5fd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134622_a3813d5b.png" group-title="Chuối TV" start-time="1792917000",Arema FC vs Dewa United - Chuối Chao [FHD] — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -121,6 +115,16 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_23xmvkh6n1o9qg8" tvg-name="Persita Tangerang vs Bali United" tvg-logo="https://static.sportsfeed.pro/football/team/da85ffb03146e72ce9928729dcabda51.png" home-logo="https://static.sportsfeed.pro/football/team/da85ffb03146e72ce9928729dcabda51.png" away-logo="https://static.sportsfeed.pro/football/team/09fe2ecf88f68970da755f8655d5da8a.png" group-title="Gà Vàng TV" start-time="1792917000",Persita Tangerang vs Bali United - SÚP LƠ — Indonesian Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_n54qllhn6xg4qvy" tvg-name="FK Rostov vs Lokomotiv Moscow" tvg-logo="https://static.sportsfeed.pro/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" home-logo="https://static.sportsfeed.pro/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" away-logo="https://static.sportsfeed.pro/football/team/5517b8865aa5280667bd899f6810d466.png" group-title="Gà Vàng TV" start-time="1792925100",FK Rostov vs Lokomotiv Moscow - MeoMeo — Russian Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_vjxm8gheo46wr6o" tvg-name="Inter vs Fiorentina" tvg-logo="https://static.sportsfeed.pro/football/team/aa2245702c40f77799a5ad4b119581a8.png" home-logo="https://static.sportsfeed.pro/football/team/aa2245702c40f77799a5ad4b119581a8.png" away-logo="https://static.sportsfeed.pro/football/team/858d87ded0cce014bae0c9681af48524.png" group-title="Gà Vàng TV" start-time="1792927800",Inter vs Fiorentina - ĐOÀN DỰ — Italian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
