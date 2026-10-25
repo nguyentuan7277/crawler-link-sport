@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 21:40:17 25/10/2026
+## Cập nhật lúc: 22:00:11 25/10/2026
+
+#EXTINF:-1 tvg-id="cctv_1570427_chuoichao" tvg-name="Celta Vigo vs Real Betis" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125624_eb9360f5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125624_eb9360f5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png" group-title="Chuối TV" start-time="1792941300",Celta Vigo vs Real Betis - Chuối Chao [HD2] — La Liga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1557441_chuoikem" tvg-name="Crystal Palace vs Newcastle" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_3a5b60eb.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_3a5b60eb.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_2cdfd5d4.png" group-title="Chuối TV" start-time="1792936800",Crystal Palace vs Newcastle - Chuối Kem [FHD] — Ngoại Hạng Anh
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,12 +31,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1570427_chuoichao" tvg-name="Celta Vigo vs Real Betis" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125624_eb9360f5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125624_eb9360f5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png" group-title="Chuối TV" start-time="1792941300",Celta Vigo vs Real Betis - Chuối Chao [FHD] — La Liga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1575198_chuoikem" tvg-name="SC Freiburg vs Bayern München" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_54f643a6.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_54f643a6.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png" group-title="Chuối TV" start-time="1792945800",SC Freiburg vs Bayern München - Chuối Kem [FHD] — Bundesliga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -195,6 +195,11 @@ https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_4wyrn4h6174oq86" tvg-name="Sparta Rotterdam vs AFC Ajax" tvg-logo="https://static.sportsfeed.pro/football/team/73a60eae399442123eeb6f90b70cee8e.png" home-logo="https://static.sportsfeed.pro/football/team/73a60eae399442123eeb6f90b70cee8e.png" away-logo="https://static.sportsfeed.pro/football/team/187929503752357480bce47813a9741f.png" group-title="Gà Vàng TV" start-time="1792943100",Sparta Rotterdam vs AFC Ajax - THICHDUTHU — Netherlands Eredivisie
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_6ypq3nhvdwj0md7" tvg-name="Angers vs Lorient" tvg-logo="https://static.sportsfeed.pro/football/team/526150064f4f983d670deb33fa6385b6.png" home-logo="https://static.sportsfeed.pro/football/team/526150064f4f983d670deb33fa6385b6.png" away-logo="https://static.sportsfeed.pro/football/team/b593727321793084b1f7804aebedc31a.png" group-title="Gà Vàng TV" start-time="1792944900",Angers vs Lorient - Lữ Bố.vip — French Ligue 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -229,11 +234,6 @@ https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19732651" tvg-name="Athletic Bilbao vs Getafe" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/getafe-106" group-title="BiaomTV" start-time="1792933200",Athletic Bilbao vs Getafe - Lẩu Ếch — VĐQG Tây Ban Nha
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NTE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmhjcXRnOXF5NXV4ZXhmYXM2Ym95c2M4cQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19722129" tvg-name="Crystal Palace vs Newcastle United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/crystal-palace-51" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/crystal-palace-51" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20" group-title="BiaomTV" start-time="1792936800",Crystal Palace vs Newcastle United - NEM NƯỚNG  — Ngoại Hạng Anh
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -299,11 +299,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NDg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmo
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NDg6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmxwODBkemhwdzZoN3JnZHlkbzgzcXgzNg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_xvkjoi8pdowb879" tvg-name="Athletic Bilbao vs Getafe CF" tvg-logo="https://img.cltvap.cc/football/team/abbb31d42c55612737713aac6567a226.png!w80" home-logo="https://img.cltvap.cc/football/team/abbb31d42c55612737713aac6567a226.png!w80" away-logo="https://img.cltvap.cc/football/team/36bf5bf0c8fdf08c1270124808f060e1.png!w80" group-title="Cola TV" start-time="1792933200",Athletic Bilbao vs Getafe CF - BLV TEPPY — Giải Bóng đá Vô địch Quốc gia Tây Ban Nha
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.yefpwmc.app/live/33860426_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_g6763i5o02rao7r" tvg-name="PSV Eindhoven vs Feyenoord" tvg-logo="https://img.cltvap.cc/football/team/cad5af4d1ff0e6f3119af3d273d95d31.png!w80" home-logo="https://img.cltvap.cc/football/team/cad5af4d1ff0e6f3119af3d273d95d31.png!w80" away-logo="https://img.cltvap.cc/football/team/44073f2d2c979a9388f98505ac3b754d.png!w80" group-title="Cola TV" start-time="1792935000",PSV Eindhoven vs Feyenoord - BLV SODA — Giải Bóng đá Vô địch Quốc gia Hà Lan
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
