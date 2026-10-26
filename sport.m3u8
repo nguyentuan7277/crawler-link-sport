@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 06:20:09 27/10/2026
+## Cập nhật lúc: 06:40:08 27/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1492421_troctru" tvg-name="Coritiba vs Gremio" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_d4d52169.png" group-title="Chuối TV" start-time="1793053800",Coritiba vs Gremio - Trốc Tru [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -121,11 +121,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_6ypq3nhvvl54md7" tvg-name="Juventude vs Nautico" tvg-logo="https://static.sportsfeed.pro/football/team/7a9a6275e29e0f51ea68ba1ec740bf1e.png" home-logo="https://static.sportsfeed.pro/football/team/7a9a6275e29e0f51ea68ba1ec740bf1e.png" away-logo="https://static.sportsfeed.pro/football/team/1d8d54bfe19b8bfd6d064eda3556f812.png" group-title="Gà Vàng TV" start-time="1793057400",Juventude vs Nautico - cố tư nghiêm — Brazilian Serie B
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_4jwq2ghn5pwnm0v" tvg-name="Instituto vs Deportivo Riestra" tvg-logo="https://static.sportsfeed.pro/football/team/a01279fdf6589b3c11529ca1ab4201fc.png" home-logo="https://static.sportsfeed.pro/football/team/a01279fdf6589b3c11529ca1ab4201fc.png" away-logo="https://static.sportsfeed.pro/football/team/b9eb3a2ccc44b65d7bd365ad417ddb04.png" group-title="Gà Vàng TV" start-time="1793060100",Instituto vs Deportivo Riestra - KAYTI — Argentine Division 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
