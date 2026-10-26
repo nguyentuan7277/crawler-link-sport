@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 07:40:10 26/10/2026
+## Cập nhật lúc: 08:00:08 26/10/2026
+
+#EXTINF:-1 tvg-id="cctv_1490570_chuoisay" tvg-name="Los Angeles FC vs Los Angeles Galaxy" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_20c3f42a.png" group-title="Chuối TV" start-time="1792976400",Los Angeles FC vs Los Angeles Galaxy - Chuối Sấy [HD1] — Major League Soccer
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1549835_troctru" tvg-name="Atletico Nacional vs Independiente Medellín" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" away-logo="https://media.chuoichientv.net/media/20260930_011303_48ab49d9.png" group-title="Chuối TV" start-time="1792969800",Atletico Nacional vs Independiente Medellín - Trốc Tru [FHD] — VĐQG Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1490570_chuoisay" tvg-name="Los Angeles FC vs Los Angeles Galaxy" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_20c3f42a.png" group-title="Chuối TV" start-time="1792976400",Los Angeles FC vs Los Angeles Galaxy - Chuối Sấy [FHD] — Major League Soccer
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1551019_chuoinho" tvg-name="Club Tijuana vs Santos Laguna" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133837_c53709bd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133837_c53709bd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133838_4f6c2505.png" group-title="Chuối TV" start-time="1792983600",Club Tijuana vs Santos Laguna - Chuối Nhỏ [FHD] — VĐQG Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -43,12 +43,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1604036_chuoichao" tvg-name="Al Anwar vs Al Akhdoud" tvg-logo="https://media.api-sports.io/football/teams/10503.png" home-logo="https://media.api-sports.io/football/teams/10503.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134006_71b12424.png" group-title="Chuối TV" start-time="1793026800",Al Anwar vs Al Akhdoud - Chuối Chao [FHD] — Hạng Nhất Ả Rập
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1629945_chuoinho" tvg-name="Al Ain vs Tractor Sazi" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_c1ce473c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_c1ce473c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132916_bc3c0acb.png" group-title="Chuối TV" start-time="1793030400",Al Ain vs Tractor Sazi - Chuối Nhỏ [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -114,11 +108,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_965mkyhko04gr1g" tvg-name="Los Angeles FC vs LA Galaxy" tvg-logo="https://static.sportsfeed.pro/football/team/9c5ad5227377e12b87f77790d3d88c1c.png" home-logo="https://static.sportsfeed.pro/football/team/9c5ad5227377e12b87f77790d3d88c1c.png" away-logo="https://static.sportsfeed.pro/football/team/8ef755c4d2e1aed96dc5d291977c1043.png" group-title="Gà Vàng TV" start-time="1792976400",Los Angeles FC vs LA Galaxy - RIO — United States Major League Soccer
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_23xmvkh6z0oyqg8" tvg-name="Club America vs Pachuca" tvg-logo="https://static.sportsfeed.pro/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png" home-logo="https://static.sportsfeed.pro/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png" away-logo="https://static.sportsfeed.pro/football/team/cff411edceeeb7c1677d9db65ce47164.png" group-title="Gà Vàng TV" start-time="1792976700",Club America vs Pachuca - cố tư nghiêm — Mexico Liga MX
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -209,3 +198,18 @@ https://live05.yefpwmc.app/live/89756030_tsc.m3u8|Referer=https://colatvttbdh.tv
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.yefpwmc.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o07dni5v86oimkn" tvg-name="Los Angeles FC vs CLB LA Galaxy" tvg-logo="https://img.cltvap.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80" home-logo="https://img.cltvap.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80" away-logo="https://img.cltvap.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80" group-title="Cola TV" start-time="1792976400",Los Angeles FC vs CLB LA Galaxy - BLV SAMURAI — Major League Soccer
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o07dzsmrg4yhmkn" tvg-name="Sacramento Kings vs Memphis Grizzlies" tvg-logo="https://img.cltvap.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" home-logo="https://img.cltvap.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" away-logo="https://img.cltvap.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80" group-title="Cola TV" start-time="1792976400",Sacramento Kings vs Memphis Grizzlies - BLV POCARI — Hiệp hội Bóng rổ Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_34kgmio3eygseko" tvg-name="Club America vs Pachuca" tvg-logo="https://img.cltvap.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80" home-logo="https://img.cltvap.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80" away-logo="https://img.cltvap.cc/football/team/cff411edceeeb7c1677d9db65ce47164.png!w80" group-title="Cola TV" start-time="1792976700",Club America vs Pachuca - BLV BÍ ĐAO — Giải Vô địch Bóng đá Quốc gia Mexico
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/99121525_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
