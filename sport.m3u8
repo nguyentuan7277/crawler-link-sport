@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:40:06 27/10/2026
+## Cập nhật lúc: 02:00:18 27/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1575524_troctru" tvg-name="Santa Clara vs Benfica" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125618_c9ec2967.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125618_c9ec2967.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png" group-title="Chuối TV" start-time="1793040300",Santa Clara vs Benfica - Trốc Tru [HD1] — VĐQG Bồ Đào Nha
+#EXTINF:-1 tvg-id="cctv_995361_chuoisay" tvg-name="Trực Tiếp vs Lễ trao giải Quả bóng Vàng 2026" tvg-logo="https://media.chuoichientv.net/media/20261025_102639_9f54bd1e.webp" home-logo="https://media.chuoichientv.net/media/20261025_102639_9f54bd1e.webp" away-logo="https://media.chuoichientv.net/media/20261025_102639_1ba81e99.jpg" group-title="Chuối TV" start-time="1793041200",Trực Tiếp vs Lễ trao giải Quả bóng Vàng 2026 - Chuối Sấy [FHD] — Lễ trao giải Quả bóng Vàng 2026
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1584442_chuoitay" tvg-name="Galatasaray vs Fenerbahce" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_ed875292.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_ed875292.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125650_26561183.png" group-title="Chuối TV" start-time="1793039400",Galatasaray vs Fenerbahce - Chuối Tây [FHD] — VĐQG Thổ Nhĩ Kì
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -14,11 +14,11 @@ https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_995361_chuoisay" tvg-name="Trực Tiếp vs Lễ trao giải Quả bóng Vàng 2026" tvg-logo="https://media.chuoichientv.net/media/20261025_102639_9f54bd1e.webp" home-logo="https://media.chuoichientv.net/media/20261025_102639_9f54bd1e.webp" away-logo="https://media.chuoichientv.net/media/20261025_102639_1ba81e99.jpg" group-title="Chuối TV" start-time="1793041200",Trực Tiếp vs Lễ trao giải Quả bóng Vàng 2026 - Chuối Sấy [FHD] — Lễ trao giải Quả bóng Vàng 2026
+#EXTINF:-1 tvg-id="cctv_1575524_troctru" tvg-name="Santa Clara vs Benfica" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125618_c9ec2967.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125618_c9ec2967.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png" group-title="Chuối TV" start-time="1793040300",Santa Clara vs Benfica - Trốc Tru [FHD] — VĐQG Bồ Đào Nha
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1552800_angao" tvg-name="Paris Saint Germain vs Lyon" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125513_ca6329d9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125513_ca6329d9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" group-title="Chuối TV" start-time="1793043000",Paris Saint Germain vs Lyon - Chuối Già [FHD] — Ligue 1
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -50,20 +50,45 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_965mkyhkd59zr1g" tvg-name="Besiktas JK vs Basaksehir FK" tvg-logo="https://static.sportsfeed.pro/football/team/83ba0474d144e49f060789cfa904e226.png" home-logo="https://static.sportsfeed.pro/football/team/83ba0474d144e49f060789cfa904e226.png" away-logo="https://static.sportsfeed.pro/football/team/f0d939fe86baa9686d9f9f1aa34bc191.png" group-title="Gà Vàng TV" start-time="1793030400",Besiktas JK vs Basaksehir FK - khang hi — Turkish Super League
+#EXTINF:-1 tvg-id="gavang_dj2ryohl3400q1z" tvg-name="FC Copenhagen vs Odense BK" tvg-logo="https://static.sportsfeed.pro/football/team/629b6f983d0ca3c33f2c4b50b3449314.png" home-logo="https://static.sportsfeed.pro/football/team/629b6f983d0ca3c33f2c4b50b3449314.png" away-logo="https://static.sportsfeed.pro/football/team/de4422160e9ec4e8e9e1f9517ca0e51a.png" group-title="Gà Vàng TV" start-time="1793037600",FC Copenhagen vs Odense BK - NGƯỜI KIẾN — Danish Superliga
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_match1" tvg-name="Lễ Trao Giải vs Ballon dOr 2026" tvg-logo="https://cdn-icons-png.flaticon.com/256/250/250618.png" home-logo="https://cdn-icons-png.flaticon.com/256/250/250618.png" away-logo="https://cdn-icons-png.flaticon.com/256/250/250618.png" group-title="Gà Vàng TV" start-time="1793041200",Lễ Trao Giải vs Ballon dOr 2026 - khang hi — Ballon d'Or 2026
+#EXTINF:-1 tvg-id="gavang_2y8m4zh5w463ql0" tvg-name="Orebro SK vs Falkenberg" tvg-logo="https://static.sportsfeed.pro/football/team/b8aa61e17010156bad2d99ec4279b047.png" home-logo="https://static.sportsfeed.pro/football/team/b8aa61e17010156bad2d99ec4279b047.png" away-logo="https://static.sportsfeed.pro/football/team/8e8df2e76307a35fe7996ec1519b7d59.png" group-title="Gà Vàng TV" start-time="1793037900",Orebro SK vs Falkenberg - Cá MậP — Sweden Superettan
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l7oqdehgve2or51" tvg-name="Al Quwa Al Jawiya vs Pakhtakor" tvg-logo="https://static.sportsfeed.pro/football/team/ff4c5749c2c2cd8d1aad37ebe324847e.png" home-logo="https://static.sportsfeed.pro/football/team/ff4c5749c2c2cd8d1aad37ebe324847e.png" away-logo="https://static.sportsfeed.pro/football/team/1cce63f2bab329f5f017123ada9f8565.png" group-title="Gà Vàng TV" start-time="1793038500",Al Quwa Al Jawiya vs Pakhtakor - SÚP LƠ — AFC Champions League Elite
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_2y8m4zh524nxql0" tvg-name="Al-Qadsiah vs Al Sadd" tvg-logo="https://static.sportsfeed.pro/football/team/bc74439d19c8bbaa17c57406b120b86d.png" home-logo="https://static.sportsfeed.pro/football/team/bc74439d19c8bbaa17c57406b120b86d.png" away-logo="https://static.sportsfeed.pro/football/team/5c794bfbf3227563c85323bb624721ec.png" group-title="Gà Vàng TV" start-time="1793038500",Al-Qadsiah vs Al Sadd - Lữ Bố.vip — AFC Champions League Elite
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_k82rekhgp6dnrep" tvg-name="Galatasaray vs Fenerbahce" tvg-logo="https://static.sportsfeed.pro/football/team/722e43393d34b94cb556aa0b3c9f4190.png" home-logo="https://static.sportsfeed.pro/football/team/722e43393d34b94cb556aa0b3c9f4190.png" away-logo="https://static.sportsfeed.pro/football/team/dff00f1fd4a7dd2feac000b462416867.png" group-title="Gà Vàng TV" start-time="1793039400",Galatasaray vs Fenerbahce - Lá Chanh — Turkish Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y0or5jh8y30nqwz" tvg-name="Santa Clara vs Benfica" tvg-logo="https://static.sportsfeed.pro/football/team/0c5162e7f8371cb6972ca6413bf228e8.png" home-logo="https://static.sportsfeed.pro/football/team/0c5162e7f8371cb6972ca6413bf228e8.png" away-logo="https://static.sportsfeed.pro/football/team/78360445c12fa3fdc8b489486fff4eb6.png" group-title="Gà Vàng TV" start-time="1793040300",Santa Clara vs Benfica - SimonZ — Portuguese Primera Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ad087284c3981dd68475913.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_zp5rzghgepl4q82" tvg-name="PSG vs OL" tvg-logo="https://static.sportsfeed.pro/football/team/3b720f181ce9993f9422d276acf7b292.png" home-logo="https://static.sportsfeed.pro/football/team/3b720f181ce9993f9422d276acf7b292.png" away-logo="https://static.sportsfeed.pro/football/team/92fb3cf79ea2ba919b94b04668e13491.png" group-title="Gà Vàng TV" start-time="1793043000",PSG vs OL - GIàng A Dân — French Ligue 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y0or5jh8k131qwz" tvg-name="Sevilla vs Osasuna" tvg-logo="https://static.sportsfeed.pro/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png" home-logo="https://static.sportsfeed.pro/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png" away-logo="https://static.sportsfeed.pro/football/team/c2050b940076df70b2ad0a6103c50df4.png" group-title="Gà Vàng TV" start-time="1793044800",Sevilla vs Osasuna - CRIS — Spanish La Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19746576" tvg-name="Galatasaray vs Fenerbahçe" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fenerbahce-88" group-title="BiaomTV" start-time="1793039400",Galatasaray vs Fenerbahçe - TRÚC BẠCH — VĐQG Thổ Nhĩ Kỳ
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
