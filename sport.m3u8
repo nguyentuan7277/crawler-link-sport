@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 02:20:09 28/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1550174_angao" tvg-name="Sassuolo vs Lazio" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125559_9e8fc4c8.png" group-title="Chuối TV" start-time="1793122200",Sassuolo vs Lazio - Chuối Già [FHD] — Serie A
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1629956_chuoinho" tvg-name="Al Shamal vs Al-Hilal Saudi FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130847_be018c98.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130847_be018c98.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png" group-title="Chuối TV" start-time="1793124900",Al Shamal vs Al-Hilal Saudi FC - Chuối Nhỏ [FHD] — AFC Champions League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 02:40:09 28/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1550168_chuoila" tvg-name="AS Roma vs Cagliari" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_1f684e4e.png" group-title="Chuối TV" start-time="1793130300",AS Roma vs Cagliari - Chuối Lá [FHD] — Serie A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -31,6 +19,12 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1629956_chuoinho" tvg-name="Al Shamal vs Al-Hilal Saudi FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130847_be018c98.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130847_be018c98.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png" group-title="Chuối TV" start-time="1793124900",Al Shamal vs Al-Hilal Saudi FC - Chuối Nhỏ [FHD] — AFC Champions League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1640386_chuoinho" tvg-name="Fleetwood Town vs Arsenal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130904_95bc912d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130904_95bc912d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png" group-title="Chuối TV" start-time="1793131200",Fleetwood Town vs Arsenal - Chuối Nhỏ [FHD] — Cúp Liên đoàn Anh
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -120,11 +114,6 @@ https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_19713530" tvg-name="Sassuolo vs Lazio" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sassuolo-2714" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sassuolo-2714" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lazio-43" group-title="BiaomTV" start-time="1793122200",Sassuolo vs Lazio - Vịt Nướng — VĐQG Ý
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MzA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnVtMnZpbHc1OXJqY2d2a3dxZGx2cWtzMQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_19713531" tvg-name="AS Roma vs Cagliari" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-37" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-37" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cagliari-585" group-title="BiaomTV" start-time="1793130300",AS Roma vs Cagliari - TIGER — VĐQG Ý
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -200,10 +189,60 @@ https://cdnhls.xbdbotv.live/live/MTk4NjIzMjI6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk3OTg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnJjOHhkb21nMmp6NmZvZXB5Ym8wajB4NQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_o07dni5pdryumkn" tvg-name="U.S. Sassuolo Calcio vs S.S. Lazio" tvg-logo="https://img.cltvap.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" home-logo="https://img.cltvap.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" away-logo="https://img.cltvap.cc/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png!w80" group-title="Cola TV" start-time="1793122200",U.S. Sassuolo Calcio vs S.S. Lazio - BLV C2 — Giải bóng đá Serie A Italia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTINF:-1 tvg-id="biaom_19879784" tvg-name="SC Paderborn vs VfB Stuttgart" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paderborn-2642" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paderborn-2642" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="BiaomTV" start-time="1793206800",SC Paderborn vs VfB Stuttgart - TÔM CHIÊN — Cúp Đức
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.yefpwmc.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4Nzk3ODQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmpvY3d0ZWRmM3owdm1xeWs5ZXV1Y3VnMw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19713534" tvg-name="Milan vs Bologna" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/milan-113" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/milan-113" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bologna-8513" group-title="BiaomTV" start-time="1793208600",Milan vs Bologna - 333 — VĐQG Ý
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MzQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmN2bW9rdGo0M2hxaWdtNzV4ZWRiY29nMg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19713534" tvg-name="Milan vs Bologna" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/milan-113" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/milan-113" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bologna-8513" group-title="BiaomTV" start-time="1793208600",Milan vs Bologna - TRÚC BẠCH — VĐQG Ý
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MzQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOm11eWZ5cndudHYwYWRndmU3b2drM3BvOQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19713528" tvg-name="Venezia vs Inter Milan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/venezia-267" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/venezia-267" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930" group-title="BiaomTV" start-time="1793208600",Venezia vs Inter Milan - Vịt Nướng — VĐQG Ý
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MTM1Mjg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZyYWoyd2thcWdmb2l2MWVqNHViMXdwdA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19884064" tvg-name="Manchester City vs Brighton & Hove Albion" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-9" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-9" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brighton-hove-albion-78" group-title="BiaomTV" start-time="1793215800",Manchester City vs Brighton & Hove Albion - NEM NƯỚNG  — Cúp Liên Đoàn Anh
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4ODQwNjQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhwMjZkZTkwOGpwdm45c2VzOHBxZGZwNg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19884058" tvg-name="AFC Bournemouth vs Aston Villa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/afc-bournemouth-52" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/afc-bournemouth-52" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="BiaomTV" start-time="1793216700",AFC Bournemouth vs Aston Villa - TIGER — Cúp Liên Đoàn Anh
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4ODQwNTg6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Omxkd2YzZHpmbzlma2syNXd1enMzd3o4MQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19884059" tvg-name="Fulham vs Crystal Palace" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fulham-11" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fulham-11" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/crystal-palace-51" group-title="BiaomTV" start-time="1793216700",Fulham vs Crystal Palace - TÔM CHIÊN — Cúp Liên Đoàn Anh
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4ODQwNTk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om1lYzQ5cjYzaG95eHNmcWhmY256djkzcg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19884062" tvg-name="Sunderland vs Brentford" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sunderland-3" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sunderland-3" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brentford-236" group-title="BiaomTV" start-time="1793216700",Sunderland vs Brentford - ASAHI — Cúp Liên Đoàn Anh
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4ODQwNjI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnNlN3hnNnBuNWx5ZjRhcXM1Z3pxYWM4NA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19884062" tvg-name="Sunderland vs Brentford" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sunderland-3" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sunderland-3" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brentford-236" group-title="BiaomTV" start-time="1793216700",Sunderland vs Brentford - TRÚC BẠCH — Cúp Liên Đoàn Anh
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4ODQwNjI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnA4N3Q3YWcydHY2NHh6ZDZ4cGoyZXBlbg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19884061" tvg-name="Liverpool vs Chelsea" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-18" group-title="BiaomTV" start-time="1793217600",Liverpool vs Chelsea - SAPPORO — Cúp Liên Đoàn Anh
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4ODQwNjE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmprNjVhcnUwMjg2Z2U4ZXpidXE1dnRsYg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19884061" tvg-name="Liverpool vs Chelsea" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-18" group-title="BiaomTV" start-time="1793217600",Liverpool vs Chelsea - Vịt Nướng — Cúp Liên Đoàn Anh
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4ODQwNjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZyeTE0Y3lwbzVuYXFua3h1dXo0aTEzZQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_o17pjioyzovby7j" tvg-name="AIK vs Elfsborg" tvg-logo="https://img.cltvap.cc/football/team/0cc49f3f48c86ed0c00a31c96962ecf3.png!w80" home-logo="https://img.cltvap.cc/football/team/0cc49f3f48c86ed0c00a31c96962ecf3.png!w80" away-logo="https://img.cltvap.cc/football/team/983e56ee1d89379148cbb1d28384b6af.png!w80" group-title="Cola TV" start-time="1793124000",AIK vs Elfsborg - BLV MONSTER — Giải Vô địch Quốc gia Thụy Điển
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
