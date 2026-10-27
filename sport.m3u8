@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:40:10 27/10/2026
+## Cập nhật lúc: 18:00:10 27/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1629949_chuoikem" tvg-name="Daejeon Citizen vs Vissel Kobe" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133954_6190ac3c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133954_6190ac3c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132411_422face5.png" group-title="Chuối TV" start-time="1793095200",Daejeon Citizen vs Vissel Kobe - Chuối Kem [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -92,11 +92,6 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_1l4rjnh9vg3vm7v" tvg-name="Becamex Binh Duong vs Than Quang Ninh" tvg-logo="https://static.sportsfeed.pro/football/team/8781d3f729c7f3a9baacbee4385f7c84.png" home-logo="https://static.sportsfeed.pro/football/team/8781d3f729c7f3a9baacbee4385f7c84.png" away-logo="https://static.sportsfeed.pro/football/team/479d859dacd00866ef0da188c0617234.png" group-title="Gà Vàng TV" start-time="1793098800",Becamex Binh Duong vs Than Quang Ninh - ĐOÀN DỰ — Vietnam National First Class League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_1l4rjnh983l6m7v" tvg-name="Beijing Guoan FC vs Jeonbuk Hyundai Motors" tvg-logo="https://static.sportsfeed.pro/football/team/e7af298237651113dfeafc32ff734a24.png" home-logo="https://static.sportsfeed.pro/football/team/e7af298237651113dfeafc32ff734a24.png" away-logo="https://static.sportsfeed.pro/football/team/ee2117f952745163fecfa4b74a6a2bea.png" group-title="Gà Vàng TV" start-time="1793103300",Beijing Guoan FC vs Jeonbuk Hyundai Motors - khang hi — AFC Champions League Elite
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -111,6 +106,11 @@ https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l7oqdehgv776r51" tvg-name="Panserraikos vs Niki Volos" tvg-logo="https://static.sportsfeed.pro/football/team/00f0cc110f52c5adb9c04d5ab8c384fe.png" home-logo="https://static.sportsfeed.pro/football/team/00f0cc110f52c5adb9c04d5ab8c384fe.png" away-logo="https://static.sportsfeed.pro/football/team/46ce6635894a60830f8fcaeb8fe99a6d.png" group-title="Gà Vàng TV" start-time="1793109600",Panserraikos vs Niki Volos - ĐOÀN DỰ — Greek Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19867064" tvg-name="Daejeon Citizen vs Vissel Kobe" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/daejeon-citizen-5664" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/daejeon-citizen-5664" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vissel-kobe-3867" group-title="BiaomTV" start-time="1793095200",Daejeon Citizen vs Vissel Kobe - TÔM CHIÊN — C1 Châu Á
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -241,8 +241,3 @@ https://live05.yefpwmc.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.yefpwmc.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_34kgmio940jteko" tvg-name="Đại học Văn Hiến vs Gia Dinh" tvg-logo="https://img.cltvap.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png!w80" home-logo="https://img.cltvap.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png!w80" away-logo="https://img.cltvap.cc/football/team/a3fa1f2bd7dbd79b0c531417b56647d6.png!w80" group-title="Cola TV" start-time="1793095200",Đại học Văn Hiến vs Gia Dinh - BLV TEPPY — Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.yefpwmc.app/live/33860426_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
