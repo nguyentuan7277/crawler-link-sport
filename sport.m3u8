@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:00:16 27/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1629949_chuoikem" tvg-name="Daejeon Citizen vs Vissel Kobe" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133954_6190ac3c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133954_6190ac3c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132411_422face5.png" group-title="Chuối TV" start-time="1793095200",Daejeon Citizen vs Vissel Kobe - Chuối Kem [FHD] — AFC Champions League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1629952_angao" tvg-name="SHANGHAI SIPG vs Công An Hà Nội" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133411_6f730c26.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133411_6f730c26.png" away-logo="https://media.chuoichientv.net/media/20250823_192612_72e9a551.webp" group-title="Chuối TV" start-time="1793095200",SHANGHAI SIPG vs Công An Hà Nội - Chuối Già [HD1] — AFC Champions League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 17:20:11 27/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1634990_chuoisay" tvg-name="Lam Dong vs PVF-CAND" tvg-logo="https://media.api-sports.io/football/teams/28215.png" home-logo="https://media.api-sports.io/football/teams/28215.png" away-logo="https://media.chuoichientv.net/media/20250817_040457_e299eb36.png" group-title="Chuối TV" start-time="1793089800",Lam Dong vs PVF-CAND - Chuối Sấy [FHD] — V.League 2
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +13,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1629949_chuoikem" tvg-name="Daejeon Citizen vs Vissel Kobe" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133954_6190ac3c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133954_6190ac3c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132411_422face5.png" group-title="Chuối TV" start-time="1793095200",Daejeon Citizen vs Vissel Kobe - Chuối Kem [FHD] — AFC Champions League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1629952_angao" tvg-name="SHANGHAI SIPG vs Công An Hà Nội" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133411_6f730c26.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133411_6f730c26.png" away-logo="https://media.chuoichientv.net/media/20250823_192612_72e9a551.webp" group-title="Chuối TV" start-time="1793095200",SHANGHAI SIPG vs Công An Hà Nội - Chuối Già [FHD] — AFC Champions League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1629954_chuoinho" tvg-name="Ratchaburi vs Kashiwa Reysol" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131732_9a3f3007.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131732_9a3f3007.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132408_f7de4656.png" group-title="Chuối TV" start-time="1793103300",Ratchaburi vs Kashiwa Reysol - Chuối Nhỏ [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -234,6 +234,11 @@ https://cdnhls.xbdbotv.live/live/MTk4ODQwNjU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.yefpwmc.app/live/07808742_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cola_69759ig2x1ohgk2" tvg-name="Khánh Hòa vs Đồng Tháp" tvg-logo="https://img.cltvap.cc/football/team/6d4c74bfc709d561f3bed627af4218f3.png!w80" home-logo="https://img.cltvap.cc/football/team/6d4c74bfc709d561f3bed627af4218f3.png!w80" away-logo="https://img.cltvap.cc/football/team/aaf7ff777567dba636caf52a05a45c31.png!w80" group-title="Cola TV" start-time="1793092500",Khánh Hòa vs Đồng Tháp - BLV MONSTER — Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/75915087_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="cola_wv78xiv03xlfokr" tvg-name="CLB Johor Darul Takzim vs Port FC" tvg-logo="https://img.cltvap.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" home-logo="https://img.cltvap.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" away-logo="https://img.cltvap.cc/football/team/fb00f7ae0bf4530e86baf7bec110f69f.png!w80" group-title="Cola TV" start-time="1793095200",CLB Johor Darul Takzim vs Port FC - BLV HỔ VẰN — AFC Giải vô địch Champions Elite
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -248,6 +253,11 @@ https://live05.yefpwmc.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.yefpwmc.app/live/78905744_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ezk90sp232la1kn" tvg-name="Seoul Knights vs KCC Egis" tvg-logo="https://img.cltvap.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80" home-logo="https://img.cltvap.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80" away-logo="https://img.cltvap.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Cola TV" start-time="1793095200",Seoul Knights vs KCC Egis - BLV Cozy — Giải bóng rổ nam Hàn Quốc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/87379114_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_69759igo1zwfgk2" tvg-name="Shanghai Port vs Cong An Ha Noi FC" tvg-logo="https://img.cltvap.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80" home-logo="https://img.cltvap.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80" away-logo="https://img.cltvap.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80" group-title="Cola TV" start-time="1793095200",Shanghai Port vs Cong An Ha Noi FC - BLV C2 — AFC Giải vô địch Champions Elite
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
