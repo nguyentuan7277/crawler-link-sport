@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 14:40:09 27/10/2026
+## Cập nhật lúc: 15:00:09 27/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1634990_chuoisay" tvg-name="Lam Dong vs PVF-CAND" tvg-logo="https://media.api-sports.io/football/teams/28215.png" home-logo="https://media.api-sports.io/football/teams/28215.png" away-logo="https://media.chuoichientv.net/media/20250817_040457_e299eb36.png" group-title="Chuối TV" start-time="1793089800",Lam Dong vs PVF-CAND - Chuối Sấy [FHD] — V.League 2
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -144,6 +144,11 @@ https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnh9vg3vm7v" tvg-name="Becamex Binh Duong vs Than Quang Ninh" tvg-logo="https://static.sportsfeed.pro/football/team/8781d3f729c7f3a9baacbee4385f7c84.png" home-logo="https://static.sportsfeed.pro/football/team/8781d3f729c7f3a9baacbee4385f7c84.png" away-logo="https://static.sportsfeed.pro/football/team/479d859dacd00866ef0da188c0617234.png" group-title="Gà Vàng TV" start-time="1793098800",Becamex Binh Duong vs Than Quang Ninh - ĐOÀN DỰ — Vietnam National First Class League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19867064" tvg-name="Daejeon Citizen vs Vissel Kobe" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/daejeon-citizen-5664" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/daejeon-citizen-5664" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vissel-kobe-3867" group-title="BiaomTV" start-time="1793095200",Daejeon Citizen vs Vissel Kobe - TÔM CHIÊN — C1 Châu Á
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
