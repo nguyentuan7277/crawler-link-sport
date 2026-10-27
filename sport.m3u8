@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 22:20:09 27/10/2026
+## Cập nhật lúc: 22:40:09 27/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1645602_troctru" tvg-name="Kazma vs Ajman" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130609_ea2e4d93.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130609_ea2e4d93.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125818_d71a2a6d.png" group-title="Chuối TV" start-time="1793111400",Kazma vs Ajman - Trốc Tru [FHD] — AGCFF Gulf Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -66,11 +66,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_4wyrn4h6jgjgq86" tvg-name="Asteras Aktor vs AE Kifisias" tvg-logo="https://static.sportsfeed.pro/football/team/dbd8fbe82c9a39a85054bd7a2ac99b24.png" home-logo="https://static.sportsfeed.pro/football/team/dbd8fbe82c9a39a85054bd7a2ac99b24.png" away-logo="https://static.sportsfeed.pro/football/team/0bbce158fb187362aefb912cefc731c4.png" group-title="Gà Vàng TV" start-time="1793115000",Asteras Aktor vs AE Kifisias - SÚP LƠ — Greek Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_jw2r09hkepjlrz8" tvg-name="Al Seeb vs East Bengal FC" tvg-logo="https://static.sportsfeed.pro/football/team/99436fc30d359790afbd11fe602a5a45.png" home-logo="https://static.sportsfeed.pro/football/team/99436fc30d359790afbd11fe602a5a45.png" away-logo="https://static.sportsfeed.pro/football/team/21649c3d173c8f4ec9d526432ad9f088.png" group-title="Gà Vàng TV" start-time="1793116800",Al Seeb vs East Bengal FC - A Long — AFC Champions League Two
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -171,3 +166,13 @@ https://live05.yefpwmc.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.yefpwmc.app/live/59444581_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jr7owipg0orugq0" tvg-name="Al Wehda vs Al-Saqer" tvg-logo="https://img.cltvap.cc/football/team/b510505e58cd138df949e152ab1c85f4.png!w80" home-logo="https://img.cltvap.cc/football/team/b510505e58cd138df949e152ab1c85f4.png!w80" away-logo="https://img.cltvap.cc/football/team/cfe8cbdf8348f0ce663a2eabe2f59dcd.png!w80" group-title="Cola TV" start-time="1793114700",Al Wehda vs Al-Saqer - BLV C2 — Giải bóng đá Hạng nhất Ả Rập Xê Út
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ezk96i3v4v4c1kn" tvg-name="Asteras Tripolis vs Kifisias" tvg-logo="https://img.cltvap.cc/football/team/dbd8fbe82c9a39a85054bd7a2ac99b24.png!w80" home-logo="https://img.cltvap.cc/football/team/dbd8fbe82c9a39a85054bd7a2ac99b24.png!w80" away-logo="https://img.cltvap.cc/football/team/0bbce158fb187362aefb912cefc731c4.png!w80" group-title="Cola TV" start-time="1793115000",Asteras Tripolis vs Kifisias - BLV REDBULL — Cúp Hy Lạp
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/49572724_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
