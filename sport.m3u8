@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 09:00:06 27/10/2026
+## Cập nhật lúc: 09:20:13 27/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1549822_chuoitay" tvg-name="Santa Fe vs Bucaramanga" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133536_ca511a27.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133536_ca511a27.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_2eb7128c.png" group-title="Chuối TV" start-time="1793063100",Santa Fe vs Bucaramanga - Chuối Tây [FHD] — VĐQG Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -116,11 +116,6 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_4jwq2ghn5pwnm0v" tvg-name="Instituto vs Deportivo Riestra" tvg-logo="https://static.sportsfeed.pro/football/team/a01279fdf6589b3c11529ca1ab4201fc.png" home-logo="https://static.sportsfeed.pro/football/team/a01279fdf6589b3c11529ca1ab4201fc.png" away-logo="https://static.sportsfeed.pro/football/team/b9eb3a2ccc44b65d7bd365ad417ddb04.png" group-title="Gà Vàng TV" start-time="1793060100",Instituto vs Deportivo Riestra - KAYTI — Argentine Division 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_8yomo4h1o3pwq0j" tvg-name="Independiente Santa Fe vs Atletico Bucaramanga" tvg-logo="https://static.sportsfeed.pro/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png" home-logo="https://static.sportsfeed.pro/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png" away-logo="https://static.sportsfeed.pro/football/team/70c92764e181ce7abe6176c411a93fe3.png" group-title="Gà Vàng TV" start-time="1793063100",Independiente Santa Fe vs Atletico Bucaramanga - SiêU QuậY — Categoría Primera A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -225,3 +220,18 @@ https://cdnhls.xbdbotv.live/live/MTk3MTM1Mjk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnF
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4ODQwNjU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJtcndyZ2c5cDM5NW9idTI3Y2F3N2V4ZQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_xvkjvszwv1gi8k9" tvg-name="Houston Rockets vs Atlanta Hawks" tvg-logo="https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" home-logo="https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" away-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="Cola TV" start-time="1793061000",Houston Rockets vs Atlanta Hawks - BLV ROCKSTAR — Hiệp hội Bóng rổ Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/82054853_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_vmqy9iv5l1gigk9" tvg-name="CLB Santa Fe vs Bucaramanga" tvg-logo="https://img.cltvap.cc/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png!w80" home-logo="https://img.cltvap.cc/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png!w80" away-logo="https://img.cltvap.cc/football/team/70c92764e181ce7abe6176c411a93fe3.png!w80" group-title="Cola TV" start-time="1793063100",CLB Santa Fe vs Bucaramanga - BLV AQUA — Giải vô địch quốc gia Colombia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/18812304_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_zrknxs5y3p3twql" tvg-name="Denver Nuggets vs Golden State Warriors" tvg-logo="https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" home-logo="https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" away-logo="https://img.cltvap.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80" group-title="Cola TV" start-time="1793066400",Denver Nuggets vs Golden State Warriors - BLV 247 — Hiệp hội Bóng rổ Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/90865415_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
