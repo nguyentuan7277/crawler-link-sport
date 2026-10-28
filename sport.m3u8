@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:00:15 28/10/2026
+## Cập nhật lúc: 17:20:17 28/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1629957_chuoila" tvg-name="Gamba Osaka vs Buriram United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_e5fc55e1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_e5fc55e1.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131733_ebcabb99.png" group-title="Chuối TV" start-time="1793181600",Gamba Osaka vs Buriram United - Chuối Lá [HD1] — AFC Champions League
+#EXTINF:-1 tvg-id="cctv_1629957_chuoila" tvg-name="Gamba Osaka vs Buriram United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_e5fc55e1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_e5fc55e1.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131733_ebcabb99.png" group-title="Chuối TV" start-time="1793181600",Gamba Osaka vs Buriram United - Chuối Lá [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1629958_chuoichao" tvg-name="Kashima vs Pohang Steelers" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132411_ccc1be3a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132411_ccc1be3a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133412_55a77d69.png" group-title="Chuối TV" start-time="1793181600",Kashima vs Pohang Steelers - Chuối Chao [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -255,3 +255,23 @@ https://live05.yefpwmc.app/live/33860426_tsc.m3u8|Referer=https://colatvttbdh.tv
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.yefpwmc.app/live/08552895_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_wv78xi1p286uokr" tvg-name="Mito Hollyhock vs Cerezo Osaka" tvg-logo="https://img.cltvap.cc/football/team/9ead844240532c4e12d3eb45d2087924.png!w80" home-logo="https://img.cltvap.cc/football/team/9ead844240532c4e12d3eb45d2087924.png!w80" away-logo="https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="Cola TV" start-time="1793181600",Mito Hollyhock vs Cerezo Osaka - BLV POCARI — Cúp Liên đoàn Nhật Bản
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/19919577_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_34kgmig2vzmfeko" tvg-name="Nagoya Grampus vs Urawa Reds" tvg-logo="https://img.cltvap.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" home-logo="https://img.cltvap.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" away-logo="https://img.cltvap.cc/football/team/ca15e36551392e8c99b53b5b2f8531d3.png!w80" group-title="Cola TV" start-time="1793181600",Nagoya Grampus vs Urawa Reds - BLV 7UP — Cúp Liên đoàn Nhật Bản
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/78905744_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_69759ir3wl1fgk2" tvg-name="Sagan Tosu vs Kawasaki Frontale" tvg-logo="https://img.cltvap.cc/football/team/0d7b400b61ad77a72d5d6d7db03077e7.png!w80" home-logo="https://img.cltvap.cc/football/team/0d7b400b61ad77a72d5d6d7db03077e7.png!w80" away-logo="https://img.cltvap.cc/football/team/937795c0851c1e794e96a5cb660fcd59.png!w80" group-title="Cola TV" start-time="1793181600",Sagan Tosu vs Kawasaki Frontale - BLV REVIVE — Cúp Liên đoàn Nhật Bản
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/33982309_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_edq09i2mx4gseqx" tvg-name="Yokohama F. Marinos vs Sanfrecce Hiroshima" tvg-logo="https://img.cltvap.cc/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png!w80" home-logo="https://img.cltvap.cc/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png!w80" away-logo="https://img.cltvap.cc/football/team/c81d5ff7a33a4f6a9312a8703f619352.png!w80" group-title="Cola TV" start-time="1793181600",Yokohama F. Marinos vs Sanfrecce Hiroshima - BLV REDBULL — Cúp Liên đoàn Nhật Bản
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.yefpwmc.app/live/49572724_tsc.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
