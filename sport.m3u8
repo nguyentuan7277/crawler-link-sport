@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:00:11 28/10/2026
+## Cập nhật lúc: 23:20:14 28/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1645605_chuoikem" tvg-name="Erbil vs Al-Ettifaq" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142825_85425db7.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142825_85425db7.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134002_0bf3cede.png" group-title="Chuối TV" start-time="1793197800",Erbil vs Al-Ettifaq - Chuối Kem [FHD] — AGCFF Gulf Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -92,10 +92,30 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_pxwrxlhy6212ryk" tvg-name="Nasaf Qarshi vs Al Kuwait SC" tvg-logo="https://static.sportsfeed.pro/football/team/04cfb325bb967b2dd4c71a1cd4bb38a3.png" home-logo="https://static.sportsfeed.pro/football/team/04cfb325bb967b2dd4c71a1cd4bb38a3.png" away-logo="https://static.sportsfeed.pro/football/team/b292fe77f1c6c63d12782e565ea3e92f.png" group-title="Gà Vàng TV" start-time="1793195100",Nasaf Qarshi vs Al Kuwait SC - MáN NúI — AFC Champions League Two
+#EXTINF:-1 tvg-id="gavang_zp5rzghg922kq82" tvg-name="FK Rostov vs Akron Togliatti" tvg-logo="https://static.sportsfeed.pro/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" home-logo="https://static.sportsfeed.pro/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" away-logo="https://static.sportsfeed.pro/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png" group-title="Gà Vàng TV" start-time="1793200500",FK Rostov vs Akron Togliatti - ĐOÀN DỰ — Russian Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09hke88lrz8" tvg-name="Panathinaikos vs Aris Thessaloniki" tvg-logo="https://static.sportsfeed.pro/football/team/bd7aa5be4c2c9a2f20e6597ee2c1738b.png" home-logo="https://static.sportsfeed.pro/football/team/bd7aa5be4c2c9a2f20e6597ee2c1738b.png" away-logo="https://static.sportsfeed.pro/football/team/d361fe8ab5fa2c7fb4f29d1fd4ee1094.png" group-title="Gà Vàng TV" start-time="1793201400",Panathinaikos vs Aris Thessaloniki - RIO — Greek Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_3glrw7hnd9y3qdy" tvg-name="AC Oulu vs Vaasa VPS" tvg-logo="https://static.sportsfeed.pro/football/team/348fa7d49029584354427690fe88f874.png" home-logo="https://static.sportsfeed.pro/football/team/348fa7d49029584354427690fe88f874.png" away-logo="https://static.sportsfeed.pro/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png" group-title="Gà Vàng TV" start-time="1793203200",AC Oulu vs Vaasa VPS - khang hi — Finnish Veikkausliiga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnh983zgm7v" tvg-name="Al Nahda vs Al Rayyan" tvg-logo="https://static.sportsfeed.pro/football/team/39af905c31d621f47d12b2fad242cdbd.png" home-logo="https://static.sportsfeed.pro/football/team/39af905c31d621f47d12b2fad242cdbd.png" away-logo="https://static.sportsfeed.pro/football/team/d36d53da32742efb1d00f27e959603a0.png" group-title="Gà Vàng TV" start-time="1793203200",Al Nahda vs Al Rayyan - MáN NúI — AFC Champions League Two
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4jwq2ghn80k5m0v" tvg-name="Al-Jazira(UAE) vs Al Muharraq" tvg-logo="https://static.sportsfeed.pro/football/team/9352b8e0b9515b84abf716a32c42777e.png" home-logo="https://static.sportsfeed.pro/football/team/9352b8e0b9515b84abf716a32c42777e.png" away-logo="https://static.sportsfeed.pro/football/team/4e9422ab24a8dff2521be20e1c129f20.png" group-title="Gà Vàng TV" start-time="1793203200",Al-Jazira(UAE) vs Al Muharraq - SÚP LƠ — AFC Champions League Two
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_pxwrxlhywgw7ryk" tvg-name="Milan vs Bologna" tvg-logo="https://static.sportsfeed.pro/football/team/643ef4101b017dc1495dbd9e9d5cce28.png" home-logo="https://static.sportsfeed.pro/football/team/643ef4101b017dc1495dbd9e9d5cce28.png" away-logo="https://static.sportsfeed.pro/football/team/c31f023a2cc8adbcc3e24344d81b9609.png" group-title="Gà Vàng TV" start-time="1793208600",Milan vs Bologna - CRIS — Italian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -167,11 +187,6 @@ https://cdnhls.xbdbotv.live/live/MTk4ODQwNjE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4ODQwNjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZyeTE0Y3lwbzVuYXFua3h1dXo0aTEzZQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_vrqwni4ypm6a4qn" tvg-name="NBE SC vs El Masry" tvg-logo="https://img.cltvap.cc/football/team/31f3149a6e207008059cd6bb40a4a423.png!w80" home-logo="https://img.cltvap.cc/football/team/31f3149a6e207008059cd6bb40a4a423.png!w80" away-logo="https://img.cltvap.cc/football/team/1e724366f6bee2eb1e7dd707a3f7f671.png!w80" group-title="Cola TV" start-time="1793196000",NBE SC vs El Masry - BLV Cozy — Giải Ngoại hạng Ai Cập
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/87379114.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_527r3i4dgrrf47e" tvg-name="Al Jabalain vs Al-Raed" tvg-logo="https://img.cltvap.cc/football/team/ff21a5b966039a14fa4cd721d29b40ee.png!w80" home-logo="https://img.cltvap.cc/football/team/ff21a5b966039a14fa4cd721d29b40ee.png!w80" away-logo="https://img.cltvap.cc/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png!w80" group-title="Cola TV" start-time="1793199900",Al Jabalain vs Al-Raed - BLV SAMURAI — Giải bóng đá Hạng nhất Ả Rập Xê Út
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -196,6 +211,11 @@ https://live05.miekgo.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_9gklzi1gjo6im7x" tvg-name="CLB AC Oulu vs CLB Vaasa VPS" tvg-logo="https://img.cltvap.cc/football/team/348fa7d49029584354427690fe88f874.png!w80" home-logo="https://img.cltvap.cc/football/team/348fa7d49029584354427690fe88f874.png!w80" away-logo="https://img.cltvap.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80" group-title="Cola TV" start-time="1793203200",CLB AC Oulu vs CLB Vaasa VPS - BLV TEPPY — Giải Bóng đá Vô địch Quốc gia Phần Lan
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_o07dniny3nwumkn" tvg-name="Esbjerg vs Nordsjaelland" tvg-logo="https://img.cltvap.cc/football/team/5e88b6bd34b9b435446ca077e78cb112.png!w80" home-logo="https://img.cltvap.cc/football/team/5e88b6bd34b9b435446ca077e78cb112.png!w80" away-logo="https://img.cltvap.cc/football/team/d63099fdff083541d1ebef9beae90f63.png!w80" group-title="Cola TV" start-time="1793203200",Esbjerg vs Nordsjaelland - BLV SODA — Cúp Bóng đá Đan Mạch
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
