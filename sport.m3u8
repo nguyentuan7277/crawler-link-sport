@@ -1,12 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:00:14 29/10/2026
+## Cập nhật lúc: 00:20:11 29/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1645605_chuoikem" tvg-name="Erbil vs Al-Ettifaq" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142825_85425db7.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142825_85425db7.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134002_0bf3cede.png" group-title="Chuối TV" start-time="1793197800",Erbil vs Al-Ettifaq - Chuối Kem [FHD] — AGCFF Gulf Champions League
+#EXTINF:-1 tvg-id="cctv_1550167_angao" tvg-name="AC Milan vs Bologna" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125603_0139810c.png" group-title="Chuối TV" start-time="1793208600",AC Milan vs Bologna - Chuối Già [HD1] — Serie A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1550176_troctru" tvg-name="Venezia vs Inter" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125605_14c915ad.png" group-title="Chuối TV" start-time="1793208600",Venezia vs Inter - Trốc Tru [FHD] — Serie A
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1604043_troctru" tvg-name="Al Jabalain vs Al-Raed" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134011_d8cb1dca.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134011_d8cb1dca.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134003_b597a05b.png" group-title="Chuối TV" start-time="1793199900",Al Jabalain vs Al-Raed - Trốc Tru [FHD] — Hạng Nhất Ả Rập
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,18 +31,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1550167_angao" tvg-name="AC Milan vs Bologna" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125603_0139810c.png" group-title="Chuối TV" start-time="1793208600",AC Milan vs Bologna - Chuối Già [FHD] — Serie A
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1550176_troctru" tvg-name="Venezia vs Inter" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125605_14c915ad.png" group-title="Chuối TV" start-time="1793208600",Venezia vs Inter - Trốc Tru [FHD] — Serie A
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1640575_chuoichao" tvg-name="Manchester City vs Brighton" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_d9b536ef.png" group-title="Chuối TV" start-time="1793215800",Manchester City vs Brighton - Chuối Chao [FHD] — Cúp Liên đoàn Anh
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -91,11 +85,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_zp5rzghg922kq82" tvg-name="FK Rostov vs Akron Togliatti" tvg-logo="https://static.sportsfeed.pro/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" home-logo="https://static.sportsfeed.pro/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" away-logo="https://static.sportsfeed.pro/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png" group-title="Gà Vàng TV" start-time="1793200500",FK Rostov vs Akron Togliatti - ĐOÀN DỰ — Russian Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_jw2r09hke88lrz8" tvg-name="Panathinaikos vs Aris Thessaloniki" tvg-logo="https://static.sportsfeed.pro/football/team/bd7aa5be4c2c9a2f20e6597ee2c1738b.png" home-logo="https://static.sportsfeed.pro/football/team/bd7aa5be4c2c9a2f20e6597ee2c1738b.png" away-logo="https://static.sportsfeed.pro/football/team/d361fe8ab5fa2c7fb4f29d1fd4ee1094.png" group-title="Gà Vàng TV" start-time="1793201400",Panathinaikos vs Aris Thessaloniki - RIO — Greek Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -192,26 +181,6 @@ https://cdnhls.xbdbotv.live/live/MTk4ODQwNjE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4ODQwNjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZyeTE0Y3lwbzVuYXFua3h1dXo0aTEzZQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_527r3i4dgrrf47e" tvg-name="Al Jabalain vs Al-Raed" tvg-logo="https://img.cltvap.cc/football/team/ff21a5b966039a14fa4cd721d29b40ee.png!w80" home-logo="https://img.cltvap.cc/football/team/ff21a5b966039a14fa4cd721d29b40ee.png!w80" away-logo="https://img.cltvap.cc/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png!w80" group-title="Cola TV" start-time="1793199900",Al Jabalain vs Al-Raed - BLV SAMURAI — Giải bóng đá Hạng nhất Ả Rập Xê Út
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_wv78xiv4lygtokr" tvg-name="Al Najma vs Al Zulfi" tvg-logo="https://img.cltvap.cc/football/team/fde877e452f79f75955ad4e4f326c654.png!w80" home-logo="https://img.cltvap.cc/football/team/fde877e452f79f75955ad4e4f326c654.png!w80" away-logo="https://img.cltvap.cc/football/team/13b5359a749536d5adb6ef17cd675219.png!w80" group-title="Cola TV" start-time="1793199900",Al Najma vs Al Zulfi - BLV MOUNTAIN DEW — Giải bóng đá Hạng nhất Ả Rập Xê Út
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_69759ig411psgk2" tvg-name="Rostov vs Akron Togliatti" tvg-logo="https://img.cltvap.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" home-logo="https://img.cltvap.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" away-logo="https://img.cltvap.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80" group-title="Cola TV" start-time="1793200500",Rostov vs Akron Togliatti - BLV GIÀ LÀNG — cúp Nga
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/14830711.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_j374oi48j5gsgqo" tvg-name="Shab Hadramawt vs Al Duhail" tvg-logo="https://img.cltvap.cc/football/team/027f6ca62481fb9c052f5022f166b850.jfif!w80" home-logo="https://img.cltvap.cc/football/team/027f6ca62481fb9c052f5022f166b850.jfif!w80" away-logo="https://img.cltvap.cc/football/team/5736b9d2b0cadc3c1ba779bf6787d878.png!w80" group-title="Cola TV" start-time="1793200500",Shab Hadramawt vs Al Duhail - BLV FANTA — Giải bóng đá câu lạc bộ Vịnh
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_8lk2dirjv5dcz73" tvg-name="Al Nahda vs Al Rayyan" tvg-logo="https://img.cltvap.cc/football/team/39af905c31d621f47d12b2fad242cdbd.png!w80" home-logo="https://img.cltvap.cc/football/team/39af905c31d621f47d12b2fad242cdbd.png!w80" away-logo="https://img.cltvap.cc/football/team/d36d53da32742efb1d00f27e959603a0.png!w80" group-title="Cola TV" start-time="1793203200",Al Nahda vs Al Rayyan - BLV MONSTER — AFC Giải vô địch Champions 2
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -226,3 +195,13 @@ https://live05.miekgo.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/02456966.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jr7owipe43mugq0" tvg-name="Paderborn vs VfB Stuttgart" tvg-logo="https://img.cltvap.cc/football/team/7c8c3c50966c793eba910e18659759a1.png!w80" home-logo="https://img.cltvap.cc/football/team/7c8c3c50966c793eba910e18659759a1.png!w80" away-logo="https://img.cltvap.cc/football/team/bfdd500484330d63a723cbc396df762c.png!w80" group-title="Cola TV" start-time="1793206800",Paderborn vs VfB Stuttgart - BLV MOUNTAIN DEW — Cúp Liên đoàn bóng đá Đức
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_vmqy9iv25ndugk9" tvg-name="SC Freiburg vs VfL Wolfsburg" tvg-logo="https://img.cltvap.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80" home-logo="https://img.cltvap.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80" away-logo="https://img.cltvap.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80" group-title="Cola TV" start-time="1793206800",SC Freiburg vs VfL Wolfsburg - BLV SAMURAI — Cúp Liên đoàn bóng đá Đức
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
