@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:00:17 28/10/2026
+## Cập nhật lúc: 20:20:15 28/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1630377_angao" tvg-name="Viettel vs FC Seoul" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133956_15774ffd.png" group-title="Chuối TV" start-time="1793189700",Viettel vs FC Seoul - Chuối Già [FHD] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -98,6 +98,61 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_x7lm7phjl5wvm2w" tvg-name="Persib Bandung vs Melbourne Victory" tvg-logo="https://static.sportsfeed.pro/football/team/b2004093bf25a5a8d1768970d6e49d71.png" home-logo="https://static.sportsfeed.pro/football/team/b2004093bf25a5a8d1768970d6e49d71.png" away-logo="https://static.sportsfeed.pro/football/team/a11058c16a24e44c5725a0954a8d2f3c.png" group-title="Gà Vàng TV" start-time="1793189700",Persib Bandung vs Melbourne Victory - SAITAMA — AFC Champions League Two
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y0or5jh8v03zqwz" tvg-name="Viettel vs FC Seoul" tvg-logo="https://static.sportsfeed.pro/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png" home-logo="https://static.sportsfeed.pro/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png" away-logo="https://static.sportsfeed.pro/football/team/ad010af729c420626d1865ad744168d3.png" group-title="Gà Vàng TV" start-time="1793189700",Viettel vs FC Seoul - A Long — AFC Champions League Two
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dn1m1ghl5oe5moe" tvg-name="Gol Gohar FC vs Arkadag FK" tvg-logo="https://static.sportsfeed.pro/football/team/69625f17e031ad1fcb33823338b74d95.png" home-logo="https://static.sportsfeed.pro/football/team/69625f17e031ad1fcb33823338b74d95.png" away-logo="https://static.sportsfeed.pro/football/team/aad022bfac5c480bed8d0dc2a710281e.png" group-title="Gà Vàng TV" start-time="1793195100",Gol Gohar FC vs Arkadag FK - cố tư nghiêm — AFC Champions League Two
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_pxwrxlhy6212ryk" tvg-name="Nasaf Qarshi vs Al Kuwait SC" tvg-logo="https://static.sportsfeed.pro/football/team/04cfb325bb967b2dd4c71a1cd4bb38a3.png" home-logo="https://static.sportsfeed.pro/football/team/04cfb325bb967b2dd4c71a1cd4bb38a3.png" away-logo="https://static.sportsfeed.pro/football/team/b292fe77f1c6c63d12782e565ea3e92f.png" group-title="Gà Vàng TV" start-time="1793195100",Nasaf Qarshi vs Al Kuwait SC - MáN NúI — AFC Champions League Two
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y39mp1h62ge9moj" tvg-name="Bank El Ahly vs EL Masry" tvg-logo="https://static.sportsfeed.pro/football/team/31f3149a6e207008059cd6bb40a4a423.png" home-logo="https://static.sportsfeed.pro/football/team/31f3149a6e207008059cd6bb40a4a423.png" away-logo="https://static.sportsfeed.pro/football/team/1e724366f6bee2eb1e7dd707a3f7f671.png" group-title="Gà Vàng TV" start-time="1793196000",Bank El Ahly vs EL Masry - MeoMeo — Egyptian Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyh8ld4lr1g" tvg-name="FC Goa vs Hyderabad FC" tvg-logo="https://static.sportsfeed.pro/football/team/c510dae5d95168f431d517cb0d7fdad9.png" home-logo="https://static.sportsfeed.pro/football/team/c510dae5d95168f431d517cb0d7fdad9.png" away-logo="https://static.sportsfeed.pro/football/team/815bd35aaf3d9cfd58a9899695daf03c.png" group-title="Gà Vàng TV" start-time="1793196000",FC Goa vs Hyderabad FC - KAYTI — Indian Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_zp5rzghg922kq82" tvg-name="FK Rostov vs Akron Togliatti" tvg-logo="https://static.sportsfeed.pro/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" home-logo="https://static.sportsfeed.pro/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" away-logo="https://static.sportsfeed.pro/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png" group-title="Gà Vàng TV" start-time="1793200500",FK Rostov vs Akron Togliatti - ĐOÀN DỰ — Russian Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09hke88lrz8" tvg-name="Panathinaikos vs Aris Thessaloniki" tvg-logo="https://static.sportsfeed.pro/football/team/bd7aa5be4c2c9a2f20e6597ee2c1738b.png" home-logo="https://static.sportsfeed.pro/football/team/bd7aa5be4c2c9a2f20e6597ee2c1738b.png" away-logo="https://static.sportsfeed.pro/football/team/d361fe8ab5fa2c7fb4f29d1fd4ee1094.png" group-title="Gà Vàng TV" start-time="1793201400",Panathinaikos vs Aris Thessaloniki - RIO — Greek Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_3glrw7hnd9y3qdy" tvg-name="AC Oulu vs Vaasa VPS" tvg-logo="https://static.sportsfeed.pro/football/team/348fa7d49029584354427690fe88f874.png" home-logo="https://static.sportsfeed.pro/football/team/348fa7d49029584354427690fe88f874.png" away-logo="https://static.sportsfeed.pro/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png" group-title="Gà Vàng TV" start-time="1793203200",AC Oulu vs Vaasa VPS - khang hi — Finnish Veikkausliiga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnh983zgm7v" tvg-name="Al Nahda vs Al Rayyan" tvg-logo="https://static.sportsfeed.pro/football/team/39af905c31d621f47d12b2fad242cdbd.png" home-logo="https://static.sportsfeed.pro/football/team/39af905c31d621f47d12b2fad242cdbd.png" away-logo="https://static.sportsfeed.pro/football/team/d36d53da32742efb1d00f27e959603a0.png" group-title="Gà Vàng TV" start-time="1793203200",Al Nahda vs Al Rayyan - MáN NúI — AFC Champions League Two
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4jwq2ghn80k5m0v" tvg-name="Al-Jazira(UAE) vs Al Muharraq" tvg-logo="https://static.sportsfeed.pro/football/team/9352b8e0b9515b84abf716a32c42777e.png" home-logo="https://static.sportsfeed.pro/football/team/9352b8e0b9515b84abf716a32c42777e.png" away-logo="https://static.sportsfeed.pro/football/team/4e9422ab24a8dff2521be20e1c129f20.png" group-title="Gà Vàng TV" start-time="1793203200",Al-Jazira(UAE) vs Al Muharraq - SÚP LƠ — AFC Champions League Two
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19862326" tvg-name="Persib vs Melbourne Victory" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" group-title="BiaomTV" start-time="1793189700",Persib vs Melbourne Victory - TRÚC BẠCH — Cúp Châu Á
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -112,11 +167,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NjIzMjI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmU
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NjIzMjI6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmE5NnFsaW5zcXQ0MDRtaXBnOXNmeGhpbQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19877266" tvg-name="Nagoya Grampus vs Urawa Red Diamonds" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nagoya-grampus-8738" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nagoya-grampus-8738" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/urawa-reds-280" group-title="BiaomTV" start-time="1793181600",Nagoya Grampus vs Urawa Red Diamonds - NEM NƯỚNG  — Cúp Nhật Bản
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk4NzcyNjY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om85dDd0c29mZHU3b3dwNDMyOHQyeW41Yw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19879798" tvg-name="SC Freiburg vs VfL Wolfsburg" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sc-freiburg-3543" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sc-freiburg-3543" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfl-wolfsburg-510" group-title="BiaomTV" start-time="1793206800",SC Freiburg vs VfL Wolfsburg - NEM NƯỚNG  — Cúp Đức
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
