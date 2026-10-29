@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:20:14 30/10/2026
+## Cập nhật lúc: 00:40:11 30/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1638114_chuoinho" tvg-name="Inter Turku vs HJK helsinki" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_2eece028.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_2eece028.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_e673b1ab.png" group-title="Chuối TV" start-time="1793289600",Inter Turku vs HJK helsinki - Chuối Nhỏ [FHD] — VĐQG Phần Lan
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -13,6 +13,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1550170_chuoikem" tvg-name="Frosinone vs Lecce" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133427_2c58ddc2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133427_2c58ddc2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_5147c1a2.png" group-title="Chuối TV" start-time="1793295000",Frosinone vs Lecce - Chuối Kem [FHD] — Serie A
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1603076_chuoila" tvg-name="Al-Nassr vs Al Kholood" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134007_c7a4bc71.png" group-title="Chuối TV" start-time="1793296800",Al-Nassr vs Al Kholood - Chuối Lá [FHD] — Saudi Pro League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -131,15 +137,15 @@ https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_1l4rjnh9p6ddm7v" tvg-name="Frosinone vs Lecce" tvg-logo="https://static.sportsfeed.pro/football/team/93c278d5d8d1d5e2d390ff686359963d.png" home-logo="https://static.sportsfeed.pro/football/team/93c278d5d8d1d5e2d390ff686359963d.png" away-logo="https://static.sportsfeed.pro/football/team/777d0840066313da8c0f85977e9178be.png" group-title="Gà Vàng TV" start-time="1793295000",Frosinone vs Lecce - CRIS — Italian Serie A
+#EXTINF:-1 tvg-id="gavang_x7lm7phj4vwjm2w" tvg-name="KuPs vs Gnistan Helsinki" tvg-logo="https://static.sportsfeed.pro/football/team/1fced0158de1169e9bc3209f4ab98e84.png" home-logo="https://static.sportsfeed.pro/football/team/1fced0158de1169e9bc3209f4ab98e84.png" away-logo="https://static.sportsfeed.pro/football/team/a19ee4a4454087b98d1f2bb9058a337e.png" group-title="Gà Vàng TV" start-time="1793293200",KuPs vs Gnistan Helsinki - SAITAMA — Finnish Veikkausliiga
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_y0or5jh8ze88qwz" tvg-name="Hammarby vs IK Sirius FK" tvg-logo="https://static.sportsfeed.pro/football/team/487d9eecf77605c17123cc81e37313f3.png" home-logo="https://static.sportsfeed.pro/football/team/487d9eecf77605c17123cc81e37313f3.png" away-logo="https://static.sportsfeed.pro/football/team/82a1ff2fa56077a25595288406888007.png" group-title="Gà Vàng TV" start-time="1793295000",Hammarby vs IK Sirius FK - MeoMeo — Sweden Allsvenskan
+#EXTINF:-1 tvg-id="gavang_dn1m1ghlwyg7moe" tvg-name="Pyramids FC vs Wadi Degla SC" tvg-logo="https://static.sportsfeed.pro/football/team/0c750c05518db78eeabc97fb11574fed.png" home-logo="https://static.sportsfeed.pro/football/team/0c750c05518db78eeabc97fb11574fed.png" away-logo="https://static.sportsfeed.pro/football/team/0b565bf79378453da0982dfcf95ccc98.png" group-title="Gà Vàng TV" start-time="1793293200",Pyramids FC vs Wadi Degla SC - A Long — Egyptian Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_3glrw7h4ke7eqdy" tvg-name="Kozakken Boys vs FC Utrecht" tvg-logo="https://static.sportsfeed.pro/football/team/1788ee8b42232c785d22894d372b0337.png" home-logo="https://static.sportsfeed.pro/football/team/1788ee8b42232c785d22894d372b0337.png" away-logo="https://static.sportsfeed.pro/football/team/181ee8709b75f543a1cf4c943ae3304b.png" group-title="Gà Vàng TV" start-time="1793295900",Kozakken Boys vs FC Utrecht - SimonZ — Netherlands KNVB Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -185,6 +191,11 @@ https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dn1m1ghld39omoe" tvg-name="Sporting Cristal vs Alianza Lima" tvg-logo="https://static.sportsfeed.pro/football/team/5ca231d16159a5bb36151e6b274df2e7.png" home-logo="https://static.sportsfeed.pro/football/team/5ca231d16159a5bb36151e6b274df2e7.png" away-logo="https://static.sportsfeed.pro/football/team/8941e026a8debbd82633b019552e1515.png" group-title="Gà Vàng TV" start-time="1793305800",Sporting Cristal vs Alianza Lima - cố tư nghiêm — Peruvian Liga 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19878225" tvg-name="KuPS vs Gnistan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kups-4323" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kups-4323" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gnistan-9036" group-title="BiaomTV" start-time="1793293200",KuPS vs Gnistan - NEM NƯỚNG  — VĐQG Phần Lan
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -255,3 +266,8 @@ https://live05.miekgo.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/07428422.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_8lk2dirpgwwbz73" tvg-name="Frosinone vs U.S. Lecce" tvg-logo="https://img.cltvap.cc/football/team/93c278d5d8d1d5e2d390ff686359963d.png!w80" home-logo="https://img.cltvap.cc/football/team/93c278d5d8d1d5e2d390ff686359963d.png!w80" away-logo="https://img.cltvap.cc/football/team/777d0840066313da8c0f85977e9178be.png!w80" group-title="Cola TV" start-time="1793295000",Frosinone vs U.S. Lecce - BLV MOUNTAIN DEW — Giải bóng đá Serie A Italia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
