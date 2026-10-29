@@ -1,24 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 19:00:20 29/10/2026
+## Cập nhật lúc: 19:20:11 29/10/2026
 
-#EXTINF:-1 tvg-id="cctv_1630387_chuoichao" tvg-name="Phnom Penh Crown vs Kitchee" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_b57b2d34.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_b57b2d34.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130646_57e46c3c.png" group-title="Chuối TV" start-time="1793276100",Phnom Penh Crown vs Kitchee - Chuối Chao [HD1] — AFC Cup
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1630388_chuoila" tvg-name="Shanghai Shenhua vs Machida Zelvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133410_6ecad300.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133410_6ecad300.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132416_e9d110f2.png" group-title="Chuối TV" start-time="1793276100",Shanghai Shenhua vs Machida Zelvia - Chuối Lá [HD2] — AFC Cup
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1630386_chuoichao" tvg-name="Tampines Rovers vs Svay Rieng" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_d10a6439.png" group-title="Chuối TV" start-time="1793268000",Tampines Rovers vs Svay Rieng - Chuối Chao [FHD] — AFC Cup
+#EXTINF:-1 tvg-id="cctv_1630387_chuoichao" tvg-name="Phnom Penh Crown vs Kitchee" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_b57b2d34.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_b57b2d34.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130646_57e46c3c.png" group-title="Chuối TV" start-time="1793276100",Phnom Penh Crown vs Kitchee - Chuối Chao [FHD] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1630388_chuoila" tvg-name="Shanghai Shenhua vs Machida Zelvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133410_6ecad300.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133410_6ecad300.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132416_e9d110f2.png" group-title="Chuối TV" start-time="1793276100",Shanghai Shenhua vs Machida Zelvia - Chuối Lá [FHD] — AFC Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1630389_troctru" tvg-name="Wofoo Tai Po vs Pathum United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130647_3a27cac2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130647_3a27cac2.png" away-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png" group-title="Chuối TV" start-time="1793276100",Wofoo Tai Po vs Pathum United - Trốc Tru [FHD] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -98,21 +92,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_4wyrn4h6j794q86" tvg-name="Phnom Penh FC vs Kitchee" tvg-logo="https://static.sportsfeed.pro/football/team/03dd1707147dbd5897a8dcae40991e2c.png" home-logo="https://static.sportsfeed.pro/football/team/03dd1707147dbd5897a8dcae40991e2c.png" away-logo="https://static.sportsfeed.pro/football/team/8d9561a580262bbe28642af67c42cf83.png" group-title="Gà Vàng TV" start-time="1793276100",Phnom Penh FC vs Kitchee - SimonZ — AFC Champions League Two
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6ad087284c3981dd68475913.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_dj2ryohlwdn5q1z" tvg-name="Shanghai Shenhua FC vs Machida Zelvia" tvg-logo="https://static.sportsfeed.pro/football/team/e8327d4681b4a73c83be9fe087b30721.png" home-logo="https://static.sportsfeed.pro/football/team/e8327d4681b4a73c83be9fe087b30721.png" away-logo="https://static.sportsfeed.pro/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png" group-title="Gà Vàng TV" start-time="1793276100",Shanghai Shenhua FC vs Machida Zelvia - RIO — AFC Champions League Two
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_dn1m1ghl5o8nmoe" tvg-name="Tai Po vs BG Pathum United" tvg-logo="https://static.sportsfeed.pro/football/team/df5e92ce4493d63214e8036ad15c1915.png" home-logo="https://static.sportsfeed.pro/football/team/df5e92ce4493d63214e8036ad15c1915.png" away-logo="https://static.sportsfeed.pro/football/team/12fe4d3ee5c01134d48584015c4646f3.png" group-title="Gà Vàng TV" start-time="1793276100",Tai Po vs BG Pathum United - ĐOÀN DỰ — AFC Champions League Two
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_1l4rjnhny2n5m7v" tvg-name="Aarhus Fremad vs FC Copenhagen" tvg-logo="https://static.sportsfeed.pro/football/team/8a71e9629c5a035b3661c51e089a7c44.png" home-logo="https://static.sportsfeed.pro/football/team/8a71e9629c5a035b3661c51e089a7c44.png" away-logo="https://static.sportsfeed.pro/football/team/629b6f983d0ca3c33f2c4b50b3449314.png" group-title="Gà Vàng TV" start-time="1793277000",Aarhus Fremad vs FC Copenhagen - A Long — Danish Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -147,6 +126,11 @@ https://cdnhls.xbdbotv.live/live/MTk4NjIyNjY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnh
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NjIyNzE6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnpoYTVtODMxcHBodHZ3MTZveWpuM3g5OA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19862276" tvg-name="Wofoo Tai Po vs BG Pathum United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wofoo-tai-po-5971" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wofoo-tai-po-5971" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bg-pathum-united-13363" group-title="BiaomTV" start-time="1793276100",Wofoo Tai Po vs BG Pathum United - TRÚC BẠCH — Cúp Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjIyNzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOml5bDcycDBleXp5cHdiNnJ5N29qcTZnZQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19878225" tvg-name="KuPS vs Gnistan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kups-4323" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kups-4323" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gnistan-9036" group-title="BiaomTV" start-time="1793293200",KuPS vs Gnistan - NEM NƯỚNG  — VĐQG Phần Lan
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -197,3 +181,18 @@ https://live05.miekgo.app/live/87379114.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/82054853.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ezk96i3veoyt1kn" tvg-name="Phnom Penh Crown vs CLB Kitchee" tvg-logo="https://img.cltvap.cc/football/team/03dd1707147dbd5897a8dcae40991e2c.png!w80" home-logo="https://img.cltvap.cc/football/team/03dd1707147dbd5897a8dcae40991e2c.png!w80" away-logo="https://img.cltvap.cc/football/team/8d9561a580262bbe28642af67c42cf83.png!w80" group-title="Cola TV" start-time="1793276100",Phnom Penh Crown vs CLB Kitchee - BLV SPRITE — AFC Giải vô địch Champions 2
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/75748097.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_zrkn6i4z2o0hwql" tvg-name="Shanghai Shenhua vs Machida" tvg-logo="https://img.cltvap.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80" home-logo="https://img.cltvap.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80" away-logo="https://img.cltvap.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="Cola TV" start-time="1793276100",Shanghai Shenhua vs Machida - BLV TEPPY — AFC Giải vô địch Champions 2
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_g6763i510ewco7r" tvg-name="Wofoo Tai Po vs Pathum United" tvg-logo="https://img.cltvap.cc/football/team/df5e92ce4493d63214e8036ad15c1915.png!w80" home-logo="https://img.cltvap.cc/football/team/df5e92ce4493d63214e8036ad15c1915.png!w80" away-logo="https://img.cltvap.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="Cola TV" start-time="1793276100",Wofoo Tai Po vs Pathum United - BLV SAMURAI — AFC Giải vô địch Champions 2
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
