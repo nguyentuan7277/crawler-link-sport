@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 04:00:20 31/10/2026
+## Cập nhật lúc: 04:30:13 31/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1575211_troctru" tvg-name="SV Elversberg vs FSV Mainz 05" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130305_0af140aa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130305_0af140aa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125554_ad71834e.png" group-title="Chuối TV" start-time="1793388600",SV Elversberg vs FSV Mainz 05 - Trốc Tru [FHD] — Bundesliga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -49,11 +49,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_dj2ryohl0d36q1z" tvg-name="SV Elversberg vs Mainz" tvg-logo="https://static.sportsfeed.pro/football/team/20f905fb0975e88482cf157ad9da4874.png" home-logo="https://static.sportsfeed.pro/football/team/20f905fb0975e88482cf157ad9da4874.png" away-logo="https://static.sportsfeed.pro/football/team/903089d338485f6c68fbc5da690a0628.png" group-title="Gà Vàng TV" start-time="1793388600",SV Elversberg vs Mainz - SÚP LƠ — Bundesliga
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_1l4rjnh9p00wm7v" tvg-name="Zulte Waregem vs Club Brugge" tvg-logo="https://static.sportsfeed.pro/football/team/1818ea30e1a1e461dd571d54e19962a0.png" home-logo="https://static.sportsfeed.pro/football/team/1818ea30e1a1e461dd571d54e19962a0.png" away-logo="https://static.sportsfeed.pro/football/team/2e9f652d28ec91e0b66c0b714bff8d78.png" group-title="Gà Vàng TV" start-time="1793389500",Zulte Waregem vs Club Brugge - A Long — Belgian Pro League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -94,10 +89,15 @@ https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_19735126" tvg-name="Elversberg vs FSV Mainz 05" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elversberg-3588" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elversberg-3588" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fsv-mainz-05-794" group-title="BiaomTV" start-time="1793388600",Elversberg vs FSV Mainz 05 - TRÚC BẠCH — VĐQG Đức
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTINF:-1 tvg-id="gavang_pxwrxlhy0e0eryk" tvg-name="CA Sarmiento vs CA Rosario Central" tvg-logo="https://static.sportsfeed.pro/football/team/173f9983cdfd064d8bdd1a341e1bd8e4.png" home-logo="https://static.sportsfeed.pro/football/team/173f9983cdfd064d8bdd1a341e1bd8e4.png" away-logo="https://static.sportsfeed.pro/football/team/925e9365900b159acf4493eb401fdc18.png" group-title="Gà Vàng TV" start-time="1793405700",CA Sarmiento vs CA Rosario Central - KAYTI — Argentine Division 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MzUxMjY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnhvMGRidHhiaDE0MmVmcWt1cGQ0c2Rpcw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y0or5jh8w6wjqwz" tvg-name="Racing Club vs Aldosivi Mar del Plata" tvg-logo="https://static.sportsfeed.pro/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png" home-logo="https://static.sportsfeed.pro/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png" away-logo="https://static.sportsfeed.pro/football/team/086fad2b496bcf474e2df4eed691c6b2.png" group-title="Gà Vàng TV" start-time="1793405700",Racing Club vs Aldosivi Mar del Plata - MeoMeo — Argentine Division 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19732633" tvg-name="Villarreal vs Espanyol" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/espanyol-528" group-title="BiaomTV" start-time="1793390400",Villarreal vs Espanyol - Lẩu Ếch — VĐQG Tây Ban Nha
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -184,10 +184,45 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMTY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmQ3c3FrcjR0N2pkNXVyYWxyeXVpaWd3aw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_zrkn6i4w2g6hwql" tvg-name="CLB Elversberg vs 1. FSV Mainz 05" tvg-logo="https://img.cltvap.cc/football/team/20f905fb0975e88482cf157ad9da4874.png!w80" home-logo="https://img.cltvap.cc/football/team/20f905fb0975e88482cf157ad9da4874.png!w80" away-logo="https://img.cltvap.cc/football/team/903089d338485f6c68fbc5da690a0628.png!w80" group-title="Cola TV" start-time="1793388600",CLB Elversberg vs 1. FSV Mainz 05 - BLV SODA — Giải bóng đá vô địch quốc gia Đức
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTINF:-1 tvg-id="biaom_19713518" tvg-name="Udinese vs AS Roma" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/udinese-346" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/udinese-346" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-37" group-title="BiaomTV" start-time="1793466000",Udinese vs AS Roma - ASAHI — VĐQG Ý
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/02456966.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MTg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnJ0NW1vaWMxY2VmMTAzNnd6ZHY2aXYzaw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19735134" tvg-name="Bayern Munich vs Borussia Dortmund" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-bayern-munchen-503" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-bayern-munchen-503" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borussia-dortmund-68" group-title="BiaomTV" start-time="1793467800",Bayern Munich vs Borussia Dortmund - TIGER — VĐQG Đức
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MzUxMzQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmJoY3Uwd2U5bHNuazZxdXlrNGJiaTV3dA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19732641" tvg-name="Real Betis vs Málaga" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-betis-485" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-betis-485" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaga-126" group-title="BiaomTV" start-time="1793467800",Real Betis vs Málaga - TRÚC BẠCH — VĐQG Tây Ban Nha
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NDE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmNxczBkbzBocHA5bzNtc25pb2o1bWxsNA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19722114" tvg-name="Tottenham Hotspur vs Crystal Palace" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tottenham-hotspur-6" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tottenham-hotspur-6" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/crystal-palace-51" group-title="BiaomTV" start-time="1793467800",Tottenham Hotspur vs Crystal Palace - 333 — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMTQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Omdmc3ZoY3IzM2kwYW53b2U2cG5sZTN1Yw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19713520" tvg-name="Milan vs Inter Milan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/milan-113" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/milan-113" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930" group-title="BiaomTV" start-time="1793475900",Milan vs Inter Milan - NEM NƯỚNG  — VĐQG Ý
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MjA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmRrOWpjOTRnb243MGJpbDF0YXpubWtnOA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19715557" tvg-name="Troyes vs Le Mans" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/troyes-7047" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/troyes-7047" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/le-mans-7758" group-title="BiaomTV" start-time="1793475900",Troyes vs Le Mans - Lẩu Ếch — VĐQG Pháp
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MTU1NTc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnN0NDNoMmg1d2FvdXZsbWdoNDZ2NTcydA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19722122" tvg-name="Aston Villa vs Fulham" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fulham-11" group-title="BiaomTV" start-time="1793476800",Aston Villa vs Fulham - TÔM CHIÊN — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMjI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN5N3BueXJwNjBvbHMyYTFmYjFzN3U0aQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19732638" tvg-name="FC Barcelona vs Deportivo Alavés" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/deportivo-alaves-2975" group-title="BiaomTV" start-time="1793476800",FC Barcelona vs Deportivo Alavés - Vịt Nướng — VĐQG Tây Ban Nha
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MzI2Mzg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVkNTllZjB6bnBuZzYxdG5tZmdlNXFrcA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_8lk2dirpll2cz73" tvg-name="Zulte Waregem vs Club Brugge" tvg-logo="https://img.cltvap.cc/football/team/1818ea30e1a1e461dd571d54e19962a0.png!w80" home-logo="https://img.cltvap.cc/football/team/1818ea30e1a1e461dd571d54e19962a0.png!w80" away-logo="https://img.cltvap.cc/football/team/2e9f652d28ec91e0b66c0b714bff8d78.png!w80" group-title="Cola TV" start-time="1793389500",Zulte Waregem vs Club Brugge - BLV BÍ ĐAO — Giải vô địch quốc gia Bỉ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
