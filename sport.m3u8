@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:00:23 31/10/2026
-
-#EXTINF:-1 tvg-id="cctv_1552801_chuoila" tvg-name="LE Havre vs Paris Saint Germain" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_84b3457e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_84b3457e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125513_ca6329d9.png" group-title="Chuối TV" start-time="1793383200",LE Havre vs Paris Saint Germain - Chuối Lá [FHD] — Ligue 1
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 01:30:13 31/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1584455_chuoikem" tvg-name="Konyaspor vs Galatasaray" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_a59ad7fe.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_a59ad7fe.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_ed875292.png" group-title="Chuối TV" start-time="1793379600",Konyaspor vs Galatasaray - Chuối Kem [FHD] — VĐQG Thổ Nhĩ Kì
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +13,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1552801_chuoila" tvg-name="LE Havre vs Paris Saint Germain" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_84b3457e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_84b3457e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125513_ca6329d9.png" group-title="Chuối TV" start-time="1793383200",LE Havre vs Paris Saint Germain - Chuối Lá [FHD] — Ligue 1
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1575211_troctru" tvg-name="SV Elversberg vs FSV Mainz 05" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130305_0af140aa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130305_0af140aa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125554_ad71834e.png" group-title="Chuối TV" start-time="1793388600",SV Elversberg vs FSV Mainz 05 - Trốc Tru [FHD] — Bundesliga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -86,16 +86,6 @@ https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_l5ergph4683kr8k" tvg-name="FC Rapid 1923 vs FK Csikszereda Miercurea Ciuc" tvg-logo="https://static.sportsfeed.pro/football/team/6bb1babe89fffc1f77f25a47db40c847.png" home-logo="https://static.sportsfeed.pro/football/team/6bb1babe89fffc1f77f25a47db40c847.png" away-logo="https://static.sportsfeed.pro/football/team/bdfa2df481714f2ea787ee7fe973b4a6.png" group-title="Gà Vàng TV" start-time="1793385000",FC Rapid 1923 vs FK Csikszereda Miercurea Ciuc - Cá MậP — Romanian Super Liga
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_l7oqdehgkd7lr51" tvg-name="Grazer AK vs TSV Hartberg" tvg-logo="https://static.sportsfeed.pro/football/team/b4afaeb5a71fbca3975d315c54567e84.png" home-logo="https://static.sportsfeed.pro/football/team/b4afaeb5a71fbca3975d315c54567e84.png" away-logo="https://static.sportsfeed.pro/football/team/a261990c8ba568a176fbac7ad0f01c12.png" group-title="Gà Vàng TV" start-time="1793385000",Grazer AK vs TSV Hartberg - cố tư nghiêm — Austrian Bundesliga
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_318q66hxdyx4qo9" tvg-name="Gornik Zabrze vs Legia Warszawa" tvg-logo="https://static.sportsfeed.pro/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png" home-logo="https://static.sportsfeed.pro/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png" away-logo="https://static.sportsfeed.pro/football/team/ca6076e611bfccd9939f3a2121ad0e48.png" group-title="Gà Vàng TV" start-time="1793388600",Gornik Zabrze vs Legia Warszawa - MeoMeo — PKO Bank Polski EKSTRAKLASA
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -167,16 +157,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2MzM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MTU1NjQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omdjcmg2c293cWR2NHV3c2tjd2x5NXdnYQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_jr7owipgl51hgq0" tvg-name="CLB Al Gharafa vs Qatar SC" tvg-logo="https://img.cltvap.cc/football/team/fcac1eae493c493061e66608158b40ef.png!w80" home-logo="https://img.cltvap.cc/football/team/fcac1eae493c493061e66608158b40ef.png!w80" away-logo="https://img.cltvap.cc/football/team/6bd99a31fd562a9e6b1db99d42d40b34.png!w80" group-title="Cola TV" start-time="1793377800",CLB Al Gharafa vs Qatar SC - BLV AQUA — Giải vô địch quốc gia Qatar
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/18812304.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_527r3i4d9o1a47e" tvg-name="CLB Al Sadd vs Al Shamal" tvg-logo="https://img.cltvap.cc/football/team/5c794bfbf3227563c85323bb624721ec.png!w80" home-logo="https://img.cltvap.cc/football/team/5c794bfbf3227563c85323bb624721ec.png!w80" away-logo="https://img.cltvap.cc/football/team/af47207f36a49c89502312138e54f6a7.png!w80" group-title="Cola TV" start-time="1793377800",CLB Al Sadd vs Al Shamal - BLV BÍ ĐAO — Giải vô địch quốc gia Qatar
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_ndkz6i346ywixq3" tvg-name="Konyaspor vs Galatasaray" tvg-logo="https://img.cltvap.cc/football/team/e75f8b4e1baab3060dbe5ba983a3b49c.png!w80" home-logo="https://img.cltvap.cc/football/team/e75f8b4e1baab3060dbe5ba983a3b49c.png!w80" away-logo="https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80" group-title="Cola TV" start-time="1793379600",Konyaspor vs Galatasaray - BLV C2 — Giải Ngoại hạng Thổ Nhĩ Kỳ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -201,3 +181,8 @@ https://live05.miekgo.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ndqmliwnplyurkv" tvg-name="OGC Nice vs Stade Rennais" tvg-logo="https://img.cltvap.cc/football/team/ff8991853f7aabce7cb66f09cda0c58e.png!w80" home-logo="https://img.cltvap.cc/football/team/ff8991853f7aabce7cb66f09cda0c58e.png!w80" away-logo="https://img.cltvap.cc/football/team/eab8f0e847742fd328bb581299bd99ca.png!w80" group-title="Cola TV" start-time="1793383200",OGC Nice vs Stade Rennais - BLV REDBULL — Ligue 1
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/49572724.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
