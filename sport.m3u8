@@ -1,24 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 07:00:15 30/10/2026
+## Cập nhật lúc: 07:20:09 30/10/2026
+
+#EXTINF:-1 tvg-id="cctv_1492436_chuoichao" tvg-name="Gremio vs Atletico Paranaense" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_d4d52169.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_d4d52169.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125538_01850be7.png" group-title="Chuối TV" start-time="1793320200",Gremio vs Atletico Paranaense - Chuối Chao [HD1] — VĐQG Brazil
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1492430_troctru" tvg-name="Atletico-MG vs Cruzeiro" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png" group-title="Chuối TV" start-time="1793313000",Atletico-MG vs Cruzeiro - Trốc Tru [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1549723_chuoisay" tvg-name="America de Cali vs Fortaleza FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133538_9411a093.png" group-title="Chuối TV" start-time="1793315700",America de Cali vs Fortaleza FC - Chuối Sấy [FHD] — VĐQG Colombia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1492436_chuoichao" tvg-name="Gremio vs Atletico Paranaense" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_d4d52169.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_d4d52169.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125538_01850be7.png" group-title="Chuối TV" start-time="1793320200",Gremio vs Atletico Paranaense - Chuối Chao [FHD] — VĐQG Brazil
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1549724_angao" tvg-name="Atletico Nacional vs Santa Fe" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133536_ca511a27.png" group-title="Chuối TV" start-time="1793323800",Atletico Nacional vs Santa Fe - Chuối Già [FHD] — VĐQG Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -121,6 +115,12 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1549725_chuoitay" tvg-name="Bucaramanga vs Deportivo Pasto" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_2eb7128c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_2eb7128c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_4547a757.png" group-title="Chuối TV" start-time="1793408700",Bucaramanga vs Deportivo Pasto - Chuối Tây [FHD] — VĐQG Colombia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_318q66hx6o26qo9" tvg-name="Atlético Mineiro - MG vs Cruzeiro Esporte Clube" tvg-logo="https://static.sportsfeed.pro/football/team/079e86cebd6511ce807cc6073a3e26ee.png" home-logo="https://static.sportsfeed.pro/football/team/079e86cebd6511ce807cc6073a3e26ee.png" away-logo="https://static.sportsfeed.pro/football/team/b1cac6380900d22bdb0d31763c658434.png" group-title="Gà Vàng TV" start-time="1793313000",Atlético Mineiro - MG vs Cruzeiro Esporte Clube - SiêU QuậY — Brazilian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
