@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 12:00:11 31/10/2026
+## Cập nhật lúc: 12:30:08 31/10/2026
 
-#EXTINF:-1 tvg-id="cctv_998569_chuoikem" tvg-name="Okayama Seagulls W vs Gunma Bank Green Wings W" tvg-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" home-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" away-logo="https://media.chuoichientv.net/media/20251011_220657_399c6a8e.png" group-title="Chuối TV" start-time="1793423100",Okayama Seagulls W vs Gunma Bank Green Wings W - Chuối Kem [HD1] — SV.League W
+#EXTINF:-1 tvg-id="cctv_998569_chuoikem" tvg-name="Okayama Seagulls W vs Gunma Bank Green Wings W" tvg-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" home-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" away-logo="https://media.chuoichientv.net/media/20251011_220657_399c6a8e.png" group-title="Chuối TV" start-time="1793423100",Okayama Seagulls W vs Gunma Bank Green Wings W - Chuối Kem [FHD] — SV.League W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1551022_chuoichao" tvg-name="Puebla vs U.N.A.M. - Pumas" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133409_8be40e19.png" group-title="Chuối TV" start-time="1793415600",Puebla vs U.N.A.M. - Pumas - Chuối Chao [FHD] — VĐQG Mexico
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1593693_chuoisay" tvg-name="Newcastle Jets vs Wellington Phoenix" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130441_f1a2632a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130441_f1a2632a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130439_bf7a95dc.png" group-title="Chuối TV" start-time="1793419200",Newcastle Jets vs Wellington Phoenix - Chuối Sấy [FHD] — A-League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -128,10 +122,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_965mkyhk9o4dr1g" tvg-name="Puebla vs Pumas" tvg-logo="https://static.sportsfeed.pro/football/team/a98bd615308472b65dc82bcc3a2d54fb.png" home-logo="https://static.sportsfeed.pro/football/team/a98bd615308472b65dc82bcc3a2d54fb.png" away-logo="https://static.sportsfeed.pro/football/team/7654a95374767f93f6bec6a3d4819f76.png" group-title="Gà Vàng TV" start-time="1793416200",Puebla vs Pumas - KAYTI — Mexico Liga MX
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1550177_troctru" tvg-name="AC Milan vs Inter" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125605_14c915ad.png" group-title="Chuối TV" start-time="1793475900",AC Milan vs Inter - Trốc Tru [FHD] — Serie A
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_dn1m1ghld2lwmoe" tvg-name="Kashima Antlers vs Cerezo Osaka" tvg-logo="https://static.sportsfeed.pro/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png" home-logo="https://static.sportsfeed.pro/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png" away-logo="https://static.sportsfeed.pro/football/team/ab10ee503e539e55a9a11a9ff202405a.png" group-title="Gà Vàng TV" start-time="1793426400",Kashima Antlers vs Cerezo Osaka - Lá Chanh — Japanese J1 League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -253,15 +248,15 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMjI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2Mzg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVkNTllZjB6bnBuZzYxdG5tZmdlNXFrcA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_o07dni5pv69fmkn" tvg-name="CLB Puebla vs U.N.A.M.- Pumas" tvg-logo="https://img.cltvap.cc/football/team/a98bd615308472b65dc82bcc3a2d54fb.png!w80" home-logo="https://img.cltvap.cc/football/team/a98bd615308472b65dc82bcc3a2d54fb.png!w80" away-logo="https://img.cltvap.cc/football/team/7654a95374767f93f6bec6a3d4819f76.png!w80" group-title="Cola TV" start-time="1793416200",CLB Puebla vs U.N.A.M.- Pumas - BLV PEPSI — Giải Vô địch Bóng đá Quốc gia Mexico
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/59444581.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_l6kegi82z8msv75" tvg-name="Newcastle Jets vs Wellington Phoenix" tvg-logo="https://img.cltvap.cc/football/team/cb7c21cdf0ae82e8a97065118f89f816.png!w80" home-logo="https://img.cltvap.cc/football/team/cb7c21cdf0ae82e8a97065118f89f816.png!w80" away-logo="https://img.cltvap.cc/football/team/1162efa593827d2a7566b5862dee72e4.png!w80" group-title="Cola TV" start-time="1793419200",Newcastle Jets vs Wellington Phoenix - BLV GIÀ LÀNG — Giải vô địch quốc gia Úc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/14830711.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o07dzsmr500fmkn" tvg-name="Anyang KGC vs Busan KTF Sonicboom" tvg-logo="https://img.cltvap.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80" home-logo="https://img.cltvap.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80" away-logo="https://img.cltvap.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80" group-title="Cola TV" start-time="1793422800",Anyang KGC vs Busan KTF Sonicboom - BLV 247 — Giải bóng rổ nam Hàn Quốc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/90865415.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_g6763ipv0d5bo7r" tvg-name="CLB Jeonbuk Hyundai Motors vs Daejeon" tvg-logo="https://img.cltvap.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" home-logo="https://img.cltvap.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" away-logo="https://img.cltvap.cc/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png!w80" group-title="Cola TV" start-time="1793422800",CLB Jeonbuk Hyundai Motors vs Daejeon - BLV MONSTER — Giải K1 Hàn Quốc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
@@ -272,6 +267,11 @@ https://live05.miekgo.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/75748097.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_m2q19sryz9xtek6" tvg-name="KCC Egis vs Wonju Dongbu Promy" tvg-logo="https://img.cltvap.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" home-logo="https://img.cltvap.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" away-logo="https://img.cltvap.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80" group-title="Cola TV" start-time="1793422800",KCC Egis vs Wonju Dongbu Promy - BLV Cozy — Giải bóng rổ nam Hàn Quốc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/87379114.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_edq09il144daeqx" tvg-name="Kyoto Sanga vs Shimizu S-Pulse" tvg-logo="https://img.cltvap.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80" home-logo="https://img.cltvap.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80" away-logo="https://img.cltvap.cc/football/team/fa4105f0408ef893d941e70ae003ab4c.png!w80" group-title="Cola TV" start-time="1793422800",Kyoto Sanga vs Shimizu S-Pulse - BLV ROCKSTAR — Giải vô địch quốc gia Nhật Bản
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
