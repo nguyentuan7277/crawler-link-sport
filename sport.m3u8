@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:30:08 31/10/2026
+## Cập nhật lúc: 21:00:21 31/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1557450_chuoinho" tvg-name="Chelsea vs Manchester United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125549_a4353df0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125549_a4353df0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_6dff7e1a.png" group-title="Chuối TV" start-time="1793449800",Chelsea vs Manchester United - Chuối Nhỏ [FHD] — Ngoại Hạng Anh
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -128,10 +128,15 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_4wyrn4h6181zq86" tvg-name="Bologna vs Monza" tvg-logo="https://static.sportsfeed.pro/football/team/c31f023a2cc8adbcc3e24344d81b9609.png" home-logo="https://static.sportsfeed.pro/football/team/c31f023a2cc8adbcc3e24344d81b9609.png" away-logo="https://static.sportsfeed.pro/football/team/18ccab720cfda6be0c39fef579c13c5a.png" group-title="Gà Vàng TV" start-time="1793455200",Bologna vs Monza - SiêU QuậY — Italian Serie A
+#EXTINF:-1 tvg-id="gavang_2y8m4zh5d9n0ql0" tvg-name="Chelsea vs Man Utd" tvg-logo="https://static.sportsfeed.pro/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png" home-logo="https://static.sportsfeed.pro/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png" away-logo="https://static.sportsfeed.pro/football/team/d39ce586fd7278342dde33b3090b3f75.png" group-title="Gà Vàng TV" start-time="1793449800",Chelsea vs Man Utd - CRIS — English Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_x7lm7phjep99m2w" tvg-name="Levante vs Atl. Madrid" tvg-logo="https://static.sportsfeed.pro/football/team/13e2038bd23a38ce32a3eb259c8bf7d8.png" home-logo="https://static.sportsfeed.pro/football/team/13e2038bd23a38ce32a3eb259c8bf7d8.png" away-logo="https://static.sportsfeed.pro/football/team/390977b0421bce136c562057ea171ecf.png" group-title="Gà Vàng TV" start-time="1793451600",Levante vs Atl. Madrid - MeoMeo — Spanish La Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_y0or5jh8k0deqwz" tvg-name="Augsburg vs Freiburg" tvg-logo="https://static.sportsfeed.pro/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png" home-logo="https://static.sportsfeed.pro/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png" away-logo="https://static.sportsfeed.pro/football/team/6508946c9a5fe22a8784b905b25e8c79.png" group-title="Gà Vàng TV" start-time="1793457000",Augsburg vs Freiburg - khang hi — Bundesliga
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -182,6 +187,11 @@ https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09hkdpjkrz8" tvg-name="Feyenoord vs Fortuna Sittard" tvg-logo="https://static.sportsfeed.pro/football/team/44073f2d2c979a9388f98505ac3b754d.png" home-logo="https://static.sportsfeed.pro/football/team/44073f2d2c979a9388f98505ac3b754d.png" away-logo="https://static.sportsfeed.pro/football/team/622951cb622289cb656f2a1a05edcb13.png" group-title="Gà Vàng TV" start-time="1793460600",Feyenoord vs Fortuna Sittard - MeoMeo — Netherlands Eredivisie
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19722120" tvg-name="Chelsea vs Manchester United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-18" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-18" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14" group-title="BiaomTV" start-time="1793449800",Chelsea vs Manchester United - TÔM CHIÊN — Ngoại Hạng Anh
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -277,23 +287,3 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMjI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2Mzg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVkNTllZjB6bnBuZzYxdG5tZmdlNXFrcA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_ndqmliwvjzrirkv" tvg-name="CLB Kaiserslautern vs Hertha BSC" tvg-logo="https://img.cltvap.cc/football/team/6544eff3f60d98faf65649c8bf1c81eb.png!w80" home-logo="https://img.cltvap.cc/football/team/6544eff3f60d98faf65649c8bf1c81eb.png!w80" away-logo="https://img.cltvap.cc/football/team/1f74843bf2ffff474d23d387fa240102.png!w80" group-title="Cola TV" start-time="1793448000",CLB Kaiserslautern vs Hertha BSC - BLV TEPPY — Giải bóng đá Hạng hai Đức
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_wv78xivr5dvsokr" tvg-name="VfL Wolfsburg vs VfL Osnabruck" tvg-logo="https://img.cltvap.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80" home-logo="https://img.cltvap.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80" away-logo="https://img.cltvap.cc/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png!w80" group-title="Cola TV" start-time="1793448000",VfL Wolfsburg vs VfL Osnabruck - BLV SODA — Giải bóng đá Hạng hai Đức
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/02456966.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_oj7x9ixjle1u47g" tvg-name="Chelsea vs Manchester United" tvg-logo="https://img.cltvap.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" home-logo="https://img.cltvap.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" away-logo="https://img.cltvap.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80" group-title="Cola TV" start-time="1793449800",Chelsea vs Manchester United - BLV C2 — Giải bóng đá Ngoại hạng Anh
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/08552895.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_527r3i4zpjji47e" tvg-name="CLB Levante vs Atlético Madrid" tvg-logo="https://img.cltvap.cc/football/team/13e2038bd23a38ce32a3eb259c8bf7d8.png!w80" home-logo="https://img.cltvap.cc/football/team/13e2038bd23a38ce32a3eb259c8bf7d8.png!w80" away-logo="https://img.cltvap.cc/football/team/390977b0421bce136c562057ea171ecf.png!w80" group-title="Cola TV" start-time="1793451600",CLB Levante vs Atlético Madrid - BLV 7UP — Giải Bóng đá Vô địch Quốc gia Tây Ban Nha
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/78905744.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
