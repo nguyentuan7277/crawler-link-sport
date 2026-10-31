@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:00:09 31/10/2026
+## Cập nhật lúc: 15:30:06 31/10/2026
 
 #EXTINF:-1 tvg-id="cctv_994393_chuoitay" tvg-name="NEC Red Rockets W vs Kurobe Aqua Fairies W" tvg-logo="https://media.chuoichientv.net/media/20251016_221735_399f5cd5.png" home-logo="https://media.chuoichientv.net/media/20251016_221735_399f5cd5.png" away-logo="https://media.chuoichientv.net/media/20251009_205314_640ba060.png" group-title="Chuối TV" start-time="1793428500",NEC Red Rockets W vs Kurobe Aqua Fairies W - Chuối Tây [HD1] — SV.League W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -8,17 +8,11 @@
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1593694_chuoila" tvg-name="Melbourne City vs Sydney" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130441_83c08c1b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130441_83c08c1b.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_53d90f93.png" group-title="Chuối TV" start-time="1793426400",Melbourne City vs Sydney - Chuối Lá [FHD] — A-League
+#EXTINF:-1 tvg-id="cctv_1593695_angao" tvg-name="Macarthur vs Western Sydney Wanderers" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130443_17f12eea.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130443_17f12eea.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130438_eb01dea2.png" group-title="Chuối TV" start-time="1793436000",Macarthur vs Western Sydney Wanderers - Chuối Già [HD1] — A-League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1593695_angao" tvg-name="Macarthur vs Western Sydney Wanderers" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130443_17f12eea.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130443_17f12eea.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130438_eb01dea2.png" group-title="Chuối TV" start-time="1793436000",Macarthur vs Western Sydney Wanderers - Chuối Già [FHD] — A-League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_995941_chuoikem" tvg-name="Osaka Marvelous W vs Prestige Aranmare W" tvg-logo="https://media.chuoichientv.net/media/20260114_223046_6adc952b.png" home-logo="https://media.chuoichientv.net/media/20260114_223046_6adc952b.png" away-logo="https://media.chuoichientv.net/media/20251108_051806_c4fe2bec.png" group-title="Chuối TV" start-time="1793437200",Osaka Marvelous W vs Prestige Aranmare W - Chuối Kem [FHD] — SV.League W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -121,6 +115,18 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1570434_chuoichao" tvg-name="Barcelona vs Alaves" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_7a707dd9.png" group-title="Chuối TV" start-time="1793476800",Barcelona vs Alaves - Chuối Chao [FHD] — La Liga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1549850_chuoikem" tvg-name="Llaneros vs Junior" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133539_dd5a3e20.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133539_dd5a3e20.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_095d7988.png" group-title="Chuối TV" start-time="1793487600",Llaneros vs Junior - Chuối Kem [FHD] — VĐQG Colombia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l7oqdehgzojnr51" tvg-name="Vissel Kobe vs Nagoya Grampus" tvg-logo="https://static.sportsfeed.pro/football/team/d85cce27ab583e5b3cead155f02b098a.png" home-logo="https://static.sportsfeed.pro/football/team/d85cce27ab583e5b3cead155f02b098a.png" away-logo="https://static.sportsfeed.pro/football/team/32aa68e1fa3d62dad572d19b21a09353.png" group-title="Gà Vàng TV" start-time="1793426400",Vissel Kobe vs Nagoya Grampus - MáN NúI — Japanese J1 League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -242,11 +248,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMjI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2Mzg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVkNTllZjB6bnBuZzYxdG5tZmdlNXFrcA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_m2q15izxp82fe76" tvg-name="Vissel Kobe vs Nagoya Grampus" tvg-logo="https://img.cltvap.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" home-logo="https://img.cltvap.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" away-logo="https://img.cltvap.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="Cola TV" start-time="1793426400",Vissel Kobe vs Nagoya Grampus - BLV SAMURAI — Giải vô địch quốc gia Nhật Bản
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_69759igeln6bgk2" tvg-name="Kashiwa Reysol vs Urawa Reds" tvg-logo="https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80" home-logo="https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80" away-logo="https://img.cltvap.cc/football/team/ca15e36551392e8c99b53b5b2f8531d3.png!w80" group-title="Cola TV" start-time="1793430000",Kashiwa Reysol vs Urawa Reds - BLV TEPPY — Giải vô địch quốc gia Nhật Bản
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -261,3 +262,8 @@ https://live05.miekgo.app/live/07428422.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/19919577.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_6975lsn92o0tgk2" tvg-name="Cairns Taipans vs Melbourne Tigers" tvg-logo="https://img.cltvap.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80" home-logo="https://img.cltvap.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80" away-logo="https://img.cltvap.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80" group-title="Cola TV" start-time="1793435400",Cairns Taipans vs Melbourne Tigers - BLV 247 — Liên đoàn Bóng rổ Quốc gia Úc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/90865415.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
