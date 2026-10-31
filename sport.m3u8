@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 07:00:17 31/10/2026
+## Cập nhật lúc: 07:30:15 31/10/2026
 
 #EXTINF:-1 tvg-id="cctv_1493224_chuoinho" tvg-name="Racing Club vs Aldosivi" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132718_96efe69f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132718_96efe69f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130353_4aab4f40.png" group-title="Chuối TV" start-time="1793405700",Racing Club vs Aldosivi - Chuối Nhỏ [FHD] — VĐQG Argentina
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1493219_troctru" tvg-name="Huracan vs Tigre" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132721_d2eaa045.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132721_d2eaa045.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132722_a0210070.png" group-title="Chuối TV" start-time="1793397600",Huracan vs Tigre - Trốc Tru [FHD] — VĐQG Argentina
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1549725_chuoitay" tvg-name="Bucaramanga vs Deportivo Pasto" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_2eb7128c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_2eb7128c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_4547a757.png" group-title="Chuối TV" start-time="1793408700",Bucaramanga vs Deportivo Pasto - Chuối Tây [FHD] — VĐQG Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -31,6 +25,26 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_pxwrxlhyxg2kryk" tvg-name="Corinthians Paulista vs Mirassol" tvg-logo="https://static.sportsfeed.pro/football/team/aa4d61da1df31972e52e1e62f90ec558.png" home-logo="https://static.sportsfeed.pro/football/team/aa4d61da1df31972e52e1e62f90ec558.png" away-logo="https://static.sportsfeed.pro/football/team/b20645448c644b701286477f55b11e24.png" group-title="Gà Vàng TV" start-time="1793401200",Corinthians Paulista vs Mirassol - MáN NúI — Brazilian Serie A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4jwq2ghnd9kdm0v" tvg-name="Atletico San Luis vs Atlas" tvg-logo="https://static.sportsfeed.pro/football/team/f6c489e1e71d37e301b30df37a43b8a4.png" home-logo="https://static.sportsfeed.pro/football/team/f6c489e1e71d37e301b30df37a43b8a4.png" away-logo="https://static.sportsfeed.pro/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png" group-title="Gà Vàng TV" start-time="1793408400",Atletico San Luis vs Atlas - cố tư nghiêm — Mexico Liga MX
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_vjxm8ghe6l7zr6o" tvg-name="Atletico Bucaramanga vs Deportivo Pasto" tvg-logo="https://static.sportsfeed.pro/football/team/70c92764e181ce7abe6176c411a93fe3.png" home-logo="https://static.sportsfeed.pro/football/team/70c92764e181ce7abe6176c411a93fe3.png" away-logo="https://static.sportsfeed.pro/football/team/9fbd48de1577477753873c539c3ab106.png" group-title="Gà Vàng TV" start-time="1793408700",Atletico Bucaramanga vs Deportivo Pasto - SiêU QuậY — Categoría Primera A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyhk9o4dr1g" tvg-name="Puebla vs Pumas" tvg-logo="https://static.sportsfeed.pro/football/team/a98bd615308472b65dc82bcc3a2d54fb.png" home-logo="https://static.sportsfeed.pro/football/team/a98bd615308472b65dc82bcc3a2d54fb.png" away-logo="https://static.sportsfeed.pro/football/team/7654a95374767f93f6bec6a3d4819f76.png" group-title="Gà Vàng TV" start-time="1793415600",Puebla vs Pumas - KAYTI — Mexico Liga MX
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19758807" tvg-name="Macarthur vs Western Sydney Wanderers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/macarthur-252006" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/macarthur-252006" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" group-title="BiaomTV" start-time="1793436000",Macarthur vs Western Sydney Wanderers - NEM NƯỚNG  — VĐQG Úc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -146,11 +160,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMjI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2Mzg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVkNTllZjB6bnBuZzYxdG5tZmdlNXFrcA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_o17pjio8n8zby7j" tvg-name="Huracan vs Club Atletico Tigre" tvg-logo="https://img.cltvap.cc/football/team/3de7fff92c61b2ac93b08814386cf85d.png!w80" home-logo="https://img.cltvap.cc/football/team/3de7fff92c61b2ac93b08814386cf85d.png!w80" away-logo="https://img.cltvap.cc/football/team/95c9ef810563d777a5330b142f9ba38b.png!w80" group-title="Cola TV" start-time="1793397600",Huracan vs Club Atletico Tigre - BLV PEPSI — Giải Bóng đá Vô địch Quốc gia Argentina
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/59444581.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_jr7owip36n0bgq0" tvg-name="CLB Corinthians Paulista vs CLB Mirassol" tvg-logo="https://img.cltvap.cc/football/team/aa4d61da1df31972e52e1e62f90ec558.png!w80" home-logo="https://img.cltvap.cc/football/team/aa4d61da1df31972e52e1e62f90ec558.png!w80" away-logo="https://img.cltvap.cc/football/team/b20645448c644b701286477f55b11e24.png!w80" group-title="Cola TV" start-time="1793401200",CLB Corinthians Paulista vs CLB Mirassol - BLV SPRITE — Giải bóng đá Hạng nhất Brasil
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
