@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:30:09 31/10/2026
+## Cập nhật lúc: 17:00:07 31/10/2026
 
 #EXTINF:-1 tvg-id="cctv_995941_chuoikem" tvg-name="Osaka Marvelous W vs Prestige Aranmare W" tvg-logo="https://media.chuoichientv.net/media/20260114_223046_6adc952b.png" home-logo="https://media.chuoichientv.net/media/20260114_223046_6adc952b.png" away-logo="https://media.chuoichientv.net/media/20251108_051806_c4fe2bec.png" group-title="Chuối TV" start-time="1793437200",Osaka Marvelous W vs Prestige Aranmare W - Chuối Kem [HD1] — SV.League W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -142,6 +142,11 @@ https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_x7lm7phjep99m2w" tvg-name="Levante vs Atl. Madrid" tvg-logo="https://static.sportsfeed.pro/football/team/13e2038bd23a38ce32a3eb259c8bf7d8.png" home-logo="https://static.sportsfeed.pro/football/team/13e2038bd23a38ce32a3eb259c8bf7d8.png" away-logo="https://static.sportsfeed.pro/football/team/390977b0421bce136c562057ea171ecf.png" group-title="Gà Vàng TV" start-time="1793451600",Levante vs Atl. Madrid - MeoMeo — Spanish La Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19758807" tvg-name="Macarthur vs Western Sydney Wanderers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/macarthur-252006" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/macarthur-252006" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" group-title="BiaomTV" start-time="1793436000",Macarthur vs Western Sydney Wanderers - NEM NƯỚNG  — VĐQG Úc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
