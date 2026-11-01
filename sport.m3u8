@@ -1,12 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 21:30:17 01/11/2026
+## Cập nhật lúc: 22:00:17 01/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1575207_chuoisay" tvg-name="Union Berlin vs 1.FC Köln" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_57d721ce.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_57d721ce.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_d0b10a92.png" group-title="Chuối TV" start-time="1793543400",Union Berlin vs 1.FC Köln - Chuối Sấy [FHD] — Bundesliga
+#EXTINF:-1 tvg-id="cctv_1570440_chuoila" tvg-name="Racing Santander vs Real Madrid" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_ff184cd3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_ff184cd3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_9a1b10da.png" group-title="Chuối TV" start-time="1793546100",Racing Santander vs Real Madrid - Chuối Lá [FHD] — La Liga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1570440_angao" tvg-name="Racing Santander vs Real Madrid" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_ff184cd3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_ff184cd3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_9a1b10da.png" group-title="Chuối TV" start-time="1793546100",Racing Santander vs Real Madrid - Chuối Già [FHD] — La Liga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1570438_chuoila" tvg-name="Getafe vs Sevilla" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_e2044734.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_e2044734.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_bcacccf3.png" group-title="Chuối TV" start-time="1793538000",Getafe vs Sevilla - Chuối Lá [FHD] — La Liga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -20,17 +26,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://liv
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1570440_chuoila" tvg-name="Racing Santander vs Real Madrid" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_ff184cd3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_ff184cd3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_9a1b10da.png" group-title="Chuối TV" start-time="1793546100",Racing Santander vs Real Madrid - Chuối Lá [FHD] — La Liga
+#EXTINF:-1 tvg-id="cctv_1575207_chuoisay" tvg-name="Union Berlin vs 1.FC Köln" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_57d721ce.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_57d721ce.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_d0b10a92.png" group-title="Chuối TV" start-time="1793543400",Union Berlin vs 1.FC Köln - Chuối Sấy [FHD] — Bundesliga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1570440_angao" tvg-name="Racing Santander vs Real Madrid" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_ff184cd3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_ff184cd3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_9a1b10da.png" group-title="Chuối TV" start-time="1793546100",Racing Santander vs Real Madrid - Chuối Già [FHD] — La Liga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1557453_chuoinho" tvg-name="Liverpool vs Arsenal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png" group-title="Chuối TV" start-time="1793550600",Liverpool vs Arsenal - Chuối Nhỏ [FHD] — Ngoại Hạng Anh
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -134,11 +134,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_3glrw7hneg7vqdy" tvg-name="Falkirk vs Celtic F.C." tvg-logo="https://static.sportsfeed.pro/football/team/c4376b3f6ae5bf9e6da7c07bcec8a33d.png" home-logo="https://static.sportsfeed.pro/football/team/c4376b3f6ae5bf9e6da7c07bcec8a33d.png" away-logo="https://static.sportsfeed.pro/football/team/4952d00987ef86afeda3204d66ac3fd6.png" group-title="Gà Vàng TV" start-time="1793538000",Falkirk vs Celtic F.C. - RIO — Scottish Premiership
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_vjxm8ghe6xp8r6o" tvg-name="Getafe vs Sevilla" tvg-logo="https://static.sportsfeed.pro/football/team/36bf5bf0c8fdf08c1270124808f060e1.png" home-logo="https://static.sportsfeed.pro/football/team/36bf5bf0c8fdf08c1270124808f060e1.png" away-logo="https://static.sportsfeed.pro/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png" group-title="Gà Vàng TV" start-time="1793538000",Getafe vs Sevilla - SimonZ — Spanish La Liga
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -148,11 +143,6 @@ https://playback.livetl002.com/live/6ad087284c3981dd68475913.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_dn1m1ghld959moe" tvg-name="Young Boys vs FC Zurich" tvg-logo="https://static.sportsfeed.pro/football/team/5ee7149b64dc654c7fa2e43c7a0cf12e.png" home-logo="https://static.sportsfeed.pro/football/team/5ee7149b64dc654c7fa2e43c7a0cf12e.png" away-logo="https://static.sportsfeed.pro/football/team/3fcd619b384dbbd8b4c3af19f622fc7f.png" group-title="Gà Vàng TV" start-time="1793538000",Young Boys vs FC Zurich - SÚP LƠ — Switzerland Super League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_pxwrxlhyw2j8ryk" tvg-name="Excelsior SBV vs FC Twente Enschede" tvg-logo="https://static.sportsfeed.pro/football/team/57b4c68789a8bedcb43174f5f4eb164a.png" home-logo="https://static.sportsfeed.pro/football/team/57b4c68789a8bedcb43174f5f4eb164a.png" away-logo="https://static.sportsfeed.pro/football/team/7a2d0c79dd5d8589167c88684ac55aca.png" group-title="Gà Vàng TV" start-time="1793539800",Excelsior SBV vs FC Twente Enschede - Cá MậP — Netherlands Eredivisie
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -303,11 +293,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NDI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_34kgmio3w8pbeko" tvg-name="Viborg vs Horsens" tvg-logo="https://img.cltvap.cc/football/team/c5beffcdc88a77f8494e85108b306062.png!w80" home-logo="https://img.cltvap.cc/football/team/c5beffcdc88a77f8494e85108b306062.png!w80" away-logo="https://img.cltvap.cc/football/team/0b26f795a6fa9cbfdc9a8d99983854a9.png!w80" group-title="Cola TV" start-time="1793538000",Viborg vs Horsens - BLV REDBULL — Giải Ngoại hạng Đan Mạch
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/49572724.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_9gklzi1e9oxbm7x" tvg-name="CLB Telstar vs Utrecht" tvg-logo="https://img.cltvap.cc/football/team/f2e98454cf2fc81dea92c1401521eac1.png!w80" home-logo="https://img.cltvap.cc/football/team/f2e98454cf2fc81dea92c1401521eac1.png!w80" away-logo="https://img.cltvap.cc/football/team/181ee8709b75f543a1cf4c943ae3304b.png!w80" group-title="Cola TV" start-time="1793539800",CLB Telstar vs Utrecht - BLV C2 — Giải Bóng đá Vô địch Quốc gia Hà Lan
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
