@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 13:30:09 01/11/2026
+## Cập nhật lúc: 14:00:15 01/11/2026
 
 #EXTINF:-1 tvg-id="cctv_992322_chuoikem" tvg-name="Okayama Seagulls W vs Gunma Bank Green Wings W" tvg-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" home-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" away-logo="https://media.chuoichientv.net/media/20251011_220657_399c6a8e.png" group-title="Chuối TV" start-time="1793509200",Okayama Seagulls W vs Gunma Bank Green Wings W - Chuối Kem [HD1] — SV.League W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,10 +122,30 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_3glrw7hne77lqdy" tvg-name="Machida Zelvia vs Gamba Osaka" tvg-logo="https://static.sportsfeed.pro/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png" home-logo="https://static.sportsfeed.pro/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png" away-logo="https://static.sportsfeed.pro/football/team/91008a96b5de8c75376d17057f89890e.png" group-title="Gà Vàng TV" start-time="1793516400",Machida Zelvia vs Gamba Osaka - SAITAMA — Japanese J1 League
+#EXTINF:-1 tvg-id="gavang_2y8m4zh5d65gql0" tvg-name="JEF United Ichihara Chiba vs Avispa Fukuoka" tvg-logo="https://static.sportsfeed.pro/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png" home-logo="https://static.sportsfeed.pro/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png" away-logo="https://static.sportsfeed.pro/football/team/bf0e2229b39b6cb6fd17e9d0f3fb747e.png" group-title="Gà Vàng TV" start-time="1793509200",JEF United Ichihara Chiba vs Avispa Fukuoka - SÚP LƠ — Japanese J1 League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_vjxm8gheol5jr6o" tvg-name="V-Varen Nagasaki vs Tokyo Verdy" tvg-logo="https://static.sportsfeed.pro/football/team/b28ace839956d8eacce11926ea5e43b3.png" home-logo="https://static.sportsfeed.pro/football/team/b28ace839956d8eacce11926ea5e43b3.png" away-logo="https://static.sportsfeed.pro/football/team/2a8adb34e764602183a7bee8f51726e4.png" group-title="Gà Vàng TV" start-time="1793509200",V-Varen Nagasaki vs Tokyo Verdy - Cá MậP — Japanese J1 League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dj2ryoh7kdy0q1z" tvg-name="FC Anyang vs Bucheon FC 1995" tvg-logo="https://static.sportsfeed.pro/football/team/cda2e60a4e984dc6f4ed091ec44fc5bb.png" home-logo="https://static.sportsfeed.pro/football/team/cda2e60a4e984dc6f4ed091ec44fc5bb.png" away-logo="https://static.sportsfeed.pro/football/team/640f8c62cb294e1cc308a44ed2a62891.png" group-title="Gà Vàng TV" start-time="1793518200",FC Anyang vs Bucheon FC 1995 - RIO — Korean K League 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l7oqdehjne6zr51" tvg-name="FC Seoul vs Incheon United" tvg-logo="https://static.sportsfeed.pro/football/team/ad010af729c420626d1865ad744168d3.png" home-logo="https://static.sportsfeed.pro/football/team/ad010af729c420626d1865ad744168d3.png" away-logo="https://static.sportsfeed.pro/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png" group-title="Gà Vàng TV" start-time="1793518200",FC Seoul vs Incheon United - NGƯỜI KIẾN — Korean K League 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l7oqdehgpnggr51" tvg-name="Perth Glory vs Adelaide United" tvg-logo="https://static.sportsfeed.pro/football/team/cb4fe1c58ad556e3644c6cfdfd9ada25.png" home-logo="https://static.sportsfeed.pro/football/team/cb4fe1c58ad556e3644c6cfdfd9ada25.png" away-logo="https://static.sportsfeed.pro/football/team/ad78393eae1735732229c2a6eaba4998.png" group-title="Gà Vàng TV" start-time="1793520000",Perth Glory vs Adelaide United - MeoMeo — Australia A-League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19758805" tvg-name="Perth Glory vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/adelaide-united-2967" group-title="BiaomTV" start-time="1793520000",Perth Glory vs Adelaide United - TRÚC BẠCH — VĐQG Úc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -237,16 +257,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1NjE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NDI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng2eDdqc3dla3I4NDQyZDYyNzgwd3h4Zw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_xvkjoi29gm3a879" tvg-name="CLB Pohang Steelers vs Jeju Utd" tvg-logo="https://img.cltvap.cc/football/team/6f05c460789939ac83282bd0686446f1.png!w80" home-logo="https://img.cltvap.cc/football/team/6f05c460789939ac83282bd0686446f1.png!w80" away-logo="https://img.cltvap.cc/football/team/2d2abe914435bb9b7140cf2154c50de9.png!w80" group-title="Cola TV" start-time="1793509200",CLB Pohang Steelers vs Jeju Utd - BLV 7UP — Giải K1 Hàn Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/78905744.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_l6kegirzyx4tv75" tvg-name="CLB Ulsan Hyundai vs Gangwon" tvg-logo="https://img.cltvap.cc/football/team/fe07fb888ebcb282192332cb8aed21b1.png!w80" home-logo="https://img.cltvap.cc/football/team/fe07fb888ebcb282192332cb8aed21b1.png!w80" away-logo="https://img.cltvap.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80" group-title="Cola TV" start-time="1793509200",CLB Ulsan Hyundai vs Gangwon - BLV SAMURAI — Giải K1 Hàn Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_oj7x9ixjnx6t47g" tvg-name="Chiba vs Avispa Fukuoka" tvg-logo="https://img.cltvap.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" home-logo="https://img.cltvap.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" away-logo="https://img.cltvap.cc/football/team/bf0e2229b39b6cb6fd17e9d0f3fb747e.png!w80" group-title="Cola TV" start-time="1793509200",Chiba vs Avispa Fukuoka - BLV PEPSI — Giải vô địch quốc gia Nhật Bản
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -271,3 +281,8 @@ https://live05.miekgo.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/89756030.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_9gklzi1e449um7x" tvg-name="Machida vs Gamba Osaka" tvg-logo="https://img.cltvap.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" home-logo="https://img.cltvap.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" away-logo="https://img.cltvap.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80" group-title="Cola TV" start-time="1793516400",Machida vs Gamba Osaka - BLV POCARI — Giải vô địch quốc gia Nhật Bản
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/19919577.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
