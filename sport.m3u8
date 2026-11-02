@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 04:00:14 03/11/2026
+## Cập nhật lúc: 04:30:09 03/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1550178_chuoikem" tvg-name="Atalanta vs Parma" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125603_d3cec98d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125603_d3cec98d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_8a506f33.png" group-title="Chuối TV" start-time="1793648700",Atalanta vs Parma - Chuối Kem [FHD] — Serie A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -55,6 +55,11 @@ https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4wyrn4h652w3q86" tvg-name="Atletico Tucuman vs Argentinos Juniors" tvg-logo="https://static.sportsfeed.pro/football/team/2d87cf3b426597f02435e2c72e8def93.png" home-logo="https://static.sportsfeed.pro/football/team/2d87cf3b426597f02435e2c72e8def93.png" away-logo="https://static.sportsfeed.pro/football/team/5d8f8c8c289dbb2d67203988c8275cbc.png" group-title="Gà Vàng TV" start-time="1793664900",Atletico Tucuman vs Argentinos Juniors - SiêU QuậY — Argentine Division 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19713527" tvg-name="Atalanta vs Parma" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/parma-398" group-title="BiaomTV" start-time="1793648700",Atalanta vs Parma - 333 — VĐQG Ý
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -115,3 +120,8 @@ https://live05.miekgo.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_j374oi0mojxagqo" tvg-name="CLB Aguilas Doradas vs Fortaleza CEIF" tvg-logo="https://img.cltvap.cc/football/team/3190d6d022fe9b36c65d83cf98e16d15.png!w80" home-logo="https://img.cltvap.cc/football/team/3190d6d022fe9b36c65d83cf98e16d15.png!w80" away-logo="https://img.cltvap.cc/football/team/5a721f997fe18b1c151116a96b1b4ea8.png!w80" group-title="Cola TV" start-time="1793653500",CLB Aguilas Doradas vs Fortaleza CEIF - BLV AQUA — Giải vô địch quốc gia Colombia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/18812304.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
