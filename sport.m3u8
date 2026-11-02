@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 09:30:11 02/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1490598_chuoichao" tvg-name="New England Revolution vs Inter Miami" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131606_f4f3db91.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131606_f4f3db91.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" group-title="Chuối TV" start-time="1793577600",New England Revolution vs Inter Miami - Chuối Chao [FHD] — Major League Soccer
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 10:00:06 02/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1490590_chuoisay" tvg-name="Los Angeles FC vs Minnesota United FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131608_bba55c72.png" group-title="Chuối TV" start-time="1793583000",Los Angeles FC vs Minnesota United FC - Chuối Sấy [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -103,11 +97,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_y0or5jh8o556qwz" tvg-name="Portland Timbers vs Houston Dynamo" tvg-logo="https://static.sportsfeed.pro/football/team/5dcc5306778fc1089f808833ac7fc477.png" home-logo="https://static.sportsfeed.pro/football/team/5dcc5306778fc1089f808833ac7fc477.png" away-logo="https://static.sportsfeed.pro/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png" group-title="Gà Vàng TV" start-time="1793587500",Portland Timbers vs Houston Dynamo - SiêU QuậY — United States Major League Soccer
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_dj2ryoh7kg3oq1z" tvg-name="Hunters FC vs FC Ulaanbaatar" tvg-logo="https://static.sportsfeed.pro/football/team/e8082f36740ea4295a8bc67e28741933.png" home-logo="https://static.sportsfeed.pro/football/team/e8082f36740ea4295a8bc67e28741933.png" away-logo="https://static.sportsfeed.pro/football/team/0c7d6546c9204e45c17bc2d9d05f7a4b.png" group-title="Gà Vàng TV" start-time="1793595600",Hunters FC vs FC Ulaanbaatar - NGƯỜI KIẾN — Mongolia Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -197,3 +186,8 @@ https://live05.miekgo.app/live/89756030.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/07428422.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_wv78xivmyyebokr" tvg-name="Portland Timbers vs Houston Dynamo" tvg-logo="https://img.cltvap.cc/football/team/5dcc5306778fc1089f808833ac7fc477.png!w80" home-logo="https://img.cltvap.cc/football/team/5dcc5306778fc1089f808833ac7fc477.png!w80" away-logo="https://img.cltvap.cc/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png!w80" group-title="Cola TV" start-time="1793587800",Portland Timbers vs Houston Dynamo - BLV GIÀ LÀNG — Major League Soccer
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/14830711.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
