@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:00:10 03/11/2026
+## Cập nhật lúc: 00:30:17 03/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1550185_chuoikem" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125604_de560c79.png" group-title="Chuối TV" start-time="1793640600",Sassuolo vs Fiorentina - Chuối Kem [FHD] — Serie A
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1561430_chuoitay" tvg-name="Krylia Sovetov vs Zenit" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133527_3dc5d829.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133527_3dc5d829.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133525_ee4eabe4.png" group-title="Chuối TV" start-time="1793631600",Krylia Sovetov vs Zenit - Chuối Tây [FHD] — Ngoại Hạng Nga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,12 +25,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1550185_chuoikem" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125604_de560c79.png" group-title="Chuối TV" start-time="1793640600",Sassuolo vs Fiorentina - Chuối Kem [FHD] — Serie A
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1629963_chuoinho" tvg-name="Al-Gharafa vs Al-Qadisiyah FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130845_c31bfe11.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130845_c31bfe11.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134002_4cd99b1a.png" group-title="Chuối TV" start-time="1793643300",Al-Gharafa vs Al-Qadisiyah FC - Chuối Nhỏ [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -62,30 +62,70 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_dj2ryohl0j0vq1z" tvg-name="Krylya Sovetov vs Zenit StPetersburg" tvg-logo="https://static.sportsfeed.pro/football/team/b7782a595f2f82ed8daca72fd1f102de.png" home-logo="https://static.sportsfeed.pro/football/team/b7782a595f2f82ed8daca72fd1f102de.png" away-logo="https://static.sportsfeed.pro/football/team/19d5361bfdffa4bfc2f936cbb65fd317.png" group-title="Gà Vàng TV" start-time="1793631600",Krylya Sovetov vs Zenit StPetersburg - GIàng A Dân — Russian Premier League
+#EXTINF:-1 tvg-id="gavang_n54qllhnlk9lqvy" tvg-name="Al-Wasl SC vs Al Quwa Al Jawiya" tvg-logo="https://static.sportsfeed.pro/football/team/17b767b98695df2fb512e992dd8a7af4.png" home-logo="https://static.sportsfeed.pro/football/team/17b767b98695df2fb512e992dd8a7af4.png" away-logo="https://static.sportsfeed.pro/football/team/ff4c5749c2c2cd8d1aad37ebe324847e.png" group-title="Gà Vàng TV" start-time="1793635200",Al-Wasl SC vs Al Quwa Al Jawiya - MeoMeo — AFC Champions League Elite
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_2y8m4zh59xx2ql0" tvg-name="Real Oviedo vs Las Palmas" tvg-logo="https://static.sportsfeed.pro/football/team/21551996567bcd206ee574043d509a84.png" home-logo="https://static.sportsfeed.pro/football/team/21551996567bcd206ee574043d509a84.png" away-logo="https://static.sportsfeed.pro/football/team/eff9bb17ae54a84068dfc3b9f1f628cb.png" group-title="Gà Vàng TV" start-time="1793632500",Real Oviedo vs Las Palmas - A Long — Spanish Segunda Division
+#EXTINF:-1 tvg-id="gavang_jw2r09hkep71rz8" tvg-name="Tractor vs Neftchi Fargona" tvg-logo="https://static.sportsfeed.pro/football/team/bf2316e90a47ed6d1181458350b0714b.png" home-logo="https://static.sportsfeed.pro/football/team/bf2316e90a47ed6d1181458350b0714b.png" away-logo="https://static.sportsfeed.pro/football/team/f414775655a79c5a471b2103a4164df4.png" group-title="Gà Vàng TV" start-time="1793635200",Tractor vs Neftchi Fargona - MáN NúI — AFC Champions League Elite
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_x7lm7phjd731m2w" tvg-name="Cherno More Varna vs Botev Vratsa" tvg-logo="https://static.sportsfeed.pro/football/team/6356dcedfefdbc98de34cce75214de28.png" home-logo="https://static.sportsfeed.pro/football/team/6356dcedfefdbc98de34cce75214de28.png" away-logo="https://static.sportsfeed.pro/football/team/2160cff8b0067605adb4e2d1ff213f3d.png" group-title="Gà Vàng TV" start-time="1793637000",Cherno More Varna vs Botev Vratsa - khang hi — Bulgarian First League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_6ypq3nhvyedomd7" tvg-name="Genclerbirligi vs Alanyaspor" tvg-logo="https://static.sportsfeed.pro/football/team/ec111e88997dce5a5f76c26b8e85d7f3.png" home-logo="https://static.sportsfeed.pro/football/team/ec111e88997dce5a5f76c26b8e85d7f3.png" away-logo="https://static.sportsfeed.pro/football/team/0688ed133dadf5f09bb94c8414ec5565.png" group-title="Gà Vàng TV" start-time="1793638800",Genclerbirligi vs Alanyaspor - RIO — Turkish Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4jwq2ghnzvnjm0v" tvg-name="GAIS vs AIK" tvg-logo="https://static.sportsfeed.pro/football/team/abe34d42a932576163d32843f1e38e01.png" home-logo="https://static.sportsfeed.pro/football/team/abe34d42a932576163d32843f1e38e01.png" away-logo="https://static.sportsfeed.pro/football/team/0cc49f3f48c86ed0c00a31c96962ecf3.png" group-title="Gà Vàng TV" start-time="1793642400",GAIS vs AIK - A Long — Sweden Allsvenskan
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_dn1m1ghld4j3moe" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://static.sportsfeed.pro/football/team/616bf242a532f72e970648f2ead423cf.png" home-logo="https://static.sportsfeed.pro/football/team/616bf242a532f72e970648f2ead423cf.png" away-logo="https://static.sportsfeed.pro/football/team/858d87ded0cce014bae0c9681af48524.png" group-title="Gà Vàng TV" start-time="1793640600",Sassuolo vs Fiorentina - CRIS — Italian Serie A
+#EXTINF:-1 tvg-id="gavang_n54qllhny1gxqvy" tvg-name="Sonderjyske vs FC Copenhagen" tvg-logo="https://static.sportsfeed.pro/football/team/2a247b5fb7ff72e24a051b71a796d71b.png" home-logo="https://static.sportsfeed.pro/football/team/2a247b5fb7ff72e24a051b71a796d71b.png" away-logo="https://static.sportsfeed.pro/football/team/629b6f983d0ca3c33f2c4b50b3449314.png" group-title="Gà Vàng TV" start-time="1793642400",Sonderjyske vs FC Copenhagen - khang hi — Danish Superliga
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_ednm9whwjddjryo" tvg-name="Al Gharafa vs Al-Qadsiah" tvg-logo="https://static.sportsfeed.pro/football/team/fcac1eae493c493061e66608158b40ef.png" home-logo="https://static.sportsfeed.pro/football/team/fcac1eae493c493061e66608158b40ef.png" away-logo="https://static.sportsfeed.pro/football/team/bc74439d19c8bbaa17c57406b120b86d.png" group-title="Gà Vàng TV" start-time="1793643300",Al Gharafa vs Al-Qadsiah - MeoMeo — AFC Champions League Elite
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_vjxm8ghen23dr6o" tvg-name="Al-Ittihad Club vs Al Ain FC" tvg-logo="https://static.sportsfeed.pro/football/team/dea986d20115216c05d1a45ba9a6162e.png" home-logo="https://static.sportsfeed.pro/football/team/dea986d20115216c05d1a45ba9a6162e.png" away-logo="https://static.sportsfeed.pro/football/team/cedb12f9c001f1b1cb11bc532967c33e.png" group-title="Gà Vàng TV" start-time="1793643300",Al-Ittihad Club vs Al Ain FC - MáN NúI — AFC Champions League Elite
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_zp5rzghgejeoq82" tvg-name="Atalanta vs Parma" tvg-logo="https://static.sportsfeed.pro/football/team/45c9647899b8bf2fb6f988c6c33b964c.png" home-logo="https://static.sportsfeed.pro/football/team/45c9647899b8bf2fb6f988c6c33b964c.png" away-logo="https://static.sportsfeed.pro/football/team/9fadd87d190982c8082dddf1567e0b9b.png" group-title="Gà Vàng TV" start-time="1793648700",Atalanta vs Parma - Cá MậP — Italian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_ednm9whwlv37ryo" tvg-name="Lorient vs Brest" tvg-logo="https://static.sportsfeed.pro/football/team/b593727321793084b1f7804aebedc31a.png" home-logo="https://static.sportsfeed.pro/football/team/b593727321793084b1f7804aebedc31a.png" away-logo="https://static.sportsfeed.pro/football/team/bb7e6346a3860008e4ff266ba3b655e8.png" group-title="Gà Vàng TV" start-time="1793648700",Lorient vs Brest - Lá Chanh — French Ligue 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_8yomo4h1oz0eq0j" tvg-name="Deportivo La Coruna vs Osasuna" tvg-logo="https://static.sportsfeed.pro/football/team/e28443c9a1a5b87394ed79c3690ebbd7.png" home-logo="https://static.sportsfeed.pro/football/team/e28443c9a1a5b87394ed79c3690ebbd7.png" away-logo="https://static.sportsfeed.pro/football/team/c2050b940076df70b2ad0a6103c50df4.png" group-title="Gà Vàng TV" start-time="1793649600",Deportivo La Coruna vs Osasuna - Lữ Bố.vip — Spanish La Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_n54qllhny619qvy" tvg-name="Newcastle vs Everton" tvg-logo="https://static.sportsfeed.pro/football/team/5dbe320855e3ba772dbce54f940c6fa5.png" home-logo="https://static.sportsfeed.pro/football/team/5dbe320855e3ba772dbce54f940c6fa5.png" away-logo="https://static.sportsfeed.pro/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png" group-title="Gà Vàng TV" start-time="1793649600",Newcastle vs Everton - CRIS — English Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y0or5jh8y30dqwz" tvg-name="Benfica vs Alverca" tvg-logo="https://static.sportsfeed.pro/football/team/78360445c12fa3fdc8b489486fff4eb6.png" home-logo="https://static.sportsfeed.pro/football/team/78360445c12fa3fdc8b489486fff4eb6.png" away-logo="https://static.sportsfeed.pro/football/team/ff35a6067c000b629b84e648d8a2d2de.png" group-title="Gà Vàng TV" start-time="1793650500",Benfica vs Alverca - NGƯỜI KIẾN — Portuguese Primera Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19867113" tvg-name="Al Sadd vs Al Ahli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-sadd-7283" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-sadd-7283" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ahli-9908" group-title="BiaomTV" start-time="1793635200",Al Sadd vs Al Ahli - Vịt Nướng — C1 Châu Á
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -137,21 +177,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMTU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmNkNTNudjhwOHhlZGM0MmtnNmcya2hmNg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_zrkn6i4w9wrswql" tvg-name="CLB Krylya Sovetov vs Zenit" tvg-logo="https://img.cltvap.cc/football/team/b7782a595f2f82ed8daca72fd1f102de.png!w80" home-logo="https://img.cltvap.cc/football/team/b7782a595f2f82ed8daca72fd1f102de.png!w80" away-logo="https://img.cltvap.cc/football/team/19d5361bfdffa4bfc2f936cbb65fd317.png!w80" group-title="Cola TV" start-time="1793631600",CLB Krylya Sovetov vs Zenit - BLV 7UP — Giải Bóng đá Ngoại hạng Nga
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/78905744.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_oj7x9ixldd4f47g" tvg-name="R. Oviedo vs CLB Las Palmas" tvg-logo="https://img.cltvap.cc/football/team/21551996567bcd206ee574043d509a84.png!w80" home-logo="https://img.cltvap.cc/football/team/21551996567bcd206ee574043d509a84.png!w80" away-logo="https://img.cltvap.cc/football/team/eff9bb17ae54a84068dfc3b9f1f628cb.png!w80" group-title="Cola TV" start-time="1793632500",R. Oviedo vs CLB Las Palmas - BLV SODA — Giải bóng đá Hạng nhì Tây Ban Nha
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/02456966.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_oj7x9ixl0wlt47g" tvg-name="CS Voluntari vs F. Constanta" tvg-logo="https://img.cltvap.cc/football/team/f105da768299b0eece32a15bb3c30574.png!w80" home-logo="https://img.cltvap.cc/football/team/f105da768299b0eece32a15bb3c30574.png!w80" away-logo="https://img.cltvap.cc/football/team/3091777d4e5cf166b1039ac3fffe05ae.png!w80" group-title="Cola TV" start-time="1793633400",CS Voluntari vs F. Constanta - BLV POCARI — Giải Vô địch quốc gia Romania
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/19919577.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_edq09ilv8yvbeqx" tvg-name="Al Wasl vs CLB Al Quwa Al Jawiya" tvg-logo="https://img.cltvap.cc/football/team/17b767b98695df2fb512e992dd8a7af4.png!w80" home-logo="https://img.cltvap.cc/football/team/17b767b98695df2fb512e992dd8a7af4.png!w80" away-logo="https://img.cltvap.cc/football/team/27e1bfe40810453c59c7cd66fffd2418.png!w80" group-title="Cola TV" start-time="1793635200",Al Wasl vs CLB Al Quwa Al Jawiya - BLV HỔ VẰN — AFC Giải vô địch Champions Elite
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -181,3 +206,13 @@ https://live05.miekgo.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o17pjiodn96cy7j" tvg-name="Real Valladolid vs CLB Leganes" tvg-logo="https://img.cltvap.cc/football/team/fdf63461c00668597319a4f0db14dcee.png!w80" home-logo="https://img.cltvap.cc/football/team/fdf63461c00668597319a4f0db14dcee.png!w80" away-logo="https://img.cltvap.cc/football/team/b6728832f1504989e57f8a43479429ec.png!w80" group-title="Cola TV" start-time="1793640600",Real Valladolid vs CLB Leganes - BLV BÍ ĐAO — Giải bóng đá Hạng nhì Tây Ban Nha
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_g6763i5ovz2ao7r" tvg-name="U.S. Sassuolo Calcio vs ACF Fiorentina" tvg-logo="https://img.cltvap.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" home-logo="https://img.cltvap.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" away-logo="https://img.cltvap.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80" group-title="Cola TV" start-time="1793640600",U.S. Sassuolo Calcio vs ACF Fiorentina - BLV 7UP — Giải bóng đá Serie A Italia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/78905744.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
