@@ -1,8 +1,14 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 22:30:17 03/11/2026
+## Cập nhật lúc: 23:00:14 03/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1630390_chuoichao" tvg-name="East Bengal II vs Al Seeb" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145044_1d75f929.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145044_1d75f929.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130542_399a6e34.png" group-title="Chuối TV" start-time="1793713500",East Bengal II vs Al Seeb - Chuối Chao [FHD] — AFC Cup
+#EXTINF:-1 tvg-id="cctv_1630391_angao" tvg-name="Al Hussein vs Al Shorta" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130552_11c3b1f7.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130552_11c3b1f7.png" away-logo="https://media.api-sports.io/football/teams/28571.png" group-title="Chuối TV" start-time="1793721600",Al Hussein vs Al Shorta - Chuối Già [FHD] — AFC Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1629971_chuoichao" tvg-name="Esteghlal FC vs Al Shamal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132915_e74c775a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132915_e74c775a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130847_be018c98.png" group-title="Chuối TV" start-time="1793721600",Esteghlal FC vs Al Shamal - Chuối Chao [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
@@ -19,18 +25,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1630391_angao" tvg-name="Al Hussein vs Al Shorta" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130552_11c3b1f7.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130552_11c3b1f7.png" away-logo="https://media.api-sports.io/football/teams/28571.png" group-title="Chuối TV" start-time="1793721600",Al Hussein vs Al Shorta - Chuối Già [FHD] — AFC Cup
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1629971_chuoichao" tvg-name="Esteghlal FC vs Al Shamal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132915_e74c775a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132915_e74c775a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130847_be018c98.png" group-title="Chuối TV" start-time="1793721600",Esteghlal FC vs Al Shamal - Chuối Chao [FHD] — AFC Champions League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1635669_chuoila" tvg-name="Galatasaray vs VfB Stuttgart" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_ed875292.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_ed875292.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png" group-title="Chuối TV" start-time="1793727900",Galatasaray vs VfB Stuttgart - Chuối Lá [FHD] — UEFA Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -98,15 +92,15 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_ednm9whwjdzlryo" tvg-name="Al-Hussein SC (Irbid) vs Al Shorta" tvg-logo="https://static.sportsfeed.pro/football/team/c57a2fc40564fdcb7c1428215105372a.png" home-logo="https://static.sportsfeed.pro/football/team/c57a2fc40564fdcb7c1428215105372a.png" away-logo="https://static.sportsfeed.pro/football/team/24cb68778b46e3795fa58ad593e98b5d.png" group-title="Gà Vàng TV" start-time="1793721600",Al-Hussein SC (Irbid) vs Al Shorta - NGƯỜI KIẾN — AFC Champions League Two
+#EXTINF:-1 tvg-id="gavang_8yomo4h1n13zq0j" tvg-name="Atletico de Madrid U19 vs Bayern Munchen U19" tvg-logo="https://static.sportsfeed.pro/football/team/dd126282a3ed968b622055c808ad82c4.png" home-logo="https://static.sportsfeed.pro/football/team/dd126282a3ed968b622055c808ad82c4.png" away-logo="https://static.sportsfeed.pro/football/team/6c94dd62965a38d04ffb108f03bd632f.png" group-title="Gà Vàng TV" start-time="1793718000",Atletico de Madrid U19 vs Bayern Munchen U19 - SÚP LƠ — UEFA Youth League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_dn1m1ghl5oknmoe" tvg-name="Esteghlal Tehran vs Al Shamal" tvg-logo="https://static.sportsfeed.pro/football/team/48f908d6c42e0bf4e9f83c4841d76bea.png" home-logo="https://static.sportsfeed.pro/football/team/48f908d6c42e0bf4e9f83c4841d76bea.png" away-logo="https://static.sportsfeed.pro/football/team/af47207f36a49c89502312138e54f6a7.png" group-title="Gà Vàng TV" start-time="1793721600",Esteghlal Tehran vs Al Shamal - unicorn — AFC Champions League Elite
+#EXTINF:-1 tvg-id="gavang_6ypq3nhvxv34md7" tvg-name="Barcelona U19 vs Aston Villa U19" tvg-logo="https://static.sportsfeed.pro/football/team/cfb17f7d6276a7d15d3e342ef74590e1.png" home-logo="https://static.sportsfeed.pro/football/team/cfb17f7d6276a7d15d3e342ef74590e1.png" away-logo="https://static.sportsfeed.pro/football/team/c85a464071814796e66c456abcdaf5f1.png" group-title="Gà Vàng TV" start-time="1793718000",Barcelona U19 vs Aston Villa U19 - GIàng A Dân — UEFA Youth League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6ae349718d80cc041d063e08.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19873252" tvg-name="Galatasaray vs VfB Stuttgart" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="BiaomTV" start-time="1793727900",Galatasaray vs VfB Stuttgart - HÀU NƯỚNG — C1 Châu Âu
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -148,11 +142,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MjA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzI2Mzk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmRpbnR1amg2c3c0aDh5djB3emQ2YjZobw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_oj7x9ix4833b47g" tvg-name="East Bengal vs Al Seeb" tvg-logo="https://img.cltvap.cc/football/team/21649c3d173c8f4ec9d526432ad9f088.png!w80" home-logo="https://img.cltvap.cc/football/team/21649c3d173c8f4ec9d526432ad9f088.png!w80" away-logo="https://img.cltvap.cc/football/team/99436fc30d359790afbd11fe602a5a45.png!w80" group-title="Cola TV" start-time="1793713500",East Bengal vs Al Seeb - BLV REVIVE — AFC Giải vô địch Champions 2
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_527r3i30g16h47e" tvg-name="Al Zawraa vs Al Riffa" tvg-logo="https://img.cltvap.cc/football/team/17e3cb55af2ada9d234099c573f8a81e.png!w80" home-logo="https://img.cltvap.cc/football/team/17e3cb55af2ada9d234099c573f8a81e.png!w80" away-logo="https://img.cltvap.cc/football/team/bd2f7046b89c07c685e79343f976ec9e.jpg!w80" group-title="Cola TV" start-time="1793716200",Al Zawraa vs Al Riffa - BLV SAMURAI — Giải bóng đá câu lạc bộ Vịnh
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -182,3 +171,8 @@ https://live05.miekgo.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/18812304.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_g6763i510ywco7r" tvg-name="Esteghlal FC vs Al Shamal" tvg-logo="https://img.cltvap.cc/football/team/48f908d6c42e0bf4e9f83c4841d76bea.png!w80" home-logo="https://img.cltvap.cc/football/team/48f908d6c42e0bf4e9f83c4841d76bea.png!w80" away-logo="https://img.cltvap.cc/football/team/af47207f36a49c89502312138e54f6a7.png!w80" group-title="Cola TV" start-time="1793721600",Esteghlal FC vs Al Shamal - BLV TEPPY — AFC Giải vô địch Champions Elite
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
