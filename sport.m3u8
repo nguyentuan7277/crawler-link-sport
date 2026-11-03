@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 04:00:06 04/11/2026
+## Cập nhật lúc: 04:30:10 04/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1635622_chuoinho" tvg-name="Atletico Madrid vs Bayern München" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png" group-title="Chuối TV" start-time="1793736000",Atletico Madrid vs Bayern München - Chuối Nhỏ [FHD] — UEFA Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -59,6 +59,11 @@ https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_k82rekhg0v6xrep" tvg-name="Internacional RS vs Coritiba PR" tvg-logo="https://static.sportsfeed.pro/football/team/7fc8831956b0f4fab51d0390a3957780.png" home-logo="https://static.sportsfeed.pro/football/team/7fc8831956b0f4fab51d0390a3957780.png" away-logo="https://static.sportsfeed.pro/football/team/4f7a0095b9a3a4756318efd55451badb.png" group-title="Gà Vàng TV" start-time="1793752200",Internacional RS vs Coritiba PR - KAYTI — Brazilian Serie A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19872612" tvg-name="Atlético Madrid vs Bayern Munich" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-bayern-munchen-503" group-title="BiaomTV" start-time="1793736000",Atlético Madrid vs Bayern Munich - Vịt Nướng — C1 Châu Âu
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
