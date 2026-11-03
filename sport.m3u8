@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:30:13 04/11/2026
+## Cập nhật lúc: 01:00:18 04/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1635669_chuoila" tvg-name="Galatasaray vs VfB Stuttgart" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_ed875292.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_ed875292.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png" group-title="Chuối TV" start-time="1793727900",Galatasaray vs VfB Stuttgart - Chuối Lá [FHD] — UEFA Champions League
+#EXTINF:-1 tvg-id="cctv_1629972_chuoitay" tvg-name="Al-Hilal Saudi FC vs Shabab Al Ahli Dubai" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_07a155b3.png" group-title="Chuối TV" start-time="1793729700",Al-Hilal Saudi FC vs Shabab Al Ahli Dubai - Chuối Tây [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1635723_troctru" tvg-name="Shakhtar Donetsk vs Sporting CP" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125646_c053c3d0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125646_c053c3d0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125618_6227fe0e.png" group-title="Chuối TV" start-time="1793727900",Shakhtar Donetsk vs Sporting CP - Trốc Tru [FHD] — UEFA Champions League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1630391_angao" tvg-name="Al Hussein vs Al Shorta" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130552_11c3b1f7.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130552_11c3b1f7.png" away-logo="https://media.api-sports.io/football/teams/28571.png" group-title="Chuối TV" start-time="1793721600",Al Hussein vs Al Shorta - Chuối Già [FHD] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -26,11 +20,17 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1629972_chuoitay" tvg-name="Al-Hilal Saudi FC vs Shabab Al Ahli Dubai" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_07a155b3.png" group-title="Chuối TV" start-time="1793729700",Al-Hilal Saudi FC vs Shabab Al Ahli Dubai - Chuối Tây [FHD] — AFC Champions League
+#EXTINF:-1 tvg-id="cctv_1635669_chuoila" tvg-name="Galatasaray vs VfB Stuttgart" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_ed875292.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_ed875292.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png" group-title="Chuối TV" start-time="1793727900",Galatasaray vs VfB Stuttgart - Chuối Lá [FHD] — UEFA Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1635723_troctru" tvg-name="Shakhtar Donetsk vs Sporting CP" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125646_c053c3d0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125646_c053c3d0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125618_6227fe0e.png" group-title="Chuối TV" start-time="1793727900",Shakhtar Donetsk vs Sporting CP - Trốc Tru [FHD] — UEFA Champions League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1635622_chuoinho" tvg-name="Atletico Madrid vs Bayern München" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png" group-title="Chuối TV" start-time="1793736000",Atletico Madrid vs Bayern München - Chuối Nhỏ [FHD] — UEFA Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -79,11 +79,6 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_6ypq3nhvxv34md7" tvg-name="Barcelona U19 vs Aston Villa U19" tvg-logo="https://static.sportsfeed.pro/football/team/cfb17f7d6276a7d15d3e342ef74590e1.png" home-logo="https://static.sportsfeed.pro/football/team/cfb17f7d6276a7d15d3e342ef74590e1.png" away-logo="https://static.sportsfeed.pro/football/team/c85a464071814796e66c456abcdaf5f1.png" group-title="Gà Vàng TV" start-time="1793718000",Barcelona U19 vs Aston Villa U19 - GIàng A Dân — UEFA Youth League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_dn1m1ghl5y72moe" tvg-name="Atl. Madrid vs Bayern Munich" tvg-logo="https://static.sportsfeed.pro/football/team/390977b0421bce136c562057ea171ecf.png" home-logo="https://static.sportsfeed.pro/football/team/390977b0421bce136c562057ea171ecf.png" away-logo="https://static.sportsfeed.pro/football/team/ef19a84a6745fe57aa786873d2b18e8a.png" group-title="Gà Vàng TV" start-time="1793736000",Atl. Madrid vs Bayern Munich - SÚP LƠ — UEFA Champions League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -140,12 +135,17 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MjA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzI2Mzk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmRpbnR1amg2c3c0aDh5djB3emQ2YjZobw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_g6763i510ywco7r" tvg-name="Esteghlal FC vs Al Shamal" tvg-logo="https://img.cltvap.cc/football/team/48f908d6c42e0bf4e9f83c4841d76bea.png!w80" home-logo="https://img.cltvap.cc/football/team/48f908d6c42e0bf4e9f83c4841d76bea.png!w80" away-logo="https://img.cltvap.cc/football/team/af47207f36a49c89502312138e54f6a7.png!w80" group-title="Cola TV" start-time="1793721600",Esteghlal FC vs Al Shamal - BLV TEPPY — AFC Giải vô địch Champions Elite
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_ndqmli9xxogfrkv" tvg-name="S. Kostroma vs FK Volna Nizhegorodskaya" tvg-logo="https://img.cltvap.cc/football/team/444ccd0f41b3dc4726dbbd26ea3d359c.png!w80" home-logo="https://img.cltvap.cc/football/team/444ccd0f41b3dc4726dbbd26ea3d359c.png!w80" away-logo="https://img.cltvap.cc/football/team/41a60f3e85173636eb5f5f98b93f16e7.png!w80" group-title="Cola TV" start-time="1793723400",S. Kostroma vs FK Volna Nizhegorodskaya - BLV C2 — cúp Nga
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/08552895.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_63kv9ig1nooix7e" tvg-name="Galatasaray vs VfB Stuttgart" tvg-logo="https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80" home-logo="https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80" away-logo="https://img.cltvap.cc/football/team/bfdd500484330d63a723cbc396df762c.png!w80" group-title="Cola TV" start-time="1793727900",Galatasaray vs VfB Stuttgart - BLV HỔ VẰN — Champions League
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/07428422.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_vmqy9ivg3yesgk9" tvg-name="Shakhtar Donetsk vs Sporting" tvg-logo="https://img.cltvap.cc/football/team/141bcf6ab6d0bc7b8c67dc5eeb9f347d.png!w80" home-logo="https://img.cltvap.cc/football/team/141bcf6ab6d0bc7b8c67dc5eeb9f347d.png!w80" away-logo="https://img.cltvap.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="Cola TV" start-time="1793727900",Shakhtar Donetsk vs Sporting - BLV MOUNTAIN DEW — Champions League
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
