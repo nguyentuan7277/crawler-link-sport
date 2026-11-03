@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 02:00:14 04/11/2026
+## Cập nhật lúc: 02:30:09 04/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1635669_chuoila" tvg-name="Galatasaray vs VfB Stuttgart" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_ed875292.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_ed875292.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png" group-title="Chuối TV" start-time="1793727900",Galatasaray vs VfB Stuttgart - Chuối Lá [FHD] — UEFA Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -143,6 +143,11 @@ https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_vjxm8ghe549yr6o" tvg-name="Chapecoense SC vs Mirassol" tvg-logo="https://static.sportsfeed.pro/football/team/4970b9a9a215c78759a6bb84ecaa3701.png" home-logo="https://static.sportsfeed.pro/football/team/4970b9a9a215c78759a6bb84ecaa3701.png" away-logo="https://static.sportsfeed.pro/football/team/b20645448c644b701286477f55b11e24.png" group-title="Gà Vàng TV" start-time="1793745000",Chapecoense SC vs Mirassol - SiêU QuậY — Brazilian Serie A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19873252" tvg-name="Galatasaray vs VfB Stuttgart" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="BiaomTV" start-time="1793727900",Galatasaray vs VfB Stuttgart - HÀU NƯỚNG — C1 Châu Âu
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -258,10 +263,20 @@ https://cdnhls.xbdbotv.live/live/MTk4NzM3MTE6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzMyNDE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmRyOTRnNDhvb3dscW1pZzAzN3owbzcwMw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="biaom_19872618" tvg-name="RB Leipzig vs Manchester City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rb-leipzig-277" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rb-leipzig-277" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-9" group-title="BiaomTV" start-time="1793822400",RB Leipzig vs Manchester City - TÔM CHIÊN — C1 Châu Âu
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NzI2MTg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmpzdTlwcm1oMWoyd2U4dmVscnpzMmswZQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19872618" tvg-name="RB Leipzig vs Manchester City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rb-leipzig-277" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rb-leipzig-277" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-9" group-title="BiaomTV" start-time="1793822400",RB Leipzig vs Manchester City - SAPPORO — C1 Châu Âu
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzI2MTg6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmZ1ZW03czcxbmwyN2MxaW1sZ2NtZzdicg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19872637" tvg-name="Slavia Praha vs Arsenal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/slavia-praha-216" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/slavia-praha-216" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="BiaomTV" start-time="1793822400",Slavia Praha vs Arsenal - HÀU NƯỚNG — C1 Châu Âu
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NzI2Mzc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmVnMTF2NWs2bzZkNHRnNDZ1ZTFpMzVyZg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_63kv9ig1nooix7e" tvg-name="Galatasaray vs VfB Stuttgart" tvg-logo="https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80" home-logo="https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80" away-logo="https://img.cltvap.cc/football/team/bfdd500484330d63a723cbc396df762c.png!w80" group-title="Cola TV" start-time="1793727900",Galatasaray vs VfB Stuttgart - BLV HỔ VẰN — Champions League
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
