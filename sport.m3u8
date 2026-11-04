@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:00:15 04/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1630394_chuoila" tvg-name="Al Kuwait vs Nasaf" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130607_27ac2367.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130607_27ac2367.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_2e186d9f.png" group-title="Chuối TV" start-time="1793808000",Al Kuwait vs Nasaf - Chuối Lá [FHD] — AFC Cup
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1630395_chuoitay" tvg-name="Al-Rayyan SC vs Al-Nahda" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_fb02d191.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_fb02d191.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130539_212e92bf.png" group-title="Chuối TV" start-time="1793808000",Al-Rayyan SC vs Al-Nahda - Chuối Tây [HD1] — AFC Cup
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 23:30:08 04/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1645611_chuoinho" tvg-name="Al Nasr vs Qatar SC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125820_c575b9b4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125820_c575b9b4.png" away-logo="https://media.chuoichientv.net/media/20260108_160007_86a3f33c.png" group-title="Chuối TV" start-time="1793804400",Al Nasr vs Qatar SC - Chuối Nhỏ [FHD] — AGCFF Gulf Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +13,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1630394_chuoila" tvg-name="Al Kuwait vs Nasaf" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130607_27ac2367.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130607_27ac2367.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_2e186d9f.png" group-title="Chuối TV" start-time="1793808000",Al Kuwait vs Nasaf - Chuối Lá [FHD] — AFC Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1630395_chuoitay" tvg-name="Al-Rayyan SC vs Al-Nahda" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_fb02d191.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_fb02d191.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130539_212e92bf.png" group-title="Chuối TV" start-time="1793808000",Al-Rayyan SC vs Al-Nahda - Chuối Tây [FHD] — AFC Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1635606_angao" tvg-name="AEK Athens FC vs Real Madrid" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130221_faa28d21.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130221_faa28d21.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_9a1b10da.png" group-title="Chuối TV" start-time="1793814300",AEK Athens FC vs Real Madrid - Chuối Già [FHD] — UEFA Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
