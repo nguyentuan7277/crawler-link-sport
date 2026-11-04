@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 21:30:18 04/11/2026
+## Cập nhật lúc: 22:00:24 04/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1645611_chuoinho" tvg-name="Al Nasr vs Qatar SC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125820_c575b9b4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125820_c575b9b4.png" away-logo="https://media.chuoichientv.net/media/20260108_160007_86a3f33c.png" group-title="Chuối TV" start-time="1793804400",Al Nasr vs Qatar SC - Chuối Nhỏ [FHD] — AGCFF Gulf Champions League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1630393_chuoitay" tvg-name="Arkadag vs Gol Gohar" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142148_996053df.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142148_996053df.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132913_49415001.png" group-title="Chuối TV" start-time="1793799900",Arkadag vs Gol Gohar - Chuối Tây [FHD] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -8,11 +14,11 @@
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1645611_chuoinho" tvg-name="Al Nasr vs Qatar SC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125820_c575b9b4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125820_c575b9b4.png" away-logo="https://media.chuoichientv.net/media/20260108_160007_86a3f33c.png" group-title="Chuối TV" start-time="1793804400",Al Nasr vs Qatar SC - Chuối Nhỏ [FHD] — AGCFF Gulf Champions League
+#EXTINF:-1 tvg-id="cctv_1636324_chuoikem" tvg-name="Rennes vs Olympiakos Piraeus" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125515_505c803f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125515_505c803f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130220_eef3c146.png" group-title="Chuối TV" start-time="1793806200",Rennes vs Olympiakos Piraeus - Chuối Kem [FHD] — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1630394_chuoila" tvg-name="Al Kuwait vs Nasaf" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130607_27ac2367.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130607_27ac2367.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_2e186d9f.png" group-title="Chuối TV" start-time="1793808000",Al Kuwait vs Nasaf - Chuối Lá [FHD] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -90,11 +96,6 @@ https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_y0or5jh9x2joqwz" tvg-name="Al-Nasr Dubai vs Qatar SC" tvg-logo="https://static.sportsfeed.pro/football/team/2011473c10a119e01f2085bb836b62b2.png" home-logo="https://static.sportsfeed.pro/football/team/2011473c10a119e01f2085bb836b62b2.png" away-logo="https://static.sportsfeed.pro/football/team/6bd99a31fd562a9e6b1db99d42d40b34.png" group-title="Gà Vàng TV" start-time="1793804400",Al-Nasr Dubai vs Qatar SC - lucie23 — GCC Champions League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_3glrw7hnxdleqdy" tvg-name="Rennes vs Olympiakos Piraeus" tvg-logo="https://static.sportsfeed.pro/football/team/eab8f0e847742fd328bb581299bd99ca.png" home-logo="https://static.sportsfeed.pro/football/team/eab8f0e847742fd328bb581299bd99ca.png" away-logo="https://static.sportsfeed.pro/football/team/1df992d91eb0877558c872a18ea605f0.png" group-title="Gà Vàng TV" start-time="1793806200",Rennes vs Olympiakos Piraeus - CRIS — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -119,6 +120,16 @@ https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_23xmvkh6e1wdqg8" tvg-name="AEK Athens vs Real Madrid" tvg-logo="https://static.sportsfeed.pro/football/team/12dcc69bef67aa2a93107e940ee89144.png" home-logo="https://static.sportsfeed.pro/football/team/12dcc69bef67aa2a93107e940ee89144.png" away-logo="https://static.sportsfeed.pro/football/team/7dacaa934fe4be00f23c1e209b5ef947.png" group-title="Gà Vàng TV" start-time="1793814300",AEK Athens vs Real Madrid - GIàng A Dân — UEFA Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_x7lm7phjly3gm2w" tvg-name="Fenerbahce vs Liverpool" tvg-logo="https://static.sportsfeed.pro/football/team/dff00f1fd4a7dd2feac000b462416867.png" home-logo="https://static.sportsfeed.pro/football/team/dff00f1fd4a7dd2feac000b462416867.png" away-logo="https://static.sportsfeed.pro/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png" group-title="Gà Vàng TV" start-time="1793814300",Fenerbahce vs Liverpool - CRIS — UEFA Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19873932" tvg-name="Stade Rennais vs Olympiacos F.C." tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rennes-598" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rennes-598" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympiacos-fc-602" group-title="BiaomTV" start-time="1793806200",Stade Rennais vs Olympiacos F.C. - Vịt Nướng — Europa League
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -180,22 +191,27 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MTg6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzI2Mzc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmVnMTF2NWs2bzZkNHRnNDZ1ZTFpMzVyZg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_vrqwni0oemju4qn" tvg-name="Chelsea U19 vs FC Flora Tallinn U19" tvg-logo="https://img.cltvap.cc/football/team/e6817fc91f12e7c183eaa2e9930d9972.png!w80" home-logo="https://img.cltvap.cc/football/team/e6817fc91f12e7c183eaa2e9930d9972.png!w80" away-logo="https://img.cltvap.cc/football/team/a8529af5437ca99ced3865ac7361137e.png!w80" group-title="Cola TV" start-time="1793797200",Chelsea U19 vs FC Flora Tallinn U19 - BLV SODA — Giải đấu Liên minh Trẻ Câu lạc bộ Châu Âu
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/02456966.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_vmqy9iv2xv5tgk9" tvg-name="Lens U19 vs Como U19" tvg-logo="https://img.cltvap.cc/football/team/89f8f214774c7ec55bdbf7912c9ee04a.jpg!w80" home-logo="https://img.cltvap.cc/football/team/89f8f214774c7ec55bdbf7912c9ee04a.jpg!w80" away-logo="https://img.cltvap.cc/football/team/ac1c5afe89adf0b9c98c2d09e66ad24f.png!w80" group-title="Cola TV" start-time="1793797200",Lens U19 vs Como U19 - BLV FANTA — Giải đấu Liên minh Trẻ Câu lạc bộ Châu Âu
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_jek33im6ennf9ko" tvg-name="Sao Đỏ Belgrade U19 vs NK Bravo U19" tvg-logo="https://img.cltvap.cc/football/team/4d1262d71387ba3913337d9f17f07386.png!w80" home-logo="https://img.cltvap.cc/football/team/4d1262d71387ba3913337d9f17f07386.png!w80" away-logo="https://img.cltvap.cc/football/team/5169d77421456a85798911dc73f54214.png!w80" group-title="Cola TV" start-time="1793797200",Sao Đỏ Belgrade U19 vs NK Bravo U19 - BLV WARRIOR — Giải đấu Liên minh Trẻ Câu lạc bộ Châu Âu
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/97885009.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_zrkn6i4z299hwql" tvg-name="Arkadag FK vs Gol Gohar" tvg-logo="https://img.cltvap.cc/football/team/aad022bfac5c480bed8d0dc2a710281e.png!w80" home-logo="https://img.cltvap.cc/football/team/aad022bfac5c480bed8d0dc2a710281e.png!w80" away-logo="https://img.cltvap.cc/football/team/69625f17e031ad1fcb33823338b74d95.png!w80" group-title="Cola TV" start-time="1793799900",Arkadag FK vs Gol Gohar - BLV REDBULL — AFC Giải vô địch Champions 2
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/49572724.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_wv78xi12l5muokr" tvg-name="Al Nasr Dubai vs Qatar SC" tvg-logo="https://img.cltvap.cc/football/team/2011473c10a119e01f2085bb836b62b2.png!w80" home-logo="https://img.cltvap.cc/football/team/2011473c10a119e01f2085bb836b62b2.png!w80" away-logo="https://img.cltvap.cc/football/team/6bd99a31fd562a9e6b1db99d42d40b34.png!w80" group-title="Cola TV" start-time="1793804400",Al Nasr Dubai vs Qatar SC - BLV REVIVE — Giải bóng đá câu lạc bộ Vịnh
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_527r3i484n5a47e" tvg-name="Dortmund U19 vs Real Betis U19" tvg-logo="https://img.cltvap.cc/football/team/1c99cfa824629a2c1039a7a61c41ef56.png!w80" home-logo="https://img.cltvap.cc/football/team/1c99cfa824629a2c1039a7a61c41ef56.png!w80" away-logo="https://img.cltvap.cc/football/team/91156506cd7a00a9db1343cd50d4a9f3.png!w80" group-title="Cola TV" start-time="1793804400",Dortmund U19 vs Real Betis U19 - BLV MONSTER — Giải đấu Liên minh Trẻ Câu lạc bộ Châu Âu
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_g6763ipv30vao7r" tvg-name="Ghazl El Mahallah vs Al Ittihad Alexandria" tvg-logo="https://img.cltvap.cc/football/team/dc6da5d579f4ffcc2574f14a19ce7a98.png!w80" home-logo="https://img.cltvap.cc/football/team/dc6da5d579f4ffcc2574f14a19ce7a98.png!w80" away-logo="https://img.cltvap.cc/football/team/56484f26eac26f8e279ea2172c48632d.png!w80" group-title="Cola TV" start-time="1793804400",Ghazl El Mahallah vs Al Ittihad Alexandria - BLV TEPPY — Cúp Ai Cập
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_l6kegi8o644cv75" tvg-name="Uniao Leiria U23 vs Estoril U23" tvg-logo="https://img.cltvap.cc/football/team/0dcf33de2f32bb2d72fe50250c612c31.png!w80" home-logo="https://img.cltvap.cc/football/team/0dcf33de2f32bb2d72fe50250c612c31.png!w80" away-logo="https://img.cltvap.cc/football/team/32939cf38aa70bf3de1c06833da6bc50.png!w80" group-title="Cola TV" start-time="1793804400",Uniao Leiria U23 vs Estoril U23 - BLV MOUNTAIN DEW — Giải bóng đá U23 Bồ Đào Nha
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
