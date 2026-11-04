@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 09:30:06 04/11/2026
+## Cập nhật lúc: 10:00:05 04/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1492446_chuoisay" tvg-name="Internacional vs Coritiba" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125535_ec3a86e6.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125535_ec3a86e6.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png" group-title="Chuối TV" start-time="1793752200",Internacional vs Coritiba - Chuối Sấy [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,11 +122,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_k82rekhg0v6xrep" tvg-name="Internacional RS vs Coritiba PR" tvg-logo="https://static.sportsfeed.pro/football/team/7fc8831956b0f4fab51d0390a3957780.png" home-logo="https://static.sportsfeed.pro/football/team/7fc8831956b0f4fab51d0390a3957780.png" away-logo="https://static.sportsfeed.pro/football/team/4f7a0095b9a3a4756318efd55451badb.png" group-title="Gà Vàng TV" start-time="1793752200",Internacional RS vs Coritiba PR - KAYTI — Brazilian Serie A
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_l5ergph4j4x8r8k" tvg-name="FC Osaka vs Roasso Kumamoto" tvg-logo="https://static.sportsfeed.pro/football/team/df5c70d45e8e013f82e098da8d134134.png" home-logo="https://static.sportsfeed.pro/football/team/df5c70d45e8e013f82e098da8d134134.png" away-logo="https://static.sportsfeed.pro/football/team/809e95942827f1fca7b6c5cffd4777cb.png" group-title="Gà Vàng TV" start-time="1793768400",FC Osaka vs Roasso Kumamoto - NGƯỜI KIẾN — Japanese J3 League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -221,8 +216,3 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MTg6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmZ
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzI2Mzc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmVnMTF2NWs2bzZkNHRnNDZ1ZTFpMzVyZg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_ndqmliw3xg8arkv" tvg-name="CLB Sport Club Internacional vs Coritiba" tvg-logo="https://img.cltvap.cc/football/team/7fc8831956b0f4fab51d0390a3957780.png!w80" home-logo="https://img.cltvap.cc/football/team/7fc8831956b0f4fab51d0390a3957780.png!w80" away-logo="https://img.cltvap.cc/football/team/4f7a0095b9a3a4756318efd55451badb.png!w80" group-title="Cola TV" start-time="1793752200",CLB Sport Club Internacional vs Coritiba - BLV PEPSI — Giải bóng đá Hạng nhất Brasil
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/59444581.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
