@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 14:30:11 04/11/2026
+## Cập nhật lúc: 15:00:09 04/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1637494_chuoichao" tvg-name="Melbourne Victory vs Persib Bandung" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_bcff7572.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_bcff7572.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134451_f0892f53.png" group-title="Chuối TV" start-time="1793778300",Melbourne Victory vs Persib Bandung - Chuối Chao [FHD] — AFC Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1638226_chuoikem" tvg-name="April W vs Hồ Chí Minh City W" tvg-logo="https://media.api-sports.io/football/teams/27913.png" home-logo="https://media.api-sports.io/football/teams/27913.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_150323_715237fc.png" group-title="Chuối TV" start-time="1793781000",April W vs Hồ Chí Minh City W - Chuối Kem [FHD] — AFC Women's Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -104,11 +110,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_x7lm7phjl5w7m2w" tvg-name="Melbourne Victory vs Persib Bandung" tvg-logo="https://static.sportsfeed.pro/football/team/a11058c16a24e44c5725a0954a8d2f3c.png" home-logo="https://static.sportsfeed.pro/football/team/a11058c16a24e44c5725a0954a8d2f3c.png" away-logo="https://static.sportsfeed.pro/football/team/b2004093bf25a5a8d1768970d6e49d71.png" group-title="Gà Vàng TV" start-time="1793778300",Melbourne Victory vs Persib Bandung - lucie23 — AFC Champions League Two
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_6ypq3nhv24w1md7" tvg-name="FC Seoul vs Viettel" tvg-logo="https://static.sportsfeed.pro/football/team/ad010af729c420626d1865ad744168d3.png" home-logo="https://static.sportsfeed.pro/football/team/ad010af729c420626d1865ad744168d3.png" away-logo="https://static.sportsfeed.pro/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png" group-title="Gà Vàng TV" start-time="1793786400",FC Seoul vs Viettel - unicorn — AFC Champions League Two
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -119,15 +120,15 @@ https://playback.livetl002.com/live/6ae349718d80cc041d063e08.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_ednm9wh5kkzeryo" tvg-name="FC Leningradets vs SKA Khabarovsk" tvg-logo="https://static.sportsfeed.pro/football/team/c659930080be6bd5532387d5e097c16c.png" home-logo="https://static.sportsfeed.pro/football/team/c659930080be6bd5532387d5e097c16c.png" away-logo="https://static.sportsfeed.pro/football/team/987b18be72d918583f9dd5b1a17f130e.png" group-title="Gà Vàng TV" start-time="1793790000",FC Leningradets vs SKA Khabarovsk - ĐOÀN DỰ — Russian Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19862333" tvg-name="Melbourne Victory vs Persib" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="BiaomTV" start-time="1793778300",Melbourne Victory vs Persib - NEM NƯỚNG  — Cúp Châu Á
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NjIzMzM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmY5NjJ0YTlvY2RmNnllOHJ0MWY4YTRkZQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19862333" tvg-name="Melbourne Victory vs Persib" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="BiaomTV" start-time="1793778300",Melbourne Victory vs Persib - ASAHI — Cúp Châu Á
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk4NjIzMzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnBzcDczYjlvdmo2bDQxOWFoc3R2bDRwMA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19867026" tvg-name="Pohang Steelers vs Gamba Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pohang-steelers-1506" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pohang-steelers-1506" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gamba-osaka-14754" group-title="BiaomTV" start-time="1793786400",Pohang Steelers vs Gamba Osaka - NEM NƯỚNG  — C1 Châu Á
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -208,3 +209,13 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MTg6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmZ
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzI2Mzc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmVnMTF2NWs2bzZkNHRnNDZ1ZTFpMzVyZg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_527r3i4omyli47e" tvg-name="Melbourne Victory vs CLB Persib Bandung" tvg-logo="https://img.cltvap.cc/football/team/04230721124ae33d7fb527413b54106f.png!w80" home-logo="https://img.cltvap.cc/football/team/04230721124ae33d7fb527413b54106f.png!w80" away-logo="https://img.cltvap.cc/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80" group-title="Cola TV" start-time="1793778300",Melbourne Victory vs CLB Persib Bandung - BLV GIÀ LÀNG — AFC Giải vô địch Champions 2
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/14830711.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o07dnindd2oamkn" tvg-name="Yenisey Krasnoyarsk vs FK Nizhny Novgorod" tvg-logo="https://img.cltvap.cc/football/team/4d95fbf6c8f3fcee43e522635455d60d.png!w80" home-logo="https://img.cltvap.cc/football/team/4d95fbf6c8f3fcee43e522635455d60d.png!w80" away-logo="https://img.cltvap.cc/football/team/5cf9048be5c1b4c7b7cb573230467256.png!w80" group-title="Cola TV" start-time="1793779200",Yenisey Krasnoyarsk vs FK Nizhny Novgorod - BLV 247 — cúp Nga
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/90865415.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
