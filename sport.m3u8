@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:30:10 05/11/2026
+## Cập nhật lúc: 16:00:08 05/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1640352_chuoitay" tvg-name="Sydney Olympic vs Oakleigh Cannons" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_fc3fb07a.png" group-title="Chuối TV" start-time="1793867400",Sydney Olympic vs Oakleigh Cannons - Chuối Tây [HD1] — Australian Championship
+#EXTINF:-1 tvg-id="cctv_1640352_chuoitay" tvg-name="Sydney Olympic vs Oakleigh Cannons" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_fc3fb07a.png" group-title="Chuối TV" start-time="1793867400",Sydney Olympic vs Oakleigh Cannons - Chuối Tây [FHD] — Australian Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1648702_angao" tvg-name="Pakistan vs India" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="Chuối TV" start-time="1793871000",Pakistan vs India - Chuối Già [FHD] — SAFF Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -236,3 +236,13 @@ https://cdnhls.xbdbotv.live/live/MTk4NzM4OTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnZ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/19919577.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_edq0esdj6vpiekx" tvg-name="Cairns Taipans vs Illawarra Hawks" tvg-logo="https://img.cltvap.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80" home-logo="https://img.cltvap.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80" away-logo="https://img.cltvap.cc/basketball/team/4eceaeddae174577aa2aed681907c7f7.png!w80" group-title="Cola TV" start-time="1793867400",Cairns Taipans vs Illawarra Hawks - BLV 247 — Liên đoàn Bóng rổ Quốc gia Úc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/90865415.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_69759irwo8ragk2" tvg-name="Sydney Olympic vs Oakleigh Cannons" tvg-logo="https://img.cltvap.cc/football/team/d4a819a35678fd3d1c1f3e45c16f00b5.png!w80" home-logo="https://img.cltvap.cc/football/team/d4a819a35678fd3d1c1f3e45c16f00b5.png!w80" away-logo="https://img.cltvap.cc/football/team/873f655c74783dbb85de6cacc8f503c0.png!w80" group-title="Cola TV" start-time="1793867400",Sydney Olympic vs Oakleigh Cannons - BLV BÍ ĐAO — Aus Champ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
