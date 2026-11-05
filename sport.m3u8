@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:00:09 06/11/2026
+## Cập nhật lúc: 01:30:26 06/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1636208_chuoichao" tvg-name="AC Milan vs Ferencvarosi TC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125653_06719496.png" group-title="Chuối TV" start-time="1793900700",AC Milan vs Ferencvarosi TC - Chuối Chao [FHD] — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -80,10 +80,30 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_y39mp1hd33jpmoj" tvg-name="Volga Ulyanovsk vs Chertanovo Moscow" tvg-logo="https://static.sportsfeed.pro/football/team/ae7b34750e76cbf545c4f36abf550829.png" home-logo="https://static.sportsfeed.pro/football/team/ae7b34750e76cbf545c4f36abf550829.png" away-logo="https://static.sportsfeed.pro/football/team/5bae7d04443d668a36aadaa114e33e54.png" group-title="Gà Vàng TV" start-time="1793896200",Volga Ulyanovsk vs Chertanovo Moscow - NGƯỜI KIẾN — Russian Cup
+#EXTINF:-1 tvg-id="gavang_dj2ryohlw82dq1z" tvg-name="Atalanta vs FC Kairat Almaty" tvg-logo="https://static.sportsfeed.pro/football/team/45c9647899b8bf2fb6f988c6c33b964c.png" home-logo="https://static.sportsfeed.pro/football/team/45c9647899b8bf2fb6f988c6c33b964c.png" away-logo="https://static.sportsfeed.pro/football/team/3ef04912f88c3166f1a47864cde71949.png" group-title="Gà Vàng TV" start-time="1793900700",Atalanta vs FC Kairat Almaty - Cá MậP — UEFA Europa Conference League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_pxwrxlhy6d9vryk" tvg-name="Crystal Palace vs Hoffenheim" tvg-logo="https://static.sportsfeed.pro/football/team/42396d18444156e640c37476c2b41b93.png" home-logo="https://static.sportsfeed.pro/football/team/42396d18444156e640c37476c2b41b93.png" away-logo="https://static.sportsfeed.pro/football/team/72ab7862a610b350aef7650ec0e06e06.png" group-title="Gà Vàng TV" start-time="1793900700",Crystal Palace vs Hoffenheim - Lucie23 — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_vjxm8gheny49r6o" tvg-name="Milan vs Ferencvarosi TC" tvg-logo="https://static.sportsfeed.pro/football/team/643ef4101b017dc1495dbd9e9d5cce28.png" home-logo="https://static.sportsfeed.pro/football/team/643ef4101b017dc1495dbd9e9d5cce28.png" away-logo="https://static.sportsfeed.pro/football/team/202e45f30a94193466ba2ae8a96e7685.png" group-title="Gà Vàng TV" start-time="1793900700",Milan vs Ferencvarosi TC - CRIS — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dj2ryohlw8ddq1z" tvg-name="Real Sociedad vs OL" tvg-logo="https://static.sportsfeed.pro/football/team/579db6e95905545973035e6eab8df2cd.png" home-logo="https://static.sportsfeed.pro/football/team/579db6e95905545973035e6eab8df2cd.png" away-logo="https://static.sportsfeed.pro/football/team/92fb3cf79ea2ba919b94b04668e13491.png" group-title="Gà Vàng TV" start-time="1793900700",Real Sociedad vs OL - SiêU QuậY — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4wyrn4h6jgvdq86" tvg-name="Trabzonspor vs Freiburg" tvg-logo="https://static.sportsfeed.pro/football/team/9dc9c8f928d5cafdc90a747fe0439c2d.png" home-logo="https://static.sportsfeed.pro/football/team/9dc9c8f928d5cafdc90a747fe0439c2d.png" away-logo="https://static.sportsfeed.pro/football/team/6508946c9a5fe22a8784b905b25e8c79.png" group-title="Gà Vàng TV" start-time="1793900700",Trabzonspor vs Freiburg - unicorn — UEFA Europa Conference League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ae349718d80cc041d063e08.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_k82rekhg5lvprep" tvg-name="AZ Alkmaar vs Juventus" tvg-logo="https://static.sportsfeed.pro/football/team/e52b745126bbb6bdddc90b91b44413ae.png" home-logo="https://static.sportsfeed.pro/football/team/e52b745126bbb6bdddc90b91b44413ae.png" away-logo="https://static.sportsfeed.pro/football/team/314ca8463a6fd047b11d474287b24c50.png" group-title="Gà Vàng TV" start-time="1793908800",AZ Alkmaar vs Juventus - CRIS — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -175,11 +195,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzM4ODg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzM4OTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnZvbXJ1bWQ0d3ltMmF0cnNneGt0M25ucg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_vrqwni0oonlh4qn" tvg-name="Volga Ulyanovsk vs CLB Chertanovo Moscow" tvg-logo="https://img.cltvap.cc/football/team/ae7b34750e76cbf545c4f36abf550829.png!w80" home-logo="https://img.cltvap.cc/football/team/ae7b34750e76cbf545c4f36abf550829.png!w80" away-logo="https://img.cltvap.cc/football/team/6e6c9689599160ac48446f78706e81c8.png!w80" group-title="Cola TV" start-time="1793896200",Volga Ulyanovsk vs CLB Chertanovo Moscow - BLV AQUA — cúp Nga
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/18812304.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_edq0esdrm86fekx" tvg-name="Anadolu Efes S.K. vs Paris Basketball" tvg-logo="https://img.cltvap.cc/basketball/team/a2e19c2b6ed3efe3ee5c58bdf9a87ee3.png!w80" home-logo="https://img.cltvap.cc/basketball/team/a2e19c2b6ed3efe3ee5c58bdf9a87ee3.png!w80" away-logo="https://img.cltvap.cc/basketball/team/f96bb22cdad391337c9f1a8585b07dcc.png!w80" group-title="Cola TV" start-time="1793898900",Anadolu Efes S.K. vs Paris Basketball - BLV POCARI — EuroLeague
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -225,11 +240,6 @@ https://live05.miekgo.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_wv78xiv0owybokr" tvg-name="Midtjylland vs Câu lạc bộ AFC Ajax" tvg-logo="https://img.cltvap.cc/football/team/870815ca7c7545f7dc8c0716eecdb708.png!w80" home-logo="https://img.cltvap.cc/football/team/870815ca7c7545f7dc8c0716eecdb708.png!w80" away-logo="https://img.cltvap.cc/football/team/187929503752357480bce47813a9741f.png!w80" group-title="Cola TV" start-time="1793900700",Midtjylland vs Câu lạc bộ AFC Ajax - BLV WARRIOR — UEFA Europa Conference League
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/97885009.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_zrkn6i4zj22swql" tvg-name="Real Sociedad vs Olympique Lyonnais" tvg-logo="https://img.cltvap.cc/football/team/579db6e95905545973035e6eab8df2cd.png!w80" home-logo="https://img.cltvap.cc/football/team/579db6e95905545973035e6eab8df2cd.png!w80" away-logo="https://img.cltvap.cc/football/team/92fb3cf79ea2ba919b94b04668e13491.png!w80" group-title="Cola TV" start-time="1793900700",Real Sociedad vs Olympique Lyonnais - BLV 7UP — Europa League
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -239,6 +249,11 @@ https://live05.miekgo.app/live/78905744.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_wv78xiv0owybokr" tvg-name="Midtjylland vs Câu lạc bộ AFC Ajax" tvg-logo="https://img.cltvap.cc/football/team/870815ca7c7545f7dc8c0716eecdb708.png!w80" home-logo="https://img.cltvap.cc/football/team/870815ca7c7545f7dc8c0716eecdb708.png!w80" away-logo="https://img.cltvap.cc/football/team/187929503752357480bce47813a9741f.png!w80" group-title="Cola TV" start-time="1793901300",Midtjylland vs Câu lạc bộ AFC Ajax - BLV WARRIOR — UEFA Europa Conference League
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/97885009.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_jr7o9s3g6lvcg70" tvg-name="Fenerbahce vs Saski Baskonia" tvg-logo="https://img.cltvap.cc/basketball/team/9b0fab2fcb670f18c7b275159b44cb48.png!w80" home-logo="https://img.cltvap.cc/basketball/team/9b0fab2fcb670f18c7b275159b44cb48.png!w80" away-logo="https://img.cltvap.cc/basketball/team/5e722af9ec414d9925470ff6a845a069.png!w80" group-title="Cola TV" start-time="1793901600",Fenerbahce vs Saski Baskonia - BLV TARZAAN — EuroLeague
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
