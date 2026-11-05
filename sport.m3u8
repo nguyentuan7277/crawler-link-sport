@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 04:00:08 06/11/2026
+## Cập nhật lúc: 04:30:09 06/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1636219_chuoinho" tvg-name="AZ Alkmaar vs Juventus" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125609_74ffd6c1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125609_74ffd6c1.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_ea0cc895.png" group-title="Chuối TV" start-time="1793908800",AZ Alkmaar vs Juventus - Chuối Nhỏ [FHD] — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -64,6 +64,11 @@ https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l5ergph4lo5yr8k" tvg-name="Cruzeiro Esporte Clube vs Esporte Clube Bahia" tvg-logo="https://static.sportsfeed.pro/football/team/b1cac6380900d22bdb0d31763c658434.png" home-logo="https://static.sportsfeed.pro/football/team/b1cac6380900d22bdb0d31763c658434.png" away-logo="https://static.sportsfeed.pro/football/team/20456802ad5f8243dc282c4650c414e1.png" group-title="Gà Vàng TV" start-time="1793925000",Cruzeiro Esporte Clube vs Esporte Clube Bahia - MáN NúI — Brazilian Serie A
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19873882" tvg-name="AZ vs Juventus" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/az-61" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/az-61" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="BiaomTV" start-time="1793908800",AZ vs Juventus - TIGER — Europa League
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
