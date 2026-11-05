@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 10:30:11 05/11/2026
+## Cập nhật lúc: 11:00:13 05/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1640352_chuoitay" tvg-name="Sydney Olympic vs Oakleigh Cannons" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_fc3fb07a.png" group-title="Chuối TV" start-time="1793867400",Sydney Olympic vs Oakleigh Cannons - Chuối Tây [FHD] — Australian Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,11 +122,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_3glrw7hney4xqdy" tvg-name="Universitario De Deportes vs Sport Boys" tvg-logo="https://static.sportsfeed.pro/football/team/415e4ed317b0b0a4aea7c8ddc5cdd658.png" home-logo="https://static.sportsfeed.pro/football/team/415e4ed317b0b0a4aea7c8ddc5cdd658.png" away-logo="https://static.sportsfeed.pro/football/team/a50c3c04722ce6ef1516f6b984b94e07.png" group-title="Gà Vàng TV" start-time="1793842200",Universitario De Deportes vs Sport Boys - SiêU QuậY — Peruvian Liga 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_19862281" tvg-name="Kitchee vs Phnom Penh Crown" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kitchee-2355" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kitchee-2355" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/phnom-penh-crown-9822" group-title="BiaomTV" start-time="1793872800",Kitchee vs Phnom Penh Crown - Lẩu Ếch — Cúp Châu Á
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -216,11 +211,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzM4ODg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmE
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzM4OTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnZvbXJ1bWQ0d3ltMmF0cnNneGt0M25ucg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_9gkl6s6xpe5smkx" tvg-name="Oklahoma City Thunder vs Cleveland Cavaliers" tvg-logo="https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80" home-logo="https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80" away-logo="https://img.cltvap.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80" group-title="Cola TV" start-time="1793840400",Oklahoma City Thunder vs Cleveland Cavaliers - BLV LIPTON — Hiệp hội Bóng rổ Quốc gia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/89756030.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_ndkzysnp6ydux73" tvg-name="Houston Rockets vs Minnesota Timberwolves" tvg-logo="https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" home-logo="https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" away-logo="https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80" group-title="Cola TV" start-time="1793842200",Houston Rockets vs Minnesota Timberwolves - BLV 247 — Hiệp hội Bóng rổ Quốc gia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
