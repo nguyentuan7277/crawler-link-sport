@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:30:16 05/11/2026
+## Cập nhật lúc: 21:00:15 05/11/2026
+
+#EXTINF:-1 tvg-id="cctv_998706_chuoinho" tvg-name="Lion City W vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_150318_8e73282b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_150318_8e73282b.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_7beb7455.png" group-title="Chuối TV" start-time="1793876400",Lion City W vs Adelaide United - Chuối Nhỏ [FHD] — AFC Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1630402_chuoila" tvg-name="Kuching FA vs Gangwon FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133857_ce6dbf10.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133857_ce6dbf10.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png" group-title="Chuối TV" start-time="1793880900",Kuching FA vs Gangwon FC - Chuối Lá [FHD] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -13,12 +19,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1648703_angao" tvg-name="Bhutan vs Bangladesh" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_d070e820.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_d070e820.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png" group-title="Chuối TV" start-time="1793887200",Bhutan vs Bangladesh - Chuối Già [FHD] — SAFF Championship
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1636208_chuoichao" tvg-name="AC Milan vs Ferencvarosi TC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125653_06719496.png" group-title="Chuối TV" start-time="1793900700",AC Milan vs Ferencvarosi TC - Chuối Chao [FHD] — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,11 +122,6 @@ https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6ae349718d80cc041d063e08.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_jw2r09h54ynprz8" tvg-name="Mohun Bagan Super Giant vs Odisha FC" tvg-logo="https://static.sportsfeed.pro/football/team/94f4b5c04d9b9d9e41c9d0cdabbb9e21.png" home-logo="https://static.sportsfeed.pro/football/team/94f4b5c04d9b9d9e41c9d0cdabbb9e21.png" away-logo="https://static.sportsfeed.pro/football/team/0a4ee95c786c21ca8d55cc3e01bae44f.png" group-title="Gà Vàng TV" start-time="1793887200",Mohun Bagan Super Giant vs Odisha FC - ĐOÀN DỰ — Indian Super League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_n54qllh45y8pqvy" tvg-name="Dhofar vs Saham SC" tvg-logo="https://static.sportsfeed.pro/football/team/0a5adb340afbc047c2bc254ab7375d63.png" home-logo="https://static.sportsfeed.pro/football/team/0a5adb340afbc047c2bc254ab7375d63.png" away-logo="https://static.sportsfeed.pro/football/team/42a53be271279f3e63859ab9801fddaf.png" group-title="Gà Vàng TV" start-time="1793892000",Dhofar vs Saham SC - GIàng A Dân — Oman Professional League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -232,3 +227,8 @@ https://live05.miekgo.app/live/97885009.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/18812304.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_wv78xiv0yvxtokr" tvg-name="Diala vs AL Minaa" tvg-logo="https://img.cltvap.cc/football/team/05ce982936c5a35670f6821d973dc95c.png!w80" home-logo="https://img.cltvap.cc/football/team/05ce982936c5a35670f6821d973dc95c.png!w80" away-logo="https://img.cltvap.cc/football/team/8f6a96375a4c1fb7540460af4bd51c27.png!w80" group-title="Cola TV" start-time="1793886300",Diala vs AL Minaa - BLV MONSTER — Giải Ngoại hạng Iraq
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
