@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 19:30:12 05/11/2026
+## Cập nhật lúc: 20:00:17 05/11/2026
 
 #EXTINF:-1 tvg-id="cctv_998706_chuoinho" tvg-name="Lion City W vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_150318_8e73282b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_150318_8e73282b.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_7beb7455.png" group-title="Chuối TV" start-time="1793876400",Lion City W vs Adelaide United - Chuối Nhỏ [HD1] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -104,10 +104,35 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_l5ergph4z5nnr8k" tvg-name="Machida Zelvia vs Shanghai Shenhua FC" tvg-logo="https://static.sportsfeed.pro/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png" home-logo="https://static.sportsfeed.pro/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png" away-logo="https://static.sportsfeed.pro/football/team/e8327d4681b4a73c83be9fe087b30721.png" group-title="Gà Vàng TV" start-time="1793872800",Machida Zelvia vs Shanghai Shenhua FC - khang hi — AFC Champions League Two
+#EXTINF:-1 tvg-id="gavang_l5ergphk0x3pr8k" tvg-name="Churchill Brothers vs Northeast United FC" tvg-logo="https://static.sportsfeed.pro/football/team/0be01f850871a2273ca03ce2d085ab47.png" home-logo="https://static.sportsfeed.pro/football/team/0be01f850871a2273ca03ce2d085ab47.png" away-logo="https://static.sportsfeed.pro/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png" group-title="Gà Vàng TV" start-time="1793878200",Churchill Brothers vs Northeast United FC - ĐOÀN DỰ — Indian Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyhkjgepr1g" tvg-name="Lion City Sailors vs Adelaide United" tvg-logo="https://static.sportsfeed.pro/football/team/a17724405028a3e21a2a2372736aa757.png" home-logo="https://static.sportsfeed.pro/football/team/a17724405028a3e21a2a2372736aa757.png" away-logo="https://static.sportsfeed.pro/football/team/ad78393eae1735732229c2a6eaba4998.png" group-title="Gà Vàng TV" start-time="1793878200",Lion City Sailors vs Adelaide United - MeoMeo — AFC Champions League Two
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_ednm9whwjdvjryo" tvg-name="BG Pathum United vs Tai Po" tvg-logo="https://static.sportsfeed.pro/football/team/12fe4d3ee5c01134d48584015c4646f3.png" home-logo="https://static.sportsfeed.pro/football/team/12fe4d3ee5c01134d48584015c4646f3.png" away-logo="https://static.sportsfeed.pro/football/team/df5e92ce4493d63214e8036ad15c1915.png" group-title="Gà Vàng TV" start-time="1793880900",BG Pathum United vs Tai Po - khang hi — AFC Champions League Two
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnh983k7m7v" tvg-name="Kuching City FC vs Gangwon FC" tvg-logo="https://static.sportsfeed.pro/football/team/81f5727743f8759ae7a99b8d7f2557e3.png" home-logo="https://static.sportsfeed.pro/football/team/81f5727743f8759ae7a99b8d7f2557e3.png" away-logo="https://static.sportsfeed.pro/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" group-title="Gà Vàng TV" start-time="1793880900",Kuching City FC vs Gangwon FC - BLV.Lucie — AFC Champions League Two
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_3glrw7hnxlznqdy" tvg-name="Svay Rieng FC vs Tampines Rovers FC" tvg-logo="https://static.sportsfeed.pro/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png" home-logo="https://static.sportsfeed.pro/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png" away-logo="https://static.sportsfeed.pro/football/team/23dc72567ad2999491dfe56b50f7df62.png" group-title="Gà Vàng TV" start-time="1793880900",Svay Rieng FC vs Tampines Rovers FC - cố tư nghiêm — AFC Champions League Two
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y0or5jh9xd3oqwz" tvg-name="Fanja SC vs Al Msnaa" tvg-logo="https://static.sportsfeed.pro/football/team/f349c1ac66a090aabcefd630b7265028.png" home-logo="https://static.sportsfeed.pro/football/team/f349c1ac66a090aabcefd630b7265028.png" away-logo="https://static.sportsfeed.pro/football/team/74a13034134b190dfef193586e921a52.png" group-title="Gà Vàng TV" start-time="1793882700",Fanja SC vs Al Msnaa - unicorn — Oman Professional League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ae349718d80cc041d063e08.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_jw2r09h54ynprz8" tvg-name="Mohun Bagan Super Giant vs Odisha FC" tvg-logo="https://static.sportsfeed.pro/football/team/94f4b5c04d9b9d9e41c9d0cdabbb9e21.png" home-logo="https://static.sportsfeed.pro/football/team/94f4b5c04d9b9d9e41c9d0cdabbb9e21.png" away-logo="https://static.sportsfeed.pro/football/team/0a4ee95c786c21ca8d55cc3e01bae44f.png" group-title="Gà Vàng TV" start-time="1793887200",Mohun Bagan Super Giant vs Odisha FC - ĐOÀN DỰ — Indian Super League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -208,3 +233,8 @@ https://live05.miekgo.app/live/02456966.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_oj7x9ix4vx3i47g" tvg-name="Al Kahraba vs CLB Zakho" tvg-logo="https://img.cltvap.cc/football/team/80e44a97384b61801716ab030c10bfd1.png!w80" home-logo="https://img.cltvap.cc/football/team/80e44a97384b61801716ab030c10bfd1.png!w80" away-logo="https://img.cltvap.cc/football/team/b91a30ad7ae7390c8c7d39e8c292fcc4.png!w80" group-title="Cola TV" start-time="1793883600",Al Kahraba vs CLB Zakho - BLV WARRIOR — Giải Ngoại hạng Iraq
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/97885009.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
