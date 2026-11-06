@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:30:12 06/11/2026
+## Cập nhật lúc: 19:00:19 06/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1622827_chuoikem" tvg-name="Persepam Madura Utd vs Arema FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_ea998238.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_ea998238.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134615_6b83f5fd.png" group-title="Chuối TV" start-time="1793966400",Persepam Madura Utd vs Arema FC - Chuối Kem [HD1] — VĐQG Indonesia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1635004_chuoichao" tvg-name="Văn Hiến vs Bóng đá Huế" tvg-logo="https://media.api-sports.io/football/teams/26603.png" home-logo="https://media.api-sports.io/football/teams/26603.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_135805_7670cc2d.png" group-title="Chuối TV" start-time="1793959200",Văn Hiến vs Bóng đá Huế - Chuối Chao [FHD] — V.League 2
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,12 +25,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1622827_chuoikem" tvg-name="Persepam Madura Utd vs Arema FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_ea998238.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_ea998238.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134615_6b83f5fd.png" group-title="Chuối TV" start-time="1793966400",Persepam Madura Utd vs Arema FC - Chuối Kem [FHD] — VĐQG Indonesia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1604054_chuoila" tvg-name="Al-Adalah vs Al Orubah" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134010_2ba0198f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134010_2ba0198f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134006_a5084e10.png" group-title="Chuối TV" start-time="1793975700",Al-Adalah vs Al Orubah - Chuối Lá [FHD] — Hạng Nhất Ả Rập
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -104,25 +104,15 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_1l4rjnh976lwm7v" tvg-name="Sydney FC vs Central Coast Mariners" tvg-logo="https://static.sportsfeed.pro/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png" home-logo="https://static.sportsfeed.pro/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png" away-logo="https://static.sportsfeed.pro/football/team/67b8abff0279d3e2715e57487842546e.png" group-title="Gà Vàng TV" start-time="1793954400",Sydney FC vs Central Coast Mariners - GIàng A Dân — Australia A-League
+#EXTINF:-1 tvg-id="gavang_pxwrxlhydenoryk" tvg-name="Binh Phuoc vs SHB Da Nang" tvg-logo="https://static.sportsfeed.pro/football/team/7796939a13964aa300ba70f505243eab.png" home-logo="https://static.sportsfeed.pro/football/team/7796939a13964aa300ba70f505243eab.png" away-logo="https://static.sportsfeed.pro/football/team/46a4867487152e47c4dc61984d0c58aa.png" group-title="Gà Vàng TV" start-time="1793962800",Binh Phuoc vs SHB Da Nang - GIàng A Dân — Vietnam National Champion League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_vjxm8ghe1j1er6o" tvg-name="Lamphun Warriors vs Sukhothai FC" tvg-logo="https://static.sportsfeed.pro/football/team/4ae0f663455112a2fdc1594e3810aff2.png" home-logo="https://static.sportsfeed.pro/football/team/4ae0f663455112a2fdc1594e3810aff2.png" away-logo="https://static.sportsfeed.pro/football/team/92fad199d241f1b19cc80aa749693711.png" group-title="Gà Vàng TV" start-time="1793966400",Lamphun Warriors vs Sukhothai FC - Lá Chanh — Thai League 1
+#EXTINF:-1 tvg-id="gavang_6ypq3nhvxe8dmd7" tvg-name="Hong Linh Ha Tinh vs Nam Dinh FC" tvg-logo="https://static.sportsfeed.pro/football/team/83dd94c5ca68e8f9a3980f036afcb511.png" home-logo="https://static.sportsfeed.pro/football/team/83dd94c5ca68e8f9a3980f036afcb511.png" away-logo="https://static.sportsfeed.pro/football/team/bc5db4dd418cb566a4475649876b55bb.png" group-title="Gà Vàng TV" start-time="1793962800",Hong Linh Ha Tinh vs Nam Dinh FC - KAYTI — Vietnam National Champion League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_x7lm7phjdv7dm2w" tvg-name="Maccabi Tel Aviv vs Maccabi Petah Tikva FC" tvg-logo="https://static.sportsfeed.pro/football/team/a5b0ae972c3c595300e4eea67145a460.png" home-logo="https://static.sportsfeed.pro/football/team/a5b0ae972c3c595300e4eea67145a460.png" away-logo="https://static.sportsfeed.pro/football/team/334bb2a4cd69a776d7f7b464138f5369.png" group-title="Gà Vàng TV" start-time="1793966400",Maccabi Tel Aviv vs Maccabi Petah Tikva FC - MeoMeo — Israel Premier League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_8yomo4h1dl27q0j" tvg-name="Madura United vs Arema FC" tvg-logo="https://static.sportsfeed.pro/football/team/320ff18ba51acdf34c92311dec8186a7.png" home-logo="https://static.sportsfeed.pro/football/team/320ff18ba51acdf34c92311dec8186a7.png" away-logo="https://static.sportsfeed.pro/football/team/55cba4a142146e2cdc317d21eb4daf76.png" group-title="Gà Vàng TV" start-time="1793966400",Madura United vs Arema FC - unicorn — Indonesian Super League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6ae349718d80cc041d063e08.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_1l4rjnhnydk9m7v" tvg-name="Persepolis vs Fajr Sepasi" tvg-logo="https://static.sportsfeed.pro/football/team/d0122ef4d5150b1b16e5274a97913894.png" home-logo="https://static.sportsfeed.pro/football/team/d0122ef4d5150b1b16e5274a97913894.png" away-logo="https://static.sportsfeed.pro/football/team/450fce1e6a994f45a5d19b05a3f16a8b.png" group-title="Gà Vàng TV" start-time="1793970000",Persepolis vs Fajr Sepasi - khang hi — Iran Pro League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -143,6 +133,11 @@ https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hxyjx8qo9" tvg-name="BKMA vs Alashkert Yerevan" tvg-logo="https://static.sportsfeed.pro/football/team/77ca875a242e4b4b404106e58731f61d.png" home-logo="https://static.sportsfeed.pro/football/team/77ca875a242e4b4b404106e58731f61d.png" away-logo="https://static.sportsfeed.pro/football/team/34566a9d9544037e59023eff44faf028.png" group-title="Gà Vàng TV" start-time="1793977200",BKMA vs Alashkert Yerevan - NGƯỜI KIẾN — Armenian Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19872937" tvg-name="Hồng Lĩnh Hà Tĩnh vs Thép Xanh Nam Định" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hong-linh-ha-tinh-12296" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hong-linh-ha-tinh-12296" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thep-xanh-nam-inh-18518" group-title="BiaomTV" start-time="1793962800",Hồng Lĩnh Hà Tĩnh vs Thép Xanh Nam Định - 333 — VĐQG Việt Nam
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -189,11 +184,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2MjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/90865415.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_l6kegi8l411hv75" tvg-name="Đại học Văn Hiến vs Huế" tvg-logo="https://img.cltvap.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png!w80" home-logo="https://img.cltvap.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png!w80" away-logo="https://img.cltvap.cc/football/team/d183acf4e1500de34a9bb72ff77f2ecc.jpg!w80" group-title="Cola TV" start-time="1793959200",Đại học Văn Hiến vs Huế - BLV ROCKSTAR — Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.miekgo.app/live/82054853.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_o17pjio5nlmay7j" tvg-name="Hồng Lĩnh Hà Tĩnh vs Nam Định" tvg-logo="https://img.cltvap.cc/football/team/83dd94c5ca68e8f9a3980f036afcb511.png!w80" home-logo="https://img.cltvap.cc/football/team/83dd94c5ca68e8f9a3980f036afcb511.png!w80" away-logo="https://img.cltvap.cc/football/team/bc5db4dd418cb566a4475649876b55bb.png!w80" group-title="Cola TV" start-time="1793962800",Hồng Lĩnh Hà Tĩnh vs Nam Định - BLV REVIVE — Giải vô địch quốc gia Việt Nam
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -213,3 +203,8 @@ https://live05.miekgo.app/live/49572724.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_vmqy9iv43pjsgk9" tvg-name="CLB Madura United vs Arema Malang" tvg-logo="https://img.cltvap.cc/football/team/320ff18ba51acdf34c92311dec8186a7.png!w80" home-logo="https://img.cltvap.cc/football/team/320ff18ba51acdf34c92311dec8186a7.png!w80" away-logo="https://img.cltvap.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80" group-title="Cola TV" start-time="1793966400",CLB Madura United vs Arema Malang - BLV MONSTER — Giải bóng đá Liga 1 Indonesia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
