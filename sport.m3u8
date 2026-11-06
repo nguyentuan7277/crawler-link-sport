@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:00:18 06/11/2026
+## Cập nhật lúc: 20:30:26 06/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1622827_chuoikem" tvg-name="Persepam Madura Utd vs Arema FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_ea998238.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_ea998238.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134615_6b83f5fd.png" group-title="Chuối TV" start-time="1793966400",Persepam Madura Utd vs Arema FC - Chuối Kem [FHD] — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -106,6 +106,11 @@ https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_2y8m4zh59gk1ql0" tvg-name="Lokomotiv Moscow vs Rubin Kazan" tvg-logo="https://static.sportsfeed.pro/football/team/5517b8865aa5280667bd899f6810d466.png" home-logo="https://static.sportsfeed.pro/football/team/5517b8865aa5280667bd899f6810d466.png" away-logo="https://static.sportsfeed.pro/football/team/db58fdf26d9c934236772a9721fa750b.png" group-title="Gà Vàng TV" start-time="1793982600",Lokomotiv Moscow vs Rubin Kazan - SÚP LƠ — Russian Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19813556" tvg-name="Madura United vs Arema" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/madura-united-7188" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/madura-united-7188" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arema-12306" group-title="BiaomTV" start-time="1793966400",Madura United vs Arema - SAPPORO — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -140,3 +145,8 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2MjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omx
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.miekgo.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_63kv9igxwzjsx7e" tvg-name="CLB Sogdiana Jizak vs Din. Samarkand" tvg-logo="https://img.cltvap.cc/football/team/0eff3f54d4407ac2e90783bc6654e657.png!w80" home-logo="https://img.cltvap.cc/football/team/0eff3f54d4407ac2e90783bc6654e657.png!w80" away-logo="https://img.cltvap.cc/football/team/e5e4a6b6057e14af859c9d2bca5986a8.png!w80" group-title="Cola TV" start-time="1793971800",CLB Sogdiana Jizak vs Din. Samarkand - BLV C2 — Giải vô địch quốc gia Uzbekistan
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.miekgo.app/live/08552895.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
