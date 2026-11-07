@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 13:30:07 07/11/2026
+## Cập nhật lúc: 14:00:07 07/11/2026
 
 #EXTINF:-1 tvg-id="cctv_993971_chuoitay" tvg-name="Body Queenseis W vs Okayama Seagulls W" tvg-logo="https://media.chuoichientv.net/media/20251011_220656_88a30ccd.png" home-logo="https://media.chuoichientv.net/media/20251011_220656_88a30ccd.png" away-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" group-title="Chuối TV" start-time="1794027900",Body Queenseis W vs Okayama Seagulls W - Chuối Tây [HD1] — SV.League W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,15 +122,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://liv
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_3glrw7hn8w74qdy" tvg-name="Auckland FC vs Wellington Phoenix" tvg-logo="https://static.sportsfeed.pro/football/team/5a4f2a8dae12300344d1be2fed8b441b.png" home-logo="https://static.sportsfeed.pro/football/team/5a4f2a8dae12300344d1be2fed8b441b.png" away-logo="https://static.sportsfeed.pro/football/team/dbdd1921a24554505fe47e061ca75005.png" group-title="Gà Vàng TV" start-time="1794027600",Auckland FC vs Wellington Phoenix - A Long — Australia A-League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1490600_chuoichao" tvg-name="Inter Miami vs Charlotte" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131612_86a01c98.png" group-title="Chuối TV" start-time="1794085200",Inter Miami vs Charlotte - Chuối Chao [FHD] — Major League Soccer
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_2y8m4zhv34jyql0" tvg-name="Jeju SK FC vs Gwangju FC" tvg-logo="https://static.sportsfeed.pro/football/team/2d2abe914435bb9b7140cf2154c50de9.png" home-logo="https://static.sportsfeed.pro/football/team/2d2abe914435bb9b7140cf2154c50de9.png" away-logo="https://static.sportsfeed.pro/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png" group-title="Gà Vàng TV" start-time="1794027600",Jeju SK FC vs Gwangju FC - khang hi — Korean K League 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_dn1m1ghld22wmoe" tvg-name="Nagoya Grampus vs Kyoto Sanga" tvg-logo="https://static.sportsfeed.pro/football/team/32aa68e1fa3d62dad572d19b21a09353.png" home-logo="https://static.sportsfeed.pro/football/team/32aa68e1fa3d62dad572d19b21a09353.png" away-logo="https://static.sportsfeed.pro/football/team/7d6fa50ea67cde7d66612a8189897ba5.png" group-title="Gà Vàng TV" start-time="1794027600",Nagoya Grampus vs Kyoto Sanga - SAITAMA — Japanese J1 League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -141,11 +137,6 @@ https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_23xmvkh6z8pgqg8" tvg-name="Kashiwa Reysol vs Kawasaki Frontale" tvg-logo="https://static.sportsfeed.pro/football/team/d272859d78eb8ca7a14753f4293fbf45.png" home-logo="https://static.sportsfeed.pro/football/team/d272859d78eb8ca7a14753f4293fbf45.png" away-logo="https://static.sportsfeed.pro/football/team/937795c0851c1e794e96a5cb660fcd59.png" group-title="Gà Vàng TV" start-time="1794034800",Kashiwa Reysol vs Kawasaki Frontale - RIO — Japanese J1 League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_8yomo4hy75kpq0j" tvg-name="Gimcheon Sangmu FC vs FC Anyang" tvg-logo="https://static.sportsfeed.pro/football/team/4a3e50e90ab721c1782568a287bd5358.png" home-logo="https://static.sportsfeed.pro/football/team/4a3e50e90ab721c1782568a287bd5358.png" away-logo="https://static.sportsfeed.pro/football/team/cda2e60a4e984dc6f4ed091ec44fc5bb.png" group-title="Gà Vàng TV" start-time="1794036600",Gimcheon Sangmu FC vs FC Anyang - khang hi — Korean K League 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -262,16 +253,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2MjQ6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MTU1NTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnM5Y3d5NmVidmZrZGlraWtmZ3FjZXA3ZQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_9gklzi1x045im7x" tvg-name="Auckland FC vs Wellington Phoenix" tvg-logo="https://img.cltvap.cc/football/team/1d4c98a8072a4c3c0efc42a790d9c8cb.png!w80" home-logo="https://img.cltvap.cc/football/team/1d4c98a8072a4c3c0efc42a790d9c8cb.png!w80" away-logo="https://img.cltvap.cc/football/team/1162efa593827d2a7566b5862dee72e4.png!w80" group-title="Cola TV" start-time="1794027600",Auckland FC vs Wellington Phoenix - BLV GIÀ LÀNG — Giải vô địch quốc gia Úc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/14830711.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_oj7x9imr8wpb47g" tvg-name="Jeju Utd vs Gwangju FC" tvg-logo="https://img.cltvap.cc/football/team/2d2abe914435bb9b7140cf2154c50de9.png!w80" home-logo="https://img.cltvap.cc/football/team/2d2abe914435bb9b7140cf2154c50de9.png!w80" away-logo="https://img.cltvap.cc/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png!w80" group-title="Cola TV" start-time="1794027600",Jeju Utd vs Gwangju FC - BLV REVIVE — Giải K1 Hàn Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_g676jslz6gwtokr" tvg-name="LG Sakers vs Goyang Carrot Jumpers" tvg-logo="https://img.cltvap.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80" home-logo="https://img.cltvap.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80" away-logo="https://img.cltvap.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="Cola TV" start-time="1794027600",LG Sakers vs Goyang Carrot Jumpers - BLV 247 — Giải bóng rổ nam Hàn Quốc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -291,3 +272,8 @@ https://live05.wecile.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_34kgmio3z10ceko" tvg-name="Kashiwa Reysol vs Kawasaki Frontale" tvg-logo="https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80" home-logo="https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80" away-logo="https://img.cltvap.cc/football/team/937795c0851c1e794e96a5cb660fcd59.png!w80" group-title="Cola TV" start-time="1794034800",Kashiwa Reysol vs Kawasaki Frontale - BLV PEPSI — Giải vô địch quốc gia Nhật Bản
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/59444581.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
