@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 14:00:11 08/11/2026
+## Cập nhật lúc: 14:30:13 08/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1593703_chuoinho" tvg-name="Adelaide United vs Melbourne Victory" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_7beb7455.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_7beb7455.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_bcff7572.png" group-title="Chuối TV" start-time="1794117600",Adelaide United vs Melbourne Victory - Chuối Nhỏ [FHD] — A-League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -116,11 +116,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_jw2r09hkd2k4rz8" tvg-name="Machida Zelvia vs Sanfrecce Hiroshima" tvg-logo="https://static.sportsfeed.pro/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png" home-logo="https://static.sportsfeed.pro/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png" away-logo="https://static.sportsfeed.pro/football/team/c81d5ff7a33a4f6a9312a8703f619352.png" group-title="Gà Vàng TV" start-time="1794114000",Machida Zelvia vs Sanfrecce Hiroshima - khang hi — Japanese J1 League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_x7lm7phjdzzwm2w" tvg-name="Gamba Osaka vs Cerezo Osaka" tvg-logo="https://static.sportsfeed.pro/football/team/91008a96b5de8c75376d17057f89890e.png" home-logo="https://static.sportsfeed.pro/football/team/91008a96b5de8c75376d17057f89890e.png" away-logo="https://static.sportsfeed.pro/football/team/ab10ee503e539e55a9a11a9ff202405a.png" group-title="Gà Vàng TV" start-time="1794117600",Gamba Osaka vs Cerezo Osaka - MeoMeo — Japanese J1 League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -220,16 +215,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2MzI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmZ
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MzI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnpvc2JnMmNndWdqenBka3B6MHk5dHJrZA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_xvkjoi8y08rc879" tvg-name="Machida vs Sanfrecce Hiroshima" tvg-logo="https://img.cltvap.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" home-logo="https://img.cltvap.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" away-logo="https://img.cltvap.cc/football/team/c81d5ff7a33a4f6a9312a8703f619352.png!w80" group-title="Cola TV" start-time="1794114000",Machida vs Sanfrecce Hiroshima - BLV MONSTER — Giải vô địch quốc gia Nhật Bản
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_o17p8sywoexhykj" tvg-name="Mobis Phoebus vs Anyang KGC" tvg-logo="https://img.cltvap.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" home-logo="https://img.cltvap.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" away-logo="https://img.cltvap.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80" group-title="Cola TV" start-time="1794114000",Mobis Phoebus vs Anyang KGC - BLV POCARI — Giải bóng rổ nam Hàn Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/19919577.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_ndkz6i3pz3psxq3" tvg-name="CLB Adelaide United vs Melbourne Victory" tvg-logo="https://img.cltvap.cc/football/team/e5f515e5720cd281a1a53ce2950992b1.png!w80" home-logo="https://img.cltvap.cc/football/team/e5f515e5720cd281a1a53ce2950992b1.png!w80" away-logo="https://img.cltvap.cc/football/team/04230721124ae33d7fb527413b54106f.png!w80" group-title="Cola TV" start-time="1794117600",CLB Adelaide United vs Melbourne Victory - BLV GIÀ LÀNG — Giải vô địch quốc gia Úc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
