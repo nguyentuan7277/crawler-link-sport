@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 08:00:22 08/11/2026
+## Cập nhật lúc: 08:30:14 08/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1551034_chuoisay" tvg-name="Toluca vs Monterrey" tvg-logo="https://media.chuoichientv.net/media/20250921_010707_d23dff4c.png" home-logo="https://media.chuoichientv.net/media/20250921_010707_d23dff4c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131433_e85dcdc4.png" group-title="Chuối TV" start-time="1794099600",Toluca vs Monterrey - Chuối Sấy [HD1] — VĐQG Mexico
+#EXTINF:-1 tvg-id="cctv_1551034_chuoisay" tvg-name="Toluca vs Monterrey" tvg-logo="https://media.chuoichientv.net/media/20250921_010707_d23dff4c.png" home-logo="https://media.chuoichientv.net/media/20250921_010707_d23dff4c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131433_e85dcdc4.png" group-title="Chuối TV" start-time="1794099600",Toluca vs Monterrey - Chuối Sấy [FHD] — VĐQG Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1549855_troctru" tvg-name="Atletico Nacional vs Deportivo Pereira" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133538_0a9dbb3b.png" group-title="Chuối TV" start-time="1794093000",Atletico Nacional vs Deportivo Pereira - Trốc Tru [FHD] — VĐQG Colombia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_994169_chuoitay" tvg-name="Toray Arrows W vs Gunma Bank Green Wings W" tvg-logo="https://media.chuoichientv.net/media/20251127_172902_3206c75f.png" home-logo="https://media.chuoichientv.net/media/20251127_172902_3206c75f.png" away-logo="https://media.chuoichientv.net/media/20251011_220657_399c6a8e.png" group-title="Chuối TV" start-time="1794110700",Toray Arrows W vs Gunma Bank Green Wings W - Chuối Tây [FHD] — SV.League W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -26,10 +20,95 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_vjxm8ghe6ln2r6o" tvg-name="Atletico Nacional Medellin vs Deportivo Pereira" tvg-logo="https://static.sportsfeed.pro/football/team/4ee24366d09a9239bb2c4207a5008111.png" home-logo="https://static.sportsfeed.pro/football/team/4ee24366d09a9239bb2c4207a5008111.png" away-logo="https://static.sportsfeed.pro/football/team/d82c6b70b6fa098483e9afa0589bd7b1.png" group-title="Gà Vàng TV" start-time="1794093000",Atletico Nacional Medellin vs Deportivo Pereira - MáN NúI — Categoría Primera A
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1593703_chuoinho" tvg-name="Adelaide United vs Melbourne Victory" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_7beb7455.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_7beb7455.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_bcff7572.png" group-title="Chuối TV" start-time="1794117600",Adelaide United vs Melbourne Victory - Chuối Nhỏ [FHD] — A-League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1622832_angao" tvg-name="Bali United vs Persik Kediri" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134620_da259809.png" group-title="Chuối TV" start-time="1794126600",Bali United vs Persik Kediri - Chuối Già [FHD] — VĐQG Indonesia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1635008_chuoisay" tvg-name="TP. Hồ Chí Minh vs Xuan Thien Phu Tho" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" home-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" away-logo="https://media.api-sports.io/football/teams/26745.png" group-title="Chuối TV" start-time="1794132000",TP. Hồ Chí Minh vs Xuan Thien Phu Tho - Chuối Sấy [FHD] — V.League 2
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1550193_chuoila" tvg-name="Napoli vs Lazio" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_1ca3923a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_1ca3923a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125559_9e8fc4c8.png" group-title="Chuối TV" start-time="1794137400",Napoli vs Lazio - Chuối Lá [FHD] — Serie A
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1633934_chuoitay" tvg-name="Viettel vs Thanh Hóa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png" away-logo="https://media.chuoichientv.net/media/20250817_040540_cdc05b23.png" group-title="Chuối TV" start-time="1794140100",Viettel vs Thanh Hóa - Chuối Tây [FHD] — V.League 1
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1570445_chuoikem" tvg-name="Elche vs Real Betis" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_f8f6e27d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_f8f6e27d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png" group-title="Chuối TV" start-time="1794142800",Elche vs Real Betis - Chuối Kem [FHD] — La Liga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1557458_chuoinho" tvg-name="Brighton vs Brentford" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_d9b536ef.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_d9b536ef.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125551_69278a74.png" group-title="Chuối TV" start-time="1794146400",Brighton vs Brentford - Chuối Nhỏ [FHD] — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1557459_troctru" tvg-name="Crystal Palace vs Liverpool" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_3a5b60eb.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_3a5b60eb.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png" group-title="Chuối TV" start-time="1794146400",Crystal Palace vs Liverpool - Trốc Tru [FHD] — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1550190_angao" tvg-name="Genoa vs AC Milan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_0fe8ee77.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_0fe8ee77.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" group-title="Chuối TV" start-time="1794146400",Genoa vs AC Milan - Chuối Già [FHD] — Serie A
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1557462_chuoila" tvg-name="Ipswich vs Bournemouth" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125551_1362c589.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125551_1362c589.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_e668d998.png" group-title="Chuối TV" start-time="1794146400",Ipswich vs Bournemouth - Chuối Lá [FHD] — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1557466_chuoisay" tvg-name="Sunderland vs Chelsea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130856_4ebea02c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130856_4ebea02c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125549_a4353df0.png" group-title="Chuối TV" start-time="1794146400",Sunderland vs Chelsea - Chuối Sấy [FHD] — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1575219_chuoichao" tvg-name="1.FC Köln vs Bayer Leverkusen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_d0b10a92.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_d0b10a92.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125556_780bfce1.png" group-title="Chuối TV" start-time="1794148200",1.FC Köln vs Bayer Leverkusen - Chuối Chao [FHD] — Bundesliga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1557464_chuoinho" tvg-name="Manchester United vs Aston Villa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_6dff7e1a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_6dff7e1a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png" group-title="Chuối TV" start-time="1794155400",Manchester United vs Aston Villa - Chuối Nhỏ [FHD] — Ngoại Hạng Anh
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1550191_chuoichao" tvg-name="Inter vs Como" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125605_14c915ad.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125605_14c915ad.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125607_2784433a.png" group-title="Chuối TV" start-time="1794157200",Inter vs Como - Chuối Chao [FHD] — Serie A
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1570452_chuoikem" tvg-name="Villarreal vs Getafe" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_e2044734.png" group-title="Chuối TV" start-time="1794159000",Villarreal vs Getafe - Chuối Kem [FHD] — La Liga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_pxwrxlhy3nglryk" tvg-name="Seattle Sounders vs Los Angeles FC" tvg-logo="https://static.sportsfeed.pro/football/team/cef1725baaf3f3be0cb7215c5f39d162.png" home-logo="https://static.sportsfeed.pro/football/team/cef1725baaf3f3be0cb7215c5f39d162.png" away-logo="https://static.sportsfeed.pro/football/team/9c5ad5227377e12b87f77790d3d88c1c.png" group-title="Gà Vàng TV" start-time="1794096600",Seattle Sounders vs Los Angeles FC - MeoMeo — United States Major League Soccer
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -136,11 +215,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2MzI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MzI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnpvc2JnMmNndWdqenBka3B6MHk5dHJrZA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_oj7x9ixj069b47g" tvg-name="Atlas vs Pachuca" tvg-logo="https://img.cltvap.cc/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png!w80" home-logo="https://img.cltvap.cc/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png!w80" away-logo="https://img.cltvap.cc/football/team/cff411edceeeb7c1677d9db65ce47164.png!w80" group-title="Cola TV" start-time="1794092400",Atlas vs Pachuca - BLV PEPSI — Giải Vô địch Bóng đá Quốc gia Mexico
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/59444581.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_vmqy9ivwxjlugk9" tvg-name="Real Salt Lake vs CLB LA Galaxy" tvg-logo="https://img.cltvap.cc/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png!w80" home-logo="https://img.cltvap.cc/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png!w80" away-logo="https://img.cltvap.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80" group-title="Cola TV" start-time="1794096600",Real Salt Lake vs CLB LA Galaxy - BLV REDBULL — Major League Soccer
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -165,3 +239,8 @@ https://live05.wecile.app/live/82054853.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/59444581.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_63kvlsop2l4tx7e" tvg-name="Golden State Warriors vs Orlando Magic" tvg-logo="https://img.cltvap.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80" home-logo="https://img.cltvap.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80" away-logo="https://img.cltvap.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="Cola TV" start-time="1794101400",Golden State Warriors vs Orlando Magic - BLV TARZAAN — Hiệp hội Bóng rổ Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/56998120.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
