@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 21:30:06 09/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1648304_chuoichao" tvg-name="Wadi Degla vs Kahraba Ismailia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141659_628c1ec3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141659_628c1ec3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144311_50a1ba18.png" group-title="Chuối TV" start-time="1794227400",Wadi Degla vs Kahraba Ismailia - Chuối Chao [FHD] — Cúp Ai Cập
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 22:00:14 09/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1602544_chuoikem" tvg-name="CS Dinamo București vs CSM Ramnicu Valcea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142615_78e6132b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142615_78e6132b.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_135121_9a703ea4.png" group-title="Chuối TV" start-time="1794236400",CS Dinamo București vs CSM Ramnicu Valcea - Chuối Kem [FHD] — Hạng 2 Roma
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -14,11 +8,17 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1648305_chuoisay" tvg-name="Masr vs Samanod" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130128_a8132095.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130128_a8132095.png" away-logo="https://media.api-sports.io/football/teams/28650.png" group-title="Chuối TV" start-time="1794236400",Masr vs Samanod - Chuối Sấy [FHD] — Cúp Ai Cập
+#EXTINF:-1 tvg-id="cctv_1648305_chuoisay" tvg-name="Masr vs Samanod" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130128_a8132095.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130128_a8132095.png" away-logo="https://media.api-sports.io/football/teams/28650.png" group-title="Chuối TV" start-time="1794236400",Masr vs Samanod - Chuối Sấy [HD2] — Cúp Ai Cập
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1648304_chuoichao" tvg-name="Wadi Degla vs Kahraba Ismailia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141659_628c1ec3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141659_628c1ec3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144311_50a1ba18.png" group-title="Chuối TV" start-time="1794227400",Wadi Degla vs Kahraba Ismailia - Chuối Chao [FHD] — Cúp Ai Cập
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1509214_chuoitay" tvg-name="Saburtalo vs Gagra" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132657_fcf6b990.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132657_fcf6b990.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132657_1879a196.png" group-title="Chuối TV" start-time="1794240000",Saburtalo vs Gagra - Chuối Tây [FHD] — Erovnuli Liga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -67,11 +67,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_965mkyh87554r1g" tvg-name="ZED FC vs Samanod (EG)" tvg-logo="https://static.sportsfeed.pro/football/team/a08754ab96c283bacbf148154a50c7fc.png" home-logo="https://static.sportsfeed.pro/football/team/a08754ab96c283bacbf148154a50c7fc.png" away-logo="https://static.sportsfeed.pro/football/team/cad3673c357dbacef176e370ab36adce.png" group-title="Gà Vàng TV" start-time="1794236400",ZED FC vs Samanod (EG) - NGƯỜI KIẾN — Egyptian Scores Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_3glrw7hn2wpwqdy" tvg-name="Veles vs KAMAZ Naberezhnye Chelny" tvg-logo="https://static.sportsfeed.pro/football/team/08b74871ec0800b5ad7643b018f2a5bd.jpg" home-logo="https://static.sportsfeed.pro/football/team/08b74871ec0800b5ad7643b018f2a5bd.jpg" away-logo="https://static.sportsfeed.pro/football/team/447623f3fb6f9de8e536ac71e603aae3.png" group-title="Gà Vàng TV" start-time="1794241800",Veles vs KAMAZ Naberezhnye Chelny - RIO — Russian First League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -106,3 +101,8 @@ https://cdnhls.xbdbotv.live/live/MTk3Mjk2NDU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnU
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jek33im6116b9ko" tvg-name="CLB Wadi Degla vs Kahraba Ismailia" tvg-logo="https://img.cltvap.cc/football/team/0b565bf79378453da0982dfcf95ccc98.png!w80" home-logo="https://img.cltvap.cc/football/team/0b565bf79378453da0982dfcf95ccc98.png!w80" away-logo="https://img.cltvap.cc/football/team/710c1aec087466a2e2177fb812c87dc8.png!w80" group-title="Cola TV" start-time="1794227400",CLB Wadi Degla vs Kahraba Ismailia - BLV REDBULL — Cúp Ai Cập
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/49572724.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
