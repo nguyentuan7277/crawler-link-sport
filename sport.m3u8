@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:00:15 09/11/2026
+## Cập nhật lúc: 15:30:05 09/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1646996_angao" tvg-name="Ulaangom City vs Southern District" tvg-logo="https://media.api-sports.io/football/teams/26667.png" home-logo="https://media.api-sports.io/football/teams/26667.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_25578a95.png" group-title="Chuối TV" start-time="1794211200",Ulaangom City vs Southern District - Chuối Già [HD1] — Ngoại Hạng Hồng Kong
+#EXTINF:-1 tvg-id="cctv_1646996_angao" tvg-name="Ulaangom City vs Southern District" tvg-logo="https://media.api-sports.io/football/teams/26667.png" home-logo="https://media.api-sports.io/football/teams/26667.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_25578a95.png" group-title="Chuối TV" start-time="1794211200",Ulaangom City vs Southern District - Chuối Già [FHD] — Ngoại Hạng Hồng Kong
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1531018_chuoila" tvg-name="Metalourg vs Aral" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_09716b66.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_09716b66.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142648_7670cc2d.png" group-title="Chuối TV" start-time="1794214800",Metalourg vs Aral - Chuối Lá [FHD] — Pro League A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -108,3 +108,8 @@ https://cdnhls.xbdbotv.live/live/MTk3Mjk2NDU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnU
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_527r3i3eyzva47e" tvg-name="Ulaangom City FC vs Khovd" tvg-logo="https://img.cltvap.cc/football/team/cc0f42f7eec708cb429156b1becb3f93.png!w80" home-logo="https://img.cltvap.cc/football/team/cc0f42f7eec708cb429156b1becb3f93.png!w80" away-logo="https://img.cltvap.cc/football/team/c8550c96c10f3e6cc1e5525c35fdb220.png!w80" group-title="Cola TV" start-time="1794211200",Ulaangom City FC vs Khovd - BLV PEPSI — Giải ngoại hạng Mông Cổ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/59444581.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
