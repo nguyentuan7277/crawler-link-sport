@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:30:08 09/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1577583_angao" tvg-name="Veles vs KAMAZ" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141120_42a4e379.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141120_42a4e379.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133813_d3c6cd2c.png" group-title="Chuối TV" start-time="1794241800",Veles vs KAMAZ - Chuối Già [HD1] — FNL Nga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 00:00:21 10/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1602544_chuoikem" tvg-name="CS Dinamo București vs CSM Ramnicu Valcea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142615_78e6132b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142615_78e6132b.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_135121_9a703ea4.png" group-title="Chuối TV" start-time="1794236400",CS Dinamo București vs CSM Ramnicu Valcea - Chuối Kem [FHD] — Hạng 2 Roma
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +19,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1577583_angao" tvg-name="Veles vs KAMAZ" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141120_42a4e379.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141120_42a4e379.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133813_d3c6cd2c.png" group-title="Chuối TV" start-time="1794241800",Veles vs KAMAZ - Chuối Già [FHD] — FNL Nga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1565299_chuoitay" tvg-name="FC Botosani vs Oţelul" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133913_3f3827ed.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133913_3f3827ed.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133916_1151bcde.png" group-title="Chuối TV" start-time="1794247200",FC Botosani vs Oţelul - Chuối Tây [FHD] — VĐQG Roma
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -56,21 +56,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_965mkyh87554r1g" tvg-name="ZED FC vs Samanod (EG)" tvg-logo="https://static.sportsfeed.pro/football/team/a08754ab96c283bacbf148154a50c7fc.png" home-logo="https://static.sportsfeed.pro/football/team/a08754ab96c283bacbf148154a50c7fc.png" away-logo="https://static.sportsfeed.pro/football/team/cad3673c357dbacef176e370ab36adce.png" group-title="Gà Vàng TV" start-time="1794236400",ZED FC vs Samanod (EG) - NGƯỜI KIẾN — Egyptian Scores Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19731683" tvg-name="Etar vs Montana" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/etar-3715" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/etar-3715" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/montana-1108" group-title="BiaomTV" start-time="1794236400",Etar vs Montana - TÔM CHIÊN — Hạng Hai Bulgaria
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3MzE2ODM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxsbHZ6N3d4cWswbHRyamJpMmxnanFrYQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19902458" tvg-name="ZED FC vs Samanod" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/zed-fc-238533" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/zed-fc-238533" away-logo="" group-title="BiaomTV" start-time="1794236400",ZED FC vs Samanod - HÀU NƯỚNG — Cúp Quốc Gia Ai Cập
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk5MDI0NTg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnE4YW8wam1qenpqd3lraHI4NDR6dmI0bw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_19729645" tvg-name="Botoşani vs Oțelul Galați" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/botosani-3195" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/botosani-3195" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/otelul-803" group-title="BiaomTV" start-time="1794247200",Botoşani vs Oțelul Galați - HÀU NƯỚNG — VĐQG Romania
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -81,27 +66,12 @@ https://cdnhls.xbdbotv.live/live/MTk3Mjk2NDU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_ndkz6i3pv05sxq3" tvg-name="CS Dinamo Bucharest vs Ramnicu Valcea" tvg-logo="https://img.cltvap.cc/football/team/38f47a9528dd7f64ad462f6d9b26170e.png!w80" home-logo="https://img.cltvap.cc/football/team/38f47a9528dd7f64ad462f6d9b26170e.png!w80" away-logo="https://img.cltvap.cc/football/team/cfc04de9949091b8d3476fff54ca852e.png!w80" group-title="Cola TV" start-time="1794236400",CS Dinamo Bucharest vs Ramnicu Valcea - BLV REVIVE — Giải hạng 2 Romania
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_34kgmio68gwaeko" tvg-name="Etar vs CLB Montana" tvg-logo="https://img.cltvap.cc/football/team/df2cb8e6df5f64eb0e208d801da11e23.png!w80" home-logo="https://img.cltvap.cc/football/team/df2cb8e6df5f64eb0e208d801da11e23.png!w80" away-logo="https://img.cltvap.cc/football/team/555ed40ede7fc6f2879993bc058fb8ac.png!w80" group-title="Cola TV" start-time="1794236400",Etar vs CLB Montana - BLV SAMURAI — Giải hạng hai quốc gia Bulgaria
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_l6kegi8o9eecv75" tvg-name="Napredak vs Bor 1919" tvg-logo="https://img.cltvap.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" home-logo="https://img.cltvap.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" away-logo="https://img.cltvap.cc/football/team/83f08380c7ca9df5cf05fe86f423ca34.png!w80" group-title="Cola TV" start-time="1794236400",Napredak vs Bor 1919 - BLV C2 — Giải hạng nhất quốc gia Serbia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/08552895.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_o07dnindgg6smkn" tvg-name="ZED FC vs Samanod (EG)" tvg-logo="https://img.cltvap.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80" home-logo="https://img.cltvap.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80" away-logo="https://img.cltvap.cc/football/team/cad3673c357dbacef176e370ab36adce.png!w80" group-title="Cola TV" start-time="1794236400",ZED FC vs Samanod (EG) - BLV 7UP — Cúp Ai Cập
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/78905744.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_o17pjioj0r5by7j" tvg-name="Saburtalo Tbilisi vs Gagra" tvg-logo="https://img.cltvap.cc/football/team/e80d49b16e8a1ea6b6d38643e1d429b0.png!w80" home-logo="https://img.cltvap.cc/football/team/e80d49b16e8a1ea6b6d38643e1d429b0.png!w80" away-logo="https://img.cltvap.cc/football/team/e450729cae3ba8210e9a08134b9258a1.png!w80" group-title="Cola TV" start-time="1794240000",Saburtalo Tbilisi vs Gagra - BLV AQUA — Giải Vô địch Quốc gia Georgia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/18812304.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_9gklzi120r0sm7x" tvg-name="Veles Moscow (Rus) vs Kamaz Naberezhnye Chelny" tvg-logo="https://img.cltvap.cc/football/team/08b74871ec0800b5ad7643b018f2a5bd.jpg!w80" home-logo="https://img.cltvap.cc/football/team/08b74871ec0800b5ad7643b018f2a5bd.jpg!w80" away-logo="https://img.cltvap.cc/football/team/447623f3fb6f9de8e536ac71e603aae3.png!w80" group-title="Cola TV" start-time="1794241800",Veles Moscow (Rus) vs Kamaz Naberezhnye Chelny - BLV TEPPY — Giải Bóng đá Quốc gia Nga
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
