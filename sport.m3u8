@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:30:09 09/11/2026
+## Cập nhật lúc: 17:00:09 09/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1531018_chuoila" tvg-name="Metalourg vs Aral" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_09716b66.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_09716b66.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142648_7670cc2d.png" group-title="Chuối TV" start-time="1794214800",Metalourg vs Aral - Chuối Lá [HD1] — Pro League A
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1646996_angao" tvg-name="Ulaangom City vs Southern District" tvg-logo="https://media.api-sports.io/football/teams/26667.png" home-logo="https://media.api-sports.io/football/teams/26667.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_25578a95.png" group-title="Chuối TV" start-time="1794211200",Ulaangom City vs Southern District - Chuối Già [FHD] — Ngoại Hạng Hồng Kong
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1648304_chuoichao" tvg-name="Wadi Degla vs Kahraba Ismailia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141659_628c1ec3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141659_628c1ec3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144311_50a1ba18.png" group-title="Chuối TV" start-time="1794227400",Wadi Degla vs Kahraba Ismailia - Chuối Chao [FHD] — Cúp Ai Cập
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -74,15 +68,15 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_x7lm7phxkwe0m2w" tvg-name="Ulaangom City vs Khovd" tvg-logo="https://static.sportsfeed.pro/football/team/869f9d5a3552f86ffbe7eed9c0e09d79.png" home-logo="https://static.sportsfeed.pro/football/team/869f9d5a3552f86ffbe7eed9c0e09d79.png" away-logo="https://static.sportsfeed.pro/football/team/876f6160eafc92115b442945c80fdba7.png" group-title="Gà Vàng TV" start-time="1794211200",Ulaangom City vs Khovd - Lá Chanh — Mongolia Premier League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_ednm9wh5kxxkryo" tvg-name="Wadi Degla SC vs Kahraba Ismailia" tvg-logo="https://static.sportsfeed.pro/football/team/0b565bf79378453da0982dfcf95ccc98.png" home-logo="https://static.sportsfeed.pro/football/team/0b565bf79378453da0982dfcf95ccc98.png" away-logo="https://static.sportsfeed.pro/football/team/710c1aec087466a2e2177fb812c87dc8.png" group-title="Gà Vàng TV" start-time="1794227400",Wadi Degla SC vs Kahraba Ismailia - GIàng A Dân — Egyptian Scores Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_zp5rzghg8zepq82" tvg-name="Zakynthos vs Niki Volos" tvg-logo="https://static.sportsfeed.pro/football/team/4665a37098699cc96647a7945da60c1a.png" home-logo="https://static.sportsfeed.pro/football/team/4665a37098699cc96647a7945da60c1a.png" away-logo="https://static.sportsfeed.pro/football/team/46ce6635894a60830f8fcaeb8fe99a6d.png" group-title="Gà Vàng TV" start-time="1794229200",Zakynthos vs Niki Volos - Cá MậP — Greek Super League 2
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19731689" tvg-name="CSKA Sofia II vs Rilski Sportist" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cska-sofia-ii-7893" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cska-sofia-ii-7893" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rilski-sportist-7542" group-title="BiaomTV" start-time="1794227400",CSKA Sofia II vs Rilski Sportist - Lẩu Ếch — Hạng Hai Bulgaria
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -118,11 +112,6 @@ https://cdnhls.xbdbotv.live/live/MTk3Mjk2NDU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnU
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_527r3i3eyzva47e" tvg-name="Ulaangom City FC vs Khovd" tvg-logo="https://img.cltvap.cc/football/team/cc0f42f7eec708cb429156b1becb3f93.png!w80" home-logo="https://img.cltvap.cc/football/team/cc0f42f7eec708cb429156b1becb3f93.png!w80" away-logo="https://img.cltvap.cc/football/team/c8550c96c10f3e6cc1e5525c35fdb220.png!w80" group-title="Cola TV" start-time="1794211200",Ulaangom City FC vs Khovd - BLV PEPSI — Giải ngoại hạng Mông Cổ
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/59444581.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_wv78xivyed6cokr" tvg-name="Metallurg Bekabad vs Aral Nukus" tvg-logo="https://img.cltvap.cc/football/team/4aa9ac9ceebfd497212c8f17ab6c7162.png!w80" home-logo="https://img.cltvap.cc/football/team/4aa9ac9ceebfd497212c8f17ab6c7162.png!w80" away-logo="https://img.cltvap.cc/football/team/4904dff7aaee65b425e9062dea802e8f.png!w80" group-title="Cola TV" start-time="1794214800",Metallurg Bekabad vs Aral Nukus - BLV REVIVE — Bóng đá Hạng 2 Uzbekistan
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
