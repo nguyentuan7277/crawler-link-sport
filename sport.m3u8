@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 22:00:14 09/11/2026
+## Cập nhật lúc: 22:30:10 09/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1648304_chuoichao" tvg-name="Wadi Degla vs Kahraba Ismailia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141659_628c1ec3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141659_628c1ec3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144311_50a1ba18.png" group-title="Chuối TV" start-time="1794227400",Wadi Degla vs Kahraba Ismailia - Chuối Chao [FHD] — Cúp Ai Cập
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1602544_chuoikem" tvg-name="CS Dinamo București vs CSM Ramnicu Valcea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142615_78e6132b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142615_78e6132b.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_135121_9a703ea4.png" group-title="Chuối TV" start-time="1794236400",CS Dinamo București vs CSM Ramnicu Valcea - Chuối Kem [FHD] — Hạng 2 Roma
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -8,17 +14,11 @@
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1648305_chuoisay" tvg-name="Masr vs Samanod" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130128_a8132095.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130128_a8132095.png" away-logo="https://media.api-sports.io/football/teams/28650.png" group-title="Chuối TV" start-time="1794236400",Masr vs Samanod - Chuối Sấy [HD2] — Cúp Ai Cập
+#EXTINF:-1 tvg-id="cctv_1648305_chuoisay" tvg-name="Masr vs Samanod" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130128_a8132095.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130128_a8132095.png" away-logo="https://media.api-sports.io/football/teams/28650.png" group-title="Chuối TV" start-time="1794236400",Masr vs Samanod - Chuối Sấy [FHD] — Cúp Ai Cập
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1648304_chuoichao" tvg-name="Wadi Degla vs Kahraba Ismailia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141659_628c1ec3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141659_628c1ec3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144311_50a1ba18.png" group-title="Chuối TV" start-time="1794227400",Wadi Degla vs Kahraba Ismailia - Chuối Chao [FHD] — Cúp Ai Cập
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1509214_chuoitay" tvg-name="Saburtalo vs Gagra" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132657_fcf6b990.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132657_fcf6b990.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132657_1879a196.png" group-title="Chuối TV" start-time="1794240000",Saburtalo vs Gagra - Chuối Tây [FHD] — Erovnuli Liga
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -62,25 +62,10 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_ednm9wh5kxxkryo" tvg-name="Wadi Degla SC vs Kahraba Ismailia" tvg-logo="https://static.sportsfeed.pro/football/team/0b565bf79378453da0982dfcf95ccc98.png" home-logo="https://static.sportsfeed.pro/football/team/0b565bf79378453da0982dfcf95ccc98.png" away-logo="https://static.sportsfeed.pro/football/team/710c1aec087466a2e2177fb812c87dc8.png" group-title="Gà Vàng TV" start-time="1794227400",Wadi Degla SC vs Kahraba Ismailia - GIàng A Dân — Egyptian Scores Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_3glrw7hn2wpwqdy" tvg-name="Veles vs KAMAZ Naberezhnye Chelny" tvg-logo="https://static.sportsfeed.pro/football/team/08b74871ec0800b5ad7643b018f2a5bd.jpg" home-logo="https://static.sportsfeed.pro/football/team/08b74871ec0800b5ad7643b018f2a5bd.jpg" away-logo="https://static.sportsfeed.pro/football/team/447623f3fb6f9de8e536ac71e603aae3.png" group-title="Gà Vàng TV" start-time="1794241800",Veles vs KAMAZ Naberezhnye Chelny - RIO — Russian First League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19902459" tvg-name="Wadi Degla vs Kahraba Ismailia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kahraba-ismailia-16483" group-title="BiaomTV" start-time="1794227400",Wadi Degla vs Kahraba Ismailia - NEM NƯỚNG  — Cúp Quốc Gia Ai Cập
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk5MDI0NTk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhhY3kzczZwajh2endkdWk5a3ltNnRrcA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19902459" tvg-name="Wadi Degla vs Kahraba Ismailia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kahraba-ismailia-16483" group-title="BiaomTV" start-time="1794227400",Wadi Degla vs Kahraba Ismailia - ASAHI — Cúp Quốc Gia Ai Cập
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk5MDI0NTk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmRxbWt3NWIyYjh0MHZ2cmk2NDJpbXhhNQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19731683" tvg-name="Etar vs Montana" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/etar-3715" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/etar-3715" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/montana-1108" group-title="BiaomTV" start-time="1794236400",Etar vs Montana - TÔM CHIÊN — Hạng Hai Bulgaria
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -92,6 +77,21 @@ https://cdnhls.xbdbotv.live/live/MTk3MzE2ODM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk5MDI0NTg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnE4YW8wam1qenpqd3lraHI4NDR6dmI0bw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="biaom_19731687" tvg-name="Chernomorets 1919 Burgas vs Yantra 1919" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chernomorets-1919-burgas-228465" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chernomorets-1919-burgas-228465" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yantra-1919-238152" group-title="BiaomTV" start-time="1794227400",Chernomorets 1919 Burgas vs Yantra 1919 - Lẩu Ếch — Hạng Hai Bulgaria
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MzE2ODc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmluMjJvaTBpbXRkMjc3bDRrdnZ1bGZwcg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19902459" tvg-name="Wadi Degla vs Kahraba Ismailia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kahraba-ismailia-16483" group-title="BiaomTV" start-time="1794227400",Wadi Degla vs Kahraba Ismailia - NEM NƯỚNG  — Cúp Quốc Gia Ai Cập
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk5MDI0NTk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhhY3kzczZwajh2endkdWk5a3ltNnRrcA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19902459" tvg-name="Wadi Degla vs Kahraba Ismailia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kahraba-ismailia-16483" group-title="BiaomTV" start-time="1794227400",Wadi Degla vs Kahraba Ismailia - ASAHI — Cúp Quốc Gia Ai Cập
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk5MDI0NTk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmRxbWt3NWIyYjh0MHZ2cmk2NDJpbXhhNQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19729645" tvg-name="Botoşani vs Oțelul Galați" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/botosani-3195" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/botosani-3195" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/otelul-803" group-title="BiaomTV" start-time="1794247200",Botoşani vs Oțelul Galați - HÀU NƯỚNG — VĐQG Romania
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -102,7 +102,22 @@ https://cdnhls.xbdbotv.live/live/MTk3Mjk2NDU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_jek33im6116b9ko" tvg-name="CLB Wadi Degla vs Kahraba Ismailia" tvg-logo="https://img.cltvap.cc/football/team/0b565bf79378453da0982dfcf95ccc98.png!w80" home-logo="https://img.cltvap.cc/football/team/0b565bf79378453da0982dfcf95ccc98.png!w80" away-logo="https://img.cltvap.cc/football/team/710c1aec087466a2e2177fb812c87dc8.png!w80" group-title="Cola TV" start-time="1794227400",CLB Wadi Degla vs Kahraba Ismailia - BLV REDBULL — Cúp Ai Cập
+#EXTINF:-1 tvg-id="cola_ndkz6i3pv05sxq3" tvg-name="CS Dinamo Bucharest vs Ramnicu Valcea" tvg-logo="https://img.cltvap.cc/football/team/38f47a9528dd7f64ad462f6d9b26170e.png!w80" home-logo="https://img.cltvap.cc/football/team/38f47a9528dd7f64ad462f6d9b26170e.png!w80" away-logo="https://img.cltvap.cc/football/team/cfc04de9949091b8d3476fff54ca852e.png!w80" group-title="Cola TV" start-time="1794236400",CS Dinamo Bucharest vs Ramnicu Valcea - BLV REVIVE — Giải hạng 2 Romania
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/49572724.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_34kgmio68gwaeko" tvg-name="Etar vs CLB Montana" tvg-logo="https://img.cltvap.cc/football/team/df2cb8e6df5f64eb0e208d801da11e23.png!w80" home-logo="https://img.cltvap.cc/football/team/df2cb8e6df5f64eb0e208d801da11e23.png!w80" away-logo="https://img.cltvap.cc/football/team/555ed40ede7fc6f2879993bc058fb8ac.png!w80" group-title="Cola TV" start-time="1794236400",Etar vs CLB Montana - BLV SAMURAI — Giải hạng hai quốc gia Bulgaria
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_l6kegi8o9eecv75" tvg-name="Napredak vs Bor 1919" tvg-logo="https://img.cltvap.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" home-logo="https://img.cltvap.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" away-logo="https://img.cltvap.cc/football/team/83f08380c7ca9df5cf05fe86f423ca34.png!w80" group-title="Cola TV" start-time="1794236400",Napredak vs Bor 1919 - BLV C2 — Giải hạng nhất quốc gia Serbia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/08552895.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o07dnindgg6smkn" tvg-name="ZED FC vs Samanod (EG)" tvg-logo="https://img.cltvap.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80" home-logo="https://img.cltvap.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80" away-logo="https://img.cltvap.cc/football/team/cad3673c357dbacef176e370ab36adce.png!w80" group-title="Cola TV" start-time="1794236400",ZED FC vs Samanod (EG) - BLV 7UP — Cúp Ai Cập
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/78905744.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
