@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:30:14 10/11/2026
+## Cập nhật lúc: 00:00:05 11/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1648306_angao" tvg-name="El Mokawloon vs Itesalat" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141700_3e4c26e4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141700_3e4c26e4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_141707_68af82a8.png" group-title="Chuối TV" start-time="1794322800",El Mokawloon vs Itesalat - Chuối Già [FHD] — Cúp Ai Cập
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -128,16 +128,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_y39mp1hd3wwjmoj" tvg-name="El Mokawloon El Arab vs Telecom Egypt" tvg-logo="https://static.sportsfeed.pro/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png" home-logo="https://static.sportsfeed.pro/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png" away-logo="https://static.sportsfeed.pro/football/team/0e230b1a582d76526b7ad7fc62ae937d.jpg" group-title="Gà Vàng TV" start-time="1794322800",El Mokawloon El Arab vs Telecom Egypt - ĐOÀN DỰ — Egyptian Scores Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19902457" tvg-name="Al Mokawloon vs Telekom Egypt" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-mokawloon-623" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-mokawloon-623" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/telekom-egypt-16467" group-title="BiaomTV" start-time="1794322800",Al Mokawloon vs Telekom Egypt - Lẩu Ếch — Cúp Quốc Gia Ai Cập
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk5MDI0NTc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmc4ODFybWRid2JybDM4Y3BoamQwZ2xxaQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_19879517" tvg-name="BK Häcken W vs Chelsea W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-w-59583" group-title="BiaomTV" start-time="1794332700",BK Häcken W vs Chelsea W - HÀU NƯỚNG — C1 Châu Âu (Nữ)
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -167,8 +157,3 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmF
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4OTMzNTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxyZzNwMGtsM2ozYTZ3dnJwc3NwYXI5Mw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_vrqwni0ozznb4qn" tvg-name="Arab Contractors vs Etesalat" tvg-logo="https://img.cltvap.cc/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png!w80" home-logo="https://img.cltvap.cc/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png!w80" away-logo="https://img.cltvap.cc/football/team/c8ce27e068948a636fe9a3cce25c13e2.png!w80" group-title="Cola TV" start-time="1794322800",Arab Contractors vs Etesalat - BLV SODA — Cúp Ai Cập
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/02456966.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
