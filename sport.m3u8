@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:00:15 11/11/2026
+## Cập nhật lúc: 18:30:15 11/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1648706_chuoitay" tvg-name="India vs Maldives" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134312_9e50422a.png" group-title="Chuối TV" start-time="1794389400",India vs Maldives - Chuối Tây [FHD] — SAFF Championship
+#EXTINF:-1 tvg-id="cctv_1647634_chuoisay" tvg-name="China U19 vs Vietnam U19" tvg-logo="https://media.api-sports.io/football/teams/25359.png" home-logo="https://media.api-sports.io/football/teams/25359.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144744_6270222c.png" group-title="Chuối TV" start-time="1794396900",China U19 vs Vietnam U19 - Chuối Sấy [HD1] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1648031_chuoilua" tvg-name="Vissel Kobe vs Machida Zelvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132411_422face5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132411_422face5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132416_e9d110f2.png" group-title="Chuối TV" start-time="1794391200",Vissel Kobe vs Machida Zelvia - Chuối Lửa [FHD] — J-League Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -31,12 +31,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1647634_chuoisay" tvg-name="China U19 vs Vietnam U19" tvg-logo="https://media.api-sports.io/football/teams/25359.png" home-logo="https://media.api-sports.io/football/teams/25359.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144744_6270222c.png" group-title="Chuối TV" start-time="1794400500",China U19 vs Vietnam U19 - Chuối Sấy [FHD] — Giao Hữu Quốc Tế
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1648707_chuoila" tvg-name="Bangladesh vs Sri Lanka" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134318_709d8c36.png" group-title="Chuối TV" start-time="1794405600",Bangladesh vs Sri Lanka - Chuối Lá [FHD] — SAFF Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -86,10 +80,11 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_y0or5jh878dvqwz" tvg-name="Pakistan U17 vs Iran U17" tvg-logo="https://img.thesports.com/football/team/dabdeb38c6afc14dc06d8b797d3dc1f7.png" home-logo="https://img.thesports.com/football/team/dabdeb38c6afc14dc06d8b797d3dc1f7.png" away-logo="https://img.thesports.com/football/team/56de534cf589f6d0ca09630db803ba00.png" group-title="Gà Vàng TV" start-time="1794387600",Pakistan U17 vs Iran U17 - Lá Chanh — AFC U17 Asian Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_994936_chuoila" tvg-name="Pachuca W vs Monterrey W" tvg-logo="https://media.chuoichientv.net/media/20250825_181103_1c996e64.png" home-logo="https://media.chuoichientv.net/media/20250825_181103_1c996e64.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_143656_1a6867bd.png" group-title="Chuối TV" start-time="1794452400",Pachuca W vs Monterrey W - Chuối Lá [FHD] — Nữ Mexico
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_8yomo4hy7xx1q0j" tvg-name="India vs Maldives" tvg-logo="https://img.thesports.com/football/team/e7083a9eae16cbc27fa133d41212e4c8.png" home-logo="https://img.thesports.com/football/team/e7083a9eae16cbc27fa133d41212e4c8.png" away-logo="https://img.thesports.com/football/team/debe9dfcc3e4dbea1c509ffab6bf9f0b.png" group-title="Gà Vàng TV" start-time="1794389400",India vs Maldives - CRIS — SAFF Championship
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -111,10 +106,10 @@ https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_l5ergph4g4jlr8k" tvg-name="Macau U17 vs Syria U17" tvg-logo="https://img.thesports.com/football/team/d4c4e7107042fe4563b7cff0bbc6a254.png" home-logo="https://img.thesports.com/football/team/d4c4e7107042fe4563b7cff0bbc6a254.png" away-logo="https://img.thesports.com/football/team/f078767c280598b5c49d55c3ea064068.png" group-title="Gà Vàng TV" start-time="1794396000",Macau U17 vs Syria U17 - SiêU QuậY — AFC U17 Asian Cup
+#EXTINF:-1 tvg-id="gavang_x7lm7phxkz5om2w" tvg-name="Urawa Red Diamonds vs Cerezo Osaka" tvg-logo="https://static.sportsfeed.pro/football/team/ca15e36551392e8c99b53b5b2f8531d3.png" home-logo="https://static.sportsfeed.pro/football/team/ca15e36551392e8c99b53b5b2f8531d3.png" away-logo="https://static.sportsfeed.pro/football/team/ab10ee503e539e55a9a11a9ff202405a.png" group-title="Gà Vàng TV" start-time="1794393000",Urawa Red Diamonds vs Cerezo Osaka - Cá MậP — J.League Yamazaki Biscuit Levain Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_k82rekh2v90krep" tvg-name="China U19 vs Vietnam U19" tvg-logo="https://img.thesports.com/football/team/367ba92bc85435312f1074132e9e2ce8.png" home-logo="https://img.thesports.com/football/team/367ba92bc85435312f1074132e9e2ce8.png" away-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png" group-title="Gà Vàng TV" start-time="1794396900",China U19 vs Vietnam U19 - ĐOÀN DỰ — Panda Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
