@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:30:19 11/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1648033_chuoikem" tvg-name="Urawa vs Cerezo Osaka" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131431_dcdeb466.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131431_dcdeb466.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132411_05a7d523.png" group-title="Chuối TV" start-time="1794393000",Urawa vs Cerezo Osaka - Chuối Kem [HD1] — J-League Cup
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 18:00:15 11/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1648706_chuoitay" tvg-name="India vs Maldives" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134312_9e50422a.png" group-title="Chuối TV" start-time="1794389400",India vs Maldives - Chuối Tây [FHD] — SAFF Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +13,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1648033_chuoikem" tvg-name="Urawa vs Cerezo Osaka" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131431_dcdeb466.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131431_dcdeb466.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132411_05a7d523.png" group-title="Chuối TV" start-time="1794393000",Urawa vs Cerezo Osaka - Chuối Kem [FHD] — J-League Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1647357_chuoitay" tvg-name="Việt Nam vs Chinese Taipei" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png" group-title="Chuối TV" start-time="1794398400",Việt Nam vs Chinese Taipei - Chuối Tây [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -96,6 +96,21 @@ https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_2y8m4zhv361oql0" tvg-name="Kawasaki Frontale vs Kashiwa Reysol" tvg-logo="https://static.sportsfeed.pro/football/team/937795c0851c1e794e96a5cb660fcd59.png" home-logo="https://static.sportsfeed.pro/football/team/937795c0851c1e794e96a5cb660fcd59.png" away-logo="https://static.sportsfeed.pro/football/team/d272859d78eb8ca7a14753f4293fbf45.png" group-title="Gà Vàng TV" start-time="1794391200",Kawasaki Frontale vs Kashiwa Reysol - GIàng A Dân — J.League Yamazaki Biscuit Levain Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_6ypq3nhk0312md7" tvg-name="Vissel Kobe vs Machida Zelvia" tvg-logo="https://static.sportsfeed.pro/football/team/d85cce27ab583e5b3cead155f02b098a.png" home-logo="https://static.sportsfeed.pro/football/team/d85cce27ab583e5b3cead155f02b098a.png" away-logo="https://static.sportsfeed.pro/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png" group-title="Gà Vàng TV" start-time="1794391200",Vissel Kobe vs Machida Zelvia - Lữ Bố.vip — J.League Yamazaki Biscuit Levain Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_3glrw7h4w7lkqdy" tvg-name="Yokohama Marinos vs Kashima Antlers" tvg-logo="https://static.sportsfeed.pro/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png" home-logo="https://static.sportsfeed.pro/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png" away-logo="https://static.sportsfeed.pro/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png" group-title="Gà Vàng TV" start-time="1794391200",Yokohama Marinos vs Kashima Antlers - SÚP LƠ — J.League Yamazaki Biscuit Levain Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_l5ergph4g4jlr8k" tvg-name="Macau U17 vs Syria U17" tvg-logo="https://img.thesports.com/football/team/d4c4e7107042fe4563b7cff0bbc6a254.png" home-logo="https://img.thesports.com/football/team/d4c4e7107042fe4563b7cff0bbc6a254.png" away-logo="https://img.thesports.com/football/team/f078767c280598b5c49d55c3ea064068.png" group-title="Gà Vàng TV" start-time="1794396000",Macau U17 vs Syria U17 - SiêU QuậY — AFC U17 Asian Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -125,6 +140,11 @@ https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l7oqdehjn223r51" tvg-name="Bangladesh vs Sri Lanka" tvg-logo="https://img.thesports.com/football/team/f00b6379b82a515a9478b6e58b783de9.png" home-logo="https://img.thesports.com/football/team/f00b6379b82a515a9478b6e58b783de9.png" away-logo="https://img.thesports.com/football/team/4643dd49216b67d9c617ceb260e45684.png" group-title="Gà Vàng TV" start-time="1794405600",Bangladesh vs Sri Lanka - gohannguyen — SAFF Championship
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6aef22d1f72fb30b985aafbe.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19903105" tvg-name="Kawasaki Frontale vs Kashiwa Reysol" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kawasaki-frontale-3935" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kawasaki-frontale-3935" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashiwa-reysol-298" group-title="BiaomTV" start-time="1794391200",Kawasaki Frontale vs Kashiwa Reysol - SAPPORO — Cúp Nhật Bản
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -190,3 +210,8 @@ https://live05.wecile.app/live/82054853.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_527r3i3enm9t47e" tvg-name="Urawa Reds vs Cerezo Osaka" tvg-logo="https://img.cltvap.cc/football/team/ca15e36551392e8c99b53b5b2f8531d3.png!w80" home-logo="https://img.cltvap.cc/football/team/ca15e36551392e8c99b53b5b2f8531d3.png!w80" away-logo="https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="Cola TV" start-time="1794393000",Urawa Reds vs Cerezo Osaka - BLV WARRIOR — Cúp Liên đoàn Nhật Bản
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/97885009.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
