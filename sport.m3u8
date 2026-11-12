@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:00:11 13/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1644363_troctru" tvg-name="Navalcarnero vs Real Betis" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143204_bf995317.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_143204_bf995317.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png" group-title="Chuối TV" start-time="1794506400",Navalcarnero vs Real Betis - Trốc Tru [HD1] — Copa del Rey
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1545876_chuoila" tvg-name="Madagascar vs Guinea-Bissau" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_17a38444.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_17a38444.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134306_c6162edd.png" group-title="Chuối TV" start-time="1794499200",Madagascar vs Guinea-Bissau - Chuối Lá [FHD] — Africa Cup of Nations - Qualification
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 01:30:11 13/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1528958_chuoitay" tvg-name="Türkiye vs Belgium" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" group-title="Chuối TV" start-time="1794502800",Türkiye vs Belgium - Chuối Tây [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +13,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1644363_troctru" tvg-name="Navalcarnero vs Real Betis" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143204_bf995317.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_143204_bf995317.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png" group-title="Chuối TV" start-time="1794506400",Navalcarnero vs Real Betis - Trốc Tru [FHD] — Copa del Rey
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528961_chuoichao" tvg-name="Czech Republic vs Spain" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125458_7fda1723.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125458_7fda1723.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125449_8711159b.png" group-title="Chuối TV" start-time="1794512700",Czech Republic vs Spain - Chuối Chao [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -81,6 +75,16 @@ https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l7oqdehjneg4r51" tvg-name="Malta vs Swaziland" tvg-logo="https://img.thesports.com/football/team/f7eb745a5f9b3016b083019da91b5f74.png" home-logo="https://img.thesports.com/football/team/f7eb745a5f9b3016b083019da91b5f74.png" away-logo="https://img.thesports.com/football/team/56740df14eea0521419ba5fffde23269.png" group-title="Gà Vàng TV" start-time="1794504600",Malta vs Swaziland - khang hi — International Friendly
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnhny1wpm7v" tvg-name="Barcelona(w) vs Arsenal(w)" tvg-logo="https://static.sportsfeed.pro/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png" home-logo="https://static.sportsfeed.pro/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png" away-logo="https://static.sportsfeed.pro/football/team/b61190e348449a746ef3f802e7ebc701.png" group-title="Gà Vàng TV" start-time="1794505500",Barcelona(w) vs Arsenal(w) - Lá Chanh — UEFA Women's Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l7oqdehg7pe1r51" tvg-name="Cameroon vs Namibia" tvg-logo="https://img.thesports.com/football/team/e2ce14e81dba66dbff9cbc35ecfdb704.png" home-logo="https://img.thesports.com/football/team/e2ce14e81dba66dbff9cbc35ecfdb704.png" away-logo="https://img.thesports.com/football/team/247c0a953f3a082b83443b3dfccedffb.png" group-title="Gà Vàng TV" start-time="1794510000",Cameroon vs Namibia - SÚP LƠ — CAF Africa Cup of Nations
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
