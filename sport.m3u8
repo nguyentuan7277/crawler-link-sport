@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:00:09 12/11/2026
+## Cập nhật lúc: 16:30:14 12/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1649008_chuoilua" tvg-name="U23 Thailand  vs U23 Qatar" tvg-logo="https://media.chuoichientv.net/media/uploads/20250727_220754_af82f425.png" home-logo="https://media.chuoichientv.net/media/uploads/20250727_220754_af82f425.png" away-logo="https://media.chuoichientv.net/media/20250902_191040_54e0d85a.png" group-title="Chuối TV" start-time="1794470400",U23 Thailand  vs U23 Qatar - Chuối Lửa [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -104,6 +104,16 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_4jwq2ghg401em0v" tvg-name="Thailand U23 vs Qatar U23" tvg-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png" home-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png" away-logo="https://img.thesports.com/football/team/7303a103c93fea0445384d6ff3f3d1b9.png" group-title="Gà Vàng TV" start-time="1794470400",Thailand U23 vs Qatar U23 - Lữ Bố.vip — International Friendly
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_6ypq3nhk6211md7" tvg-name="A.P.I.A. Leichhardt Tigers vs Adelaide City FC" tvg-logo="https://static.sportsfeed.pro/football/team/5e7f98b3e6dba2955758797b84e94868.png" home-logo="https://static.sportsfeed.pro/football/team/5e7f98b3e6dba2955758797b84e94868.png" away-logo="https://static.sportsfeed.pro/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png" group-title="Gà Vàng TV" start-time="1794472200",A.P.I.A. Leichhardt Tigers vs Adelaide City FC - SÚP LƠ — Aus Champ
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_ednm9wh5kdewryo" tvg-name="Singapore U23 vs Vietnam U23" tvg-logo="https://img.thesports.com/football/team/bfa20d86a59044ef90a4609dde03985c.png" home-logo="https://img.thesports.com/football/team/bfa20d86a59044ef90a4609dde03985c.png" away-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png" group-title="Gà Vàng TV" start-time="1794484800",Singapore U23 vs Vietnam U23 - CRIS — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -193,11 +203,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmZ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/14830711.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_o17pji462eeiy7j" tvg-name="APIA Tigers vs Adelaide City FC" tvg-logo="https://img.cltvap.cc/football/team/5e7f98b3e6dba2955758797b84e94868.png!w80" home-logo="https://img.cltvap.cc/football/team/5e7f98b3e6dba2955758797b84e94868.png!w80" away-logo="https://img.cltvap.cc/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png!w80" group-title="Cola TV" start-time="1794472200",APIA Tigers vs Adelaide City FC - BLV BÍ ĐAO — Aus Champ
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_vmqy6sn3243fgk9" tvg-name="Adelaide 36ers vs Melbourne Tigers" tvg-logo="https://img.cltvap.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80" home-logo="https://img.cltvap.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80" away-logo="https://img.cltvap.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80" group-title="Cola TV" start-time="1794472200",Adelaide 36ers vs Melbourne Tigers - BLV Cozy — Liên đoàn Bóng rổ Quốc gia Úc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
