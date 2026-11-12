@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 19:00:10 12/11/2026
+## Cập nhật lúc: 19:30:14 12/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1649009_chuoikem" tvg-name="Singapore U23 vs U23 Vietnam " tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144421_29dc3af1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144421_29dc3af1.png" away-logo="https://media.chuoichientv.net/media/20250902_190503_cfcedb98.png" group-title="Chuối TV" start-time="1794484800",Singapore U23 vs U23 Vietnam  - Chuối Kem [HD1] — Giao Hữu Quốc Tế
+#EXTINF:-1 tvg-id="cctv_1649009_chuoikem" tvg-name="Singapore U23 vs U23 Vietnam " tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144421_29dc3af1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144421_29dc3af1.png" away-logo="https://media.chuoichientv.net/media/20250902_190503_cfcedb98.png" group-title="Chuối TV" start-time="1794484800",Singapore U23 vs U23 Vietnam  - Chuối Kem [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1648253_chuoisay" tvg-name="Hwacheon KSPO vs Gyeongju" tvg-logo="https://media.chuoichientv.net/media/20250922_095400_53ab86d3.png" home-logo="https://media.chuoichientv.net/media/20250922_095400_53ab86d3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_143036_72f0bbb2.png" group-title="Chuối TV" start-time="1794477600",Hwacheon KSPO vs Gyeongju - Chuối Sấy [FHD] — WK-League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1645400_chuoichao" tvg-name="Iceland U21 vs Greece U21" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145126_a98f2608.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145126_a98f2608.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_145125_50474a26.png" group-title="Chuối TV" start-time="1794488400",Iceland U21 vs Greece U21 - Chuối Chao [FHD] — UEFA U21 Championship - Qualification
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -92,6 +86,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_ednm9wh5kdewryo" tvg-name="Singapore U23 vs Vietnam U23" tvg-logo="https://img.thesports.com/football/team/bfa20d86a59044ef90a4609dde03985c.png" home-logo="https://img.thesports.com/football/team/bfa20d86a59044ef90a4609dde03985c.png" away-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png" group-title="Gà Vàng TV" start-time="1794484800",Singapore U23 vs Vietnam U23 - CRIS — International Friendly
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_ednm9wh5k7exryo" tvg-name="Germany U19 vs Sweden U19" tvg-logo="https://img.thesports.com/football/team/5856c2f4a854359864b18f9aed3f8874.png" home-logo="https://img.thesports.com/football/team/5856c2f4a854359864b18f9aed3f8874.png" away-logo="https://img.thesports.com/football/team/ab52d4dc33c41d54daf420eb25b404cf.png" group-title="Gà Vàng TV" start-time="1794488400",Germany U19 vs Sweden U19 - Cá MậP — UEFA European U19 Football Championship
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -107,11 +106,6 @@ https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_19902750" tvg-name="Hwacheon KSPO W vs Gyeongju W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hwacheon-kspo-w-236963" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hwacheon-kspo-w-236963" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gyeongju-w-236968" group-title="BiaomTV" start-time="1794477600",Hwacheon KSPO W vs Gyeongju W - Vịt Nướng — VĐQG Nữ Hàn Quốc
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk5MDI3NTA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOno4YmdmNTl2Z2V6YzJsaDByMGhxdXpqZg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_19905148" tvg-name="Việt Nam U23 vs Singapore U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/singapore-u23-131080" group-title="BiaomTV" start-time="1794484800",Việt Nam U23 vs Singapore U23 - HÀU NƯỚNG — Friendly International U23
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -121,11 +115,6 @@ https://cdnhls.xbdbotv.live/live/MTk5MDUxNDg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnd
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3NzYxMjg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm13OWh4cXB6M2ZnYXJobjBveHVsMjlidw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19776126" tvg-name="Masar vs Tersana" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/masar-275606" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/masar-275606" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tersana-16453" group-title="BiaomTV" start-time="1794486600",Masar vs Tersana - TÔM CHIÊN — Hạng Hai Ai Cập
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3NzYxMjY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Ondmb2Z1ZDE1a3gxbW1waXVqaDIwY3B2Ng/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19676759" tvg-name="Armenia vs Síp" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cyprus-18626" group-title="BiaomTV" start-time="1794502800",Armenia vs Síp - TÔM CHIÊN — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -176,11 +165,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Onh
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmZ0emplazVrYnR2bGc0amJya2NuOGp6dQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_l6kersm2wo9avq5" tvg-name="Incheon vs Goyang Carrot Jumpers" tvg-logo="https://img.cltvap.cc/basketball/team/64656d413393bbf84730b123a43cb876.png!w80" home-logo="https://img.cltvap.cc/basketball/team/64656d413393bbf84730b123a43cb876.png!w80" away-logo="https://img.cltvap.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="Cola TV" start-time="1794477600",Incheon vs Goyang Carrot Jumpers - BLV POCARI — Giải bóng rổ nam Hàn Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/19919577.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_oj7x6szpo5lu47g" tvg-name="Perth Wildcats vs Tasmania JackNgười Nhảy" tvg-logo="https://img.cltvap.cc/basketball/team/b967348890e26c5ca68f7d26392f5984.png!w80" home-logo="https://img.cltvap.cc/basketball/team/b967348890e26c5ca68f7d26392f5984.png!w80" away-logo="https://img.cltvap.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80" group-title="Cola TV" start-time="1794479400",Perth Wildcats vs Tasmania JackNgười Nhảy - BLV 247 — Liên đoàn Bóng rổ Quốc gia Úc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
