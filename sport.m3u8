@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:00:22 12/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1545876_chuoila" tvg-name="Madagascar vs Guinea-Bissau" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_17a38444.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_17a38444.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134306_c6162edd.png" group-title="Chuối TV" start-time="1794499200",Madagascar vs Guinea-Bissau - Chuối Lá [HD1] — Africa Cup of Nations - Qualification
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 23:30:07 12/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1545873_troctru" tvg-name="Ghana vs Somalia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134305_fd6c1ece.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134305_fd6c1ece.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144327_b1e8b10d.png" group-title="Chuối TV" start-time="1794495600",Ghana vs Somalia - Trốc Tru [FHD] — Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +13,12 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1545876_chuoila" tvg-name="Madagascar vs Guinea-Bissau" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_17a38444.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_17a38444.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134306_c6162edd.png" group-title="Chuối TV" start-time="1794499200",Madagascar vs Guinea-Bissau - Chuối Lá [FHD] — Africa Cup of Nations - Qualification
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528958_chuoitay" tvg-name="Türkiye vs Belgium" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" group-title="Chuối TV" start-time="1794502800",Türkiye vs Belgium - Chuối Tây [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
