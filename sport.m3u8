@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:00:12 13/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1545867_chuoitay" tvg-name="Cape Verde Islands vs Liberia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134309_5c16d26e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134309_5c16d26e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144327_4854cb73.png" group-title="Chuối TV" start-time="1794585600",Cape Verde Islands vs Liberia - Chuối Tây [HD1] — Africa Cup of Nations - Qualification
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 23:30:12 13/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1647361_angao" tvg-name="Saudi Arabia vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132738_952f6da3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132738_952f6da3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="Chuối TV" start-time="1794580200",Saudi Arabia vs South Korea - Chuối Già [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +13,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1545867_chuoitay" tvg-name="Cape Verde Islands vs Liberia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134309_5c16d26e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134309_5c16d26e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144327_4854cb73.png" group-title="Chuối TV" start-time="1794585600",Cape Verde Islands vs Liberia - Chuối Tây [FHD] — Africa Cup of Nations - Qualification
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1545882_chuoilua" tvg-name="South Africa vs Kenya" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_2c5424f2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_2c5424f2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134306_9a89d609.png" group-title="Chuối TV" start-time="1794585600",South Africa vs Kenya - Chuối Lửa [FHD] — Africa Cup of Nations - Qualification
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528968_chuoisay" tvg-name="Moldova vs Kazakhstan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134301_14465ab7.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134301_14465ab7.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="Chuối TV" start-time="1794589200",Moldova vs Kazakhstan - Chuối Sấy [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -80,11 +86,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_2y8m4zhv345zql0" tvg-name="United Arab Emirates vs Honduras" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png" home-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png" away-logo="https://img.thesports.com/football/team/570197ce24c78651ca363a146213ba08.png" group-title="Gà Vàng TV" start-time="1794579000",United Arab Emirates vs Honduras - GIàng A Dân — International Friendly
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_8yomo4hy751zq0j" tvg-name="Saudi Arabia vs South Korea" tvg-logo="https://img.thesports.com/football/team/344c0d0b85274807ba668a603ef5a05e.png" home-logo="https://img.thesports.com/football/team/344c0d0b85274807ba668a603ef5a05e.png" away-logo="https://img.thesports.com/football/team/a3f9a9a7e81748828ce092f0dd488479.png" group-title="Gà Vàng TV" start-time="1794580200",Saudi Arabia vs South Korea - CRIS — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -94,16 +95,6 @@ https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_y39mp1hd3dgdmoj" tvg-name="Finland U21 vs Ireland U21" tvg-logo="https://img.thesports.com/football/team/61a10e6abb1149ad9d08f303267f9bc4.png" home-logo="https://img.thesports.com/football/team/61a10e6abb1149ad9d08f303267f9bc4.png" away-logo="https://img.thesports.com/football/team/c940e50f90b9e73f42045c05d49c6e17.png" group-title="Gà Vàng TV" start-time="1794586500",Finland U21 vs Ireland U21 - RIO — UEFA European U21 Championship qualification
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_4jwq2ghg4gd1m0v" tvg-name="Kuwait vs Syria" tvg-logo="https://img.thesports.com/football/team/29a83a8a9641bb860a679d7e5ba52d26.png" home-logo="https://img.thesports.com/football/team/29a83a8a9641bb860a679d7e5ba52d26.png" away-logo="https://img.thesports.com/football/team/4c5a3c0ad7ea6b1b0643c072cf0b479a.png" group-title="Gà Vàng TV" start-time="1794587400",Kuwait vs Syria - Lucie23 — International Friendly
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19902403" tvg-name="Ả Rập Xê Út vs Hàn Quốc" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/saudi-arabia-18562" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/saudi-arabia-18562" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-republic-18567" group-title="BiaomTV" start-time="1794580200",Ả Rập Xê Út vs Hàn Quốc - NEM NƯỚNG  — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -155,11 +146,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3MTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk5MDQ0NDI6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnQ0cjUxOWQ3eWlxOWFlazR0bDAwNjNnYw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_oj7x9imr8x9t47g" tvg-name="United Arab Emirates vs Honduras" tvg-logo="https://img.cltvap.cc/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w80" home-logo="https://img.cltvap.cc/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w80" away-logo="https://img.cltvap.cc/football/team/570197ce24c78651ca363a146213ba08.png!w80" group-title="Cola TV" start-time="1794579000",United Arab Emirates vs Honduras - BLV WARRIOR — Giao hữu Quốc tế
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/97885009.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_vmqy9iyjdvrfgk9" tvg-name="Ả Rập Saudi vs Hàn Quốc" tvg-logo="https://img.cltvap.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80" home-logo="https://img.cltvap.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80" away-logo="https://img.cltvap.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="Cola TV" start-time="1794580200",Ả Rập Saudi vs Hàn Quốc - BLV REVIVE — Giao hữu Quốc tế
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -199,3 +185,18 @@ https://live05.wecile.app/live/07428422.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/18812304.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_vrqwni0o0p0u4qn" tvg-name="Phần Lan U21 vs Ireland U21" tvg-logo="https://img.cltvap.cc/football/team/61a10e6abb1149ad9d08f303267f9bc4.png!w80" home-logo="https://img.cltvap.cc/football/team/61a10e6abb1149ad9d08f303267f9bc4.png!w80" away-logo="https://img.cltvap.cc/football/team/c940e50f90b9e73f42045c05d49c6e17.png!w80" group-title="Cola TV" start-time="1794586500",Phần Lan U21 vs Ireland U21 - BLV BÍ ĐAO — Euro U21
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jek33im6mr3c9ko" tvg-name="Ba Lan U21 vs Na Uy U21" tvg-logo="https://img.cltvap.cc/football/team/9f7e7f7ffd205420b4ea54f89d501bd7.png!w80" home-logo="https://img.cltvap.cc/football/team/9f7e7f7ffd205420b4ea54f89d501bd7.png!w80" away-logo="https://img.cltvap.cc/football/team/51934729f32d36841a17e43e9390483a.png!w80" group-title="Cola TV" start-time="1794587400",Ba Lan U21 vs Na Uy U21 - BLV FANTA — Giao hữu Quốc tế
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_63kv9i6m6e0fx7e" tvg-name="Kuwait vs Syria" tvg-logo="https://img.cltvap.cc/football/team/29a83a8a9641bb860a679d7e5ba52d26.png!w80" home-logo="https://img.cltvap.cc/football/team/29a83a8a9641bb860a679d7e5ba52d26.png!w80" away-logo="https://img.cltvap.cc/football/team/4c5a3c0ad7ea6b1b0643c072cf0b479a.png!w80" group-title="Cola TV" start-time="1794587400",Kuwait vs Syria - BLV 7UP — Giao hữu Quốc tế
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/78905744.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
