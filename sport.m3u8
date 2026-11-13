@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:30:12 13/11/2026
+## Cập nhật lúc: 00:00:10 14/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1647361_angao" tvg-name="Saudi Arabia vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132738_952f6da3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132738_952f6da3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="Chuối TV" start-time="1794580200",Saudi Arabia vs South Korea - Chuối Già [FHD] — Giao Hữu Quốc Tế
+#EXTINF:-1 tvg-id="cctv_1528968_chuoisay" tvg-name="Moldova vs Kazakhstan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134301_14465ab7.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134301_14465ab7.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="Chuối TV" start-time="1794589200",Moldova vs Kazakhstan - Chuối Sấy [HD1] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1640084_chuoichao" tvg-name="Qatar vs Australia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_04ec5812.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_04ec5812.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134250_2a12c2b6.png" group-title="Chuối TV" start-time="1794581100",Qatar vs Australia - Chuối Chao [FHD] — Giao Hữu Quốc Tế
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1545867_chuoitay" tvg-name="Cape Verde Islands vs Liberia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134309_5c16d26e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134309_5c16d26e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144327_4854cb73.png" group-title="Chuối TV" start-time="1794585600",Cape Verde Islands vs Liberia - Chuối Tây [FHD] — Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,12 +19,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1528968_chuoisay" tvg-name="Moldova vs Kazakhstan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134301_14465ab7.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134301_14465ab7.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="Chuối TV" start-time="1794589200",Moldova vs Kazakhstan - Chuối Sấy [FHD] — UEFA Nations League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528966_chuoinho" tvg-name="Netherlands vs Greece" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_98ea6afc.png" group-title="Chuối TV" start-time="1794599100",Netherlands vs Greece - Chuối Nhỏ [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -91,20 +79,15 @@ https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_jw2r09h549x0rz8" tvg-name="Qatar vs Australia" tvg-logo="https://img.thesports.com/football/team/efa8ac06cc6747b1835520f01650a0ab.png" home-logo="https://img.thesports.com/football/team/efa8ac06cc6747b1835520f01650a0ab.png" away-logo="https://img.thesports.com/football/team/46901c88777c4076bcf2ea240223deed.png" group-title="Gà Vàng TV" start-time="1794581100",Qatar vs Australia - ĐOÀN DỰ — International Friendly
+#EXTINF:-1 tvg-id="gavang_n54qllhn4go4qvy" tvg-name="Serbia vs Germany" tvg-logo="https://img.thesports.com/football/team/059bbd8df7767d3bc7829e3735c221e2.png" home-logo="https://img.thesports.com/football/team/059bbd8df7767d3bc7829e3735c221e2.png" away-logo="https://img.thesports.com/football/team/761ccf19be6a4fdf81880acadb81aa4c.png" group-title="Gà Vàng TV" start-time="1794599100",Serbia vs Germany - SAITAMA — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_19902403" tvg-name="Ả Rập Xê Út vs Hàn Quốc" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/saudi-arabia-18562" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/saudi-arabia-18562" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-republic-18567" group-title="BiaomTV" start-time="1794580200",Ả Rập Xê Út vs Hàn Quốc - NEM NƯỚNG  — Giao Hữu Quốc Tế
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTINF:-1 tvg-id="gavang_zp5rzghg3vldq82" tvg-name="Slovenia vs Switzerland" tvg-logo="https://img.thesports.com/football/team/e4ba31fba036a999321d5460f7f2d1d1.png" home-logo="https://img.thesports.com/football/team/e4ba31fba036a999321d5460f7f2d1d1.png" away-logo="https://img.thesports.com/football/team/fad87ff2077540c8a951ade88a87901d.png" group-title="Gà Vàng TV" start-time="1794599100",Slovenia vs Switzerland - NGƯỜI KIẾN — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk5MDI0MDM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhtNDluYjRmNXY2a3VkZGIyaHZrdGt6eQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19883300" tvg-name="Qatar vs Úc" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/qatar-18544" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/qatar-18544" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/australia-18730" group-title="BiaomTV" start-time="1794581100",Qatar vs Úc - Vịt Nướng — Giao Hữu Quốc Tế
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk4ODMzMDA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZ6NDluMWYxaHpuOTl3eWxham9ydHExeQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19676755" tvg-name="Moldova vs Kazakhstan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/moldova-18778" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/moldova-18778" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kazakhstan-18603" group-title="BiaomTV" start-time="1794589200",Moldova vs Kazakhstan - NEM NƯỚNG  — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -146,11 +129,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3MTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk5MDQ0NDI6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnQ0cjUxOWQ3eWlxOWFlazR0bDAwNjNnYw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_vmqy9iyjdvrfgk9" tvg-name="Ả Rập Saudi vs Hàn Quốc" tvg-logo="https://img.cltvap.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80" home-logo="https://img.cltvap.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80" away-logo="https://img.cltvap.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="Cola TV" start-time="1794580200",Ả Rập Saudi vs Hàn Quốc - BLV REVIVE — Giao hữu Quốc tế
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_vrqwni4wd6wc4qn" tvg-name="Burkina Faso vs Mauritania" tvg-logo="https://img.cltvap.cc/football/team/2e667fca5e24ac13dcee94ddc4aa751a.png!w80" home-logo="https://img.cltvap.cc/football/team/2e667fca5e24ac13dcee94ddc4aa751a.png!w80" away-logo="https://img.cltvap.cc/football/team/e594b22cf15b445f7476775aa508e9c3.png!w80" group-title="Cola TV" start-time="1794585600",Burkina Faso vs Mauritania - BLV MOUNTAIN DEW — Cúp Quốc gia Châu Phi
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -176,11 +154,6 @@ https://live05.wecile.app/live/75748097.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/08552895.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_o07dnindn95fmkn" tvg-name="Thổ Nhĩ Kỳ U21 vs Cộng hòa Séc U21" tvg-logo="https://img.cltvap.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" home-logo="https://img.cltvap.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" away-logo="https://img.cltvap.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80" group-title="Cola TV" start-time="1794585600",Thổ Nhĩ Kỳ U21 vs Cộng hòa Séc U21 - BLV HỔ VẰN — Euro U21
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/07428422.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_jr7owipegn3ugq0" tvg-name="Tunisia vs ĐTQG Libya" tvg-logo="https://img.cltvap.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80" home-logo="https://img.cltvap.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80" away-logo="https://img.cltvap.cc/football/team/da97f65bd113e490a5fab20c4a69f586.png!w80" group-title="Cola TV" start-time="1794585600",Tunisia vs ĐTQG Libya - BLV AQUA — Cúp Quốc gia Châu Phi
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -200,3 +173,13 @@ https://live05.wecile.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/78905744.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jek33i8m0z0a9ko" tvg-name="ĐTQG Moldova vs ĐTQG Kazakhstan" tvg-logo="https://img.cltvap.cc/football/team/3f13cf4ddf6fc50c0d39a1d5aeb57dd8.png!w80" home-logo="https://img.cltvap.cc/football/team/3f13cf4ddf6fc50c0d39a1d5aeb57dd8.png!w80" away-logo="https://img.cltvap.cc/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80" group-title="Cola TV" start-time="1794589200",ĐTQG Moldova vs ĐTQG Kazakhstan - BLV GIÀ LÀNG — Giải vô địch bóng đá các quốc gia châu Âu
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/14830711.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_l6kegirzmr2cv75" tvg-name="Đức U21 vs Bỉ U21" tvg-logo="https://img.cltvap.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80" home-logo="https://img.cltvap.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80" away-logo="https://img.cltvap.cc/football/team/c9bf9ec823ac3ce4a4d80a3a36b08ae9.png!w80" group-title="Cola TV" start-time="1794589200",Đức U21 vs Bỉ U21 - BLV REVIVE — Giao hữu Quốc tế
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
