@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:30:07 13/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1647000_chuoikem" tvg-name="Deren vs Tuv Azarganuud" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142515_21a2fe99.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_142515_21a2fe99.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142519_2495057f.png" group-title="Chuối TV" start-time="1794556800",Deren vs Tuv Azarganuud - Chuối Kem [FHD] — Ngoại Hạng Mông Cổ
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 17:00:07 13/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1640361_angao" tvg-name="Oakleigh Cannons vs Marconi Stallions" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_fc3fb07a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_fc3fb07a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_141339_da8f4f91.png" group-title="Chuối TV" start-time="1794558600",Oakleigh Cannons vs Marconi Stallions - Chuối Già [FHD] — Australian Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,10 +116,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_zp5rzgh3jp92q82" tvg-name="Deren FC vs Tuv Buganuud" tvg-logo="https://static.sportsfeed.pro/football/team/e4f8faa800643a16387371e8f8234079.png" home-logo="https://static.sportsfeed.pro/football/team/e4f8faa800643a16387371e8f8234079.png" away-logo="https://static.sportsfeed.pro/football/team/7b518d4cb1c747a41d279221bea7ac96.png" group-title="Gà Vàng TV" start-time="1794556800",Deren FC vs Tuv Buganuud - GIàng A Dân — Mongolia Premier League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_993306_chuoilua" tvg-name="Okayama Seagulls W vs NEC Red Rockets W" tvg-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" home-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" away-logo="https://media.chuoichientv.net/media/20251016_221735_399f5cd5.png" group-title="Chuối TV" start-time="1794632700",Okayama Seagulls W vs NEC Red Rockets W - Chuối Lửa [FHD] — SV.League W
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_dj2ryoh7kdlgq1z" tvg-name="Chinese Taipei vs Kyrgyzstan" tvg-logo="https://img.thesports.com/football/team/985e51b605c92cc968c1b313eef9dd95.png" home-logo="https://img.thesports.com/football/team/985e51b605c92cc968c1b313eef9dd95.png" away-logo="https://img.thesports.com/football/team/c2ed005169a8733b7f08567778f9ea04.png" group-title="Gà Vàng TV" start-time="1794571200",Chinese Taipei vs Kyrgyzstan - ĐOÀN DỰ — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -136,6 +131,21 @@ https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyhkpvzjr1g" tvg-name="Comoros vs Congo" tvg-logo="https://img.thesports.com/football/team/b26f48bd4e40423148b0089092638919.png" home-logo="https://img.thesports.com/football/team/b26f48bd4e40423148b0089092638919.png" away-logo="https://img.thesports.com/football/team/360c19682e81f21d55846685c1701179.png" group-title="Gà Vàng TV" start-time="1794574800",Comoros vs Congo - A Long — CAF Africa Cup of Nations
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_n54qllhnv0dwqvy" tvg-name="Mozambique vs Ethiopia" tvg-logo="https://img.thesports.com/football/team/4ebcf9e1e66c0ecb1723ddb6dfdddd43.png" home-logo="https://img.thesports.com/football/team/4ebcf9e1e66c0ecb1723ddb6dfdddd43.png" away-logo="https://img.thesports.com/football/team/fac20ee3c5bc1659bc8e6ba2771c5b31.png" group-title="Gà Vàng TV" start-time="1794574800",Mozambique vs Ethiopia - MeoMeo — CAF Africa Cup of Nations
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dn1m1ghl6joemoe" tvg-name="Zambia vs Burundi" tvg-logo="https://img.thesports.com/football/team/3bb39baf42957397d3fae8e0e66b6554.png" home-logo="https://img.thesports.com/football/team/3bb39baf42957397d3fae8e0e66b6554.png" away-logo="https://img.thesports.com/football/team/4186b8943907012bd947930996fe9051.png" group-title="Gà Vàng TV" start-time="1794574800",Zambia vs Burundi - MáN NúI — CAF Africa Cup of Nations
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19902403" tvg-name="Ả Rập Xê Út vs Hàn Quốc" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/saudi-arabia-18562" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/saudi-arabia-18562" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-republic-18567" group-title="BiaomTV" start-time="1794580200",Ả Rập Xê Út vs Hàn Quốc - NEM NƯỚNG  — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -182,10 +192,10 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NTg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk2NzY3MTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmhkNHBkaXAzc3ZnOGJ1MXV3Z2JteGxlaw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_69759ir3541ugk2" tvg-name="Deren FC vs Bồ câu ở Buganut" tvg-logo="https://img.cltvap.cc/football/team/e4f8faa800643a16387371e8f8234079.png!w80" home-logo="https://img.cltvap.cc/football/team/e4f8faa800643a16387371e8f8234079.png!w80" away-logo="https://img.cltvap.cc/football/team/83e44ba57d434d8cbf781f7ee0b249bd.png!w80" group-title="Cola TV" start-time="1794556800",Deren FC vs Bồ câu ở Buganut - BLV 247 — Giải ngoại hạng Mông Cổ
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTINF:-1 tvg-id="biaom_19904442" tvg-name="Atlético Nacional vs Once Caldas" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-nacional-6597" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-nacional-6597" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/once-caldas-3547" group-title="BiaomTV" start-time="1794958200",Atlético Nacional vs Once Caldas - TEST SPORT STREAM  — Cúp Quốc Gia Colombia
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/90865415.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk5MDQ0NDI6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnQ0cjUxOWQ3eWlxOWFlazR0bDAwNjNnYw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_xvkjvszj641t8k9" tvg-name="Cairns Taipans vs Sydney" tvg-logo="https://img.cltvap.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80" home-logo="https://img.cltvap.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80" away-logo="https://img.cltvap.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" group-title="Cola TV" start-time="1794558600",Cairns Taipans vs Sydney - BLV ROCKSTAR — Liên đoàn Bóng rổ Quốc gia Úc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
