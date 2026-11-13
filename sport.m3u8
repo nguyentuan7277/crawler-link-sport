@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 19:30:10 13/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1640083_chuoisay" tvg-name="Singapore vs Paraguay" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132809_c5bb4d4f.png" group-title="Chuối TV" start-time="1794571200",Singapore vs Paraguay - Chuối Sấy [FHD] — Giao Hữu Quốc Tế
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 20:00:11 13/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1545868_chuoila" tvg-name="Comoros vs Congo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132804_f3da6d9a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132804_f3da6d9a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134307_d40d1826.png" group-title="Chuối TV" start-time="1794574800",Comoros vs Congo - Chuối Lá [FHD] — Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -14,11 +8,17 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1545879_chuoikem" tvg-name="Mozambique vs Ethiopia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_e98e556c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_e98e556c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134305_29e496f2.png" group-title="Chuối TV" start-time="1794574800",Mozambique vs Ethiopia - Chuối Kem [FHD] — Africa Cup of Nations - Qualification
+#EXTINF:-1 tvg-id="cctv_1545879_chuoikem" tvg-name="Mozambique vs Ethiopia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_e98e556c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_e98e556c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134305_29e496f2.png" group-title="Chuối TV" start-time="1794574800",Mozambique vs Ethiopia - Chuối Kem [HD1] — Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1640083_chuoisay" tvg-name="Singapore vs Paraguay" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132809_c5bb4d4f.png" group-title="Chuối TV" start-time="1794571200",Singapore vs Paraguay - Chuối Sấy [FHD] — Giao Hữu Quốc Tế
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1649542_troctru" tvg-name="Kuwait vs Syria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_9fa94ca3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_9fa94ca3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134315_50230f93.png" group-title="Chuối TV" start-time="1794578400",Kuwait vs Syria - Trốc Tru [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -110,20 +110,10 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_965mkyhkpvzjr1g" tvg-name="Comoros vs Congo" tvg-logo="https://img.thesports.com/football/team/b26f48bd4e40423148b0089092638919.png" home-logo="https://img.thesports.com/football/team/b26f48bd4e40423148b0089092638919.png" away-logo="https://img.thesports.com/football/team/360c19682e81f21d55846685c1701179.png" group-title="Gà Vàng TV" start-time="1794574800",Comoros vs Congo - A Long — CAF Africa Cup of Nations
+#EXTINF:-1 tvg-id="gavang_l5ergphk0yvyr8k" tvg-name="Singapore vs Paraguay" tvg-logo="https://img.thesports.com/football/team/bfa20d86a59044ef90a4609dde03985c.png" home-logo="https://img.thesports.com/football/team/bfa20d86a59044ef90a4609dde03985c.png" away-logo="https://img.thesports.com/football/team/e6092477694f4a62bbb63cf64ee19fe6.png" group-title="Gà Vàng TV" start-time="1794571200",Singapore vs Paraguay - SAITAMA — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_n54qllhnv0dwqvy" tvg-name="Mozambique vs Ethiopia" tvg-logo="https://img.thesports.com/football/team/4ebcf9e1e66c0ecb1723ddb6dfdddd43.png" home-logo="https://img.thesports.com/football/team/4ebcf9e1e66c0ecb1723ddb6dfdddd43.png" away-logo="https://img.thesports.com/football/team/fac20ee3c5bc1659bc8e6ba2771c5b31.png" group-title="Gà Vàng TV" start-time="1794574800",Mozambique vs Ethiopia - MeoMeo — CAF Africa Cup of Nations
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_dn1m1ghl6joemoe" tvg-name="Zambia vs Burundi" tvg-logo="https://img.thesports.com/football/team/3bb39baf42957397d3fae8e0e66b6554.png" home-logo="https://img.thesports.com/football/team/3bb39baf42957397d3fae8e0e66b6554.png" away-logo="https://img.thesports.com/football/team/4186b8943907012bd947930996fe9051.png" group-title="Gà Vàng TV" start-time="1794574800",Zambia vs Burundi - MáN NúI — CAF Africa Cup of Nations
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_2y8m4zhv345zql0" tvg-name="United Arab Emirates vs Honduras" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png" home-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png" away-logo="https://img.thesports.com/football/team/570197ce24c78651ca363a146213ba08.png" group-title="Gà Vàng TV" start-time="1794579300",United Arab Emirates vs Honduras - GIàng A Dân — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -139,6 +129,36 @@ https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y39mp1h67l97moj" tvg-name="Burkina Faso vs Mauritania" tvg-logo="https://img.thesports.com/football/team/2e667fca5e24ac13dcee94ddc4aa751a.png" home-logo="https://img.thesports.com/football/team/2e667fca5e24ac13dcee94ddc4aa751a.png" away-logo="https://img.thesports.com/football/team/e594b22cf15b445f7476775aa508e9c3.png" group-title="Gà Vàng TV" start-time="1794585600",Burkina Faso vs Mauritania - Cá MậP — CAF Africa Cup of Nations
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_3glrw7hnd8l7qdy" tvg-name="Cape Verde vs Liberia" tvg-logo="https://img.thesports.com/football/team/3367956ae5c44991af49e1e2137f415b.png" home-logo="https://img.thesports.com/football/team/3367956ae5c44991af49e1e2137f415b.png" away-logo="https://img.thesports.com/football/team/bf0377d5a3968bac5aac7a10dfff1b86.png" group-title="Gà Vàng TV" start-time="1794585600",Cape Verde vs Liberia - gohannguyen — CAF Africa Cup of Nations
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6aef22d1f72fb30b985aafbe.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnh9v7eom7v" tvg-name="Gabon vs Lesotho" tvg-logo="https://img.thesports.com/football/team/829523f3f1b3fd6b478c2cbf3e0428ae.png" home-logo="https://img.thesports.com/football/team/829523f3f1b3fd6b478c2cbf3e0428ae.png" away-logo="https://img.thesports.com/football/team/2c677b17efb13fe6ec91b3c0bb38934d.png" group-title="Gà Vàng TV" start-time="1794585600",Gabon vs Lesotho - Lữ Bố.vip — CAF Africa Cup of Nations
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4jwq2ghnl212m0v" tvg-name="Nigeria vs Tanzania" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png" home-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png" away-logo="https://img.thesports.com/football/team/0ebcdb06cf4d039f0d08b356c26bc466.png" group-title="Gà Vàng TV" start-time="1794585600",Nigeria vs Tanzania - SAITAMA — CAF Africa Cup of Nations
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_k82rekhglk8zrep" tvg-name="South Africa vs Kenya" tvg-logo="https://img.thesports.com/football/team/f5537e8960824e848e5a9bac16514483.png" home-logo="https://img.thesports.com/football/team/f5537e8960824e848e5a9bac16514483.png" away-logo="https://img.thesports.com/football/team/3b5750171f62fd9c3cd91a41ddb1ac45.png" group-title="Gà Vàng TV" start-time="1794585600",South Africa vs Kenya - SÚP LƠ — CAF Africa Cup of Nations
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_pxwrxlhyd42xryk" tvg-name="Tunisia vs Libya" tvg-logo="https://img.thesports.com/football/team/7cb09c45e2124a08ac950d31c7ebe0a6.png" home-logo="https://img.thesports.com/football/team/7cb09c45e2124a08ac950d31c7ebe0a6.png" away-logo="https://img.thesports.com/football/team/da97f65bd113e490a5fab20c4a69f586.png" group-title="Gà Vàng TV" start-time="1794585600",Tunisia vs Libya - NGƯỜI KIẾN — CAF Africa Cup of Nations
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19902403" tvg-name="Ả Rập Xê Út vs Hàn Quốc" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/saudi-arabia-18562" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/saudi-arabia-18562" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-republic-18567" group-title="BiaomTV" start-time="1794580200",Ả Rập Xê Út vs Hàn Quốc - NEM NƯỚNG  — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -199,3 +219,18 @@ https://live05.wecile.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/08552895.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o07dni5jrexfmkn" tvg-name="Comoros vs Congo" tvg-logo="https://img.cltvap.cc/football/team/b26f48bd4e40423148b0089092638919.png!w80" home-logo="https://img.cltvap.cc/football/team/b26f48bd4e40423148b0089092638919.png!w80" away-logo="https://img.cltvap.cc/football/team/360c19682e81f21d55846685c1701179.png!w80" group-title="Cola TV" start-time="1794574800",Comoros vs Congo - BLV FANTA — Cúp Quốc gia Châu Phi
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_edq09il6r9eseqx" tvg-name="Mozambique vs Ethiopia" tvg-logo="https://img.cltvap.cc/football/team/4ebcf9e1e66c0ecb1723ddb6dfdddd43.png!w80" home-logo="https://img.cltvap.cc/football/team/4ebcf9e1e66c0ecb1723ddb6dfdddd43.png!w80" away-logo="https://img.cltvap.cc/football/team/fac20ee3c5bc1659bc8e6ba2771c5b31.png!w80" group-title="Cola TV" start-time="1794574800",Mozambique vs Ethiopia - BLV MONSTER — Cúp Quốc gia Châu Phi
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_g6763i5gz0dbo7r" tvg-name="Zambia vs Burundi" tvg-logo="https://img.cltvap.cc/football/team/3bb39baf42957397d3fae8e0e66b6554.png!w80" home-logo="https://img.cltvap.cc/football/team/3bb39baf42957397d3fae8e0e66b6554.png!w80" away-logo="https://img.cltvap.cc/football/team/4186b8943907012bd947930996fe9051.png!w80" group-title="Cola TV" start-time="1794574800",Zambia vs Burundi - BLV SODA — Cúp Quốc gia Châu Phi
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/02456966.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
