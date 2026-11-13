@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:00:07 13/11/2026
+## Cập nhật lúc: 17:30:11 13/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1640361_angao" tvg-name="Oakleigh Cannons vs Marconi Stallions" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_fc3fb07a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_fc3fb07a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_141339_da8f4f91.png" group-title="Chuối TV" start-time="1794558600",Oakleigh Cannons vs Marconi Stallions - Chuối Già [FHD] — Australian Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,11 +122,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_dj2ryoh7kdlgq1z" tvg-name="Chinese Taipei vs Kyrgyzstan" tvg-logo="https://img.thesports.com/football/team/985e51b605c92cc968c1b313eef9dd95.png" home-logo="https://img.thesports.com/football/team/985e51b605c92cc968c1b313eef9dd95.png" away-logo="https://img.thesports.com/football/team/c2ed005169a8733b7f08567778f9ea04.png" group-title="Gà Vàng TV" start-time="1794571200",Chinese Taipei vs Kyrgyzstan - ĐOÀN DỰ — International Friendly
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_l5ergphk0yvyr8k" tvg-name="Singapore vs Paraguay" tvg-logo="https://img.thesports.com/football/team/bfa20d86a59044ef90a4609dde03985c.png" home-logo="https://img.thesports.com/football/team/bfa20d86a59044ef90a4609dde03985c.png" away-logo="https://img.thesports.com/football/team/e6092477694f4a62bbb63cf64ee19fe6.png" group-title="Gà Vàng TV" start-time="1794571200",Singapore vs Paraguay - SAITAMA — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -211,3 +206,8 @@ https://live05.wecile.app/live/49572724.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_wv784sx48ogioqr" tvg-name="Wonju Dongbu Promy vs Busan KTF Sonicboom" tvg-logo="https://img.cltvap.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80" home-logo="https://img.cltvap.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80" away-logo="https://img.cltvap.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80" group-title="Cola TV" start-time="1794564000",Wonju Dongbu Promy vs Busan KTF Sonicboom - BLV Cozy — Giải bóng rổ nam Hàn Quốc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/87379114.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
