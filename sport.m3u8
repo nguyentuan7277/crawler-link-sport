@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 14:00:15 14/11/2026
-
-#EXTINF:-1 tvg-id="cctv_993306_chuoilua" tvg-name="Okayama Seagulls W vs NEC Red Rockets W" tvg-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" home-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" away-logo="https://media.chuoichientv.net/media/20251016_221735_399f5cd5.png" group-title="Chuối TV" start-time="1794632700",Okayama Seagulls W vs NEC Red Rockets W - Chuối Lửa [FHD] — SV.League W
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 14:30:11 14/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1632124_chuoichao" tvg-name="Central Coast Mariners W vs Perth Glory FC W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133807_541a3f6d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133807_541a3f6d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133801_8fde6a88.png" group-title="Chuối TV" start-time="1794636000",Central Coast Mariners W vs Perth Glory FC W - Chuối Chao [FHD] — A-League Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -116,10 +110,17 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_318q66h8o065qo9" tvg-name="Vietnam U19 vs South Korea U19" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png" home-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png" away-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png" group-title="Gà Vàng TV" start-time="1794641400",Vietnam U19 vs South Korea U19 - CRIS — Panda Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1642329_troctru" tvg-name="Banfield vs Boca Juniors" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132721_1dcc44b0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132721_1dcc44b0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131432_a5a02afb.png" group-title="Chuối TV" start-time="1794693600",Banfield vs Boca Juniors - Trốc Tru [FHD] — Copa Argentina
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1492312_chuoikem" tvg-name="Chapecoense-sc vs Vasco DA Gama" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131452_31650f96.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131452_31650f96.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125538_8ea02fa1.png" group-title="Chuối TV" start-time="1794699000",Chapecoense-sc vs Vasco DA Gama - Chuối Kem [FHD] — VĐQG Brazil
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_965mkyh87gz8r1g" tvg-name="Thailand U23 vs Singapore U23" tvg-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png" home-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png" away-logo="https://img.thesports.com/football/team/bfa20d86a59044ef90a4609dde03985c.png" group-title="Gà Vàng TV" start-time="1794643200",Thailand U23 vs Singapore U23 - Lữ Bố.vip — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -135,6 +136,11 @@ https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_2y8m4zhv0xg5ql0" tvg-name="Japan vs Brazil" tvg-logo="https://img.thesports.com/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" home-logo="https://img.thesports.com/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" away-logo="https://img.thesports.com/football/team/c718af22dc754a6b8dc103901c554eb8.png" group-title="Gà Vàng TV" start-time="1794651300",Japan vs Brazil - GIàng A Dân — International Friendly
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19878000" tvg-name="Nhật Bản vs Brazil" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-18597" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-18597" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brazil-18704" group-title="BiaomTV" start-time="1794651300",Nhật Bản vs Brazil - HÀU NƯỚNG — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -210,16 +216,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3MDY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnR
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk5MDQ0NDI6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnQ0cjUxOWQ3eWlxOWFlazR0bDAwNjNnYw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_63kvlsopgxxix7e" tvg-name="KCC Egis vs Seoul Knights" tvg-logo="https://img.cltvap.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" home-logo="https://img.cltvap.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" away-logo="https://img.cltvap.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80" group-title="Cola TV" start-time="1794632400",KCC Egis vs Seoul Knights - BLV Cozy — Giải bóng rổ nam Hàn Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/87379114.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_m2q19sryz6gbek6" tvg-name="LG Sakers vs Mobis Phoebus" tvg-logo="https://img.cltvap.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80" home-logo="https://img.cltvap.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80" away-logo="https://img.cltvap.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" group-title="Cola TV" start-time="1794632400",LG Sakers vs Mobis Phoebus - BLV ROCKSTAR — Giải bóng rổ nam Hàn Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/82054853.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_l6kegirzzp8cv75" tvg-name="Bahrain vs Yemen" tvg-logo="https://img.cltvap.cc/football/team/595e32d94437adf5bde6225b77bf1e14.png!w80" home-logo="https://img.cltvap.cc/football/team/595e32d94437adf5bde6225b77bf1e14.png!w80" away-logo="https://img.cltvap.cc/football/team/aa0f9de3c3f38177051c3c8741dac037.png!w80" group-title="Cola TV" start-time="1794636000",Bahrain vs Yemen - BLV REDBULL — CFA Team China International Tournament
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
