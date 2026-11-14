@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 08:30:13 14/11/2026
+## Cập nhật lúc: 09:00:10 14/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1644692_chuoitay" tvg-name="Guatemala vs Canada" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_666d88b2.png" group-title="Chuối TV" start-time="1794621600",Guatemala vs Canada - Chuối Tây [HD1] — CONCACAF Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1640518_troctru" tvg-name="Colombia vs Chile" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132807_7f305cf9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132807_7f305cf9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132811_2544daac.png" group-title="Chuối TV" start-time="1794614400",Colombia vs Chile - Trốc Tru [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1644692_chuoitay" tvg-name="Guatemala vs Canada" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_666d88b2.png" group-title="Chuối TV" start-time="1794621600",Guatemala vs Canada - Chuối Tây [FHD] — CONCACAF Nations League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1632123_chuoisay" tvg-name="Melbourne Victory W vs Adelaide United W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133805_bcff7572.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133805_bcff7572.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133803_b1fa7a37.png" group-title="Chuối TV" start-time="1794628800",Melbourne Victory W vs Adelaide United W - Chuối Sấy [FHD] — A-League Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -126,10 +126,10 @@ https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_dn1m1gh94p53moe" tvg-name="Guatemala vs Canada" tvg-logo="https://img.thesports.com/football/team/a1d4643376bf11b37c51f5c76fcaff79.png" home-logo="https://img.thesports.com/football/team/a1d4643376bf11b37c51f5c76fcaff79.png" away-logo="https://img.thesports.com/football/team/336e1c9ab6894a3b893c1ef45235a164.png" group-title="Gà Vàng TV" start-time="1794621600",Guatemala vs Canada - MeoMeo — CONCACAF Nations League
+#EXTINF:-1 tvg-id="gavang_x7lm7phxk5j3m2w" tvg-name="Peru vs Bolivia" tvg-logo="https://img.thesports.com/football/team/77da2f07ed6c94afa27b5f113bea7ebe.png" home-logo="https://img.thesports.com/football/team/77da2f07ed6c94afa27b5f113bea7ebe.png" away-logo="https://img.thesports.com/football/team/17d0194350341e7466cd67969ac39e2e.png" group-title="Gà Vàng TV" start-time="1794618000",Peru vs Bolivia - cố tư nghiêm — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_dj2ryoh7vwdjq1z" tvg-name="South Hobart vs South Coast Wolves" tvg-logo="https://static.sportsfeed.pro/football/team/0e3a0039b80e7bce8f9273e032794495.png" home-logo="https://static.sportsfeed.pro/football/team/0e3a0039b80e7bce8f9273e032794495.png" away-logo="https://static.sportsfeed.pro/football/team/efae44ec97227dca2a2b38a19823a2f2.png" group-title="Gà Vàng TV" start-time="1794628800",South Hobart vs South Coast Wolves - KAYTI — Aus Champ
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -140,6 +140,16 @@ https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_2y8m4zh5d589ql0" tvg-name="Albirex Niigata vs Tegevajaro Miyazaki" tvg-logo="https://static.sportsfeed.pro/football/team/a4bfaa33f9e24bdb4a4952a0b4aab142.png" home-logo="https://static.sportsfeed.pro/football/team/a4bfaa33f9e24bdb4a4952a0b4aab142.png" away-logo="https://static.sportsfeed.pro/football/team/d212b444eb151871d8fbbcafa8e36658.png" group-title="Gà Vàng TV" start-time="1794632400",Albirex Niigata vs Tegevajaro Miyazaki - MáN NúI — Japanese J2 League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l7oqdehgzg49r51" tvg-name="Shonan Bellmare vs Yokohama FC" tvg-logo="https://static.sportsfeed.pro/football/team/d66d58c237a45ea74399342c59a8d8be.png" home-logo="https://static.sportsfeed.pro/football/team/d66d58c237a45ea74399342c59a8d8be.png" away-logo="https://static.sportsfeed.pro/football/team/97316a8300d28bfd97a6da0aff5dc0ea.png" group-title="Gà Vàng TV" start-time="1794632400",Shonan Bellmare vs Yokohama FC - MeoMeo — Japanese J2 League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19878000" tvg-name="Nhật Bản vs Brazil" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-18597" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-18597" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brazil-18704" group-title="BiaomTV" start-time="1794651300",Nhật Bản vs Brazil - HÀU NƯỚNG — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -250,3 +260,8 @@ https://live05.wecile.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/19919577.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_g6763ipvl12uo7r" tvg-name="Guatemala vs Canada" tvg-logo="https://img.cltvap.cc/football/team/a1d4643376bf11b37c51f5c76fcaff79.png!w80" home-logo="https://img.cltvap.cc/football/team/a1d4643376bf11b37c51f5c76fcaff79.png!w80" away-logo="https://img.cltvap.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80" group-title="Cola TV" start-time="1794621600",Guatemala vs Canada - BLV PEPSI — Liên minh bóng đá quốc gia châu Mỹ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/59444581.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
