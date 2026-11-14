@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:00:13 14/11/2026
+## Cập nhật lúc: 16:30:22 14/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1638017_chuoinho" tvg-name="India U17 vs Guam U17" tvg-logo="https://media.api-sports.io/football/teams/20528.png" home-logo="https://media.api-sports.io/football/teams/20528.png" away-logo="https://media.chuoichientv.net/media/20251123_190752_677903ce.png" group-title="Chuối TV" start-time="1794641400",India U17 vs Guam U17 - Chuối Nhỏ [HD1] — AFC U17 Asian Cup
+#EXTINF:-1 tvg-id="cctv_1638018_chuoitay" tvg-name="Indonesia U17 vs Cambodia U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145025_cf293075.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145025_cf293075.png" away-logo="https://media.chuoichientv.net/media/20251123_190431_f997e729.png" group-title="Chuối TV" start-time="1794645000",Indonesia U17 vs Cambodia U17 - Chuối Tây [HD1] — AFC U17 Asian Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1638018_chuoitay" tvg-name="Indonesia U17 vs Cambodia U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145025_cf293075.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145025_cf293075.png" away-logo="https://media.chuoichientv.net/media/20251123_190431_f997e729.png" group-title="Chuối TV" start-time="1794645000",Indonesia U17 vs Cambodia U17 - Chuối Tây [FHD] — AFC U17 Asian Cup
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1649017_chuoikem" tvg-name="U23 Thailand  vs Singapore U23" tvg-logo="https://media.chuoichientv.net/media/uploads/20250727_220754_af82f425.png" home-logo="https://media.chuoichientv.net/media/uploads/20250727_220754_af82f425.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144421_29dc3af1.png" group-title="Chuối TV" start-time="1794643200",U23 Thailand  vs Singapore U23 - Chuối Kem [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -116,11 +110,32 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cctv_1644691_chuoilua" tvg-name="Jamaica vs Mexico" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_1cfe2b5b.png" group-title="Chuối TV" start-time="1794704400",Jamaica vs Mexico - Chuối Lửa [FHD] — CONCACAF Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="cctv_1632125_chuoisay" tvg-name="Wellington Phoenix W vs Sydney FC W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133806_db6ab218.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133806_db6ab218.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133801_53d90f93.png" group-title="Chuối TV" start-time="1794704400",Wellington Phoenix W vs Sydney FC W - Chuối Sấy [FHD] — A-League Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyh87gz8r1g" tvg-name="Thailand U23 vs Singapore U23" tvg-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png" home-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png" away-logo="https://img.thesports.com/football/team/bfa20d86a59044ef90a4609dde03985c.png" group-title="Gà Vàng TV" start-time="1794643200",Thailand U23 vs Singapore U23 - Lữ Bố.vip — International Friendly
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_ednm9wh58jelryo" tvg-name="Bayswater City vs Sydney Olympic" tvg-logo="https://static.sportsfeed.pro/football/team/15809b305455c1e964ccd454cc180e51.png" home-logo="https://static.sportsfeed.pro/football/team/15809b305455c1e964ccd454cc180e51.png" away-logo="https://static.sportsfeed.pro/football/team/d4a819a35678fd3d1c1f3e45c16f00b5.png" group-title="Gà Vàng TV" start-time="1794645000",Bayswater City vs Sydney Olympic - Lá Chanh — Aus Champ
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dn1m1gh94kv9moe" tvg-name="Oman vs Tajikistan" tvg-logo="https://img.thesports.com/football/team/500739868ce9f7f0857260404eab4d41.png" home-logo="https://img.thesports.com/football/team/500739868ce9f7f0857260404eab4d41.png" away-logo="https://img.thesports.com/football/team/79d0360cd882c01f1ac008b3bb85feb3.png" group-title="Gà Vàng TV" start-time="1794646800",Oman vs Tajikistan - Lucie23 — Thai King's Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_2y8m4zhv0xg5ql0" tvg-name="Japan vs Brazil" tvg-logo="https://img.thesports.com/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" home-logo="https://img.thesports.com/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" away-logo="https://img.thesports.com/football/team/c718af22dc754a6b8dc103901c554eb8.png" group-title="Gà Vàng TV" start-time="1794651300",Japan vs Brazil - GIàng A Dân — International Friendly
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -141,6 +156,16 @@ https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_8yomo4hy735dq0j" tvg-name="Spain U19 vs Wales U19" tvg-logo="https://img.thesports.com/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png" home-logo="https://img.thesports.com/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png" away-logo="https://img.thesports.com/football/team/dc7d0b99422eae4c9ab4d1f02f8da990.png" group-title="Gà Vàng TV" start-time="1794659400",Spain U19 vs Wales U19 - SÚP LƠ — UEFA European U19 Football Championship
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4wyrn4hy80zwq86" tvg-name="Thailand vs Brunei Darussalam" tvg-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png" home-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png" away-logo="https://img.thesports.com/football/team/10d4b366f410a1275f7b684f07a28456.png" group-title="Gà Vàng TV" start-time="1794659400",Thailand vs Brunei Darussalam - GIàng A Dân — Thai King's Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19878000" tvg-name="Nhật Bản vs Brazil" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-18597" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-18597" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brazil-18704" group-title="BiaomTV" start-time="1794651300",Nhật Bản vs Brazil - HÀU NƯỚNG — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
