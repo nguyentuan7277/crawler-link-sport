@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 01:00:14 16/11/2026
+## Cập nhật lúc: 01:30:13 16/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1528980_chuoila" tvg-name="Belarus vs Albania" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_e6d1f34c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_e6d1f34c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125504_b2d2226a.png" group-title="Chuối TV" start-time="1794762000",Belarus vs Albania - Chuối Lá [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -132,6 +132,11 @@ https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_k82rekhg46x2rep" tvg-name="Eibar vs Cadiz CF" tvg-logo="https://static.sportsfeed.pro/football/team/230be7f4f23de1cb08877a72cd08f619.png" home-logo="https://static.sportsfeed.pro/football/team/230be7f4f23de1cb08877a72cd08f619.png" away-logo="https://static.sportsfeed.pro/football/team/13ad117ddb310052841244f0d1ed3c1e.png" group-title="Gà Vàng TV" start-time="1794763800",Eibar vs Cadiz CF - RIO — Spanish Segunda Division
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_zp5rzgh3j5dlq82" tvg-name="Danubio FC vs Liverpool URU" tvg-logo="https://static.sportsfeed.pro/football/team/160c9f3f589e2fb4578e984d2e692d18.png" home-logo="https://static.sportsfeed.pro/football/team/160c9f3f589e2fb4578e984d2e692d18.png" away-logo="https://static.sportsfeed.pro/football/team/051be0a9b61dedb583315fb75eaa8308.png" group-title="Gà Vàng TV" start-time="1794771000",Danubio FC vs Liverpool URU - A Long — Uruguay Primera Division
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -257,11 +262,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NTE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Omp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk5MDQ0NDI6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnQ0cjUxOWQ3eWlxOWFlazR0bDAwNjNnYw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_8lk2dir203yuz73" tvg-name="Arsenal Nữ vs London City Lionesses Nữ" tvg-logo="https://img.cltvap.cc/football/team/b61190e348449a746ef3f802e7ebc701.png!w80" home-logo="https://img.cltvap.cc/football/team/b61190e348449a746ef3f802e7ebc701.png!w80" away-logo="https://img.cltvap.cc/football/team/110b5fa77f9d385267a1a06b5319791d.png!w80" group-title="Cola TV" start-time="1794760200",Arsenal Nữ vs London City Lionesses Nữ - BLV TEPPY — Hạng Nhất nữ Anh
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_63kv9ig6n1lcx7e" tvg-name="Belarus vs Đội tuyển QG Albania" tvg-logo="https://img.cltvap.cc/football/team/447d5c2ba3e790ec434c0bee994095ed.png!w80" home-logo="https://img.cltvap.cc/football/team/447d5c2ba3e790ec434c0bee994095ed.png!w80" away-logo="https://img.cltvap.cc/football/team/848ef33f5e745846994a756f211e530b.png!w80" group-title="Cola TV" start-time="1794762000",Belarus vs Đội tuyển QG Albania - BLV MONSTER — Giải vô địch bóng đá các quốc gia châu Âu
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -291,11 +291,6 @@ https://live05.wecile.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/14707124.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_jr7owiy6pp1ugq0" tvg-name="Deportivo Moron vs Colegiales" tvg-logo="https://img.cltvap.cc/football/team/f772b20418c5809e65bf731740e235e4.png!w80" home-logo="https://img.cltvap.cc/football/team/f772b20418c5809e65bf731740e235e4.png!w80" away-logo="https://img.cltvap.cc/football/team/d22566a52f9dc6784a88e3f1f1685231.png!w80" group-title="Cola TV" start-time="1794765600",Deportivo Moron vs Colegiales - BLV FANTA — Giải bóng đá Hạng nhì Argentina
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_vrqwni4pnp3i4qn" tvg-name="Leixoes S.C. vs Chaves" tvg-logo="https://img.cltvap.cc/football/team/28da4be2e01d4db90e8fce3769d9ccb9.png!w80" home-logo="https://img.cltvap.cc/football/team/28da4be2e01d4db90e8fce3769d9ccb9.png!w80" away-logo="https://img.cltvap.cc/football/team/8d44ba3c0bbe2a8f6535aa75e9867b38.png!w80" group-title="Cola TV" start-time="1794765600",Leixoes S.C. vs Chaves - BLV RỒNG ĐỎ — Giải hạng Hai Bồ Đào Nha
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
