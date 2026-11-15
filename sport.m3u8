@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 02:00:12 16/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1570016_chuoilua" tvg-name="Eibar vs Cadiz" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133417_e08f5e1d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133417_e08f5e1d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133420_1ffc8b38.png" group-title="Chuối TV" start-time="1794763800",Eibar vs Cadiz - Chuối Lửa [FHD] — La Liga 2
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1528983_troctru" tvg-name="Belgium vs Italy" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" group-title="Chuối TV" start-time="1794771900",Belgium vs Italy - Trốc Tru [FHD] — UEFA Nations League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 02:30:18 16/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1528985_angao" tvg-name="Croatia vs Czech Republic" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125448_7dd16e8b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125448_7dd16e8b.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125458_7fda1723.png" group-title="Chuối TV" start-time="1794771900",Croatia vs Czech Republic - Chuối Già [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -116,6 +104,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cctv_1545617_angao" tvg-name="Iceland vs Luxembourg" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134250_a98f2608.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134250_a98f2608.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134257_a3d4a06c.png" group-title="Chuối TV" start-time="1794848400",Iceland vs Luxembourg - Chuối Già [FHD] — UEFA Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="cctv_1528989_troctru" tvg-name="Lithuania vs Liechtenstein" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134404_356d2f93.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134404_356d2f93.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134259_454f127d.png" group-title="Chuối TV" start-time="1794848400",Lithuania vs Liechtenstein - Trốc Tru [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -127,20 +121,15 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_k82rekhg46x2rep" tvg-name="Eibar vs Cadiz CF" tvg-logo="https://static.sportsfeed.pro/football/team/230be7f4f23de1cb08877a72cd08f619.png" home-logo="https://static.sportsfeed.pro/football/team/230be7f4f23de1cb08877a72cd08f619.png" away-logo="https://static.sportsfeed.pro/football/team/13ad117ddb310052841244f0d1ed3c1e.png" group-title="Gà Vàng TV" start-time="1794763800",Eibar vs Cadiz CF - RIO — Spanish Segunda Division
+#EXTINF:-1 tvg-id="gavang_1l4rjnh9no8pm7v" tvg-name="Finland vs San Marino" tvg-logo="https://img.thesports.com/football/team/3c0b84f6c8ee0d929021de10cbb8cc69.png" home-logo="https://img.thesports.com/football/team/3c0b84f6c8ee0d929021de10cbb8cc69.png" away-logo="https://img.thesports.com/football/team/9bdc3efe2bdc1946dbb253b2d101b484.png" group-title="Gà Vàng TV" start-time="1794762000",Finland vs San Marino - SAITAMA — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_y39mp1h6gjg4moj" tvg-name="Leixoes vs GD Chaves" tvg-logo="https://static.sportsfeed.pro/football/team/28da4be2e01d4db90e8fce3769d9ccb9.png" home-logo="https://static.sportsfeed.pro/football/team/28da4be2e01d4db90e8fce3769d9ccb9.png" away-logo="https://static.sportsfeed.pro/football/team/8d44ba3c0bbe2a8f6535aa75e9867b38.png" group-title="Gà Vàng TV" start-time="1794765600",Leixoes vs GD Chaves - khang hi — Liga Portugal 2
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_zp5rzgh3j5dlq82" tvg-name="Danubio FC vs Liverpool URU" tvg-logo="https://static.sportsfeed.pro/football/team/160c9f3f589e2fb4578e984d2e692d18.png" home-logo="https://static.sportsfeed.pro/football/team/160c9f3f589e2fb4578e984d2e692d18.png" away-logo="https://static.sportsfeed.pro/football/team/051be0a9b61dedb583315fb75eaa8308.png" group-title="Gà Vàng TV" start-time="1794771000",Danubio FC vs Liverpool URU - A Long — Uruguay Primera Division
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_n54qllhn4gl4qvy" tvg-name="Belgium vs Italy" tvg-logo="https://img.thesports.com/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" home-logo="https://img.thesports.com/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" away-logo="https://img.thesports.com/football/team/775bc655c77d679c193f1982dac04668.png" group-title="Gà Vàng TV" start-time="1794771900",Belgium vs Italy - GIàng A Dân — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -251,16 +240,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NTE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Omp
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk5MDQ0NDI6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnQ0cjUxOWQ3eWlxOWFlazR0bDAwNjNnYw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_ndqmliwvg89srkv" tvg-name="CLB Eibar vs Cadiz CF" tvg-logo="https://img.cltvap.cc/football/team/230be7f4f23de1cb08877a72cd08f619.png!w80" home-logo="https://img.cltvap.cc/football/team/230be7f4f23de1cb08877a72cd08f619.png!w80" away-logo="https://img.cltvap.cc/football/team/13ad117ddb310052841244f0d1ed3c1e.png!w80" group-title="Cola TV" start-time="1794763800",CLB Eibar vs Cadiz CF - BLV WARRIOR — Giải bóng đá Hạng nhì Tây Ban Nha
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/97885009.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_j374oi0mw36sgqo" tvg-name="Eldense vs CLB Sabadell" tvg-logo="https://img.cltvap.cc/football/team/1d6e461df015562ab49d5b6af780d256.png!w80" home-logo="https://img.cltvap.cc/football/team/1d6e461df015562ab49d5b6af780d256.png!w80" away-logo="https://img.cltvap.cc/football/team/dbebac8d5d7acc080bfddf620a56e213.png!w80" group-title="Cola TV" start-time="1794763800",Eldense vs CLB Sabadell - BLV 7UP — Giải bóng đá Hạng nhì Tây Ban Nha
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/78905744.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_m2q15i828ddfe76" tvg-name="CLB Leones Univ Guadalajara vs Atl. Morelia" tvg-logo="https://img.cltvap.cc/football/team/eb8a697bd6aece4f1b4162bfc47d2595.png!w80" home-logo="https://img.cltvap.cc/football/team/eb8a697bd6aece4f1b4162bfc47d2595.png!w80" away-logo="https://img.cltvap.cc/football/team/1cd995bdc2b652d31129d027afb27ed8.png!w80" group-title="Cola TV" start-time="1794765600",CLB Leones Univ Guadalajara vs Atl. Morelia - BLV MOUNTAIN DEW — Giải hạng hai Mexico
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
