@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 08:00:14 16/11/2026
+## Cập nhật lúc: 08:30:06 16/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1649469_chuoitay" tvg-name="Monterrey W vs Pachuca W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143656_1a6867bd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_143656_1a6867bd.png" away-logo="https://media.chuoichientv.net/media/20250825_181103_1c996e64.png" group-title="Chuối TV" start-time="1794790800",Monterrey W vs Pachuca W - Chuối Tây [HD1] — Nữ Mexico
+#EXTINF:-1 tvg-id="cctv_1649469_chuoitay" tvg-name="Monterrey W vs Pachuca W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143656_1a6867bd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_143656_1a6867bd.png" away-logo="https://media.chuoichientv.net/media/20250825_181103_1c996e64.png" group-title="Chuối TV" start-time="1794790800",Monterrey W vs Pachuca W - Chuối Tây [FHD] — Nữ Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1649470_chuoisay" tvg-name="Piratas FC vs América W" tvg-logo="https://media.chuoichientv.net/media/20261106_011319_f53708fb.png" home-logo="https://media.chuoichientv.net/media/20261106_011319_f53708fb.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_143651_2226422e.png" group-title="Chuối TV" start-time="1794798600",Piratas FC vs América W - Chuối Sấy [FHD] — Nữ Mexico
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -176,11 +176,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NTE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Omp
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk5MDQ0NDI6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnQ0cjUxOWQ3eWlxOWFlazR0bDAwNjNnYw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_8lk2ys6zyzoaz73" tvg-name="Đội bóng rổ Boston Celtics vs Dallas Mavericks" tvg-logo="https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80" home-logo="https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80" away-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80" group-title="Cola TV" start-time="1794783600",Đội bóng rổ Boston Celtics vs Dallas Mavericks - BLV 247 — Hiệp hội Bóng rổ Quốc gia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/90865415.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_jek3psd414ou9qo" tvg-name="Washington Wizards vs Houston Rockets" tvg-logo="https://img.cltvap.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" home-logo="https://img.cltvap.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" away-logo="https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="Cola TV" start-time="1794787200",Washington Wizards vs Houston Rockets - BLV TARZAAN — Hiệp hội Bóng rổ Quốc gia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
