@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 22:00:14 16/11/2026
+## Cập nhật lúc: 22:30:08 16/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1545909_chuoichao" tvg-name="Zimbabwe vs Equatorial Guinea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132803_57bcecf2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132803_57bcecf2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132803_2272f36e.png" group-title="Chuối TV" start-time="1794834000",Zimbabwe vs Equatorial Guinea - Chuối Chao [FHD] — Africa Cup of Nations - Qualification
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528987_troctru" tvg-name="Faroe Islands vs Moldova" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_66f3bf83.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_66f3bf83.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134301_14465ab7.png" group-title="Chuối TV" start-time="1794841200",Faroe Islands vs Moldova - Trốc Tru [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,18 +25,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1545906_troctru" tvg-name="Sudan vs Senegal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_2de225c1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_2de225c1.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132755_ee492ea1.png" group-title="Chuối TV" start-time="1794834000",Sudan vs Senegal - Trốc Tru [FHD] — Africa Cup of Nations - Qualification
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1545909_chuoichao" tvg-name="Zimbabwe vs Equatorial Guinea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132803_57bcecf2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132803_57bcecf2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132803_2272f36e.png" group-title="Chuối TV" start-time="1794834000",Zimbabwe vs Equatorial Guinea - Chuối Chao [FHD] — Africa Cup of Nations - Qualification
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1545888_chuoila" tvg-name="Central African Republic vs Benin" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134308_41a76964.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134308_41a76964.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132802_a5a9840e.png" group-title="Chuối TV" start-time="1794844800",Central African Republic vs Benin - Chuối Lá [FHD] — Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -97,11 +91,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_318q66hxlenoqo9" tvg-name="Namibia vs Cameroon" tvg-logo="https://img.thesports.com/football/team/247c0a953f3a082b83443b3dfccedffb.png" home-logo="https://img.thesports.com/football/team/247c0a953f3a082b83443b3dfccedffb.png" away-logo="https://img.thesports.com/football/team/e2ce14e81dba66dbff9cbc35ecfdb704.png" group-title="Gà Vàng TV" start-time="1794834000",Namibia vs Cameroon - RIO — CAF Africa Cup of Nations
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_l5ergph4g12er8k" tvg-name="Sudan vs Senegal" tvg-logo="https://img.thesports.com/football/team/a23156abfd4a114c35b930b836064e8b.png" home-logo="https://img.thesports.com/football/team/a23156abfd4a114c35b930b836064e8b.png" away-logo="https://img.thesports.com/football/team/cb23b861bbdc4d258313dd94efca7493.png" group-title="Gà Vàng TV" start-time="1794834000",Sudan vs Senegal - CRIS — CAF Africa Cup of Nations
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -177,11 +166,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NTE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Omp
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk5MDQ0NDI6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnQ0cjUxOWQ3eWlxOWFlazR0bDAwNjNnYw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_l6kegi8l21pfv75" tvg-name="Sudan vs Senegal" tvg-logo="https://img.cltvap.cc/football/team/a23156abfd4a114c35b930b836064e8b.png!w80" home-logo="https://img.cltvap.cc/football/team/a23156abfd4a114c35b930b836064e8b.png!w80" away-logo="https://img.cltvap.cc/football/team/863907225a3fb211eaa3afae27572869.png!w80" group-title="Cola TV" start-time="1794834000",Sudan vs Senegal - BLV REVIVE — Cúp Quốc gia Châu Phi
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_vrqwni4x04jb4qn" tvg-name="Ý U20 vs Thụy Sĩ U20" tvg-logo="https://img.cltvap.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" home-logo="https://img.cltvap.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" away-logo="https://img.cltvap.cc/football/team/4402fbc939277321386d11fd427eb2b6.png!w80" group-title="Cola TV" start-time="1794837600",Ý U20 vs Thụy Sĩ U20 - BLV RỒNG ĐỎ — Elite League U20
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
