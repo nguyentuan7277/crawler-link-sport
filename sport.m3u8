@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:00:13 16/11/2026
+## Cập nhật lúc: 20:30:13 16/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1545909_chuoichao" tvg-name="Zimbabwe vs Equatorial Guinea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132803_57bcecf2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132803_57bcecf2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132803_2272f36e.png" group-title="Chuối TV" start-time="1794834000",Zimbabwe vs Equatorial Guinea - Chuối Chao [FHD] — Africa Cup of Nations - Qualification
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1545900_chuoilua" tvg-name="Namibia vs Cameroon" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134303_b3f7dbb4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134303_b3f7dbb4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_572f7fa8.png" group-title="Chuối TV" start-time="1794834000",Namibia vs Cameroon - Chuối Lửa [FHD] — Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -13,12 +19,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1545909_chuoichao" tvg-name="Zimbabwe vs Equatorial Guinea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132803_57bcecf2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132803_57bcecf2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132803_2272f36e.png" group-title="Chuối TV" start-time="1794834000",Zimbabwe vs Equatorial Guinea - Chuối Chao [FHD] — Africa Cup of Nations - Qualification
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528987_chuoitay" tvg-name="Faroe Islands vs Moldova" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_66f3bf83.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_66f3bf83.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134301_14465ab7.png" group-title="Chuối TV" start-time="1794841200",Faroe Islands vs Moldova - Chuối Tây [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -183,11 +183,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NTE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Omp
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk5MDQ0NDI6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnQ0cjUxOWQ3eWlxOWFlazR0bDAwNjNnYw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_zrknxs5z3mpuwql" tvg-name="Shanxi Xing Rui Nữ vs Hefei Culture and Tourism Women's" tvg-logo="https://img.cltvap.cc/basketball/team/3afdfda57ca6ef4d3d875f098902f58f.png!w80" home-logo="https://img.cltvap.cc/basketball/team/3afdfda57ca6ef4d3d875f098902f58f.png!w80" away-logo="https://img.cltvap.cc/basketball/team/n1c29ee5db33794e61fb8eb067fd8921c.png!w80" group-title="Cola TV" start-time="1794828600",Shanxi Xing Rui Nữ vs Hefei Culture and Tourism Women's - BLV 247 — Giải bóng rổ nữ Trung Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/90865415.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_oj7x9ix5168b47g" tvg-name="Bor 1919 vs Semendria 1924" tvg-logo="https://img.cltvap.cc/football/team/83f08380c7ca9df5cf05fe86f423ca34.png!w80" home-logo="https://img.cltvap.cc/football/team/83f08380c7ca9df5cf05fe86f423ca34.png!w80" away-logo="https://img.cltvap.cc/football/team/d9ae56f63b122c74872ff70542ed3c2b.png!w80" group-title="Cola TV" start-time="1794830400",Bor 1919 vs Semendria 1924 - BLV 7UP — Giải hạng nhất quốc gia Serbia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
