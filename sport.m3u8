@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 06:30:11 17/11/2026
+## Cập nhật lúc: 07:00:15 17/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1649033_chuoisay" tvg-name="Martinique vs Aruba" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134321_e60db733.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134321_e60db733.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134322_afd6712d.png" group-title="Chuối TV" start-time="1794873600",Martinique vs Aruba - Chuối Sấy [FHD] — CONCACAF Nations League
+#EXTINF:-1 tvg-id="cctv_1649033_chuoisay" tvg-name="Martinique vs Aruba" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134321_e60db733.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134321_e60db733.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134322_afd6712d.png" group-title="Chuối TV" start-time="1794873600",Martinique vs Aruba - Chuối Sấy [HD1] — CONCACAF Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1644694_chuoila" tvg-name="Canada vs Guatemala" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_666d88b2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_666d88b2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" group-title="Chuối TV" start-time="1794877200",Canada vs Guatemala - Chuối Lá [FHD] — CONCACAF Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -134,6 +134,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_4jwq2ghg4e5lm0v" tvg-name="Montevideo Wanderers FC vs CA Juventud" tvg-logo="https://static.sportsfeed.pro/football/team/08ba7292cb615ed5b17fa7636854c43a.png" home-logo="https://static.sportsfeed.pro/football/team/08ba7292cb615ed5b17fa7636854c43a.png" away-logo="https://static.sportsfeed.pro/football/team/928b41b8c6f948cf8b1f515d4b301b80.png" group-title="Gà Vàng TV" start-time="1794870000",Montevideo Wanderers FC vs CA Juventud - cố tư nghiêm — Uruguay Primera Division
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_jw2r09h5l6eprz8" tvg-name="Canada vs Guatemala" tvg-logo="https://img.thesports.com/football/team/336e1c9ab6894a3b893c1ef45235a164.png" home-logo="https://img.thesports.com/football/team/336e1c9ab6894a3b893c1ef45235a164.png" away-logo="https://img.thesports.com/football/team/a1d4643376bf11b37c51f5c76fcaff79.png" group-title="Gà Vàng TV" start-time="1794877200",Canada vs Guatemala - KAYTI — CONCACAF Nations League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -218,3 +223,8 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NDk6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJ
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk5MDQ0NDI6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnQ0cjUxOWQ3eWlxOWFlazR0bDAwNjNnYw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ndqmrs3ege5irkv" tvg-name="Đội bóng rổ Boston Celtics vs Orlando Magic" tvg-logo="https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80" home-logo="https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80" away-logo="https://img.cltvap.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="Cola TV" start-time="1794873600",Đội bóng rổ Boston Celtics vs Orlando Magic - BLV TARZAAN — Hiệp hội Bóng rổ Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/56998120.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
