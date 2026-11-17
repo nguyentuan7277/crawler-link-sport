@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:00:26 18/11/2026
+## Cập nhật lúc: 00:30:20 18/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1645405_chuoinho" tvg-name="Netherlands U21 vs Denmark U21" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134327_7753876d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134327_7753876d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134325_4487c0dd.png" group-title="Chuối TV" start-time="1794936600",Netherlands U21 vs Denmark U21 - Chuối Nhỏ [FHD] — UEFA U21 Championship - Qualification
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1647370_chuoikem" tvg-name="Saudi Arabia vs Uzbekistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132738_952f6da3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132738_952f6da3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_7ff7b895.png" group-title="Chuối TV" start-time="1794929400",Saudi Arabia vs Uzbekistan - Chuối Kem [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,12 +31,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1645405_chuoinho" tvg-name="Netherlands U21 vs Denmark U21" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134327_7753876d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134327_7753876d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134325_4487c0dd.png" group-title="Chuối TV" start-time="1794936600",Netherlands U21 vs Denmark U21 - Chuối Nhỏ [FHD] — UEFA U21 Championship - Qualification
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1528993_troctru" tvg-name="Denmark vs Norway" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250715_194710_e484b2d5.png" group-title="Chuối TV" start-time="1794944700",Denmark vs Norway - Trốc Tru [FHD] — UEFA Nations League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -62,7 +62,7 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1649489_chuoichao" tvg-name="Atletico Nacional vs Once Caldas" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_9251abf9.png" group-title="Chuối TV" start-time="1794958200",Atletico Nacional vs Once Caldas - Chuối Chao [FHD] — Cúp Colombia
+#EXTINF:-1 tvg-id="cctv_1647373_chuoichao" tvg-name="Ecuador vs Bolivia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_f9268071.png" group-title="Chuối TV" start-time="1794958200",Ecuador vs Bolivia - Chuối Chao [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
@@ -193,11 +193,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NDk6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk5MDQ0NDI6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnQ0cjUxOWQ3eWlxOWFlazR0bDAwNjNnYw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_ndqmli9x5wltrkv" tvg-name="Ả Rập Saudi vs Uzbekistan" tvg-logo="https://img.cltvap.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80" home-logo="https://img.cltvap.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80" away-logo="https://img.cltvap.cc/football/team/effa571bc3ca24dd7d1f2513bf849a52.png!w80" group-title="Cola TV" start-time="1794929400",Ả Rập Saudi vs Uzbekistan - BLV HỔ VẰN — Giao hữu Quốc tế
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/07428422.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_g6763ipvpjoto7r" tvg-name="Cộng hòa Séc U21 vs Thổ Nhĩ Kỳ U21" tvg-logo="https://img.cltvap.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80" home-logo="https://img.cltvap.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80" away-logo="https://img.cltvap.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="Cola TV" start-time="1794931200",Cộng hòa Séc U21 vs Thổ Nhĩ Kỳ U21 - BLV AQUA — Euro U21
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -253,7 +248,7 @@ https://live05.wecile.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/14707124.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_o17p8syw0nmsykj" tvg-name="cabi Electra Tel Aviv vs Olympiacos Piraeus" tvg-logo="https://img.cltvap.cc/basketball/team/7ee25ad1863a6d376abebd6013c03cab.png!w80" home-logo="https://img.cltvap.cc/basketball/team/7ee25ad1863a6d376abebd6013c03cab.png!w80" away-logo="https://img.cltvap.cc/basketball/team/e713068dda3d8da9f9872e61a850a142.png!w80" group-title="Cola TV" start-time="1794934800",cabi Electra Tel Aviv vs Olympiacos Piraeus - BLV LIPTON — EuroLeague
+#EXTINF:-1 tvg-id="cola_ezk96ijnj91i1kn" tvg-name="Hà Lan U21 vs Đội tuyển U21 Đan Mạch" tvg-logo="https://img.cltvap.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80" home-logo="https://img.cltvap.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80" away-logo="https://img.cltvap.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80" group-title="Cola TV" start-time="1794936600",Hà Lan U21 vs Đội tuyển U21 Đan Mạch - BLV MONSTER — Euro U21
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/89756030.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
