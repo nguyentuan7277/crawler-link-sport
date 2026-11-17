@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:00:14 17/11/2026
+## Cập nhật lúc: 18:30:07 17/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1640087_chuoichao" tvg-name="Singapore vs Brazil" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png" group-title="Chuối TV" start-time="1794909600",Singapore vs Brazil - Chuối Chao [FHD] — Giao Hữu Quốc Tế
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -133,11 +133,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzgwMDI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnZmb3Y0OTV0M2FjNmc3cXhwMXg3enZpcA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_19886623" tvg-name="Hungary U19 vs Cộng hòa Séc U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-u19-133739" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-u19-133739" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/czech-republic-u19-59617" group-title="BiaomTV" start-time="1794913200",Hungary U19 vs Cộng hòa Séc U19 - Vịt Nướng — Euro U19
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk4ODY2MjM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOndzcWNlNnlzNXNxaDQ4Mno0NnlnaXp0OQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_19886622" tvg-name="Hà Lan U19 vs Croatia U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-u19-24942" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-u19-24942" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/croatia-u19-138747" group-title="BiaomTV" start-time="1794913200",Hà Lan U19 vs Croatia U19 - TÔM CHIÊN — Euro U19
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -217,3 +212,8 @@ https://live05.wecile.app/live/56998120.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/14707124.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_l6kegirzxw9bv75" tvg-name="Trung Quốc U19 vs Hàn Quốc U19" tvg-logo="https://img.cltvap.cc/football/team/367ba92bc85435312f1074132e9e2ce8.png!w80" home-logo="https://img.cltvap.cc/football/team/367ba92bc85435312f1074132e9e2ce8.png!w80" away-logo="https://img.cltvap.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="Cola TV" start-time="1794915300",Trung Quốc U19 vs Hàn Quốc U19 - BLV RỒNG ĐỎ — Panda Cup
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/88508431.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
