@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 19:00:21 18/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1639359_chuoikem" tvg-name="Pusamania Borneo vs Manila Digger" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_2456a9ca.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_2456a9ca.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142522_ade6ad2d.png" group-title="Chuối TV" start-time="1795003200",Pusamania Borneo vs Manila Digger - Chuối Kem [FHD] — ASEAN Club Championship
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 19:30:20 18/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1554065_chuoitay" tvg-name="TP. Hồ Chí Minh vs Buriram United" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" home-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131733_ebcabb99.png" group-title="Chuối TV" start-time="1794999600",TP. Hồ Chí Minh vs Buriram United - Chuối Tây [FHD] — ASEAN Club Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +13,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1639359_chuoikem" tvg-name="Pusamania Borneo vs Manila Digger" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_2456a9ca.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_2456a9ca.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142522_ade6ad2d.png" group-title="Chuối TV" start-time="1795003200",Pusamania Borneo vs Manila Digger - Chuối Kem [FHD] — ASEAN Club Championship
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1604054_chuoilua" tvg-name="Al-Adalah vs Al Orubah" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134010_2ba0198f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134010_2ba0198f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134006_a5084e10.png" group-title="Chuối TV" start-time="1795012200",Al-Adalah vs Al Orubah - Chuối Lửa [FHD] — Hạng Nhất Ả Rập
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -92,11 +92,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_ednm9whwn19yryo" tvg-name="Cerezo Osaka Sakai(w) vs Urawa Red Diamonds(w)" tvg-logo="https://static.sportsfeed.pro/football/team/e3eeed340658b68dc6b1cc2997997954.png" home-logo="https://static.sportsfeed.pro/football/team/e3eeed340658b68dc6b1cc2997997954.png" away-logo="https://static.sportsfeed.pro/football/team/6c1b75505526d9880a79788587648649.png" group-title="Gà Vàng TV" start-time="1794994200",Cerezo Osaka Sakai(w) vs Urawa Red Diamonds(w) - CRIS — Women Empowerment League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_l7oqdehg7g9dr51" tvg-name="CLB TPHCM vs Buriram United" tvg-logo="https://static.sportsfeed.pro/football/team/99dd3ac7267c0e3870d9ad785e6f9661.png" home-logo="https://static.sportsfeed.pro/football/team/99dd3ac7267c0e3870d9ad785e6f9661.png" away-logo="https://static.sportsfeed.pro/football/team/649a85f258f62ec83a62983488e4b347.png" group-title="Gà Vàng TV" start-time="1794999600",CLB TPHCM vs Buriram United - SAITAMA — Asean Club Championship Shopee Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -151,11 +146,6 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmN
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnRwNjR1NmR3OXhld3poNmJlc3AyaTd1eQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_o17p8sywod3bykj" tvg-name="Seoul Samsung Thunders vs LG Sakers" tvg-logo="https://img.cltvap.cc/basketball/team/9adc8e5768f7787b81ad366fed7b5edd.png!w80" home-logo="https://img.cltvap.cc/basketball/team/9adc8e5768f7787b81ad366fed7b5edd.png!w80" away-logo="https://img.cltvap.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80" group-title="Cola TV" start-time="1794996000",Seoul Samsung Thunders vs LG Sakers - BLV 247 — Giải bóng rổ nam Hàn Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/90865415.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_m2q15izozd1be76" tvg-name="Thành phố Hồ Chí Minh vs Buriram" tvg-logo="https://img.cltvap.cc/football/team/99dd3ac7267c0e3870d9ad785e6f9661.png!w80" home-logo="https://img.cltvap.cc/football/team/99dd3ac7267c0e3870d9ad785e6f9661.png!w80" away-logo="https://img.cltvap.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80" group-title="Cola TV" start-time="1794999600",Thành phố Hồ Chí Minh vs Buriram - BLV C2 — Asean Club Championship Shopee Cup
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
