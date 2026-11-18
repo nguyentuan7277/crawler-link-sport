@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 03:00:38 19/11/2026
+## Cập nhật lúc: 03:30:37 19/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1612680_troctru" tvg-name="Manchester United W vs Everton W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133731_6dff7e1a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133731_6dff7e1a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133729_7d798d13.png" group-title="Chuối TV" start-time="1795028400",Manchester United W vs Everton W - Trốc Tru [HD1] — WSL Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -8,17 +8,17 @@
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1638301_angao" tvg-name="Chelsea W vs Paris Saint Germain W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_b5b0ed02.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_b5b0ed02.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132644_11cf8169.png" group-title="Chuối TV" start-time="1795032000",Chelsea W vs Paris Saint Germain W - Chuối Già [FHD] — UEFA Champions League Women
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cctv_1644334_chuoikem" tvg-name="Alcoyano vs Mallorca" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140025_e761fef0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_140025_e761fef0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125628_01e49a9d.png" group-title="Chuối TV" start-time="1795028400",Alcoyano vs Mallorca - Chuối Kem [FHD] — Copa del Rey
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1638301_angao" tvg-name="Chelsea W vs Paris Saint Germain W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_b5b0ed02.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_b5b0ed02.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132644_11cf8169.png" group-title="Chuối TV" start-time="1795032000",Chelsea W vs Paris Saint Germain W - Chuối Già [FHD] — UEFA Champions League Women
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1492451_troctru" tvg-name="Coritiba vs Santos" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png" group-title="Chuối TV" start-time="1795041000",Coritiba vs Santos - Trốc Tru [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
