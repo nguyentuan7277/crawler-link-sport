@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 02:00:37 19/11/2026
+## Cập nhật lúc: 02:30:37 19/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1644334_chuoikem" tvg-name="Alcoyano vs Mallorca" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140025_e761fef0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_140025_e761fef0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125628_01e49a9d.png" group-title="Chuối TV" start-time="1795028400",Alcoyano vs Mallorca - Chuối Kem [HD1] — Copa del Rey
+#EXTINF:-1 tvg-id="cctv_1612680_troctru" tvg-name="Manchester United W vs Everton W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133731_6dff7e1a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133731_6dff7e1a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133729_7d798d13.png" group-title="Chuối TV" start-time="1795028400",Manchester United W vs Everton W - Trốc Tru [FHD] — WSL Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1612680_troctru" tvg-name="Manchester United W vs Everton W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133731_6dff7e1a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133731_6dff7e1a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133729_7d798d13.png" group-title="Chuối TV" start-time="1795028400",Manchester United W vs Everton W - Trốc Tru [HD1] — WSL Cup
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1638306_chuoinho" tvg-name="Häcken vs Manchester City W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140517_72f0bbb2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_140517_72f0bbb2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133729_6895ba43.png" group-title="Chuối TV" start-time="1795023900",Häcken vs Manchester City W - Chuối Nhỏ [FHD] — UEFA Champions League Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -31,6 +25,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1644334_chuoikem" tvg-name="Alcoyano vs Mallorca" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140025_e761fef0.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_140025_e761fef0.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125628_01e49a9d.png" group-title="Chuối TV" start-time="1795028400",Alcoyano vs Mallorca - Chuối Kem [FHD] — Copa del Rey
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1638301_angao" tvg-name="Chelsea W vs Paris Saint Germain W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_b5b0ed02.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_b5b0ed02.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132644_11cf8169.png" group-title="Chuối TV" start-time="1795032000",Chelsea W vs Paris Saint Germain W - Chuối Già [FHD] — UEFA Champions League Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -56,15 +56,15 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_23xmvkhyv7z0qg8" tvg-name="Zemun vs Radnicki 1923 Kragujevac" tvg-logo="https://static.sportsfeed.pro/football/team/810c5df2cb25ece4a24b43a927508810.png" home-logo="https://static.sportsfeed.pro/football/team/810c5df2cb25ece4a24b43a927508810.png" away-logo="https://static.sportsfeed.pro/football/team/33e7ad6e34950bb9743e157561f60341.png" group-title="Gà Vàng TV" start-time="1795023000",Zemun vs Radnicki 1923 Kragujevac - khang hi — Mozzart Serbian Cup
+#EXTINF:-1 tvg-id="gavang_x7lm7phjdwjym2w" tvg-name="Alianza Atletico Sullana vs FBC Melgar" tvg-logo="https://static.sportsfeed.pro/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png" home-logo="https://static.sportsfeed.pro/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png" away-logo="https://static.sportsfeed.pro/football/team/215f986a8d6da00e35a2b1011922ca0d.png" group-title="Gà Vàng TV" start-time="1795032000",Alianza Atletico Sullana vs FBC Melgar - SiêU QuậY — Peruvian Liga 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_y39mp1hdv522moj" tvg-name="BK Hacken(w) vs Manchester City(w)" tvg-logo="https://static.sportsfeed.pro/football/team/e121cced31de682c590d3305327061df.png" home-logo="https://static.sportsfeed.pro/football/team/e121cced31de682c590d3305327061df.png" away-logo="https://static.sportsfeed.pro/football/team/c4a6528a2ee147b99c9885ef24385a4e.png" group-title="Gà Vàng TV" start-time="1795023900",BK Hacken(w) vs Manchester City(w) - SÚP LƠ — UEFA Women's Champions League
+#EXTINF:-1 tvg-id="gavang_dn1m1gh9ve5vmoe" tvg-name="Juventus Women vs Oud Heverlee Leuven(w)" tvg-logo="https://static.sportsfeed.pro/football/team/d7e0dd2c30416452115958332ba7c4ee.png" home-logo="https://static.sportsfeed.pro/football/team/d7e0dd2c30416452115958332ba7c4ee.png" away-logo="https://static.sportsfeed.pro/football/team/00e20bbdad428c6374ba047e0de5d8a6.png" group-title="Gà Vàng TV" start-time="1795032000",Juventus Women vs Oud Heverlee Leuven(w) - NGƯỜI KIẾN — UEFA Women's Champions League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19879508" tvg-name="BK Häcken W vs Manchester City W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-w-59584" group-title="BiaomTV" start-time="1795023900",BK Häcken W vs Manchester City W - Lẩu Ếch — C1 Châu Âu (Nữ)
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -85,16 +85,6 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmU
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnRwNjR1NmR3OXhld3poNmJlc3AyaTd1eQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_8lk2ys6z026bz73" tvg-name="Besiktas Basketball vs Real Madrid" tvg-logo="https://img.cltvap.cc/basketball/team/89aedb476d2e17575a159bfdca4886e3.png!w80" home-logo="https://img.cltvap.cc/basketball/team/89aedb476d2e17575a159bfdca4886e3.png!w80" away-logo="https://img.cltvap.cc/basketball/team/64da3b30721ca7c898892c6baec2ec4e.png!w80" group-title="Cola TV" start-time="1795021200",Besiktas Basketball vs Real Madrid - BLV LIPTON — EuroLeague
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/89756030.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_34kgmigv93efeko" tvg-name="Zemun vs Radnicki 1923 Kragujevac" tvg-logo="https://img.cltvap.cc/football/team/810c5df2cb25ece4a24b43a927508810.png!w80" home-logo="https://img.cltvap.cc/football/team/810c5df2cb25ece4a24b43a927508810.png!w80" away-logo="https://img.cltvap.cc/football/team/33e7ad6e34950bb9743e157561f60341.png!w80" group-title="Cola TV" start-time="1795023000",Zemun vs Radnicki 1923 Kragujevac - BLV WARRIOR — Cúp Serbia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/97885009.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_vrqwni018yyt4qn" tvg-name="Hacken Nữ vs Manchester City Nữ" tvg-logo="https://img.cltvap.cc/football/team/e121cced31de682c590d3305327061df.png!w80" home-logo="https://img.cltvap.cc/football/team/e121cced31de682c590d3305327061df.png!w80" away-logo="https://img.cltvap.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="Cola TV" start-time="1795023900",Hacken Nữ vs Manchester City Nữ - BLV SPRITE — Champions League Nữ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
