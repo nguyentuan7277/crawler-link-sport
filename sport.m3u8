@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 10:30:07 18/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1649490_chuoikem" tvg-name="America de Cali vs Inter Bogotá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_1c504b8c.png" group-title="Chuối TV" start-time="1794965400",America de Cali vs Inter Bogotá - Chuối Kem [FHD] — Cúp Colombia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1644695_angao" tvg-name="Mexico vs Jamaica" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_1cfe2b5b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_1cfe2b5b.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" group-title="Chuối TV" start-time="1794969000",Mexico vs Jamaica - Chuối Già [FHD] — CONCACAF Nations League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 11:00:07 18/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1560981_chuoilua" tvg-name="JEF United W vs Parceiro Nagano W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144232_7d833710.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144232_7d833710.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144234_b340e767.png" group-title="Chuối TV" start-time="1794974400",JEF United W vs Parceiro Nagano W - Chuối Lửa [FHD] — WE League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -20,11 +8,65 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cctv_1644695_angao" tvg-name="Mexico vs Jamaica" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_1cfe2b5b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_1cfe2b5b.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" group-title="Chuối TV" start-time="1794969000",Mexico vs Jamaica - Chuối Già [FHD] — CONCACAF Nations League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="cctv_1560979_chuoitay" tvg-name="Albirex Niigata W vs Elfen Saitama W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144234_c354b94d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144234_c354b94d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144231_da8a96df.png" group-title="Chuối TV" start-time="1794978000",Albirex Niigata W vs Elfen Saitama W - Chuối Tây [FHD] — WE League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1650693_chuoinho" tvg-name="Persibangga Purbalingga vs Persibo" tvg-logo="https://media.api-sports.io/football/teams/15810.png" home-logo="https://media.api-sports.io/football/teams/15810.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_140541_9bd94b39.png" group-title="Chuối TV" start-time="1794990600",Persibangga Purbalingga vs Persibo - Chuối Nhỏ [FHD] — Liga Nusantara
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1560980_chuoila" tvg-name="Cerezo Osaka W vs Urawa Reds W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144236_c73ca875.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144236_c73ca875.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144233_ecea22c8.png" group-title="Chuối TV" start-time="1794994200",Cerezo Osaka W vs Urawa Reds W - Chuối Lá [FHD] — WE League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1650046_chuoitay" tvg-name="Suwon FMC vs Gyeongju" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143038_72f0bbb2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_143038_72f0bbb2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_143036_72f0bbb2.png" group-title="Chuối TV" start-time="1794996000",Suwon FMC vs Gyeongju - Chuối Tây [FHD] — WK-League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1551234_chuoisay" tvg-name="Tampines Rovers vs Ratchaburi" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131732_9a3f3007.png" group-title="Chuối TV" start-time="1795001400",Tampines Rovers vs Ratchaburi - Chuối Sấy [FHD] — ASEAN Club Championship
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1639359_chuoikem" tvg-name="Pusamania Borneo vs Manila Digger" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_2456a9ca.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_2456a9ca.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_142522_ade6ad2d.png" group-title="Chuối TV" start-time="1795003200",Pusamania Borneo vs Manila Digger - Chuối Kem [FHD] — ASEAN Club Championship
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1554065_angao" tvg-name="TP. Hồ Chí Minh vs Buriram United" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" home-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131733_ebcabb99.png" group-title="Chuối TV" start-time="1795005000",TP. Hồ Chí Minh vs Buriram United - Chuối Già [FHD] — ASEAN Club Championship
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1604054_chuoilua" tvg-name="Al-Adalah vs Al Orubah" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134010_2ba0198f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134010_2ba0198f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134006_a5084e10.png" group-title="Chuối TV" start-time="1795012200",Al-Adalah vs Al Orubah - Chuối Lửa [FHD] — Hạng Nhất Ả Rập
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1645811_chuoichao" tvg-name="Dubočica vs Radnicki NIS" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133934_9428f679.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133934_9428f679.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133926_239a4bc9.png" group-title="Chuối TV" start-time="1795014000",Dubočica vs Radnicki NIS - Chuối Chao [FHD] — Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_dj2ryohlo8nnq1z" tvg-name="Albirex Niigata(w) vs Elfen Saitama(w)" tvg-logo="https://static.sportsfeed.pro/football/team/5af9cefed1600799b9c3ee2d60e02cb1.png" home-logo="https://static.sportsfeed.pro/football/team/5af9cefed1600799b9c3ee2d60e02cb1.png" away-logo="https://static.sportsfeed.pro/football/team/9b1119aadf6f76ffbd2a59945a0aab73.png" group-title="Gà Vàng TV" start-time="1794978000",Albirex Niigata(w) vs Elfen Saitama(w) - Lá Chanh — Women Empowerment League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -76,16 +118,6 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnRwNjR1NmR3OXhld3poNmJlc3AyaTd1eQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_o17p8sywnwmuykj" tvg-name="San Antonio Spurs vs Detroit Pistons" tvg-logo="https://img.cltvap.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80" home-logo="https://img.cltvap.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80" away-logo="https://img.cltvap.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80" group-title="Cola TV" start-time="1794963600",San Antonio Spurs vs Detroit Pistons - BLV ROCKSTAR — Hiệp hội Bóng rổ Quốc gia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/82054853.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_jr7owiy6onrhgq0" tvg-name="America de Cali vs La Equidad" tvg-logo="https://img.cltvap.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80" home-logo="https://img.cltvap.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80" away-logo="https://img.cltvap.cc/football/team/265454b5fee1950f8aa1173147c8c593.png!w80" group-title="Cola TV" start-time="1794966600",America de Cali vs La Equidad - BLV BÍ ĐAO — Cúp Colombia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_zrkn6i1m5z3swql" tvg-name="Mexico vs Jamaica" tvg-logo="https://img.cltvap.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" home-logo="https://img.cltvap.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" away-logo="https://img.cltvap.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80" group-title="Cola TV" start-time="1794969000",Mexico vs Jamaica - BLV GIÀ LÀNG — Liên minh bóng đá quốc gia châu Mỹ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -100,3 +132,8 @@ https://live05.wecile.app/live/49572724.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/19919577.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_63kv9igpd9lbx7e" tvg-name="JEF United Nữ (Jpn) vs AC Nagano Parceiro Nữ" tvg-logo="https://img.cltvap.cc/football/team/9a0821eac483f99d3f578be0b384beb7.png!w80" home-logo="https://img.cltvap.cc/football/team/9a0821eac483f99d3f578be0b384beb7.png!w80" away-logo="https://img.cltvap.cc/football/team/2af4307890e1d9b3ff59e88e8980bad8.png!w80" group-title="Cola TV" start-time="1794974400",JEF United Nữ (Jpn) vs AC Nagano Parceiro Nữ - BLV BÍ ĐAO — Giải Bóng đá Nữ Chuyên nghiệp Nhật Bản
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
