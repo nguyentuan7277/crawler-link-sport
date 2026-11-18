@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:00:07 18/11/2026
+## Cập nhật lúc: 23:30:13 18/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1604054_chuoilua" tvg-name="Al-Adalah vs Al Orubah" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134010_2ba0198f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134010_2ba0198f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134006_a5084e10.png" group-title="Chuối TV" start-time="1795012200",Al-Adalah vs Al Orubah - Chuối Lửa [FHD] — Hạng Nhất Ả Rập
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -68,11 +68,26 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1492450_chuoilua" tvg-name="Corinthians vs Botafogo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_cd0ff28f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_cd0ff28f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125535_77dbb009.png" group-title="Chuối TV" start-time="1795048200",Corinthians vs Botafogo - Chuối Lửa [FHD] — VĐQG Brazil
+#EXTINF:-1 tvg-id="cctv_1492450_chuoisay" tvg-name="Corinthians vs Botafogo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_cd0ff28f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_cd0ff28f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125535_77dbb009.png" group-title="Chuối TV" start-time="1795048200",Corinthians vs Botafogo - Chuối Sấy [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hxe530qo9" tvg-name="Al-Adalah vs Al Orubah" tvg-logo="https://static.sportsfeed.pro/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png" home-logo="https://static.sportsfeed.pro/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png" away-logo="https://static.sportsfeed.pro/football/team/6b326376b7791573f27a88fe9e9942a7.png" group-title="Gà Vàng TV" start-time="1795012200",Al-Adalah vs Al Orubah - Lucie23 — Saudi Arabia Division 1
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_x7lm7phxkedym2w" tvg-name="El Gounah vs Ittihad Alexandria SC" tvg-logo="https://static.sportsfeed.pro/football/team/35e665fa4086e183fda582249d625c2b.png" home-logo="https://static.sportsfeed.pro/football/team/35e665fa4086e183fda582249d625c2b.png" away-logo="https://static.sportsfeed.pro/football/team/56484f26eac26f8e279ea2172c48632d.png" group-title="Gà Vàng TV" start-time="1795014000",El Gounah vs Ittihad Alexandria SC - Cá MậP — Egyptian Scores Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y0or5jh9x7djqwz" tvg-name="FK Dubocica vs Radnicki Nis" tvg-logo="https://static.sportsfeed.pro/football/team/2af31d7d31ede6bdc78d73574aec1751.png" home-logo="https://static.sportsfeed.pro/football/team/2af31d7d31ede6bdc78d73574aec1751.png" away-logo="https://static.sportsfeed.pro/football/team/794c52e40471e247cc8e50dc33841c1d.png" group-title="Gà Vàng TV" start-time="1795014000",FK Dubocica vs Radnicki Nis - ĐOÀN DỰ — Mozzart Serbian Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19879508" tvg-name="BK Häcken W vs Manchester City W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-w-59584" group-title="BiaomTV" start-time="1795023900",BK Häcken W vs Manchester City W - Lẩu Ếch — C1 Châu Âu (Nữ)
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -88,11 +103,6 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDc6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Omd
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmUwOGxyY24zcG0xNmJuYWMyaXE4bDY4Yw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="biaom_19879506" tvg-name="Chelsea W vs Paris SG W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-w-59583" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-w-59583" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-sg-w-140488" group-title="BiaomTV" start-time="1795032000",Chelsea W vs Paris SG W - SAPPORO — C1 Châu Âu (Nữ)
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmN6ZzlsM2t0M3J4dGxya2E4d3Fqa216Mw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19879505" tvg-name="Juventus W vs OH Leuven W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-w-229269" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-w-229269" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/oh-leuven-w-230729" group-title="BiaomTV" start-time="1795032000",Juventus W vs OH Leuven W - ASAHI — C1 Châu Âu (Nữ)
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
