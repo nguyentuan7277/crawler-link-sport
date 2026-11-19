@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 22:30:16 19/11/2026
+## Cập nhật lúc: 23:00:17 19/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1546141_chuoila" tvg-name="Argentina U17 vs Australia U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145005_8b725321.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145005_8b725321.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_145018_2a12c2b6.png" group-title="Chuối TV" start-time="1795104000",Argentina U17 vs Australia U17 - Chuối Lá [FHD] — World Cup - U17
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1643063_chuoilua" tvg-name="Al Ain vs Al-Dhafra" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_c1ce473c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_c1ce473c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125822_e9713568.png" group-title="Chuối TV" start-time="1795101900",Al Ain vs Al-Dhafra - Chuối Lửa [FHD] — UAE Pro League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -8,11 +14,11 @@
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1546141_chuoila" tvg-name="Argentina U17 vs Australia U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145005_8b725321.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145005_8b725321.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_145018_2a12c2b6.png" group-title="Chuối TV" start-time="1795104000",Argentina U17 vs Australia U17 - Chuối Lá [FHD] — World Cup - U17
+#EXTINF:-1 tvg-id="cctv_1546156_chuoinho" tvg-name="Qatar U17 vs Panama U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145246_4e2f6f9b.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145246_4e2f6f9b.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144940_79b58627.png" group-title="Chuối TV" start-time="1795102200",Qatar U17 vs Panama U17 - Chuối Nhỏ [FHD] — World Cup - U17
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1638292_chuoitay" tvg-name="Austria Wien W vs Bayern Munich W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133734_909d7704.png" group-title="Chuối TV" start-time="1795110300",Austria Wien W vs Bayern Munich W - Chuối Tây [FHD] — UEFA Champions League Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -62,16 +68,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_23xmvkh6lj42qg8" tvg-name="Argentina U17 vs Australia U17" tvg-logo="https://img.thesports.com/football/team/7d44a77ef7bf7d809287828b992f3007.png" home-logo="https://img.thesports.com/football/team/7d44a77ef7bf7d809287828b992f3007.png" away-logo="https://img.thesports.com/football/team/2d8fe42de2f833581faa077f788329fa.png" group-title="Gà Vàng TV" start-time="1795104000",Argentina U17 vs Australia U17 - RIO — FIFA U17 World Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_318q66hx3pjlqo9" tvg-name="Egypt U17 vs Greece U17" tvg-logo="https://img.thesports.com/football/team/65a579da11fa712149bca347ecfcb208.png" home-logo="https://img.thesports.com/football/team/65a579da11fa712149bca347ecfcb208.png" away-logo="https://img.thesports.com/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png" group-title="Gà Vàng TV" start-time="1795104000",Egypt U17 vs Greece U17 - khang hi — FIFA U17 World Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_19879504" tvg-name="Austria Wien W vs Bayern Munich W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/austria-wien-w-264551" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/austria-wien-w-264551" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bayern-munich-w-134476" group-title="BiaomTV" start-time="1795110300",Austria Wien W vs Bayern Munich W - TIGER — C1 Châu Âu (Nữ)
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -91,16 +87,6 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onl
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmtpbnBxc212OTNheXVzOGpvdmxxaXpkcQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_vrqwni4mj9rs4qn" tvg-name="Hàn Quốc U17 vs Uganda U17" tvg-logo="https://img.cltvap.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" home-logo="https://img.cltvap.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" away-logo="https://img.cltvap.cc/football/team/81f7acabd411274fcf65ce2070ed568a.png!w80" group-title="Cola TV" start-time="1795095000",Hàn Quốc U17 vs Uganda U17 - BLV MOUNTAIN DEW — World Cup U17
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_jr7owipw42migq0" tvg-name="Ả Rập Saudi U17 vs Uruguay U17" tvg-logo="https://img.cltvap.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80" home-logo="https://img.cltvap.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80" away-logo="https://img.cltvap.cc/football/team/3068cfc254b9a77c7eac84c9565eeeab.png!w80" group-title="Cola TV" start-time="1795096800",Ả Rập Saudi U17 vs Uruguay U17 - BLV SPRITE — World Cup U17
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/75748097.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_l6kegirz553iv75" tvg-name="Arab Contractors vs CLB Olympic El Qanal" tvg-logo="https://img.cltvap.cc/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png!w80" home-logo="https://img.cltvap.cc/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png!w80" away-logo="https://img.cltvap.cc/football/team/5001f3461f97fc8f251c2ccaa73d76bc.png!w80" group-title="Cola TV" start-time="1795100400",Arab Contractors vs CLB Olympic El Qanal - BLV SODA — Cúp Ai Cập
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
@@ -136,3 +122,13 @@ https://live05.wecile.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/08552895.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_j374oi0rmzpcgqo" tvg-name="Ai Cập U17 vs Hy Lạp U17" tvg-logo="https://img.cltvap.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80" home-logo="https://img.cltvap.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80" away-logo="https://img.cltvap.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80" group-title="Cola TV" start-time="1795104000",Ai Cập U17 vs Hy Lạp U17 - BLV BÍ ĐAO — World Cup U17
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_34kgmio56x4ueko" tvg-name="Argentina U17 vs Úc U17" tvg-logo="https://img.cltvap.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80" home-logo="https://img.cltvap.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80" away-logo="https://img.cltvap.cc/football/team/2d8fe42de2f833581faa077f788329fa.png!w80" group-title="Cola TV" start-time="1795104000",Argentina U17 vs Úc U17 - BLV REVIVE — World Cup U17
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
