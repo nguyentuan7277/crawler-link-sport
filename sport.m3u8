@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:00:17 19/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1546141_chuoila" tvg-name="Argentina U17 vs Australia U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145005_8b725321.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145005_8b725321.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_145018_2a12c2b6.png" group-title="Chuối TV" start-time="1795104000",Argentina U17 vs Australia U17 - Chuối Lá [FHD] — World Cup - U17
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 23:30:15 19/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1643063_chuoilua" tvg-name="Al Ain vs Al-Dhafra" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_c1ce473c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_c1ce473c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125822_e9713568.png" group-title="Chuối TV" start-time="1795101900",Al Ain vs Al-Dhafra - Chuối Lửa [FHD] — UAE Pro League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +13,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1546141_chuoila" tvg-name="Argentina U17 vs Australia U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145005_8b725321.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145005_8b725321.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_145018_2a12c2b6.png" group-title="Chuối TV" start-time="1795104000",Argentina U17 vs Australia U17 - Chuối Lá [FHD] — World Cup - U17
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1638292_chuoitay" tvg-name="Austria Wien W vs Bayern Munich W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133734_909d7704.png" group-title="Chuối TV" start-time="1795110300",Austria Wien W vs Bayern Munich W - Chuối Tây [FHD] — UEFA Champions League Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -132,3 +132,8 @@ https://live05.wecile.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ndqmliwrywehrkv" tvg-name="Ghaz Al Shamal vs Al Karkh" tvg-logo="https://img.cltvap.cc/football/team/1ae9f165a8fa40723f6524dd0e5de714.png!w80" home-logo="https://img.cltvap.cc/football/team/1ae9f165a8fa40723f6524dd0e5de714.png!w80" away-logo="https://img.cltvap.cc/football/team/21f6e246791eccf1b9b3822f8d08c8d4.png!w80" group-title="Cola TV" start-time="1795104000",Ghaz Al Shamal vs Al Karkh - BLV MOUNTAIN DEW — Giải Ngoại hạng Iraq
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
