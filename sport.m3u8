@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:00:09 20/11/2026
+## Cập nhật lúc: 00:30:16 20/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1638327_chuoilua" tvg-name="Paris FC W vs Køge" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132645_70b8e616.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132645_70b8e616.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_141851_d76a5e07.png" group-title="Chuối TV" start-time="1795110300",Paris FC W vs Køge - Chuối Lửa [FHD] — UEFA Champions League Women
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1643063_chuoilua" tvg-name="Al Ain vs Al-Dhafra" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_c1ce473c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_c1ce473c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125822_e9713568.png" group-title="Chuối TV" start-time="1795101900",Al Ain vs Al-Dhafra - Chuối Lửa [FHD] — UAE Pro League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,18 +25,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1638292_chuoitay" tvg-name="Austria Wien W vs Bayern Munich W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133734_909d7704.png" group-title="Chuối TV" start-time="1795110300",Austria Wien W vs Bayern Munich W - Chuối Tây [FHD] — UEFA Champions League Women
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1638327_chuoilua" tvg-name="Paris FC W vs Køge" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132645_70b8e616.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132645_70b8e616.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_141851_d76a5e07.png" group-title="Chuối TV" start-time="1795110300",Paris FC W vs Køge - Chuối Lửa [FHD] — UEFA Champions League Women
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1638286_troctru" tvg-name="Arsenal W vs Lyon W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_10ca77e6.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133728_10ca77e6.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132645_dead805a.png" group-title="Chuối TV" start-time="1795118400",Arsenal W vs Lyon W - Trốc Tru [FHD] — UEFA Champions League Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -68,10 +62,45 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_19879504" tvg-name="Austria Wien W vs Bayern Munich W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/austria-wien-w-264551" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/austria-wien-w-264551" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bayern-munich-w-134476" group-title="BiaomTV" start-time="1795110300",Austria Wien W vs Bayern Munich W - TIGER — C1 Châu Âu (Nữ)
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTINF:-1 tvg-id="gavang_l5ergphko66yr8k" tvg-name="El Mokawloon El Arab vs Alqana" tvg-logo="https://static.sportsfeed.pro/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png" home-logo="https://static.sportsfeed.pro/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png" away-logo="https://static.sportsfeed.pro/football/team/5001f3461f97fc8f251c2ccaa73d76bc.png" group-title="Gà Vàng TV" start-time="1795100400",El Mokawloon El Arab vs Alqana - Cá MậP — Egyptian Scores Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnF3M2J5eG9zcndsZDQweXN1YmtwZ2tvNg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_zp5rzghgk7neq82" tvg-name="Al-Ahli SC (Qatar) vs Al Shamal" tvg-logo="https://static.sportsfeed.pro/football/team/48feed47ac02cae502daed358319eec0.png" home-logo="https://static.sportsfeed.pro/football/team/48feed47ac02cae502daed358319eec0.png" away-logo="https://static.sportsfeed.pro/football/team/af47207f36a49c89502312138e54f6a7.png" group-title="Gà Vàng TV" start-time="1795102200",Al-Ahli SC (Qatar) vs Al Shamal - Lá Chanh — Qatar Stars League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_6ypq3nhvpo1gmd7" tvg-name="Qatar U17 vs PanamaU17" tvg-logo="https://img.thesports.com/football/team/7303a103c93fea0445384d6ff3f3d1b9.png" home-logo="https://img.thesports.com/football/team/7303a103c93fea0445384d6ff3f3d1b9.png" away-logo="https://img.thesports.com/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png" group-title="Gà Vàng TV" start-time="1795102200",Qatar U17 vs PanamaU17 - ĐOÀN DỰ — FIFA U17 World Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_23xmvkh6lj42qg8" tvg-name="Argentina U17 vs Australia U17" tvg-logo="https://img.thesports.com/football/team/7d44a77ef7bf7d809287828b992f3007.png" home-logo="https://img.thesports.com/football/team/7d44a77ef7bf7d809287828b992f3007.png" away-logo="https://img.thesports.com/football/team/2d8fe42de2f833581faa077f788329fa.png" group-title="Gà Vàng TV" start-time="1795104000",Argentina U17 vs Australia U17 - RIO — FIFA U17 World Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hx3pjlqo9" tvg-name="Egypt U17 vs Greece U17" tvg-logo="https://img.thesports.com/football/team/65a579da11fa712149bca347ecfcb208.png" home-logo="https://img.thesports.com/football/team/65a579da11fa712149bca347ecfcb208.png" away-logo="https://img.thesports.com/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png" group-title="Gà Vàng TV" start-time="1795104000",Egypt U17 vs Greece U17 - khang hi — FIFA U17 World Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4wyrn4hyzej8q86" tvg-name="Austria Wien (w) vs Bayern Munchen(w)" tvg-logo="https://static.sportsfeed.pro/football/team/0454e224a578f2d2fb8e4bafc58e140e.png" home-logo="https://static.sportsfeed.pro/football/team/0454e224a578f2d2fb8e4bafc58e140e.png" away-logo="https://static.sportsfeed.pro/football/team/57ec3afbec462319117d3d7f90f746db.png" group-title="Gà Vàng TV" start-time="1795110300",Austria Wien (w) vs Bayern Munchen(w) - SAITAMA — UEFA Women's Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09h54nexrz8" tvg-name="Arsenal(w) vs Lyon(w)" tvg-logo="https://static.sportsfeed.pro/football/team/b61190e348449a746ef3f802e7ebc701.png" home-logo="https://static.sportsfeed.pro/football/team/b61190e348449a746ef3f802e7ebc701.png" away-logo="https://static.sportsfeed.pro/football/team/484ae7b7bd74733551f909e8bcf6f43f.png" group-title="Gà Vàng TV" start-time="1795118400",Arsenal(w) vs Lyon(w) - SAITAMA — UEFA Women's Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dj2ryoh7vywnq1z" tvg-name="Benfica(w) vs Roma(w)" tvg-logo="https://static.sportsfeed.pro/football/team/0e08556fee244f2041c83b0bf53cc6d9.png" home-logo="https://static.sportsfeed.pro/football/team/0e08556fee244f2041c83b0bf53cc6d9.png" away-logo="https://static.sportsfeed.pro/football/team/09c9433cfa1c306e6b774a272da7f5a9.png" group-title="Gà Vàng TV" start-time="1795118400",Benfica(w) vs Roma(w) - A Long — UEFA Women's Champions League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19879503" tvg-name="Paris W vs Køge" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-w-230767" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-w-230767" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kge-239407" group-title="BiaomTV" start-time="1795110300",Paris W vs Køge - HÀU NƯỚNG — C1 Châu Âu (Nữ)
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -93,25 +122,10 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/02456966.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_ezk96ijn11ma1kn" tvg-name="El Masry vs Asyut Petroleum" tvg-logo="https://img.cltvap.cc/football/team/1e724366f6bee2eb1e7dd707a3f7f671.png!w80" home-logo="https://img.cltvap.cc/football/team/1e724366f6bee2eb1e7dd707a3f7f671.png!w80" away-logo="https://img.cltvap.cc/football/team/8ae657d992b70843447d0e50108cbf37.png!w80" group-title="Cola TV" start-time="1795100400",El Masry vs Asyut Petroleum - BLV FANTA — Cúp Ai Cập
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_34kgmigvlryseko" tvg-name="Al Ain vs CLB Al Dhafra" tvg-logo="https://img.cltvap.cc/football/team/cedb12f9c001f1b1cb11bc532967c33e.png!w80" home-logo="https://img.cltvap.cc/football/team/cedb12f9c001f1b1cb11bc532967c33e.png!w80" away-logo="https://img.cltvap.cc/football/team/8872919405e0076fb753ae6492a0a2db.png!w80" group-title="Cola TV" start-time="1795101900",Al Ain vs CLB Al Dhafra - BLV GIÀ LÀNG — UAE League
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/14830711.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_69759igpyoetgk2" tvg-name="Al Ahli Doha vs Al Shamal" tvg-logo="https://img.cltvap.cc/football/team/48feed47ac02cae502daed358319eec0.png!w80" home-logo="https://img.cltvap.cc/football/team/48feed47ac02cae502daed358319eec0.png!w80" away-logo="https://img.cltvap.cc/football/team/af47207f36a49c89502312138e54f6a7.png!w80" group-title="Cola TV" start-time="1795102200",Al Ahli Doha vs Al Shamal - BLV MONSTER — Giải vô địch quốc gia Qatar
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_69759igoxgrtgk2" tvg-name="Al Gharraf vs CLB Al Quwa Al Jawiya" tvg-logo="https://img.cltvap.cc/football/team/771fa17ef16aa90cf6b7c4fab7a5d2ce.png!w80" home-logo="https://img.cltvap.cc/football/team/771fa17ef16aa90cf6b7c4fab7a5d2ce.png!w80" away-logo="https://img.cltvap.cc/football/team/27e1bfe40810453c59c7cd66fffd2418.png!w80" group-title="Cola TV" start-time="1795102200",Al Gharraf vs CLB Al Quwa Al Jawiya - BLV SAMURAI — Giải Ngoại hạng Iraq
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_o17pjio8devsy7j" tvg-name="Qatar U17 vs PanamaU17" tvg-logo="https://img.cltvap.cc/football/team/7303a103c93fea0445384d6ff3f3d1b9.png!w80" home-logo="https://img.cltvap.cc/football/team/7303a103c93fea0445384d6ff3f3d1b9.png!w80" away-logo="https://img.cltvap.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80" group-title="Cola TV" start-time="1795102200",Qatar U17 vs PanamaU17 - BLV C2 — World Cup U17
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
@@ -132,3 +146,8 @@ https://live05.wecile.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_xvkjvszw9omh8k9" tvg-name="cabi Electra Tel Aviv vs dubai" tvg-logo="https://img.cltvap.cc/basketball/team/7ee25ad1863a6d376abebd6013c03cab.png!w80" home-logo="https://img.cltvap.cc/basketball/team/7ee25ad1863a6d376abebd6013c03cab.png!w80" away-logo="https://img.cltvap.cc/basketball/team/b7ceee3b48fa0f0bcf1a705348539cbb.png!w80" group-title="Cola TV" start-time="1795108500",cabi Electra Tel Aviv vs dubai - BLV 247 — EuroLeague
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/90865415.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
