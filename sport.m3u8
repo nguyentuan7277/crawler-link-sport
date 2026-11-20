@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:00:22 20/11/2026
+## Cập nhật lúc: 18:30:08 20/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1638058_chuoikem" tvg-name="Beijing Guoan vs SHANGHAI SIPG" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133504_eae218ac.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133504_eae218ac.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133411_6f730c26.png" group-title="Chuối TV" start-time="1795174500",Beijing Guoan vs SHANGHAI SIPG - Chuối Kem [HD1] — Cúp FA Trung Quốc
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1635011_chuoichao" tvg-name="TP. Hồ Chí Minh vs Thai Nguyen" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" home-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" away-logo="https://media.api-sports.io/football/teams/28216.png" group-title="Chuối TV" start-time="1795168800",TP. Hồ Chí Minh vs Thai Nguyen - Chuối Chao [FHD] — V.League 2
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -13,12 +19,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1638058_chuoikem" tvg-name="Beijing Guoan vs SHANGHAI SIPG" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133504_eae218ac.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133504_eae218ac.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133411_6f730c26.png" group-title="Chuối TV" start-time="1795174500",Beijing Guoan vs SHANGHAI SIPG - Chuối Kem [FHD] — Cúp FA Trung Quốc
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1633936_chuoisay" tvg-name="Viettel vs Song Lam Nghe An" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png" away-logo="https://media.chuoichientv.net/media/20250817_040514_e14149ab.png" group-title="Chuối TV" start-time="1795176900",Viettel vs Song Lam Nghe An - Chuối Sấy [FHD] — V.League 1
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -134,11 +134,6 @@ https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6aef22d1f72fb30b985aafbe.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_6ypq3nhk6y53md7" tvg-name="East Bengal FC vs Hyderabad FC" tvg-logo="https://static.sportsfeed.pro/football/team/21649c3d173c8f4ec9d526432ad9f088.png" home-logo="https://static.sportsfeed.pro/football/team/21649c3d173c8f4ec9d526432ad9f088.png" away-logo="https://static.sportsfeed.pro/football/team/815bd35aaf3d9cfd58a9899695daf03c.png" group-title="Gà Vàng TV" start-time="1795174200",East Bengal FC vs Hyderabad FC - Lá Chanh — Indian Super League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_zp5rzghg8gpwq82" tvg-name="Beijing Guoan FC vs Shanghai Port FC" tvg-logo="https://static.sportsfeed.pro/football/team/e7af298237651113dfeafc32ff734a24.png" home-logo="https://static.sportsfeed.pro/football/team/e7af298237651113dfeafc32ff734a24.png" away-logo="https://static.sportsfeed.pro/football/team/c4e143e537412003565cdb7c2d212538.png" group-title="Gà Vàng TV" start-time="1795174500",Beijing Guoan FC vs Shanghai Port FC - Cá MậP — Chinese FA Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -279,3 +274,13 @@ https://live05.wecile.app/live/78905744.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_o17pji46grjuy7j" tvg-name="East Bengal vs Hyderabad" tvg-logo="https://img.cltvap.cc/football/team/21649c3d173c8f4ec9d526432ad9f088.png!w80" home-logo="https://img.cltvap.cc/football/team/21649c3d173c8f4ec9d526432ad9f088.png!w80" away-logo="https://img.cltvap.cc/football/team/361a7ca53936507117d9b3d5d9f018a5.png!w80" group-title="Cola TV" start-time="1795174200",East Bengal vs Hyderabad - BLV REDBULL — Vô địch bóng đá Ấn Độ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/49572724.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_69759ig2g5zbgk2" tvg-name="Beijing Guoan vs Shanghai Port" tvg-logo="https://img.cltvap.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80" home-logo="https://img.cltvap.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80" away-logo="https://img.cltvap.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80" group-title="Cola TV" start-time="1795174500",Beijing Guoan vs Shanghai Port - BLV REVIVE — Cúp Bóng đá Liên đoàn Trung Quốc
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
