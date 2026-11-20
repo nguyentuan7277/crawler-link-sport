@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 09:00:07 20/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1492457_chuoisay" tvg-name="Sao Paulo vs Fluminense" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png" group-title="Chuối TV" start-time="1795134600",Sao Paulo vs Fluminense - Chuối Sấy [FHD] — VĐQG Brazil
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 09:30:18 20/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1649492_troctru" tvg-name="Seattle Sounders vs Real Salt Lake" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131433_5265d61a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131433_5265d61a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131605_f3bec167.png" group-title="Chuối TV" start-time="1795143600",Seattle Sounders vs Real Salt Lake - Trốc Tru [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -128,10 +122,11 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://liv
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_dn1m1ghlp472moe" tvg-name="Sao Paulo vs Fluminense RJ" tvg-logo="https://static.sportsfeed.pro/football/team/31f5171de0e1404fdebcef19cd7cd409.png" home-logo="https://static.sportsfeed.pro/football/team/31f5171de0e1404fdebcef19cd7cd409.png" away-logo="https://static.sportsfeed.pro/football/team/a6bce9adfac7903426bed2b253991a18.png" group-title="Gà Vàng TV" start-time="1795134600",Sao Paulo vs Fluminense RJ - KAYTI — Brazilian Serie A
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1551039_chuoisay" tvg-name="Puebla vs Atletico San Luis" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133840_93709237.png" group-title="Chuối TV" start-time="1795222800",Puebla vs Atletico San Luis - Chuối Sấy [FHD] — VĐQG Mexico
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_zp5rzgh3jgweq82" tvg-name="Orlando City vs FC Cincinnati" tvg-logo="https://static.sportsfeed.pro/football/team/b4ad649e6c6a9a6cf91493bf5e92ffbe.png" home-logo="https://static.sportsfeed.pro/football/team/b4ad649e6c6a9a6cf91493bf5e92ffbe.png" away-logo="https://static.sportsfeed.pro/football/team/1d14acf20b6647d3bf1f70959a875c8f.png" group-title="Gà Vàng TV" start-time="1795135200",Orlando City vs FC Cincinnati - cố tư nghiêm — United States Major League Soccer
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -217,11 +212,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1Mzk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MjE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnZmcDk3N2I2ODZ2Y2Y3amY2enl6NWJ6cA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_g6763i5lv36uo7r" tvg-name="CLB Sao Paulo vs Fluminense RJ" tvg-logo="https://img.cltvap.cc/football/team/31f5171de0e1404fdebcef19cd7cd409.png!w80" home-logo="https://img.cltvap.cc/football/team/31f5171de0e1404fdebcef19cd7cd409.png!w80" away-logo="https://img.cltvap.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80" group-title="Cola TV" start-time="1795134600",CLB Sao Paulo vs Fluminense RJ - BLV SODA — Giải bóng đá Hạng nhất Brasil
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/02456966.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_69759ir3gzecgk2" tvg-name="Orlando City vs CLB Cincinnati" tvg-logo="https://img.cltvap.cc/football/team/b4ad649e6c6a9a6cf91493bf5e92ffbe.png!w80" home-logo="https://img.cltvap.cc/football/team/b4ad649e6c6a9a6cf91493bf5e92ffbe.png!w80" away-logo="https://img.cltvap.cc/football/team/1d14acf20b6647d3bf1f70959a875c8f.png!w80" group-title="Cola TV" start-time="1795135200",Orlando City vs CLB Cincinnati - BLV PEPSI — Major League Soccer
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
