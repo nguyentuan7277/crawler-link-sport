@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:30:09 20/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1561447_chuoichao" tvg-name="FC Rostov vs Krylia Sovetov" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133526_fe3a0df9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133526_fe3a0df9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133527_3dc5d829.png" group-title="Chuối TV" start-time="1795192200",FC Rostov vs Krylia Sovetov - Chuối Chao [HD1] — Ngoại Hạng Nga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 00:00:08 21/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1546150_chuoikem" tvg-name="Italy U17 vs Jamaica U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144524_13158a72.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144524_13158a72.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144940_080da86a.png" group-title="Chuối TV" start-time="1795186800",Italy U17 vs Jamaica U17 - Chuối Kem [FHD] — World Cup - U17
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +19,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1561447_chuoichao" tvg-name="FC Rostov vs Krylia Sovetov" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133526_fe3a0df9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133526_fe3a0df9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133527_3dc5d829.png" group-title="Chuối TV" start-time="1795192200",FC Rostov vs Krylia Sovetov - Chuối Chao [FHD] — Ngoại Hạng Nga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1603044_chuoila" tvg-name="Al-Ahli Jeddah vs Al-Nassr" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_e6842fb5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_e6842fb5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png" group-title="Chuối TV" start-time="1795195800",Al-Ahli Jeddah vs Al-Nassr - Chuối Lá [FHD] — Saudi Pro League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -67,11 +67,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_pxwrxlhlp81yryk" tvg-name="Bengaluru FC vs Mumbai City" tvg-logo="https://static.sportsfeed.pro/football/team/fb65f54d32791e1207403258907bfea3.png" home-logo="https://static.sportsfeed.pro/football/team/fb65f54d32791e1207403258907bfea3.png" away-logo="https://static.sportsfeed.pro/football/team/e1389bf32867c3b93e09fc194cb545d8.png" group-title="Gà Vàng TV" start-time="1795183200",Bengaluru FC vs Mumbai City - Lucie23 — Indian Super League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_2y8m4zh59n01ql0" tvg-name="Arminia Bielefeld vs FC Magdeburg" tvg-logo="https://static.sportsfeed.pro/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png" home-logo="https://static.sportsfeed.pro/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png" away-logo="https://static.sportsfeed.pro/football/team/e4dba0e2b72f3f545ece098b91b811a1.png" group-title="Gà Vàng TV" start-time="1795195800",Arminia Bielefeld vs FC Magdeburg - GIàng A Dân — German Bundesliga 2
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -123,16 +118,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2MjE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_9gklzi1xr1rtm7x" tvg-name="Sumgayit FK vs Sabah FC" tvg-logo="https://img.cltvap.cc/football/team/46e02b8dea22b2951976d1262dd0279f.png!w80" home-logo="https://img.cltvap.cc/football/team/46e02b8dea22b2951976d1262dd0279f.png!w80" away-logo="https://img.cltvap.cc/football/team/44cc5a54d7859b9d062a6f56a39819f8.png!w80" group-title="Cola TV" start-time="1795186800",Sumgayit FK vs Sabah FC - BLV ROCKSTAR — Giải Bóng đá Ngoại hạng Azerbaijan
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/82054853.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_l6kegi805gxhv75" tvg-name="Ý U17 vs Jamaica U17" tvg-logo="https://img.cltvap.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" home-logo="https://img.cltvap.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" away-logo="https://img.cltvap.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80" group-title="Cola TV" start-time="1795186800",Ý U17 vs Jamaica U17 - BLV SPRITE — World Cup U17
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/75748097.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_8lk2di30zj1fz73" tvg-name="CLB Al Ahli vs Ajman" tvg-logo="https://img.cltvap.cc/football/team/05e87b1dbb904915a4a97fc095b73d20.png!w80" home-logo="https://img.cltvap.cc/football/team/05e87b1dbb904915a4a97fc095b73d20.png!w80" away-logo="https://img.cltvap.cc/football/team/f32f196f677a402e01f3c8807a2318a1.png!w80" group-title="Cola TV" start-time="1795188300",CLB Al Ahli vs Ajman - BLV MONSTER — UAE League
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -162,3 +147,8 @@ https://live05.wecile.app/live/08552895.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/14707124.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_wv78xivrjorsokr" tvg-name="Câu lạc bộ bóng đá Rostov vs CLB Krylya Sovetov" tvg-logo="https://img.cltvap.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" home-logo="https://img.cltvap.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" away-logo="https://img.cltvap.cc/football/team/b7782a595f2f82ed8daca72fd1f102de.png!w80" group-title="Cola TV" start-time="1795192200",Câu lạc bộ bóng đá Rostov vs CLB Krylya Sovetov - BLV MOUNTAIN DEW — Giải Bóng đá Ngoại hạng Nga
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
