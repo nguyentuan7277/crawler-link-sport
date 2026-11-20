@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 14:00:15 20/11/2026
+## Cập nhật lúc: 14:30:11 20/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1632127_chuoikem" tvg-name="Western Sydney Wanderers W vs Wellington Phoenix W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133804_42cc55f1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133804_42cc55f1.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133806_db6ab218.png" group-title="Chuối TV" start-time="1795153800",Western Sydney Wanderers W vs Wellington Phoenix W - Chuối Kem [FHD] — A-League Women
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -128,6 +128,66 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_pxwrxlhy6lwvryk" tvg-name="Ws Wanderers(w) vs Wellington Phoenix(w)" tvg-logo="https://static.sportsfeed.pro/football/team/53a3c4c0bbacf38116898ced61345918.png" home-logo="https://static.sportsfeed.pro/football/team/53a3c4c0bbacf38116898ced61345918.png" away-logo="https://static.sportsfeed.pro/football/team/0ac84eafdf9565eecf781c0eb07182f2.png" group-title="Gà Vàng TV" start-time="1795153800",Ws Wanderers(w) vs Wellington Phoenix(w) - SÚP LƠ — Australia W-League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_23xmvkh6n1d9qg8" tvg-name="Garudayaksa FC vs Madura United" tvg-logo="https://static.sportsfeed.pro/football/team/3990ecb8ff4fa39127a6606f4ee53ba2.png" home-logo="https://static.sportsfeed.pro/football/team/3990ecb8ff4fa39127a6606f4ee53ba2.png" away-logo="https://static.sportsfeed.pro/football/team/320ff18ba51acdf34c92311dec8186a7.png" group-title="Gà Vàng TV" start-time="1795163400",Garudayaksa FC vs Madura United - Lá Chanh — Indonesian Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_zp5rzghglvzwq82" tvg-name="PSS Sleman vs Arema FC" tvg-logo="https://static.sportsfeed.pro/football/team/20bf90d9a55ef5dc4a503754db3f8b49.png" home-logo="https://static.sportsfeed.pro/football/team/20bf90d9a55ef5dc4a503754db3f8b49.png" away-logo="https://static.sportsfeed.pro/football/team/55cba4a142146e2cdc317d21eb4daf76.png" group-title="Gà Vàng TV" start-time="1795163400",PSS Sleman vs Arema FC - KAYTI — Indonesian Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dn1m1gh9v585moe" tvg-name="South Melbourne vs Canberra FC" tvg-logo="https://static.sportsfeed.pro/football/team/3728683390847f335552d077cf0b8752.png" home-logo="https://static.sportsfeed.pro/football/team/3728683390847f335552d077cf0b8752.png" away-logo="https://static.sportsfeed.pro/football/team/0e8a5b04bcb76a376d0f0ddf9f54fbaa.png" group-title="Gà Vàng TV" start-time="1795163400",South Melbourne vs Canberra FC - Lucie23 — Aus Champ
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4wyrn4hyzjvgq86" tvg-name="Sydney United 58 FC vs Sutherland Sharks" tvg-logo="https://static.sportsfeed.pro/football/team/a2f47271892fb491ffab880158419ca0.png" home-logo="https://static.sportsfeed.pro/football/team/a2f47271892fb491ffab880158419ca0.png" away-logo="https://static.sportsfeed.pro/football/team/71a3331c3902a051622e75a5086b3d62.png" group-title="Gà Vàng TV" start-time="1795163400",Sydney United 58 FC vs Sutherland Sharks - Cá MậP — Aus Champ
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hxeogvqo9" tvg-name="Western Sydney Wanderers FC vs Adelaide United" tvg-logo="https://static.sportsfeed.pro/football/team/aa46424fa1a452a4b1af49fd3be10edb.png" home-logo="https://static.sportsfeed.pro/football/team/aa46424fa1a452a4b1af49fd3be10edb.png" away-logo="https://static.sportsfeed.pro/football/team/ad78393eae1735732229c2a6eaba4998.png" group-title="Gà Vàng TV" start-time="1795164000",Western Sydney Wanderers FC vs Adelaide United - SAITAMA — Australia A-League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l7oqdehgpxvxr51" tvg-name="Negeri Sembilan vs Kuching City FC" tvg-logo="https://static.sportsfeed.pro/football/team/198103640a4eb0c209b21b6c6891a027.png" home-logo="https://static.sportsfeed.pro/football/team/198103640a4eb0c209b21b6c6891a027.png" away-logo="https://static.sportsfeed.pro/football/team/81f5727743f8759ae7a99b8d7f2557e3.png" group-title="Gà Vàng TV" start-time="1795164300",Negeri Sembilan vs Kuching City FC - cố tư nghiêm — Malaysian Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hxlyz8qo9" tvg-name="Ba Ria Vung Tau FC vs Thai Nguyen" tvg-logo="https://static.sportsfeed.pro/football/team/3e84532fe72df7eb08df1f713dca9532.png" home-logo="https://static.sportsfeed.pro/football/team/3e84532fe72df7eb08df1f713dca9532.png" away-logo="https://static.sportsfeed.pro/football/team/5bc47b0c1409c6deb22abf1bf86f1ef0.png" group-title="Gà Vàng TV" start-time="1795168800",Ba Ria Vung Tau FC vs Thai Nguyen - RIO — Vietnam National First Class League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_6ypq3nhvd3klmd7" tvg-name="Kashima Antlers vs Shimizu S Pulse" tvg-logo="https://static.sportsfeed.pro/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png" home-logo="https://static.sportsfeed.pro/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png" away-logo="https://static.sportsfeed.pro/football/team/fa4105f0408ef893d941e70ae003ab4c.png" group-title="Gà Vàng TV" start-time="1795168800",Kashima Antlers vs Shimizu S Pulse - SiêU QuậY — Japanese J1 League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_8yomo4h1j3yvq0j" tvg-name="Kashiwa Reysol vs JEF United Ichihara Chiba" tvg-logo="https://static.sportsfeed.pro/football/team/d272859d78eb8ca7a14753f4293fbf45.png" home-logo="https://static.sportsfeed.pro/football/team/d272859d78eb8ca7a14753f4293fbf45.png" away-logo="https://static.sportsfeed.pro/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png" group-title="Gà Vàng TV" start-time="1795168800",Kashiwa Reysol vs JEF United Ichihara Chiba - SÚP LƠ — Japanese J1 League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_3glrw7hnd6gkqdy" tvg-name="Thanh Hoa vs Hoang Anh Gia Lai" tvg-logo="https://static.sportsfeed.pro/football/team/b8810fbe6cadfc28a6ef30468514a20e.png" home-logo="https://static.sportsfeed.pro/football/team/b8810fbe6cadfc28a6ef30468514a20e.png" away-logo="https://static.sportsfeed.pro/football/team/df2ae58b9e658494b940b0bd782901b8.png" group-title="Gà Vàng TV" start-time="1795168800",Thanh Hoa vs Hoang Anh Gia Lai - CRIS — Vietnam National Champion League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_k82rekhgdwgprep" tvg-name="Vissel Kobe vs Mito Hollyhock" tvg-logo="https://static.sportsfeed.pro/football/team/d85cce27ab583e5b3cead155f02b098a.png" home-logo="https://static.sportsfeed.pro/football/team/d85cce27ab583e5b3cead155f02b098a.png" away-logo="https://static.sportsfeed.pro/football/team/9ead844240532c4e12d3eb45d2087924.png" group-title="Gà Vàng TV" start-time="1795168800",Vissel Kobe vs Mito Hollyhock - gohannguyen — Japanese J1 League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6aef22d1f72fb30b985aafbe.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19758798" tvg-name="Western Sydney Wanderers vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/adelaide-united-2967" group-title="BiaomTV" start-time="1795164000",Western Sydney Wanderers vs Adelaide United - Lẩu Ếch — VĐQG Úc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -207,3 +267,8 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2MjE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnZ
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/08552895.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_m2q15izoz3zie76" tvg-name="Singapore U17 vs Palestine U17" tvg-logo="https://img.cltvap.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80" home-logo="https://img.cltvap.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80" away-logo="https://img.cltvap.cc/football/team/72fb22982ac69857cb2432f13589836e.png!w80" group-title="Cola TV" start-time="1795159800",Singapore U17 vs Palestine U17 - BLV ROCKSTAR — AFC Championship U16
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/82054853.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
