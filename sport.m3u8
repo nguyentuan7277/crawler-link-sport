@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 17:30:07 20/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1593704_chuoila" tvg-name="Western Sydney Wanderers vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130438_eb01dea2.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130438_eb01dea2.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_7beb7455.png" group-title="Chuối TV" start-time="1795164000",Western Sydney Wanderers vs Adelaide United - Chuối Lá [FHD] — A-League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1601152_chuoitay" tvg-name="Negeri Sembilan vs Kuching FA" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133853_faf7b8c1.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133853_faf7b8c1.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133857_ce6dbf10.png" group-title="Chuối TV" start-time="1795164300",Negeri Sembilan vs Kuching FA - Chuối Tây [FHD] — VĐQG Malaysia
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 18:00:22 20/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1635011_chuoichao" tvg-name="TP. Hồ Chí Minh vs Thai Nguyen" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" home-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" away-logo="https://media.api-sports.io/football/teams/28216.png" group-title="Chuối TV" start-time="1795168800",TP. Hồ Chí Minh vs Thai Nguyen - Chuối Chao [FHD] — V.League 2
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,6 +110,31 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_318q66hxlyz8qo9" tvg-name="Ba Ria Vung Tau FC vs Thai Nguyen" tvg-logo="https://static.sportsfeed.pro/football/team/3e84532fe72df7eb08df1f713dca9532.png" home-logo="https://static.sportsfeed.pro/football/team/3e84532fe72df7eb08df1f713dca9532.png" away-logo="https://static.sportsfeed.pro/football/team/5bc47b0c1409c6deb22abf1bf86f1ef0.png" group-title="Gà Vàng TV" start-time="1795168800",Ba Ria Vung Tau FC vs Thai Nguyen - RIO — Vietnam National First Class League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_6ypq3nhvd3klmd7" tvg-name="Kashima Antlers vs Shimizu S Pulse" tvg-logo="https://static.sportsfeed.pro/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png" home-logo="https://static.sportsfeed.pro/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png" away-logo="https://static.sportsfeed.pro/football/team/fa4105f0408ef893d941e70ae003ab4c.png" group-title="Gà Vàng TV" start-time="1795168800",Kashima Antlers vs Shimizu S Pulse - SiêU QuậY — Japanese J1 League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_8yomo4h1j3yvq0j" tvg-name="Kashiwa Reysol vs JEF United Ichihara Chiba" tvg-logo="https://static.sportsfeed.pro/football/team/d272859d78eb8ca7a14753f4293fbf45.png" home-logo="https://static.sportsfeed.pro/football/team/d272859d78eb8ca7a14753f4293fbf45.png" away-logo="https://static.sportsfeed.pro/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png" group-title="Gà Vàng TV" start-time="1795168800",Kashiwa Reysol vs JEF United Ichihara Chiba - SÚP LƠ — Japanese J1 League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_3glrw7hnd6gkqdy" tvg-name="Thanh Hoa vs Hoang Anh Gia Lai" tvg-logo="https://static.sportsfeed.pro/football/team/b8810fbe6cadfc28a6ef30468514a20e.png" home-logo="https://static.sportsfeed.pro/football/team/b8810fbe6cadfc28a6ef30468514a20e.png" away-logo="https://static.sportsfeed.pro/football/team/df2ae58b9e658494b940b0bd782901b8.png" group-title="Gà Vàng TV" start-time="1795168800",Thanh Hoa vs Hoang Anh Gia Lai - CRIS — Vietnam National Champion League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_k82rekhgdwgprep" tvg-name="Vissel Kobe vs Mito Hollyhock" tvg-logo="https://static.sportsfeed.pro/football/team/d85cce27ab583e5b3cead155f02b098a.png" home-logo="https://static.sportsfeed.pro/football/team/d85cce27ab583e5b3cead155f02b098a.png" away-logo="https://static.sportsfeed.pro/football/team/9ead844240532c4e12d3eb45d2087924.png" group-title="Gà Vàng TV" start-time="1795168800",Vissel Kobe vs Mito Hollyhock - gohannguyen — Japanese J1 League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6aef22d1f72fb30b985aafbe.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_6ypq3nhk6y53md7" tvg-name="East Bengal FC vs Hyderabad FC" tvg-logo="https://static.sportsfeed.pro/football/team/21649c3d173c8f4ec9d526432ad9f088.png" home-logo="https://static.sportsfeed.pro/football/team/21649c3d173c8f4ec9d526432ad9f088.png" away-logo="https://static.sportsfeed.pro/football/team/815bd35aaf3d9cfd58a9899695daf03c.png" group-title="Gà Vàng TV" start-time="1795174200",East Bengal FC vs Hyderabad FC - Lá Chanh — Indian Super League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -167,15 +180,15 @@ https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_19758798" tvg-name="Western Sydney Wanderers vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/adelaide-united-2967" group-title="BiaomTV" start-time="1795164000",Western Sydney Wanderers vs Adelaide United - Lẩu Ếch — VĐQG Úc
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTINF:-1 tvg-id="gavang_pxwrxlhlp81yryk" tvg-name="Bengaluru FC vs Mumbai City" tvg-logo="https://static.sportsfeed.pro/football/team/fb65f54d32791e1207403258907bfea3.png" home-logo="https://static.sportsfeed.pro/football/team/fb65f54d32791e1207403258907bfea3.png" away-logo="https://static.sportsfeed.pro/football/team/e1389bf32867c3b93e09fc194cb545d8.png" group-title="Gà Vàng TV" start-time="1795183200",Bengaluru FC vs Mumbai City - Lucie23 — Indian Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3NTg3OTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmFtdXgwMTh4aDI5djRzMnM3aWE2eHhkNQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_19758798" tvg-name="Western Sydney Wanderers vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/adelaide-united-2967" group-title="BiaomTV" start-time="1795164000",Western Sydney Wanderers vs Adelaide United - TIGER — VĐQG Úc
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTINF:-1 tvg-id="gavang_x7lm7phj2epzm2w" tvg-name="Spain U17 vs China U17" tvg-logo="https://img.thesports.com/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png" home-logo="https://img.thesports.com/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png" away-logo="https://img.thesports.com/football/team/c04fddecf9b964a3f66a1aa28bba9625.png" group-title="Gà Vàng TV" start-time="1795183200",Spain U17 vs China U17 - GIàng A Dân — FIFA U17 World Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk3NTg3OTg6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Om9rdmR5NjBncGRjN2NlOXRocmQ0N3gxag/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19719160" tvg-name="Kashima Antlers vs Shimizu S-Pulse" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashima-antlers-3690" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashima-antlers-3690" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shimizu-spulse-3663" group-title="BiaomTV" start-time="1795168800",Kashima Antlers vs Shimizu S-Pulse - Vịt Nướng — VĐQG Nhật Bản
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -236,16 +249,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1Mzk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MjE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnZmcDk3N2I2ODZ2Y2Y3amY2enl6NWJ6cA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_j374oi0g13etgqo" tvg-name="CLB Western Sydney vs CLB Adelaide United" tvg-logo="https://img.cltvap.cc/football/team/65ad5821ea90c2eb91c4c159c6e62745.png!w80" home-logo="https://img.cltvap.cc/football/team/65ad5821ea90c2eb91c4c159c6e62745.png!w80" away-logo="https://img.cltvap.cc/football/team/e5f515e5720cd281a1a53ce2950992b1.png!w80" group-title="Cola TV" start-time="1795164000",CLB Western Sydney vs CLB Adelaide United - BLV REVIVE — Giải vô địch quốc gia Úc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_m2q15izy6j6te76" tvg-name="Negeri Sembilan vs Kuching City FC" tvg-logo="https://img.cltvap.cc/football/team/198103640a4eb0c209b21b6c6891a027.png!w80" home-logo="https://img.cltvap.cc/football/team/198103640a4eb0c209b21b6c6891a027.png!w80" away-logo="https://img.cltvap.cc/football/team/81f5727743f8759ae7a99b8d7f2557e3.png!w80" group-title="Cola TV" start-time="1795164300",Negeri Sembilan vs Kuching City FC - BLV PEPSI — Giải vô địch Malaysia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/59444581.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_j374oi0px84hgqo" tvg-name="Bà Rịa Vũng Tàu vs Thai Nguyen" tvg-logo="https://img.cltvap.cc/football/team/5e40ed1f6779e1fcfb55c259e36746da.png!w80" home-logo="https://img.cltvap.cc/football/team/5e40ed1f6779e1fcfb55c259e36746da.png!w80" away-logo="https://img.cltvap.cc/football/team/5bc47b0c1409c6deb22abf1bf86f1ef0.png!w80" group-title="Cola TV" start-time="1795168800",Bà Rịa Vũng Tàu vs Thai Nguyen - BLV AQUA — Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
