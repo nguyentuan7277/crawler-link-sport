@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 21:00:30 20/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1546160_troctru" tvg-name="Spain U17 vs China PR U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144525_05c41131.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144525_05c41131.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_145024_d31bb816.png" group-title="Chuối TV" start-time="1795183200",Spain U17 vs China PR U17 - Trốc Tru [FHD] — World Cup - U17
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1633936_chuoisay" tvg-name="Viettel vs Song Lam Nghe An" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png" away-logo="https://media.chuoichientv.net/media/20250817_040514_e14149ab.png" group-title="Chuối TV" start-time="1795176900",Viettel vs Song Lam Nghe An - Chuối Sấy [FHD] — V.League 1
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 21:30:25 20/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1546142_angao" tvg-name="Belgium U17 vs Vietnam U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144530_7256014f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144530_7256014f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="Chuối TV" start-time="1795179600",Belgium U17 vs Vietnam U17 - Chuối Già [FHD] — World Cup - U17
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +13,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1546160_troctru" tvg-name="Spain U17 vs China PR U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144525_05c41131.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144525_05c41131.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_145024_d31bb816.png" group-title="Chuối TV" start-time="1795183200",Spain U17 vs China PR U17 - Trốc Tru [FHD] — World Cup - U17
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1546150_chuoikem" tvg-name="Italy U17 vs Jamaica U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144524_13158a72.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144524_13158a72.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144940_080da86a.png" group-title="Chuối TV" start-time="1795186800",Italy U17 vs Jamaica U17 - Chuối Kem [FHD] — World Cup - U17
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -92,10 +86,70 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="biaom_19872945" tvg-name="Thể Công-Viettel vs Sông Lam Nghệ An" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/song-lam-nghe-an-18514" group-title="BiaomTV" start-time="1795176900",Thể Công-Viettel vs Sông Lam Nghệ An - Vịt Nướng — VĐQG Việt Nam
-#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTINF:-1 tvg-id="gavang_zp5rzgh3yknzq82" tvg-name="Ittihad Kalba FC vs Al Sharjah" tvg-logo="https://static.sportsfeed.pro/football/team/2e8a02ec6526cb9c73b87acf8a06453b.png" home-logo="https://static.sportsfeed.pro/football/team/2e8a02ec6526cb9c73b87acf8a06453b.png" away-logo="https://static.sportsfeed.pro/football/team/c471de7682d1c900df7981bb2cf6536c.png" group-title="Gà Vàng TV" start-time="1795178700",Ittihad Kalba FC vs Al Sharjah - gohannguyen — United Arab Emirates Adnoc Pro-League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://cdnhls.xbdbotv.live/live/MTk4NzI5NDU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVjanhrdjNpYmxhbTdienFlb3pkaWFjaw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6aef22d1f72fb30b985aafbe.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnh97180m7v" tvg-name="Al Duhail vs Qatar SC" tvg-logo="https://static.sportsfeed.pro/football/team/5736b9d2b0cadc3c1ba779bf6787d878.png" home-logo="https://static.sportsfeed.pro/football/team/5736b9d2b0cadc3c1ba779bf6787d878.png" away-logo="https://static.sportsfeed.pro/football/team/6bd99a31fd562a9e6b1db99d42d40b34.png" group-title="Gà Vàng TV" start-time="1795179600",Al Duhail vs Qatar SC - khang hi — Qatar Stars League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_ednm9whwn9jnryo" tvg-name="Al Sadd vs Lusail city fc" tvg-logo="https://static.sportsfeed.pro/football/team/5c794bfbf3227563c85323bb624721ec.png" home-logo="https://static.sportsfeed.pro/football/team/5c794bfbf3227563c85323bb624721ec.png" away-logo="https://static.sportsfeed.pro/football/team/4ffc7d1c2110bf73bbb60224d33cb774.png" group-title="Gà Vàng TV" start-time="1795179600",Al Sadd vs Lusail city fc - RIO — Qatar Stars League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnh9d0kpm7v" tvg-name="Belgium U17 vs Vietnam U17" tvg-logo="https://img.thesports.com/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png" home-logo="https://img.thesports.com/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png" away-logo="https://img.thesports.com/football/team/488df3a9b3fc86ac6c9e8f6d40733067.png" group-title="Gà Vàng TV" start-time="1795179600",Belgium U17 vs Vietnam U17 - CRIS — FIFA U17 World Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dj2ryohlopw9q1z" tvg-name="Terengganu FC vs DPMM FC" tvg-logo="https://static.sportsfeed.pro/football/team/4e7cc12589531b2559e0f7c5632a38db.png" home-logo="https://static.sportsfeed.pro/football/team/4e7cc12589531b2559e0f7c5632a38db.png" away-logo="https://static.sportsfeed.pro/football/team/25dae24c4bfc4a6fdd53d090a39821dd.png" group-title="Gà Vàng TV" start-time="1795179600",Terengganu FC vs DPMM FC - ĐOÀN DỰ — Malaysian Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l5ergph476p3r8k" tvg-name="Italy U17 vs Jamaica U17" tvg-logo="https://img.thesports.com/football/team/775bc655c77d679c193f1982dac04668.png" home-logo="https://img.thesports.com/football/team/775bc655c77d679c193f1982dac04668.png" away-logo="https://img.thesports.com/football/team/f7779710d2026dca44c41da7a9b7c748.png" group-title="Gà Vàng TV" start-time="1795186800",Italy U17 vs Jamaica U17 - Lữ Bố.vip — FIFA U17 World Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnhny78xm7v" tvg-name="Shabab AlAhli vs Ajman" tvg-logo="https://static.sportsfeed.pro/football/team/05e87b1dbb904915a4a97fc095b73d20.png" home-logo="https://static.sportsfeed.pro/football/team/05e87b1dbb904915a4a97fc095b73d20.png" away-logo="https://static.sportsfeed.pro/football/team/f32f196f677a402e01f3c8807a2318a1.png" group-title="Gà Vàng TV" start-time="1795188300",Shabab AlAhli vs Ajman - Lá Chanh — United Arab Emirates Adnoc Pro-League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4jwq2ghn2k8ym0v" tvg-name="Al Gharafa vs Al Arabi SC" tvg-logo="https://static.sportsfeed.pro/football/team/fcac1eae493c493061e66608158b40ef.png" home-logo="https://static.sportsfeed.pro/football/team/fcac1eae493c493061e66608158b40ef.png" away-logo="https://static.sportsfeed.pro/football/team/00bb4a98ec1224af879bd139519ce3b7.png" group-title="Gà Vàng TV" start-time="1795188600",Al Gharafa vs Al Arabi SC - MáN NúI — Qatar Stars League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_l7oqdehgk3l9r51" tvg-name="Botosani vs CS Voluntari" tvg-logo="https://static.sportsfeed.pro/football/team/b7e1d23bb62776473efc5ef196a98de5.png" home-logo="https://static.sportsfeed.pro/football/team/b7e1d23bb62776473efc5ef196a98de5.png" away-logo="https://static.sportsfeed.pro/football/team/f105da768299b0eece32a15bb3c30574.png" group-title="Gà Vàng TV" start-time="1795188600",Botosani vs CS Voluntari - A Long — Romanian Super Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_k82rekhgdxw8rep" tvg-name="FK Septemvri Sofia vs Lokomotiv Plovdiv" tvg-logo="https://static.sportsfeed.pro/football/team/a6f81856a35217b82fb2e20d28c3dcab.png" home-logo="https://static.sportsfeed.pro/football/team/a6f81856a35217b82fb2e20d28c3dcab.png" away-logo="https://static.sportsfeed.pro/football/team/940bb92f83d40985137748d0d3aeb213.png" group-title="Gà Vàng TV" start-time="1795190400",FK Septemvri Sofia vs Lokomotiv Plovdiv - ĐOÀN DỰ — Bulgarian First League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_y0or5jh8ke7kqwz" tvg-name="FK Rostov vs Krylya Sovetov" tvg-logo="https://static.sportsfeed.pro/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" home-logo="https://static.sportsfeed.pro/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" away-logo="https://static.sportsfeed.pro/football/team/b7782a595f2f82ed8daca72fd1f102de.png" group-title="Gà Vàng TV" start-time="1795192200",FK Rostov vs Krylya Sovetov - Lucie23 — Russian Premier League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_2y8m4zh59n01ql0" tvg-name="Arminia Bielefeld vs FC Magdeburg" tvg-logo="https://static.sportsfeed.pro/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png" home-logo="https://static.sportsfeed.pro/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png" away-logo="https://static.sportsfeed.pro/football/team/e4dba0e2b72f3f545ece098b91b811a1.png" group-title="Gà Vàng TV" start-time="1795195800",Arminia Bielefeld vs FC Magdeburg - GIàng A Dân — German Bundesliga 2
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_ednm9whw468yryo" tvg-name="SV Darmstadt 98 vs Heidenheim" tvg-logo="https://static.sportsfeed.pro/football/team/da5997a60373a56628e684ae3c16f2c8.png" home-logo="https://static.sportsfeed.pro/football/team/da5997a60373a56628e684ae3c16f2c8.png" away-logo="https://static.sportsfeed.pro/football/team/65ee743f20fa7db286fdeda4d33c6980.png" group-title="Gà Vàng TV" start-time="1795195800",SV Darmstadt 98 vs Heidenheim - khang hi — German Bundesliga 2
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19709735" tvg-name="Bỉ U17 vs Việt Nam U17" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/belgium-u17-136073" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/belgium-u17-136073" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u17-266541" group-title="BiaomTV" start-time="1795179600",Bỉ U17 vs Việt Nam U17 - NEM NƯỚNG  — World Cup U17
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -131,11 +185,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1Mzk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MjE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnZmcDk3N2I2ODZ2Y2Y3amY2enl6NWJ6cA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_ndkz6i356vzsxq3" tvg-name="Thể Công - Viettel vs Sông Lam Nghệ An" tvg-logo="https://img.cltvap.cc/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png!w80" home-logo="https://img.cltvap.cc/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png!w80" away-logo="https://img.cltvap.cc/football/team/7f95b001711ce3978d498602e1d2c9fd.png!w80" group-title="Cola TV" start-time="1795176900",Thể Công - Viettel vs Sông Lam Nghệ An - BLV MONSTER — Giải vô địch quốc gia Việt Nam
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_69759irwpovcgk2" tvg-name="Ittihad Kalba vs Al Sharjah" tvg-logo="https://img.cltvap.cc/football/team/2e8a02ec6526cb9c73b87acf8a06453b.png!w80" home-logo="https://img.cltvap.cc/football/team/2e8a02ec6526cb9c73b87acf8a06453b.png!w80" away-logo="https://img.cltvap.cc/football/team/c471de7682d1c900df7981bb2cf6536c.png!w80" group-title="Cola TV" start-time="1795178700",Ittihad Kalba vs Al Sharjah - BLV BÍ ĐAO — UAE League
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
