@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 22:00:07 22/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1570455_chuoichao" tvg-name="Barcelona vs Villarreal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png" group-title="Chuối TV" start-time="1795352400",Barcelona vs Villarreal - Chuối Chao [FHD] — La Liga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1570455_chuoikem" tvg-name="Barcelona vs Villarreal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png" group-title="Chuối TV" start-time="1795352400",Barcelona vs Villarreal - Chuối Kem [FHD] — La Liga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 22:30:08 22/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1557472_angao" tvg-name="Hull City vs Brighton" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130851_e5825be5.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130851_e5825be5.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_d9b536ef.png" group-title="Chuối TV" start-time="1795356000",Hull City vs Brighton - Chuối Già [FHD] — Ngoại Hạng Anh
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -140,30 +128,22 @@ https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_jw2r09hkv7j7rz8" tvg-name="Energie Cottbus vs Hertha Berlin" tvg-logo="https://static.sportsfeed.pro/football/team/3623712f3a18880ded3e0a4034b31525.png" home-logo="https://static.sportsfeed.pro/football/team/3623712f3a18880ded3e0a4034b31525.png" away-logo="https://static.sportsfeed.pro/football/team/1f74843bf2ffff474d23d387fa240102.png" group-title="Gà Vàng TV" start-time="1795350600",Energie Cottbus vs Hertha Berlin - Cá MậP — German Bundesliga 2
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1546184_angao" tvg-name="Vietnam U17 vs New Zealand U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" away-logo="https://media.api-sports.io/football/teams/12515.png" group-title="Chuối TV" start-time="1795447800",Vietnam U17 vs New Zealand U17 - Chuối Già [FHD] — World Cup - U17
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_vjxm8ghe6x3kr6o" tvg-name="Barcelona vs Villarreal" tvg-logo="https://static.sportsfeed.pro/football/team/f378eb1ea04e53999b89051aa3244de6.png" home-logo="https://static.sportsfeed.pro/football/team/f378eb1ea04e53999b89051aa3244de6.png" away-logo="https://static.sportsfeed.pro/football/team/aee62af96a956756cc29fe4831286357.png" group-title="Gà Vàng TV" start-time="1795352400",Barcelona vs Villarreal - SAITAMA — Spanish La Liga
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1546184_chuoisay" tvg-name="Vietnam U17 vs New Zealand U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" away-logo="https://media.api-sports.io/football/teams/12515.png" group-title="Chuối TV" start-time="1795447800",Vietnam U17 vs New Zealand U17 - Chuối Sấy [FHD] — World Cup - U17
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_y39mp1h68k1kmoj" tvg-name="AFC Ajax vs ADO Den Haag" tvg-logo="https://static.sportsfeed.pro/football/team/187929503752357480bce47813a9741f.png" home-logo="https://static.sportsfeed.pro/football/team/187929503752357480bce47813a9741f.png" away-logo="https://static.sportsfeed.pro/football/team/3dbce6bb7b1adc861642a7a1fc9b3796.png" group-title="Gà Vàng TV" start-time="1795354200",AFC Ajax vs ADO Den Haag - RIO — Netherlands Eredivisie
+#EXTINF:-1 tvg-id="gavang_dn1m1ghly7zxmoe" tvg-name="Konyaspor vs Besiktas JK" tvg-logo="https://static.sportsfeed.pro/football/team/e75f8b4e1baab3060dbe5ba983a3b49c.png" home-logo="https://static.sportsfeed.pro/football/team/e75f8b4e1baab3060dbe5ba983a3b49c.png" away-logo="https://static.sportsfeed.pro/football/team/83ba0474d144e49f060789cfa904e226.png" group-title="Gà Vàng TV" start-time="1795352400",Konyaspor vs Besiktas JK - gohannguyen — Turkish Super League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_n54qllhn682gqvy" tvg-name="FC Dynamo Makhachkala vs Spartak Moscow" tvg-logo="https://static.sportsfeed.pro/football/team/26cece8c2572a1d82b90fefc2c71e8ad.png" home-logo="https://static.sportsfeed.pro/football/team/26cece8c2572a1d82b90fefc2c71e8ad.png" away-logo="https://static.sportsfeed.pro/football/team/b989806732eaf15246ab56e07d0b8a2e.png" group-title="Gà Vàng TV" start-time="1795354200",FC Dynamo Makhachkala vs Spartak Moscow - namiiu — Russian Premier League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6afd3d6e53914a788517a0db.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_1l4rjnh90e57m7v" tvg-name="Racing Santander vs Real Sociedad" tvg-logo="https://static.sportsfeed.pro/football/team/8db7260a18b1be68e8710cfdbf6be3df.png" home-logo="https://static.sportsfeed.pro/football/team/8db7260a18b1be68e8710cfdbf6be3df.png" away-logo="https://static.sportsfeed.pro/football/team/579db6e95905545973035e6eab8df2cd.png" group-title="Gà Vàng TV" start-time="1795360500",Racing Santander vs Real Sociedad - Cá MậP — Spanish La Liga
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6aef22d1f72fb30b985aafbe.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_965mkyhk2e16r1g" tvg-name="Aalesund FK vs Rosenborg" tvg-logo="https://static.sportsfeed.pro/football/team/6ac791d55849be61801c6c1827b52811.png" home-logo="https://static.sportsfeed.pro/football/team/6ac791d55849be61801c6c1827b52811.png" away-logo="https://static.sportsfeed.pro/football/team/7a2eadc57b3a330eda4b7189352ce344.png" group-title="Gà Vàng TV" start-time="1795363200",Aalesund FK vs Rosenborg - RIO — Norwegian Eliteserien
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -195,26 +175,6 @@ https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_ndkz6i30r62cxq3" tvg-name="FC Barcelona vs Villarreal" tvg-logo="https://img.cltvap.cc/football/team/f378eb1ea04e53999b89051aa3244de6.png!w80" home-logo="https://img.cltvap.cc/football/team/f378eb1ea04e53999b89051aa3244de6.png!w80" away-logo="https://img.cltvap.cc/football/team/aee62af96a956756cc29fe4831286357.png!w80" group-title="Cola TV" start-time="1795352400",FC Barcelona vs Villarreal - BLV HỔ VẰN — Giải Bóng đá Vô địch Quốc gia Tây Ban Nha
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/07428422.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_vrqwni45rerh4qn" tvg-name="AFC Ajax vs Den Haag" tvg-logo="https://img.cltvap.cc/football/team/187929503752357480bce47813a9741f.png!w80" home-logo="https://img.cltvap.cc/football/team/187929503752357480bce47813a9741f.png!w80" away-logo="https://img.cltvap.cc/football/team/3dbce6bb7b1adc861642a7a1fc9b3796.png!w80" group-title="Cola TV" start-time="1795354200",AFC Ajax vs Den Haag - BLV TEPPY — Giải Bóng đá Vô địch Quốc gia Hà Lan
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_edq09ilez9jueqx" tvg-name="Pháp U17 vs Ả Rập Saudi U17" tvg-logo="https://img.cltvap.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80" home-logo="https://img.cltvap.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80" away-logo="https://img.cltvap.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80" group-title="Cola TV" start-time="1795354200",Pháp U17 vs Ả Rập Saudi U17 - BLV MOUNTAIN DEW — World Cup U17
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_l6kegi8nyvwuv75" tvg-name="Sparta Rotterdam vs AZ Alkmaar" tvg-logo="https://img.cltvap.cc/football/team/73a60eae399442123eeb6f90b70cee8e.png!w80" home-logo="https://img.cltvap.cc/football/team/73a60eae399442123eeb6f90b70cee8e.png!w80" away-logo="https://img.cltvap.cc/football/team/e52b745126bbb6bdddc90b91b44413ae.png!w80" group-title="Cola TV" start-time="1795354200",Sparta Rotterdam vs AZ Alkmaar - BLV Cozy — Giải Bóng đá Vô địch Quốc gia Hà Lan
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/87379114.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_527r3i4xe5wc47e" tvg-name="Bologna F.C. 1909 vs Udinese Calcio" tvg-logo="https://img.cltvap.cc/football/team/c31f023a2cc8adbcc3e24344d81b9609.png!w80" home-logo="https://img.cltvap.cc/football/team/c31f023a2cc8adbcc3e24344d81b9609.png!w80" away-logo="https://img.cltvap.cc/football/team/c7140efe06d93642fcc9805077c49aa5.png!w80" group-title="Cola TV" start-time="1795356000",Bologna F.C. 1909 vs Udinese Calcio - BLV 7UP — Giải bóng đá Serie A Italia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -239,3 +199,18 @@ https://live05.wecile.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/97885009.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jr7owip8494ugq0" tvg-name="Câu lạc bộ Kortrijk vs Union Saint-Gilloise" tvg-logo="https://img.cltvap.cc/football/team/2bf79e7efd876266b055f68c318ef7ec.png!w80" home-logo="https://img.cltvap.cc/football/team/2bf79e7efd876266b055f68c318ef7ec.png!w80" away-logo="https://img.cltvap.cc/football/team/b796af8f1a3f43d5d56f4a4255b87260.png!w80" group-title="Cola TV" start-time="1795359600",Câu lạc bộ Kortrijk vs Union Saint-Gilloise - BLV REDBULL — Giải vô địch quốc gia Bỉ
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/49572724.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_8lk2dirl9yzfz73" tvg-name="CLB Racing Santander vs Real Sociedad" tvg-logo="https://img.cltvap.cc/football/team/8db7260a18b1be68e8710cfdbf6be3df.png!w80" home-logo="https://img.cltvap.cc/football/team/8db7260a18b1be68e8710cfdbf6be3df.png!w80" away-logo="https://img.cltvap.cc/football/team/579db6e95905545973035e6eab8df2cd.png!w80" group-title="Cola TV" start-time="1795360500",CLB Racing Santander vs Real Sociedad - BLV RỒNG ĐỎ — Giải Bóng đá Vô địch Quốc gia Tây Ban Nha
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/88508431.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ezk96i3z1pps1kn" tvg-name="Argentina U17 vs Mozambique U17" tvg-logo="https://img.cltvap.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80" home-logo="https://img.cltvap.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80" away-logo="https://img.cltvap.cc/football/team/d3b8cf8b9c797942fe68565e4ed2d8c3.png!w80" group-title="Cola TV" start-time="1795361400",Argentina U17 vs Mozambique U17 - BLV SPRITE — World Cup U17
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/75748097.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
