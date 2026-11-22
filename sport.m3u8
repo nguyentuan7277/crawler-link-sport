@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 15:30:06 22/11/2026
+## Cập nhật lúc: 16:00:16 22/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1622842_angao" tvg-name="Isenmulang Kalteng vs Pusamania Borneo" tvg-logo="https://media.chuoichientv.net/media/20261020_043332_0bb43b09.png" home-logo="https://media.chuoichientv.net/media/20261020_043332_0bb43b09.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_2456a9ca.png" group-title="Chuối TV" start-time="1795336200",Isenmulang Kalteng vs Pusamania Borneo - Chuối Già [HD1] — VĐQG Indonesia
+#EXTINF:-1 tvg-id="cctv_1622842_angao" tvg-name="Isenmulang Kalteng vs Pusamania Borneo" tvg-logo="https://media.chuoichientv.net/media/20261020_043332_0bb43b09.png" home-logo="https://media.chuoichientv.net/media/20261020_043332_0bb43b09.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_2456a9ca.png" group-title="Chuối TV" start-time="1795336200",Isenmulang Kalteng vs Pusamania Borneo - Chuối Già [FHD] — VĐQG Indonesia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1601156_chuoikem" tvg-name="Kuala Lumpur FA vs Penang" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_622d53df.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_622d53df.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133853_65bdc578.png" group-title="Chuối TV" start-time="1795339800",Kuala Lumpur FA vs Penang - Chuối Kem [FHD] — VĐQG Malaysia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -180,11 +180,6 @@ https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_l7oqdehgzeljr51" tvg-name="FC Twente Enschede vs Willem II" tvg-logo="https://static.sportsfeed.pro/football/team/7a2d0c79dd5d8589167c88684ac55aca.png" home-logo="https://static.sportsfeed.pro/football/team/7a2d0c79dd5d8589167c88684ac55aca.png" away-logo="https://static.sportsfeed.pro/football/team/7b10a020a3acd1ed95d783a1dfa3498e.png" group-title="Gà Vàng TV" start-time="1795346100",FC Twente Enschede vs Willem II - KAYTI — Netherlands Eredivisie
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_2y8m4zh5d3yzql0" tvg-name="Juventus vs Venezia" tvg-logo="https://static.sportsfeed.pro/football/team/314ca8463a6fd047b11d474287b24c50.png" home-logo="https://static.sportsfeed.pro/football/team/314ca8463a6fd047b11d474287b24c50.png" away-logo="https://static.sportsfeed.pro/football/team/3e724dc0e6fffd01a630b65af348fab6.png" group-title="Gà Vàng TV" start-time="1795347000",Juventus vs Venezia - CRIS — Italian Serie A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -285,7 +280,7 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1NDQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MTk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmp3ZDhjcGdzZTFyMnllcTJtajdlcDZ0MA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_jr7o9s301gpug70" tvg-name="KB Stars Nữ vs Samsung Blue Minx Nữ" tvg-logo="https://img.cltvap.cc/basketball/team/6ea8ec3c48be32df5a0c0d99bc6ff10d.png!w80" home-logo="https://img.cltvap.cc/basketball/team/6ea8ec3c48be32df5a0c0d99bc6ff10d.png!w80" away-logo="https://img.cltvap.cc/basketball/team/f32dc2e6652e5866f55f47e4d9318bf1.png!w80" group-title="Cola TV" start-time="1795330800",KB Stars Nữ vs Samsung Blue Minx Nữ - BLV LIPTON — Giải Nữ Bóng Rổ Hàn Quốc
+#EXTINF:-1 tvg-id="cola_ndqmliwl6omirkv" tvg-name="Adhyaksa FC Banten vs Pusamania Borneo FC" tvg-logo="https://img.cltvap.cc/football/team/c8fc1bb845b85502f27270af01647337.png!w80" home-logo="https://img.cltvap.cc/football/team/c8fc1bb845b85502f27270af01647337.png!w80" away-logo="https://img.cltvap.cc/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png!w80" group-title="Cola TV" start-time="1795336200",Adhyaksa FC Banten vs Pusamania Borneo FC - BLV MONSTER — Giải bóng đá Liga 1 Indonesia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/89756030.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/75915087.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
