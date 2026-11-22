@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:30:06 23/11/2026
+## Cập nhật lúc: 06:00:07 23/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1492464_troctru" tvg-name="RB Bragantino vs Vasco DA Gama" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125541_3d20e7da.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125541_3d20e7da.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125538_8ea02fa1.png" group-title="Chuối TV" start-time="1795386600",RB Bragantino vs Vasco DA Gama - Trốc Tru [FHD] — VĐQG Brazil
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -153,6 +153,11 @@ https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="biaom_19732619" tvg-name="Getafe vs Atlético Madrid" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/getafe-106" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/getafe-106" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="BiaomTV" start-time="1795377600",Getafe vs Atlético Madrid - HÀU NƯỚNG — VĐQG Tây Ban Nha
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk3MzI2MTk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmp3ZDhjcGdzZTFyMnllcTJtajdlcDZ0MA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="biaom_19867139" tvg-name="Neftchi vs Al Hilal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/neftchi-6483" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/neftchi-6483" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-hilal-7011" group-title="BiaomTV" start-time="1795441500",Neftchi vs Al Hilal - ASAHI — C1 Châu Á
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -203,11 +208,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMDE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnNjanV3NGNkMjZrdHRzZ3ZpYTNicmF5bQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_ndkz6i2zg2duxq3" tvg-name="Torreense vs Benfica" tvg-logo="https://img.cltvap.cc/football/team/3555977b288a6b8b02f876b0e5a1da53.png!w80" home-logo="https://img.cltvap.cc/football/team/3555977b288a6b8b02f876b0e5a1da53.png!w80" away-logo="https://img.cltvap.cc/football/team/78360445c12fa3fdc8b489486fff4eb6.png!w80" group-title="Cola TV" start-time="1795380300",Torreense vs Benfica - BLV SAMURAI — Cúp bóng đá Bồ Đào Nha
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_527r3i3egenc47e" tvg-name="CLB Nashville vs CLB Cincinnati" tvg-logo="https://img.cltvap.cc/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80" home-logo="https://img.cltvap.cc/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80" away-logo="https://img.cltvap.cc/football/team/1d14acf20b6647d3bf1f70959a875c8f.png!w80" group-title="Cola TV" start-time="1795383000",CLB Nashville vs CLB Cincinnati - BLV BÍ ĐAO — Major League Soccer
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -222,3 +222,8 @@ https://live05.wecile.app/live/87547578.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/82054853.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_9gkl6s6xp82umkx" tvg-name="Miami Heat vs Oklahoma City Thunder" tvg-logo="https://img.cltvap.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80" home-logo="https://img.cltvap.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80" away-logo="https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80" group-title="Cola TV" start-time="1795388400",Miami Heat vs Oklahoma City Thunder - BLV POCARI — Hiệp hội Bóng rổ Quốc gia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/19919577.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
