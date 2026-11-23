@@ -1,12 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 22:00:08 23/11/2026
+## Cập nhật lúc: 22:30:20 23/11/2026
 
-#EXTINF:-1 tvg-id="cctv_1546174_chuoitay" tvg-name="Morocco U17 vs China PR U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134349_56274e6a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134349_56274e6a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_145024_d31bb816.png" group-title="Chuối TV" start-time="1795446000",Morocco U17 vs China PR U17 - Chuối Tây [HD1] — World Cup - U17
+#EXTINF:-1 tvg-id="cctv_1546184_angao" tvg-name="Vietnam U17 vs New Zealand U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" away-logo="https://media.api-sports.io/football/teams/12515.png" group-title="Chuối TV" start-time="1795447800",Vietnam U17 vs New Zealand U17 - Chuối Già [FHD] — World Cup - U17
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1546184_chuoisay" tvg-name="Vietnam U17 vs New Zealand U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" away-logo="https://media.api-sports.io/football/teams/12515.png" group-title="Chuối TV" start-time="1795447800",Vietnam U17 vs New Zealand U17 - Chuối Sấy [FHD] — World Cup - U17
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1629975_chuoikem" tvg-name="Neftchi vs Al-Hilal Saudi FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png" group-title="Chuối TV" start-time="1795441500",Neftchi vs Al-Hilal Saudi FC - Chuối Kem [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -20,17 +26,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cctv_1546184_angao" tvg-name="Vietnam U17 vs New Zealand U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" away-logo="https://media.api-sports.io/football/teams/12515.png" group-title="Chuối TV" start-time="1795447800",Vietnam U17 vs New Zealand U17 - Chuối Già [FHD] — World Cup - U17
+#EXTINF:-1 tvg-id="cctv_1546174_chuoitay" tvg-name="Morocco U17 vs China PR U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134349_56274e6a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134349_56274e6a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_145024_d31bb816.png" group-title="Chuối TV" start-time="1795446000",Morocco U17 vs China PR U17 - Chuối Tây [FHD] — World Cup - U17
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1546184_chuoisay" tvg-name="Vietnam U17 vs New Zealand U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" away-logo="https://media.api-sports.io/football/teams/12515.png" group-title="Chuối TV" start-time="1795447800",Vietnam U17 vs New Zealand U17 - Chuối Sấy [FHD] — World Cup - U17
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1629976_chuoichao" tvg-name="Al Ain vs Esteghlal FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_c1ce473c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_c1ce473c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132915_e74c775a.png" group-title="Chuối TV" start-time="1795449600",Al Ain vs Esteghlal FC - Chuối Chao [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -128,26 +128,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_y39mp1h6enp5moj" tvg-name="Vietnam U17 vs New Zealand U17" tvg-logo="https://img.thesports.com/football/team/488df3a9b3fc86ac6c9e8f6d40733067.png" home-logo="https://img.thesports.com/football/team/488df3a9b3fc86ac6c9e8f6d40733067.png" away-logo="https://img.thesports.com/football/team/f827b5406c7aa5b4fe10062ae06a137b.png" group-title="Gà Vàng TV" start-time="1795447800",Vietnam U17 vs New Zealand U17 - CRIS — FIFA U17 World Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_n54qllhnlkdyqvy" tvg-name="Al Ain FC vs Esteghlal Tehran" tvg-logo="https://static.sportsfeed.pro/football/team/cedb12f9c001f1b1cb11bc532967c33e.png" home-logo="https://static.sportsfeed.pro/football/team/cedb12f9c001f1b1cb11bc532967c33e.png" away-logo="https://static.sportsfeed.pro/football/team/48f908d6c42e0bf4e9f83c4841d76bea.png" group-title="Gà Vàng TV" start-time="1795449600",Al Ain FC vs Esteghlal Tehran - namiiu — AFC Champions League Elite
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6afd3d6e53914a788517a0db.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_zp5rzghgn24yq82" tvg-name="Al Shamal vs Al-Ahli SFC" tvg-logo="https://static.sportsfeed.pro/football/team/af47207f36a49c89502312138e54f6a7.png" home-logo="https://static.sportsfeed.pro/football/team/af47207f36a49c89502312138e54f6a7.png" away-logo="https://static.sportsfeed.pro/football/team/a0a227a6100628d3213e1fc321acd4f2.png" group-title="Gà Vàng TV" start-time="1795449600",Al Shamal vs Al-Ahli SFC - SiêU QuậY — AFC Champions League Elite
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_y39mp1h684z9moj" tvg-name="Ludogorets Razgrad vs FC Dunav Ruse" tvg-logo="https://static.sportsfeed.pro/football/team/3cd0dc57966a8b1f8536dd0016179664.png" home-logo="https://static.sportsfeed.pro/football/team/3cd0dc57966a8b1f8536dd0016179664.png" away-logo="https://static.sportsfeed.pro/football/team/5c1b71658722f554a095a3687b548717.png" group-title="Gà Vàng TV" start-time="1795449600",Ludogorets Razgrad vs FC Dunav Ruse - Cá MậP — Bulgarian First League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="biaom_19867139" tvg-name="Neftchi vs Al Hilal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/neftchi-6483" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/neftchi-6483" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-hilal-7011" group-title="BiaomTV" start-time="1795441500",Neftchi vs Al Hilal - ASAHI — C1 Châu Á
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -238,7 +218,27 @@ https://live05.wecile.app/live/88508431.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cola_m2q15izd3m4te76" tvg-name="Ma Rốc U17 vs China PR U17" tvg-logo="https://img.cltvap.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80" home-logo="https://img.cltvap.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80" away-logo="https://img.cltvap.cc/football/team/c04fddecf9b964a3f66a1aa28bba9625.png!w80" group-title="Cola TV" start-time="1795446000",Ma Rốc U17 vs China PR U17 - BLV TEPPY — World Cup U17
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="cola_m2q15izydldfe76" tvg-name="Steaua Bucuresti vs Chindia Targoviste" tvg-logo="https://img.cltvap.cc/football/team/11195709883b36ac5758a1fcca882fe1.png!w80" home-logo="https://img.cltvap.cc/football/team/11195709883b36ac5758a1fcca882fe1.png!w80" away-logo="https://img.cltvap.cc/football/team/275c4eca0c3dd431c353013d073479b9.png!w80" group-title="Cola TV" start-time="1795446000",Steaua Bucuresti vs Chindia Targoviste - BLV FANTA — Giải hạng 2 Romania
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_9gklzi1x8w1sm7x" tvg-name="CLB AL Rabeea Jeddah vs Dhamk" tvg-logo="https://img.cltvap.cc/football/team/ad6d65af610226d028067171bfb6839d.png!w80" home-logo="https://img.cltvap.cc/football/team/ad6d65af610226d028067171bfb6839d.png!w80" away-logo="https://img.cltvap.cc/football/team/5f0fa2c7f5502f43700281d32ee636d2.png!w80" group-title="Cola TV" start-time="1795446900",CLB AL Rabeea Jeddah vs Dhamk - BLV STING — Giải bóng đá Hạng nhất Ả Rập Xê Út
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/14707124.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_l6kegi805yyav75" tvg-name="Mali U17 vs Bỉ U17" tvg-logo="https://img.cltvap.cc/football/team/0a94eea42ecd117d87eb79c61bdd656e.png!w80" home-logo="https://img.cltvap.cc/football/team/0a94eea42ecd117d87eb79c61bdd656e.png!w80" away-logo="https://img.cltvap.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80" group-title="Cola TV" start-time="1795447800",Mali U17 vs Bỉ U17 - BLV SPRITE — World Cup U17
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/75748097.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_vrqwni4mjl8f4qn" tvg-name="Viet Nam U17 vs New Zealand U17" tvg-logo="https://img.cltvap.cc/football/team/488df3a9b3fc86ac6c9e8f6d40733067.png!w80" home-logo="https://img.cltvap.cc/football/team/488df3a9b3fc86ac6c9e8f6d40733067.png!w80" away-logo="https://img.cltvap.cc/football/team/f827b5406c7aa5b4fe10062ae06a137b.png!w80" group-title="Cola TV" start-time="1795447800",Viet Nam U17 vs New Zealand U17 - BLV GIÀ LÀNG — World Cup U17
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/14830711.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
