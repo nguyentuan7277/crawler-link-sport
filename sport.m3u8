@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:30:06 23/11/2026
+## Cập nhật lúc: 17:00:16 23/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1546178_chuoila" tvg-name="Spain U17 vs Fiji U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144525_05c41131.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144525_05c41131.png" away-logo="https://media.chuoichientv.net/media/20251106_132321_fd0e6824.png" group-title="Chuối TV" start-time="1795437000",Spain U17 vs Fiji U17 - Chuối Lá [FHD] — World Cup - U17
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -127,6 +127,16 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnh9vpeem7v" tvg-name="Yangon City vs Hantharwady United" tvg-logo="https://static.sportsfeed.pro/football/team/e3aa1e866aaf5bc2f114c62941731b52.png" home-logo="https://static.sportsfeed.pro/football/team/e3aa1e866aaf5bc2f114c62941731b52.png" away-logo="https://static.sportsfeed.pro/football/team/d6a96f7603b190bb46e2de96cf41d9a0.png" group-title="Gà Vàng TV" start-time="1795424400",Yangon City vs Hantharwady United - MeoMeo — Myanmar Professional League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_4jwq2ghnld10m0v" tvg-name="Chinland FC vs Ayeyawady United" tvg-logo="https://static.sportsfeed.pro/football/team/108fd6ee8b2f5e7bf84c2163b2517c2d.png" home-logo="https://static.sportsfeed.pro/football/team/108fd6ee8b2f5e7bf84c2163b2517c2d.png" away-logo="https://static.sportsfeed.pro/football/team/0fa22db02182e418b4982b5be594bdf9.png" group-title="Gà Vàng TV" start-time="1795426200",Chinland FC vs Ayeyawady United - Lucie23 — Myanmar Professional League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_965mkyhkxkkgr1g" tvg-name="LNZ Cherkasy vs Polissya Zhytomyr" tvg-logo="https://static.sportsfeed.pro/football/team/1e70d8e1013e1747fc0d770367b6969d.png" home-logo="https://static.sportsfeed.pro/football/team/1e70d8e1013e1747fc0d770367b6969d.png" away-logo="https://static.sportsfeed.pro/football/team/af718a29d1eacceec7da5c5815b1679b.png" group-title="Gà Vàng TV" start-time="1795431600",LNZ Cherkasy vs Polissya Zhytomyr - namiiu — Ukrainian Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
