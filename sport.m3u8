@@ -1,6 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 00:30:09 25/11/2026
+## Cập nhật lúc: 01:00:07 25/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1629988_chuoila" tvg-name="Al-Nassr vs Al Sadd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_c56f6979.png" group-title="Chuối TV" start-time="1795544100",Al-Nassr vs Al Sadd - Chuối Lá [FHD] — AFC Champions League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1563682_chuoilua" tvg-name="Zenit vs Krylia Sovetov" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133525_ee4eabe4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133525_ee4eabe4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133527_3dc5d829.png" group-title="Chuối TV" start-time="1795537800",Zenit vs Krylia Sovetov - Chuối Lửa [FHD] — Cúp Nga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1635641_angao" tvg-name="Bodo/Glimt vs Lask Linz" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125644_84f4e145.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125644_84f4e145.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130456_fb8ff968.png" group-title="Chuối TV" start-time="1795542300",Bodo/Glimt vs Lask Linz - Chuối Già [FHD] — UEFA Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -13,24 +25,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1629987_chuoinho" tvg-name="Shabab Al Ahli Dubai vs Al-Qadisiyah FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_07a155b3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125815_07a155b3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134002_4cd99b1a.png" group-title="Chuối TV" start-time="1795536000",Shabab Al Ahli Dubai vs Al-Qadisiyah FC - Chuối Nhỏ [FHD] — AFC Champions League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1563682_chuoilua" tvg-name="Zenit vs Krylia Sovetov" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133525_ee4eabe4.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133525_ee4eabe4.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133527_3dc5d829.png" group-title="Chuối TV" start-time="1795537800",Zenit vs Krylia Sovetov - Chuối Lửa [FHD] — Cúp Nga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1629988_chuoila" tvg-name="Al-Nassr vs Al Sadd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_c56f6979.png" group-title="Chuối TV" start-time="1795544100",Al-Nassr vs Al Sadd - Chuối Lá [FHD] — AFC Champions League
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1635611_chuoinho" tvg-name="Arsenal vs Borussia Dortmund" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png" group-title="Chuối TV" start-time="1795550400",Arsenal vs Borussia Dortmund - Chuối Nhỏ [FHD] — UEFA Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,20 +116,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_l5ergph4z5e0r8k" tvg-name="Al Seeb vs Al Shorta" tvg-logo="https://static.sportsfeed.pro/football/team/99436fc30d359790afbd11fe602a5a45.png" home-logo="https://static.sportsfeed.pro/football/team/99436fc30d359790afbd11fe602a5a45.png" away-logo="https://static.sportsfeed.pro/football/team/24cb68778b46e3795fa58ad593e98b5d.png" group-title="Gà Vàng TV" start-time="1795536000",Al Seeb vs Al Shorta - namiiu — AFC Champions League Two
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTINF:-1 tvg-id="cctv_1546191_chuoikem" tvg-name="Ecuador U17 vs Korea Republic U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145006_d11dcb2d.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145006_d11dcb2d.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_145019_41fa3ef6.png" group-title="Chuối TV" start-time="1795609800",Ecuador U17 vs Korea Republic U17 - Chuối Kem [FHD] — World Cup - U17
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6afd3d6e53914a788517a0db.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_23xmvkh6eggjqg8" tvg-name="Shabab AlAhli vs Al-Qadsiah" tvg-logo="https://static.sportsfeed.pro/football/team/05e87b1dbb904915a4a97fc095b73d20.png" home-logo="https://static.sportsfeed.pro/football/team/05e87b1dbb904915a4a97fc095b73d20.png" away-logo="https://static.sportsfeed.pro/football/team/bc74439d19c8bbaa17c57406b120b86d.png" group-title="Gà Vàng TV" start-time="1795536000",Shabab AlAhli vs Al-Qadsiah - GIàng A Dân — AFC Champions League Elite
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_zp5rzghgnv64q82" tvg-name="Galatasaray vs Aston Villa" tvg-logo="https://static.sportsfeed.pro/football/team/722e43393d34b94cb556aa0b3c9f4190.png" home-logo="https://static.sportsfeed.pro/football/team/722e43393d34b94cb556aa0b3c9f4190.png" away-logo="https://static.sportsfeed.pro/football/team/a3c32d6a906083118cac2cb796edaab3.png" group-title="Gà Vàng TV" start-time="1795542300",Galatasaray vs Aston Villa - SAITAMA — UEFA Champions League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_965mkyhkjd11r1g" tvg-name="Arsenal vs Dortmund" tvg-logo="https://static.sportsfeed.pro/football/team/d6f5debc456da1119256ab66462ab510.png" home-logo="https://static.sportsfeed.pro/football/team/d6f5debc456da1119256ab66462ab510.png" away-logo="https://static.sportsfeed.pro/football/team/bbfacbdbe67705172c6414d7e9c21b58.png" group-title="Gà Vàng TV" start-time="1795550400",Arsenal vs Dortmund - GIàng A Dân — UEFA Champions League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -197,16 +182,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MTM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzI1OTc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmJiMHBlNHYyaGhvaHVteG02dXV6bXB6Mw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_l6kegi8jyp9uv75" tvg-name="Al Seeb vs CLB AI Shorta" tvg-logo="https://img.cltvap.cc/football/team/99436fc30d359790afbd11fe602a5a45.png!w80" home-logo="https://img.cltvap.cc/football/team/99436fc30d359790afbd11fe602a5a45.png!w80" away-logo="https://img.cltvap.cc/football/team/24cb68778b46e3795fa58ad593e98b5d.png!w80" group-title="Cola TV" start-time="1795536000",Al Seeb vs CLB AI Shorta - BLV HỔ VẰN — AFC Giải vô địch Champions 2
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/07428422.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_34kgmior006teko" tvg-name="CLB Al Ahli vs Al Qadisiya" tvg-logo="https://img.cltvap.cc/football/team/05e87b1dbb904915a4a97fc095b73d20.png!w80" home-logo="https://img.cltvap.cc/football/team/05e87b1dbb904915a4a97fc095b73d20.png!w80" away-logo="https://img.cltvap.cc/football/team/bc74439d19c8bbaa17c57406b120b86d.png!w80" group-title="Cola TV" start-time="1795536000",CLB Al Ahli vs Al Qadisiya - BLV REVIVE — AFC Giải vô địch Champions Elite
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/33982309.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_ezk96i31eelh1kn" tvg-name="Zenit vs CLB Krylya Sovetov" tvg-logo="https://img.cltvap.cc/football/team/19d5361bfdffa4bfc2f936cbb65fd317.png!w80" home-logo="https://img.cltvap.cc/football/team/19d5361bfdffa4bfc2f936cbb65fd317.png!w80" away-logo="https://img.cltvap.cc/football/team/b7782a595f2f82ed8daca72fd1f102de.png!w80" group-title="Cola TV" start-time="1795537800",Zenit vs CLB Krylya Sovetov - BLV RỒNG ĐỎ — cúp Nga
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -216,3 +191,18 @@ https://live05.wecile.app/live/88508431.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/56998120.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_jek33i820g3a9ko" tvg-name="Bodo Glimt vs LASK Linz" tvg-logo="https://img.cltvap.cc/football/team/98854ab97eadf3d2c7c6d657ad99df96.png!w80" home-logo="https://img.cltvap.cc/football/team/98854ab97eadf3d2c7c6d657ad99df96.png!w80" away-logo="https://img.cltvap.cc/football/team/5d33f831f779428858138d28c9dd4480.png!w80" group-title="Cola TV" start-time="1795542300",Bodo Glimt vs LASK Linz - BLV BÍ ĐAO — Champions League
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_69759igo9n0bgk2" tvg-name="Galatasaray vs Aston Villa" tvg-logo="https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80" home-logo="https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80" away-logo="https://img.cltvap.cc/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80" group-title="Cola TV" start-time="1795542300",Galatasaray vs Aston Villa - BLV SODA — Champions League
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/02456966.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_vmqy6sn1jmoigk9" tvg-name="Sao Đỏ Beograd vs Virtus Pallacanestro Bologna" tvg-logo="https://img.cltvap.cc/basketball/team/c39da666a430eeb95c2dd0838b267d77.jpg!w80" home-logo="https://img.cltvap.cc/basketball/team/c39da666a430eeb95c2dd0838b267d77.jpg!w80" away-logo="https://img.cltvap.cc/basketball/team/54019fa403eae4a98efc46cab4badde8.png!w80" group-title="Cola TV" start-time="1795543200",Sao Đỏ Beograd vs Virtus Pallacanestro Bologna - BLV POCARI — EuroLeague
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/19919577.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
