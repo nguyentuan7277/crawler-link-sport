@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 05:30:05 25/11/2026
+## Cập nhật lúc: 06:30:08 25/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1650513_chuoisay" tvg-name="Millonarios vs Bucaramanga" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_2eb7128c.png" group-title="Chuối TV" start-time="1795562400",Millonarios vs Bucaramanga - Chuối Sấy [FHD] — VĐQG Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,6 +122,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_dj2ryoh7keo4q1z" tvg-name="Coquimbo Unido vs Union La Calera" tvg-logo="https://static.sportsfeed.pro/football/team/e62f69a9de87796972eb59d19c27e59c.png" home-logo="https://static.sportsfeed.pro/football/team/e62f69a9de87796972eb59d19c27e59c.png" away-logo="https://static.sportsfeed.pro/football/team/f9b2e922f6ca83c14def96049ccbfe42.png" group-title="Gà Vàng TV" start-time="1795557600",Coquimbo Unido vs Union La Calera - MáN NúI — Chilean Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_2y8m4zhv3y6xql0" tvg-name="Millonarios vs Atletico Bucaramanga" tvg-logo="https://static.sportsfeed.pro/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png" home-logo="https://static.sportsfeed.pro/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png" away-logo="https://static.sportsfeed.pro/football/team/70c92764e181ce7abe6176c411a93fe3.png" group-title="Gà Vàng TV" start-time="1795562400",Millonarios vs Atletico Bucaramanga - A Long — Categoría Primera A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -207,7 +212,12 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MTk6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzI2MTk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmNhbWlzYWt6Nm9mNjloMHc5MG10bmRndg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_m2q15izr2mrhe76" tvg-name="CLB Chapecoense SC vs Palmeiras" tvg-logo="https://img.cltvap.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" home-logo="https://img.cltvap.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" away-logo="https://img.cltvap.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80" group-title="Cola TV" start-time="1795554000",CLB Chapecoense SC vs Palmeiras - BLV BÍ ĐAO — Giải bóng đá Hạng nhất Brasil
+#EXTINF:-1 tvg-id="cola_xvkjvsz46nms8k9" tvg-name="Purdue vs DePaul" tvg-logo="https://img.cltvap.cc/basketball/team/931cc93830e14a18b426934f0714946b.png!w80" home-logo="https://img.cltvap.cc/basketball/team/931cc93830e14a18b426934f0714946b.png!w80" away-logo="https://img.cltvap.cc/basketball/team/11d29597f85d4063beea85e9abd32f13.png!w80" group-title="Cola TV" start-time="1795561200",Purdue vs DePaul - BLV TARZAAN — NCAA
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/56998120.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_oj7x9imrpndt47g" tvg-name="CLB Millonarios vs Bucaramanga" tvg-logo="https://img.cltvap.cc/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png!w80" home-logo="https://img.cltvap.cc/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png!w80" away-logo="https://img.cltvap.cc/football/team/70c92764e181ce7abe6176c411a93fe3.png!w80" group-title="Cola TV" start-time="1795562400",CLB Millonarios vs Bucaramanga - BLV ROCKSTAR — Giải vô địch quốc gia Colombia
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/82054853.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
