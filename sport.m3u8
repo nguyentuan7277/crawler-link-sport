@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 14:30:05 24/11/2026
+## Cập nhật lúc: 15:00:09 24/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1629981_chuoichao" tvg-name="Newcastle Jets vs Kashiwa Reysol" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130441_f1a2632a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130441_f1a2632a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132408_f7de4656.png" group-title="Chuối TV" start-time="1795506300",Newcastle Jets vs Kashiwa Reysol - Chuối Chao [FHD] — AFC Champions League
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1648376_chuoikem" tvg-name="Garudayaksa vs PSS Sleman" tvg-logo="https://media.api-sports.io/football/teams/26645.png" home-logo="https://media.api-sports.io/football/teams/26645.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_134619_ae32ec34.png" group-title="Chuối TV" start-time="1795510800",Garudayaksa vs PSS Sleman - Chuối Kem [FHD] — League Cup Indonesia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -225,3 +231,8 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MTM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZ
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzI1OTc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmJiMHBlNHYyaGhvaHVteG02dXV6bXB6Mw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_ndkz6i3egn4fxq3" tvg-name="Newcastle Jets vs Kashiwa Reysol" tvg-logo="https://img.cltvap.cc/football/team/cb7c21cdf0ae82e8a97065118f89f816.png!w80" home-logo="https://img.cltvap.cc/football/team/cb7c21cdf0ae82e8a97065118f89f816.png!w80" away-logo="https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80" group-title="Cola TV" start-time="1795506300",Newcastle Jets vs Kashiwa Reysol - BLV GIÀ LÀNG — AFC Giải vô địch Champions Elite
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/14830711.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
