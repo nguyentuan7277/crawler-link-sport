@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 12:30:05 24/11/2026
+## Cập nhật lúc: 13:00:08 24/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1629981_chuoichao" tvg-name="Newcastle Jets vs Kashiwa Reysol" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130441_f1a2632a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130441_f1a2632a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132408_f7de4656.png" group-title="Chuối TV" start-time="1795506300",Newcastle Jets vs Kashiwa Reysol - Chuối Chao [FHD] — AFC Champions League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -127,7 +127,97 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_jek3psd4121t9qo" tvg-name="Los Angeles Lakers vs Utah Jazz" tvg-logo="https://img.cltvap.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80" home-logo="https://img.cltvap.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80" away-logo="https://img.cltvap.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80" group-title="Cola TV" start-time="1795489200",Los Angeles Lakers vs Utah Jazz - BLV 247 — Hiệp hội Bóng rổ Quốc gia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTINF:-1 tvg-id="gavang_4wyrn4hy829eq86" tvg-name="Garudayaksa FC vs PSS Sleman" tvg-logo="https://static.sportsfeed.pro/football/team/3990ecb8ff4fa39127a6606f4ee53ba2.png" home-logo="https://static.sportsfeed.pro/football/team/3990ecb8ff4fa39127a6606f4ee53ba2.png" away-logo="https://static.sportsfeed.pro/football/team/20bf90d9a55ef5dc4a503754db3f8b49.png" group-title="Gà Vàng TV" start-time="1795510800",Garudayaksa FC vs PSS Sleman - MáN NúI — IDN LC
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/90865415.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_jw2r09h5l91jrz8" tvg-name="Persebaya Surabaya vs PSBS Biak Numfor" tvg-logo="https://static.sportsfeed.pro/football/team/66307444901ddb38c881129b7ea0105e.png" home-logo="https://static.sportsfeed.pro/football/team/66307444901ddb38c881129b7ea0105e.png" away-logo="https://static.sportsfeed.pro/football/team/cbd5d35d354519a981a2a97f5c41bcbb.png" group-title="Gà Vàng TV" start-time="1795510800",Persebaya Surabaya vs PSBS Biak Numfor - Lucie23 — IDN LC
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19867091" tvg-name="Newcastle Jets vs Kashiwa Reysol" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-jets-557" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-jets-557" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashiwa-reysol-298" group-title="BiaomTV" start-time="1795506300",Newcastle Jets vs Kashiwa Reysol - Vịt Nướng — C1 Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjcwOTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmZyZDVkOTFjdzQwcWM5bDFjOTE5bHJvbQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19867084" tvg-name="Daejeon Citizen vs Beijing Guoan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/daejeon-citizen-5664" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/daejeon-citizen-5664" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/beijing-guoan-3370" group-title="BiaomTV" start-time="1795514400",Daejeon Citizen vs Beijing Guoan - SAPPORO — C1 Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjcwODQ6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmdkc2k3dW9pMzQwYXcxazZia3d3Y3E1dA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19867075" tvg-name="Kyoto Sanga vs Pohang Steelers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyoto-sanga-3509" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyoto-sanga-3509" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pohang-steelers-1506" group-title="BiaomTV" start-time="1795514400",Kyoto Sanga vs Pohang Steelers - NEM NƯỚNG  — C1 Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjcwNzU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OndlcHNueWQ1aWFrNjVxNjNncjVzNmp0dg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19867075" tvg-name="Kyoto Sanga vs Pohang Steelers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyoto-sanga-3509" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyoto-sanga-3509" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pohang-steelers-1506" group-title="BiaomTV" start-time="1795514400",Kyoto Sanga vs Pohang Steelers - 333 — C1 Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjcwNzU6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnBnOGFoazcxZ24xd296YTFwbHkzY21veA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19867050" tvg-name="Công an Hà Nội vs Vissel Kobe" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vissel-kobe-3867" group-title="BiaomTV" start-time="1795522500",Công an Hà Nội vs Vissel Kobe - Vịt Nướng — C1 Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjcwNTA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmE0aWFqZW05am1rYWc1eGozbnNrbTc2aA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19867059" tvg-name="Ratchaburi Mitrphol FC vs Johor Darul Ta'zim" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ratchaburi-mitrphol-fc-6405" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ratchaburi-mitrphol-fc-6405" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/johor-darul-tazim-2276" group-title="BiaomTV" start-time="1795522500",Ratchaburi Mitrphol FC vs Johor Darul Ta'zim - Lẩu Ếch — C1 Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjcwNTk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnBmN2NiM3FzbGI3YXZldWpjMHMwa3RwZA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19867059" tvg-name="Ratchaburi Mitrphol FC vs Johor Darul Ta'zim" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ratchaburi-mitrphol-fc-6405" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ratchaburi-mitrphol-fc-6405" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/johor-darul-tazim-2276" group-title="BiaomTV" start-time="1795522500",Ratchaburi Mitrphol FC vs Johor Darul Ta'zim - ASAHI — C1 Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjcwNTk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnhleTlpcW9ibWlwYzg0ZzRxbzIzazBqaw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19867067" tvg-name="Shanghai Port vs Buriram United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shanghai-port-5751" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shanghai-port-5751" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" group-title="BiaomTV" start-time="1795522500",Shanghai Port vs Buriram United - HÀU NƯỚNG — C1 Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjcwNjc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmZ5ZXp3bzJkZDJiYzFzYnVndnVlZG1tZw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19873713" tvg-name="Bodø / Glimt vs LASK Linz" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bod-glimt-1668" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bod-glimt-1668" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lask-linz-3369" group-title="BiaomTV" start-time="1795542300",Bodø / Glimt vs LASK Linz - NEM NƯỚNG  — C1 Châu Âu
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NzM3MTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnE2N3ZnOWc5czRwN3g4dXZlZWhna2E4bg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19873236" tvg-name="Galatasaray vs Aston Villa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="BiaomTV" start-time="1795542300",Galatasaray vs Aston Villa - Vịt Nướng — C1 Châu Âu
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NzMyMzY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm85MWltZ2txZGVicWxhODJpY2JmcHJlNw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19867036" tvg-name="Al Nassr vs Al Sadd" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-nassr-2506" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-nassr-2506" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-sadd-7283" group-title="BiaomTV" start-time="1795544100",Al Nassr vs Al Sadd - Lẩu Ếch — C1 Châu Á
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NjcwMzY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmtxenllem5jbjdxdmhuNm1ncXFxN3V2cQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19872614" tvg-name="Arsenal vs Borussia Dortmund" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borussia-dortmund-68" group-title="BiaomTV" start-time="1795550400",Arsenal vs Borussia Dortmund - TIGER — C1 Châu Âu
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NzI2MTQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnBzZnl0anBwZ2FscTJ1dnFsMTJjdHV3eA/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19873717" tvg-name="Como vs AEK Athens" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/como-268" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/como-268" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aek-athens-781" group-title="BiaomTV" start-time="1795550400",Como vs AEK Athens - NEM NƯỚNG  — C1 Châu Âu
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NzM3MTc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnNnMGRsZG1vZ2hybW4xYzJmOWQyZXdiYw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19873715" tvg-name="Feyenoord vs Porto" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/feyenoord-73" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/feyenoord-73" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/porto-652" group-title="BiaomTV" start-time="1795550400",Feyenoord vs Porto - ASAHI — C1 Châu Âu
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NzM3MTU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Omgwenl2dDc5YTJiMXF4dXpxbDZpemFpNg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19872613" tvg-name="Manchester City vs Napoli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-9" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-9" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="BiaomTV" start-time="1795550400",Manchester City vs Napoli - SAPPORO — C1 Châu Âu
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NzI2MTM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOncyaWJydTIydXFzNDNhMXF2ODVtdHV1YQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19872613" tvg-name="Manchester City vs Napoli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-9" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-9" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="BiaomTV" start-time="1795550400",Manchester City vs Napoli - Vịt Nướng — C1 Châu Âu
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NzI2MTM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZsaW9jMjE4ZnJxNnEybjE0MXc1Zmttag/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="biaom_19872597" tvg-name="Real Madrid vs PSV Eindhoven" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/psv-682" group-title="BiaomTV" start-time="1795550400",Real Madrid vs PSV Eindhoven - HÀU NƯỚNG — C1 Châu Âu
+#EXTVLCOPT:http-referrer=https://biaomtv18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://cdnhls.xbdbotv.live/live/MTk4NzI1OTc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmJiMHBlNHYyaGhvaHVteG02dXV6bXB6Mw/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
