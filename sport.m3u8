@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:30:09 25/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1546203_chuoisay" tvg-name="Uruguay U17 vs France U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145009_4c096ae9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145009_4c096ae9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144523_e304fc82.png" group-title="Chuối TV" start-time="1795613400",Uruguay U17 vs France U17 - Chuối Sấy [FHD] — World Cup - U17
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 21:00:21 25/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1637495_chuoinho" tvg-name="Persib Bandung vs FC Seoul" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134451_f0892f53.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134451_f0892f53.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133956_15774ffd.png" group-title="Chuối TV" start-time="1795608900",Persib Bandung vs FC Seoul - Chuối Nhỏ [FHD] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -25,6 +19,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1546203_chuoisay" tvg-name="Uruguay U17 vs France U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145009_4c096ae9.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145009_4c096ae9.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144523_e304fc82.png" group-title="Chuối TV" start-time="1795613400",Uruguay U17 vs France U17 - Chuối Sấy [FHD] — World Cup - U17
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1546190_chuoinho" tvg-name="Denmark U17 vs Argentina U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144533_426eb2ea.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_144533_426eb2ea.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_145005_8b725321.png" group-title="Chuối TV" start-time="1795620600",Denmark U17 vs Argentina U17 - Chuối Nhỏ [FHD] — World Cup - U17
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -98,20 +98,10 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_pxwrxlhlgev3ryk" tvg-name="Bali United vs Barito Putera" tvg-logo="https://static.sportsfeed.pro/football/team/09fe2ecf88f68970da755f8655d5da8a.png" home-logo="https://static.sportsfeed.pro/football/team/09fe2ecf88f68970da755f8655d5da8a.png" away-logo="https://static.sportsfeed.pro/football/team/631d7950b866054f174c8d7389418f3b.png" group-title="Gà Vàng TV" start-time="1795608000",Bali United vs Barito Putera - MeoMeo — IDN LC
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl005.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_dn1m1ghly40xmoe" tvg-name="Neftekhimik Nizhnekamsk vs Rotor Volgograd" tvg-logo="https://static.sportsfeed.pro/football/team/e37b8f1e34de8f18adbb25aebc3d09d9.png" home-logo="https://static.sportsfeed.pro/football/team/e37b8f1e34de8f18adbb25aebc3d09d9.png" away-logo="https://static.sportsfeed.pro/football/team/6ae485ecee17acfc249fa06c8500d0a0.png" group-title="Gà Vàng TV" start-time="1795608000",Neftekhimik Nizhnekamsk vs Rotor Volgograd - RIO — Russian First League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl005.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_4wyrn4h61o2oq86" tvg-name="Radnicki Nis vs FK Zeleznicar Pancevo" tvg-logo="https://static.sportsfeed.pro/football/team/794c52e40471e247cc8e50dc33841c1d.png" home-logo="https://static.sportsfeed.pro/football/team/794c52e40471e247cc8e50dc33841c1d.png" away-logo="https://static.sportsfeed.pro/football/team/5a4205b9ee3d49c60df7bf22bc2e2203.png" group-title="Gà Vàng TV" start-time="1795608000",Radnicki Nis vs FK Zeleznicar Pancevo - cố tư nghiêm — Serbian Mozzart Bet Superliga
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl005.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_vjxm8ghen28kr6o" tvg-name="Persib Bandung vs FC Seoul" tvg-logo="https://static.sportsfeed.pro/football/team/b2004093bf25a5a8d1768970d6e49d71.png" home-logo="https://static.sportsfeed.pro/football/team/b2004093bf25a5a8d1768970d6e49d71.png" away-logo="https://static.sportsfeed.pro/football/team/ad010af729c420626d1865ad744168d3.png" group-title="Gà Vàng TV" start-time="1795608900",Persib Bandung vs FC Seoul - GIàng A Dân — AFC Champions League Two
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -123,15 +113,10 @@ https://playback.livetl005.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl005.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_3glrw7hnxl10qdy" tvg-name="Nasaf Qarshi vs Al Khaldiya" tvg-logo="https://static.sportsfeed.pro/football/team/04cfb325bb967b2dd4c71a1cd4bb38a3.png" home-logo="https://static.sportsfeed.pro/football/team/04cfb325bb967b2dd4c71a1cd4bb38a3.png" away-logo="https://static.sportsfeed.pro/football/team/648d61541736aa2c89fc96fcb19ac852.png" group-title="Gà Vàng TV" start-time="1795614300",Nasaf Qarshi vs Al Khaldiya - NGƯỜI KIẾN — AFC Champions League Two
+#EXTINF:-1 tvg-id="gavang_3glrw7hndnn4qdy" tvg-name="Sporting CP U19 vs Manchester United U19" tvg-logo="https://static.sportsfeed.pro/football/team/fdd4da5bb1bc131fdc2f771f786420c8.png" home-logo="https://static.sportsfeed.pro/football/team/fdd4da5bb1bc131fdc2f771f786420c8.png" away-logo="https://static.sportsfeed.pro/football/team/44eb7130030b0be19a244dbf1927561f.png" group-title="Gà Vàng TV" start-time="1795611600",Sporting CP U19 vs Manchester United U19 - Lữ Bố.vip — UEFA Youth League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl005.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_l7oqdehg7ggdr51" tvg-name="Club Brugge U19 vs Liverpool U19" tvg-logo="https://static.sportsfeed.pro/football/team/2949f63aa1981975fdb031ffabd20eeb.png" home-logo="https://static.sportsfeed.pro/football/team/2949f63aa1981975fdb031ffabd20eeb.png" away-logo="https://static.sportsfeed.pro/football/team/739d0996bb928d288e8cd91ff93832bb.png" group-title="Gà Vàng TV" start-time="1795615200",Club Brugge U19 vs Liverpool U19 - Cá MậP — UEFA Youth League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl005.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_ednm9whwp4x8ryo" tvg-name="Greece U17 vs Qatar U17" tvg-logo="https://img.thesports.com/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png" home-logo="https://img.thesports.com/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png" away-logo="https://img.thesports.com/football/team/7303a103c93fea0445384d6ff3f3d1b9.png" group-title="Gà Vàng TV" start-time="1795617000",Greece U17 vs Qatar U17 - A Long — FIFA U17 World Cup
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -213,11 +198,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MTk6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzI2MTk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmNhbWlzYWt6Nm9mNjloMHc5MG10bmRndg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_ezk96i3rp6pf1kn" tvg-name="Radnicki Nis vs FK Zeleznicar Pancevo" tvg-logo="https://img.cltvap.cc/football/team/794c52e40471e247cc8e50dc33841c1d.png!w80" home-logo="https://img.cltvap.cc/football/team/794c52e40471e247cc8e50dc33841c1d.png!w80" away-logo="https://img.cltvap.cc/football/team/5a4205b9ee3d49c60df7bf22bc2e2203.png!w80" group-title="Cola TV" start-time="1795608000",Radnicki Nis vs FK Zeleznicar Pancevo - BLV SPRITE — Giải bóng đá Serbia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/75748097.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="cola_ndkz6i3ego2hxq3" tvg-name="CLB Persib Bandung vs CLB Seoul" tvg-logo="https://img.cltvap.cc/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80" home-logo="https://img.cltvap.cc/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80" away-logo="https://img.cltvap.cc/football/team/ad010af729c420626d1865ad744168d3.png!w80" group-title="Cola TV" start-time="1795608900",CLB Persib Bandung vs CLB Seoul - BLV REVIVE — AFC Giải vô địch Champions 2
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -247,3 +227,13 @@ https://live05.wecile.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/08552895.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_9gklzi1z9ymfm7x" tvg-name="CLB Nasaf Qarshi vs Al Khaldiya" tvg-logo="https://img.cltvap.cc/football/team/bef3a45bcf56447c8acfb7b077820022.png!w80" home-logo="https://img.cltvap.cc/football/team/bef3a45bcf56447c8acfb7b077820022.png!w80" away-logo="https://img.cltvap.cc/football/team/648d61541736aa2c89fc96fcb19ac852.png!w80" group-title="Cola TV" start-time="1795614300",CLB Nasaf Qarshi vs Al Khaldiya - BLV GIÀ LÀNG — AFC Giải vô địch Champions 2
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/14830711.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_m2q15izozz1be76" tvg-name="Club Brugge U19 vs Liverpool U19" tvg-logo="https://img.cltvap.cc/football/team/2949f63aa1981975fdb031ffabd20eeb.png!w80" home-logo="https://img.cltvap.cc/football/team/2949f63aa1981975fdb031ffabd20eeb.png!w80" away-logo="https://img.cltvap.cc/football/team/739d0996bb928d288e8cd91ff93832bb.png!w80" group-title="Cola TV" start-time="1795615200",Club Brugge U19 vs Liverpool U19 - BLV FANTA — Giải đấu Liên minh Trẻ Câu lạc bộ Châu Âu
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
