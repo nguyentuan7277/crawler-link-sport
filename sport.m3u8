@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 10:30:07 25/11/2026
+## Cập nhật lúc: 11:00:12 25/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1649497_chuoilua" tvg-name="San Jose Earthquakes vs Houston Dynamo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131600_44f931ad.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_131600_44f931ad.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_131602_a260dca9.png" group-title="Chuối TV" start-time="1795575600",San Jose Earthquakes vs Houston Dynamo - Chuối Lửa [FHD] — Major League Soccer
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,6 +122,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://l
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_ednm9wh5kw7nryo" tvg-name="San Jose Earthquakes vs Houston Dynamo" tvg-logo="https://static.sportsfeed.pro/football/team/7079d708b4e391c0c26b20da7b2fb32c.png" home-logo="https://static.sportsfeed.pro/football/team/7079d708b4e391c0c26b20da7b2fb32c.png" away-logo="https://static.sportsfeed.pro/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png" group-title="Gà Vàng TV" start-time="1795575600",San Jose Earthquakes vs Houston Dynamo - MeoMeo — United States Major League Soccer
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_dj2ryohl3l6lq1z" tvg-name="Giravanz Kitakyushu vs Zweigen Kanazawa FC" tvg-logo="https://static.sportsfeed.pro/football/team/fefa11f94d0efff34a0f98ee4440a34b.png" home-logo="https://static.sportsfeed.pro/football/team/fefa11f94d0efff34a0f98ee4440a34b.png" away-logo="https://static.sportsfeed.pro/football/team/646d000d7498d416110aad94ff53e8fb.png" group-title="Gà Vàng TV" start-time="1795582800",Giravanz Kitakyushu vs Zweigen Kanazawa FC - Lá Chanh — Japanese J3 League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -201,11 +206,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MTk6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnh
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk4NzI2MTk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmNhbWlzYWt6Nm9mNjloMHc5MG10bmRndg/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_9gkl6s6xp4pcmkx" tvg-name="Washington Wizards vs Đội bóng rổ Boston Celtics" tvg-logo="https://img.cltvap.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" home-logo="https://img.cltvap.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" away-logo="https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80" group-title="Cola TV" start-time="1795568400",Washington Wizards vs Đội bóng rổ Boston Celtics - BLV Cozy — Hiệp hội Bóng rổ Quốc gia
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/87379114.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_ndkzysnp6ljix73" tvg-name="Denver Nuggets vs Dallas Mavericks" tvg-logo="https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" home-logo="https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" away-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80" group-title="Cola TV" start-time="1795575600",Denver Nuggets vs Dallas Mavericks - BLV ROCKSTAR — Hiệp hội Bóng rổ Quốc gia
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
