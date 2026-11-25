@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 06:30:08 25/11/2026
+## Cập nhật lúc: 07:00:06 25/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1650513_chuoisay" tvg-name="Millonarios vs Bucaramanga" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_2eb7128c.png" group-title="Chuối TV" start-time="1795562400",Millonarios vs Bucaramanga - Chuối Sấy [FHD] — VĐQG Colombia
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,11 +122,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_dj2ryoh7keo4q1z" tvg-name="Coquimbo Unido vs Union La Calera" tvg-logo="https://static.sportsfeed.pro/football/team/e62f69a9de87796972eb59d19c27e59c.png" home-logo="https://static.sportsfeed.pro/football/team/e62f69a9de87796972eb59d19c27e59c.png" away-logo="https://static.sportsfeed.pro/football/team/f9b2e922f6ca83c14def96049ccbfe42.png" group-title="Gà Vàng TV" start-time="1795557600",Coquimbo Unido vs Union La Calera - MáN NúI — Chilean Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_2y8m4zhv3y6xql0" tvg-name="Millonarios vs Atletico Bucaramanga" tvg-logo="https://static.sportsfeed.pro/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png" home-logo="https://static.sportsfeed.pro/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png" away-logo="https://static.sportsfeed.pro/football/team/70c92764e181ce7abe6176c411a93fe3.png" group-title="Gà Vàng TV" start-time="1795562400",Millonarios vs Atletico Bucaramanga - A Long — Categoría Primera A
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -136,6 +131,11 @@ https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_ednm9wh5kw7nryo" tvg-name="San Jose Earthquakes vs Houston Dynamo" tvg-logo="https://static.sportsfeed.pro/football/team/7079d708b4e391c0c26b20da7b2fb32c.png" home-logo="https://static.sportsfeed.pro/football/team/7079d708b4e391c0c26b20da7b2fb32c.png" away-logo="https://static.sportsfeed.pro/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png" group-title="Gà Vàng TV" start-time="1795575600",San Jose Earthquakes vs Houston Dynamo - MeoMeo — United States Major League Soccer
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19862331" tvg-name="Melbourne Victory vs Thể Công-Viettel" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" group-title="BiaomTV" start-time="1795592700",Melbourne Victory vs Thể Công-Viettel - TIGER — Cúp Châu Á
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
