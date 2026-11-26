@@ -1,6 +1,18 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 20:00:20 26/11/2026
+## Cập nhật lúc: 20:30:19 26/11/2026
+
+#EXTINF:-1 tvg-id="cctv_1630417_chuoila" tvg-name="Pathum United vs Lion City Sailors FC" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png" home-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133030_d3675f5d.png" group-title="Chuối TV" start-time="1795695300",Pathum United vs Lion City Sailors FC - Chuối Lá [FHD] — AFC Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1630418_chuoilua" tvg-name="Svay Rieng vs Machida Zelvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_d10a6439.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_d10a6439.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132416_e9d110f2.png" group-title="Chuối TV" start-time="1795695300",Svay Rieng vs Machida Zelvia - Chuối Lửa [FHD] — AFC Cup
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1546206_chuoinho" tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_145012_6032f6f5.png" group-title="Chuối TV" start-time="1795698000",Vietnam U17 vs Mali U17 - Chuối Nhỏ [FHD] — World Cup - U17
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,18 +31,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1630417_chuoila" tvg-name="Pathum United vs Lion City Sailors FC" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png" home-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133030_d3675f5d.png" group-title="Chuối TV" start-time="1795695300",Pathum United vs Lion City Sailors FC - Chuối Lá [FHD] — AFC Cup
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cctv_1630418_chuoilua" tvg-name="Svay Rieng vs Machida Zelvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_d10a6439.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_d10a6439.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_132416_e9d110f2.png" group-title="Chuối TV" start-time="1795695300",Svay Rieng vs Machida Zelvia - Chuối Lửa [FHD] — AFC Cup
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1546198_chuoikem" tvg-name="Morocco U17 vs Spain U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134349_56274e6a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134349_56274e6a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144525_05c41131.png" group-title="Chuối TV" start-time="1795705200",Morocco U17 vs Spain U17 - Chuối Kem [FHD] — World Cup - U17
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -198,6 +198,11 @@ https://playback.livetl005.com/live/6aef22d1f72fb30b985aafbe.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl005.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_k82rekhg4889rep" tvg-name="Dynamo Moscow vs Fakel" tvg-logo="https://static.sportsfeed.pro/football/team/4f2e51a4694f68360a19648b651b30ca.png" home-logo="https://static.sportsfeed.pro/football/team/4f2e51a4694f68360a19648b651b30ca.png" away-logo="https://static.sportsfeed.pro/football/team/30c9a3c424abbef33fd4f1d00eb09b0c.png" group-title="Gà Vàng TV" start-time="1795710600",Dynamo Moscow vs Fakel - Lucie23 — Russian Cup
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_63kv9ig139yux7e" tvg-name="Pathum United vs Lion City" tvg-logo="https://img.cltvap.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" home-logo="https://img.cltvap.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" away-logo="https://img.cltvap.cc/football/team/a17724405028a3e21a2a2372736aa757.png!w80" group-title="Cola TV" start-time="1795695300",Pathum United vs Lion City - BLV FANTA — AFC Giải vô địch Champions 2
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
