@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 23:30:08 26/11/2026
-
-#EXTINF:-1 tvg-id="cctv_1563678_chuoilua" tvg-name="Dynamo vs Fakel" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133528_2d12200e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133528_2d12200e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133529_624656c6.png" group-title="Chuối TV" start-time="1795710600",Dynamo vs Fakel - Chuối Lửa [FHD] — Cúp Nga
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
-https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+## Cập nhật lúc: 00:00:23 27/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1546198_chuoikem" tvg-name="Morocco U17 vs Spain U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134349_56274e6a.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_134349_56274e6a.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_144525_05c41131.png" group-title="Chuối TV" start-time="1795705200",Morocco U17 vs Spain U17 - Chuối Kem [FHD] — World Cup - U17
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -19,6 +13,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cctv_1563678_chuoilua" tvg-name="Dynamo vs Fakel" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133528_2d12200e.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133528_2d12200e.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133529_624656c6.png" group-title="Chuối TV" start-time="1795710600",Dynamo vs Fakel - Chuối Lửa [FHD] — Cúp Nga
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
+https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cctv_1636395_chuoikem" tvg-name="Brighton vs Universitatea Craiova" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_d9b536ef.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_d9b536ef.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_133911_16224ec2.png" group-title="Chuối TV" start-time="1795715100",Brighton vs Universitatea Craiova - Chuối Kem [FHD] — UEFA Europa Conference League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -122,40 +122,20 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_2y8m4zh5e9nwql0" tvg-name="China U17 vs Fiji U17" tvg-logo="https://img.thesports.com/football/team/c04fddecf9b964a3f66a1aa28bba9625.png" home-logo="https://img.thesports.com/football/team/c04fddecf9b964a3f66a1aa28bba9625.png" away-logo="https://img.thesports.com/football/team/231eb5a29f502174b938f4bd140e19c6.png" group-title="Gà Vàng TV" start-time="1795705200",China U17 vs Fiji U17 - cố tư nghiêm — FIFA U17 World Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl005.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_2y8m4zh5e9xwql0" tvg-name="Morocco U17 vs Spain U17" tvg-logo="https://img.thesports.com/football/team/d63036cfba56a5c3cb75ab14b33fe677.png" home-logo="https://img.thesports.com/football/team/d63036cfba56a5c3cb75ab14b33fe677.png" away-logo="https://img.thesports.com/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png" group-title="Gà Vàng TV" start-time="1795705200",Morocco U17 vs Spain U17 - namiiu — FIFA U17 World Cup
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl005.com/live/6afd3d6e53914a788517a0db.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="gavang_zp5rzghgke5yq82" tvg-name="Abha vs Al-Shabab FC" tvg-logo="https://static.sportsfeed.pro/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png" home-logo="https://static.sportsfeed.pro/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png" away-logo="https://static.sportsfeed.pro/football/team/b16d1e3b04364c5cd64203d8b4ef76e2.png" group-title="Gà Vàng TV" start-time="1795705500",Abha vs Al-Shabab FC - ĐOÀN DỰ — Saudi Professional League
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl005.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_l7oqdehgv711r51" tvg-name="Olympiakos Piraeus vs Milan" tvg-logo="https://static.sportsfeed.pro/football/team/1df992d91eb0877558c872a18ea605f0.png" home-logo="https://static.sportsfeed.pro/football/team/1df992d91eb0877558c872a18ea605f0.png" away-logo="https://static.sportsfeed.pro/football/team/643ef4101b017dc1495dbd9e9d5cce28.png" group-title="Gà Vàng TV" start-time="1795715100",Olympiakos Piraeus vs Milan - CRIS — UEFA Europa League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl005.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_oj7x9ix2lezs47g" tvg-name="China PR U17 vs Fiji U17" tvg-logo="https://img.cltvap.cc/football/team/c04fddecf9b964a3f66a1aa28bba9625.png!w80" home-logo="https://img.cltvap.cc/football/team/c04fddecf9b964a3f66a1aa28bba9625.png!w80" away-logo="https://img.cltvap.cc/football/team/231eb5a29f502174b938f4bd140e19c6.png!w80" group-title="Cola TV" start-time="1795705200",China PR U17 vs Fiji U17 - BLV SPRITE — World Cup U17
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTINF:-1 tvg-id="gavang_y39mp1h6x7j7moj" tvg-name="Hoffenheim vs Sturm Graz" tvg-logo="https://static.sportsfeed.pro/football/team/72ab7862a610b350aef7650ec0e06e06.png" home-logo="https://static.sportsfeed.pro/football/team/72ab7862a610b350aef7650ec0e06e06.png" away-logo="https://static.sportsfeed.pro/football/team/4cc9044aed34f71c4e79bd260ea938fb.png" group-title="Gà Vàng TV" start-time="1795723200",Hoffenheim vs Sturm Graz - RIO — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/75748097.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="cola_oj7x9ix2ldzb47g" tvg-name="Ma Rốc U17 vs Tây Ban Nha U17" tvg-logo="https://img.cltvap.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80" home-logo="https://img.cltvap.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80" away-logo="https://img.cltvap.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80" group-title="Cola TV" start-time="1795705200",Ma Rốc U17 vs Tây Ban Nha U17 - BLV HỔ VẰN — World Cup U17
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTINF:-1 tvg-id="gavang_8yomo4h1wnvxq0j" tvg-name="Juventus vs Omonia Nicosia FC" tvg-logo="https://static.sportsfeed.pro/football/team/314ca8463a6fd047b11d474287b24c50.png" home-logo="https://static.sportsfeed.pro/football/team/314ca8463a6fd047b11d474287b24c50.png" away-logo="https://static.sportsfeed.pro/football/team/21fdafedb4eed8612da51c6c236b3d63.png" group-title="Gà Vàng TV" start-time="1795723200",Juventus vs Omonia Nicosia FC - GIàng A Dân — UEFA Europa League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/07428422.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_69759igpelwfgk2" tvg-name="Abha vs Al-Shabab" tvg-logo="https://img.cltvap.cc/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png!w80" home-logo="https://img.cltvap.cc/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png!w80" away-logo="https://img.cltvap.cc/football/team/b16d1e3b04364c5cd64203d8b4ef76e2.png!w80" group-title="Cola TV" start-time="1795705500",Abha vs Al-Shabab - BLV FANTA — Giải Vô địch quốc gia Ả-rập Xê-út
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/16226575.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_527r3i4o8l2a47e" tvg-name="Kairat vs Mjallby" tvg-logo="https://img.cltvap.cc/football/team/3ef04912f88c3166f1a47864cde71949.png!w80" home-logo="https://img.cltvap.cc/football/team/3ef04912f88c3166f1a47864cde71949.png!w80" away-logo="https://img.cltvap.cc/football/team/0ffb7ffab7e1720c91427e75b4a50ace.png!w80" group-title="Cola TV" start-time="1795707000",Kairat vs Mjallby - BLV MONSTER — UEFA Europa Conference League
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
