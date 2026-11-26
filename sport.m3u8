@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 14:30:20 26/11/2026
+## Cập nhật lúc: 15:00:14 26/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1651254_chuoinho" tvg-name="South Melbourne vs Oakleigh Cannons" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_3745ec34.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_3745ec34.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_fc3fb07a.png" group-title="Chuối TV" start-time="1795681800",South Melbourne vs Oakleigh Cannons - Chuối Nhỏ [FHD] — Australian Championship
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -158,3 +158,8 @@ https://playback.livetl005.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl005.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_vmqy6sn4rzjagk9" tvg-name="Thái Lan vs Malaysia" tvg-logo="https://img.cltvap.cc/basketball/team/3eb1aaf546afafbaedf7aa8298be7c9c.png!w80" home-logo="https://img.cltvap.cc/basketball/team/3eb1aaf546afafbaedf7aa8298be7c9c.png!w80" away-logo="https://img.cltvap.cc/basketball/team/d580436ffcf5531ff33500bb724315da.png!w80" group-title="Cola TV" start-time="1795680000",Thái Lan vs Malaysia - BLV TARZAAN — Vòng loại Cúp Bóng rổ Châu Á
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/56998120.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
