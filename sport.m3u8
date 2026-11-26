@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:00:07 26/11/2026
+## Cập nhật lúc: 18:30:09 26/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1630414_chuoitay" tvg-name="Gangwon FC vs Kitchee" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130646_57e46c3c.png" group-title="Chuối TV" start-time="1795687200",Gangwon FC vs Kitchee - Chuối Tây [FHD] — AFC Cup
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -134,11 +134,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_3glrw7h4wdyxqdy" tvg-name="South Melbourne vs Oakleigh Cannons" tvg-logo="https://static.sportsfeed.pro/football/team/3728683390847f335552d077cf0b8752.png" home-logo="https://static.sportsfeed.pro/football/team/3728683390847f335552d077cf0b8752.png" away-logo="https://static.sportsfeed.pro/football/team/873f655c74783dbb85de6cacc8f503c0.png" group-title="Gà Vàng TV" start-time="1795681800",South Melbourne vs Oakleigh Cannons - Lá Chanh — Aus Champ
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl005.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_23xmvkh6eg4jqg8" tvg-name="Gangwon FC vs Kitchee" tvg-logo="https://static.sportsfeed.pro/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" home-logo="https://static.sportsfeed.pro/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" away-logo="https://static.sportsfeed.pro/football/team/8d9561a580262bbe28642af67c42cf83.png" group-title="Gà Vàng TV" start-time="1795687200",Gangwon FC vs Kitchee - NGƯỜI KIẾN — AFC Champions League Two
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -193,6 +188,11 @@ https://playback.livetl005.com/live/69be75e0a0a45974afb67776.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl005.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_965mkyhkv9yer1g" tvg-name="Al Fateh vs Al-Riyadh" tvg-logo="https://static.sportsfeed.pro/football/team/625f099ab7eeec5bde434ec68723fdff.png" home-logo="https://static.sportsfeed.pro/football/team/625f099ab7eeec5bde434ec68723fdff.png" away-logo="https://static.sportsfeed.pro/football/team/aa2d8e24a68822387257f31d692c4297.png" group-title="Gà Vàng TV" start-time="1795703100",Al Fateh vs Al-Riyadh - Lá Chanh — Saudi Professional League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_527r3i4omjru47e" tvg-name="CLB Tampines vs Shanghai Shenhua" tvg-logo="https://img.cltvap.cc/football/team/23dc72567ad2999491dfe56b50f7df62.png!w80" home-logo="https://img.cltvap.cc/football/team/23dc72567ad2999491dfe56b50f7df62.png!w80" away-logo="https://img.cltvap.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80" group-title="Cola TV" start-time="1795687200",CLB Tampines vs Shanghai Shenhua - BLV STING — AFC Giải vô địch Champions 2
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
