@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:00:14 27/11/2026
+## Cập nhật lúc: 16:30:11 27/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1593709_chuoilua" tvg-name="Macarthur vs Melbourne City" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130443_17f12eea.png" home-logo="https://media.chuoichientv.net/media/uploads/20250623_130443_17f12eea.png" away-logo="https://media.chuoichientv.net/media/uploads/20250623_130441_83c08c1b.png" group-title="Chuối TV" start-time="1795768800",Macarthur vs Melbourne City - Chuối Lửa [FHD] — A-League
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -86,10 +86,20 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="gavang_vjxm8ghk4y8yr6o" tvg-name="Broadmeadow Magic vs Queensland Lions SC" tvg-logo="https://static.sportsfeed.pro/football/team/4f0ff310b253f34bfd414c5b2502082c.png" home-logo="https://static.sportsfeed.pro/football/team/4f0ff310b253f34bfd414c5b2502082c.png" away-logo="https://static.sportsfeed.pro/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png" group-title="Gà Vàng TV" start-time="1795768200",Broadmeadow Magic vs Queensland Lions SC - gohannguyen — Aus Champ
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/6aef22d1f72fb30b985aafbe.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="gavang_n54qllhnv390qvy" tvg-name="Huda Hue vs Dong Tam Long An" tvg-logo="https://static.sportsfeed.pro/football/team/d183acf4e1500de34a9bb72ff77f2ecc.jpg" home-logo="https://static.sportsfeed.pro/football/team/d183acf4e1500de34a9bb72ff77f2ecc.jpg" away-logo="https://static.sportsfeed.pro/football/team/347d428c24e85dbda67f7817e7d80ebf.png" group-title="Gà Vàng TV" start-time="1795768200",Huda Hue vs Dong Tam Long An - NGƯỜI KIẾN — Vietnam National First Class League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl005.com/live/6a439a7fb89dded67b208b87.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_zp5rzghgkj4kq82" tvg-name="FC Macarthur vs Melbourne City" tvg-logo="https://static.sportsfeed.pro/football/team/dacf5d3f49d19699e9d2613eb2dbdd99.png" home-logo="https://static.sportsfeed.pro/football/team/dacf5d3f49d19699e9d2613eb2dbdd99.png" away-logo="https://static.sportsfeed.pro/football/team/36806061ca70613f4c30f1211ee0b1ba.png" group-title="Gà Vàng TV" start-time="1795768800",FC Macarthur vs Melbourne City - CRIS — Australia A-League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_x7lm7phj67jzm2w" tvg-name="Mil-Mugan FK vs FK SAFA" tvg-logo="https://static.sportsfeed.pro/football/team/8005edd27cd557fd269967ccf027851e.png" home-logo="https://static.sportsfeed.pro/football/team/8005edd27cd557fd269967ccf027851e.png" away-logo="https://static.sportsfeed.pro/football/team/59d40a070b5d0226740bb9170c84908b.png" group-title="Gà Vàng TV" start-time="1795775400",Mil-Mugan FK vs FK SAFA - RIO — Azerbaijan Premier League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -130,6 +140,16 @@ https://playback.livetl005.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl005.com/live/6a7c0d8f65997681f18cacc4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_318q66hxedw7qo9" tvg-name="Al Kholood vs Al Khaleej Club" tvg-logo="https://static.sportsfeed.pro/football/team/068aa9b10aa4d47ab3a8fdbe8b716518.png" home-logo="https://static.sportsfeed.pro/football/team/068aa9b10aa4d47ab3a8fdbe8b716518.png" away-logo="https://static.sportsfeed.pro/football/team/6d48cbd483dee74ed9aef387bb082d64.png" group-title="Gà Vàng TV" start-time="1795781700",Al Kholood vs Al Khaleej Club - A Long — Saudi Professional League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/69ef10b47146e04fbe6d4363.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_3glrw7hn89xvqdy" tvg-name="DPMM FC vs Kelantan Red Warrior" tvg-logo="https://static.sportsfeed.pro/football/team/25dae24c4bfc4a6fdd53d090a39821dd.png" home-logo="https://static.sportsfeed.pro/football/team/25dae24c4bfc4a6fdd53d090a39821dd.png" away-logo="https://static.sportsfeed.pro/football/team/142f3c0514bb9729cd759402938856f4.png" group-title="Gà Vàng TV" start-time="1795781700",DPMM FC vs Kelantan Red Warrior - Lucie23 — Malaysian Super League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19758793" tvg-name="Macarthur vs Melbourne City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/macarthur-252006" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/macarthur-252006" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-city-315" group-title="BiaomTV" start-time="1795768800",Macarthur vs Melbourne City - NEM NƯỚNG  — VĐQG Úc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
