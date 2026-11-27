@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 18:00:06 27/11/2026
+## Cập nhật lúc: 18:30:14 27/11/2026
 
 #EXTINF:-1 tvg-id="cctv_1633942_angao" tvg-name="Nam Dinh vs Công An Hà Nội" tvg-logo="https://media.chuoichientv.net/media/20251204_035149_f918db1e.png" home-logo="https://media.chuoichientv.net/media/20251204_035149_f918db1e.png" away-logo="https://media.chuoichientv.net/media/20250823_192612_72e9a551.webp" group-title="Chuối TV" start-time="1795777200",Nam Dinh vs Công An Hà Nội - Chuối Già [FHD] — V.League 1
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -80,15 +80,25 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_zp5rzghgkj4kq82" tvg-name="FC Macarthur vs Melbourne City" tvg-logo="https://static.sportsfeed.pro/football/team/dacf5d3f49d19699e9d2613eb2dbdd99.png" home-logo="https://static.sportsfeed.pro/football/team/dacf5d3f49d19699e9d2613eb2dbdd99.png" away-logo="https://static.sportsfeed.pro/football/team/36806061ca70613f4c30f1211ee0b1ba.png" group-title="Gà Vàng TV" start-time="1795768800",FC Macarthur vs Melbourne City - CRIS — Australia A-League
+#EXTINF:-1 tvg-id="gavang_zp5rzghg8o0nq82" tvg-name="Gia Dinh vs Lam Dong" tvg-logo="https://static.sportsfeed.pro/football/team/8a9ec4110d3ec2f7adb5b2531bfa064e.png" home-logo="https://static.sportsfeed.pro/football/team/8a9ec4110d3ec2f7adb5b2531bfa064e.png" away-logo="https://static.sportsfeed.pro/football/team/775fb8eca2172951b0f3d904cabfd337.png" group-title="Gà Vàng TV" start-time="1795777200",Gia Dinh vs Lam Dong - cố tư nghiêm — Vietnam National First Class League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/69a1aaa7230584579e2d5ce1.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_zp5rzghg84d1q82" tvg-name="Nam Dinh FC vs Cong An Ha Noi FC" tvg-logo="https://static.sportsfeed.pro/football/team/bc5db4dd418cb566a4475649876b55bb.png" home-logo="https://static.sportsfeed.pro/football/team/bc5db4dd418cb566a4475649876b55bb.png" away-logo="https://static.sportsfeed.pro/football/team/f3dde7370cf875e4e657b4331b1b4a31.png" group-title="Gà Vàng TV" start-time="1795777200",Nam Dinh FC vs Cong An Ha Noi FC - CRIS — Vietnam National Champion League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl005.com/live/69aa9525f5ec459ae275b43f.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_6ypq3nhv9ywvmd7" tvg-name="Geylang United FC vs Tanjong Pagar United" tvg-logo="https://static.sportsfeed.pro/football/team/0c41c6173e22474c62a6563fab45baf3.png" home-logo="https://static.sportsfeed.pro/football/team/0c41c6173e22474c62a6563fab45baf3.png" away-logo="https://static.sportsfeed.pro/football/team/60ec3eff9d5505195d32364a32670d36.jpg" group-title="Gà Vàng TV" start-time="1795779000",Geylang United FC vs Tanjong Pagar United - KAYTI — Singapore Premier League
+#EXTINF:-1 tvg-id="gavang_23xmvkh672wnqg8" tvg-name="PVF CAND vs Van Hien University" tvg-logo="https://static.sportsfeed.pro/football/team/16b802abec41440eb4996fc68f16125b.png" home-logo="https://static.sportsfeed.pro/football/team/16b802abec41440eb4996fc68f16125b.png" away-logo="https://static.sportsfeed.pro/football/team/9610ddd41e9e46f5db6a61850e1e0183.png" group-title="Gà Vàng TV" start-time="1795777200",PVF CAND vs Van Hien University - Cá MậP — Vietnam National First Class League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl005.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/6a0c7c4b1ae4d6db02433c48.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_1l4rjnh9v5d3m7v" tvg-name="Song Lam Nghe An vs TTBD Phu Dong" tvg-logo="https://static.sportsfeed.pro/football/team/7f95b001711ce3978d498602e1d2c9fd.png" home-logo="https://static.sportsfeed.pro/football/team/7f95b001711ce3978d498602e1d2c9fd.png" away-logo="https://static.sportsfeed.pro/football/team/5452226660be0829fdb40967dd4b0b77.png" group-title="Gà Vàng TV" start-time="1795777200",Song Lam Nghe An vs TTBD Phu Dong - GIàng A Dân — Vietnam National Champion League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/6a5b13ceb36a14387baeddaa.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="gavang_zp5rzghg8o6zq82" tvg-name="Uthai Thani Forest vs Sisaket United" tvg-logo="https://static.sportsfeed.pro/football/team/0bebca8b04365cbdf36703122a59189c.png" home-logo="https://static.sportsfeed.pro/football/team/0bebca8b04365cbdf36703122a59189c.png" away-logo="https://static.sportsfeed.pro/football/team/49fd8e61435ffb68f10b8e9353f948fc.png" group-title="Gà Vàng TV" start-time="1795780800",Uthai Thani Forest vs Sisaket United - khang hi — Thai League 1
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
@@ -129,6 +139,11 @@ https://playback.livetl005.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl005.com/live/69b8e6f43bcf2231c35d5144.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_dn1m1ghljd2kmoe" tvg-name="Al-Qadsiah vs Al-Fayha" tvg-logo="https://static.sportsfeed.pro/football/team/bc74439d19c8bbaa17c57406b120b86d.png" home-logo="https://static.sportsfeed.pro/football/team/bc74439d19c8bbaa17c57406b120b86d.png" away-logo="https://static.sportsfeed.pro/football/team/95f41dd3e8e9d2f6006feed0c024dd9e.png" group-title="Gà Vàng TV" start-time="1795789200",Al-Qadsiah vs Al-Fayha - SiêU QuậY — Saudi Professional League
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/6a2a59b347bbddd62a8dc4e4.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19872952" tvg-name="Sông Lam Nghệ An vs Ninh Bình" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/song-lam-nghe-an-18514" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/song-lam-nghe-an-18514" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ninh-binh-235488" group-title="BiaomTV" start-time="1795777200",Sông Lam Nghệ An vs Ninh Bình - Lẩu Ếch — VĐQG Việt Nam
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -189,3 +204,28 @@ https://live05.wecile.app/live/59444581.m3u8|Referer=https://colatvttbdh.tv/&Ori
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live05.wecile.app/live/89756030.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_34kgmio94djceko" tvg-name="PVF CAND vs Đại học Văn Hiến" tvg-logo="https://img.cltvap.cc/football/team/16b802abec41440eb4996fc68f16125b.png!w80" home-logo="https://img.cltvap.cc/football/team/16b802abec41440eb4996fc68f16125b.png!w80" away-logo="https://img.cltvap.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png!w80" group-title="Cola TV" start-time="1795777200",PVF CAND vs Đại học Văn Hiến - BLV RỒNG ĐỎ — Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/88508431.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_8lk2direywvtz73" tvg-name="Sông Lam Nghệ An vs Phù Đổng Ninh Bình" tvg-logo="https://img.cltvap.cc/football/team/7f95b001711ce3978d498602e1d2c9fd.png!w80" home-logo="https://img.cltvap.cc/football/team/7f95b001711ce3978d498602e1d2c9fd.png!w80" away-logo="https://img.cltvap.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80" group-title="Cola TV" start-time="1795777200",Sông Lam Nghệ An vs Phù Đổng Ninh Bình - BLV SPRITE — Giải vô địch quốc gia Việt Nam
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/75748097.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_g6763i5gjn9co7r" tvg-name="Thái Nguyên vs Hưng Yên" tvg-logo="https://img.cltvap.cc/football/team/5bc47b0c1409c6deb22abf1bf86f1ef0.png!w80" home-logo="https://img.cltvap.cc/football/team/5bc47b0c1409c6deb22abf1bf86f1ef0.png!w80" away-logo="https://img.cltvap.cc/football/team/838f9656561a3aab05c59b77850e24d4.png!w80" group-title="Cola TV" start-time="1795777200",Thái Nguyên vs Hưng Yên - BLV SAMURAI — Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/07808742.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_69759ig20d8hgk2" tvg-name="Thép Xanh Nam Định vs Công An Hà Nội" tvg-logo="https://img.cltvap.cc/football/team/bc5db4dd418cb566a4475649876b55bb.png!w80" home-logo="https://img.cltvap.cc/football/team/bc5db4dd418cb566a4475649876b55bb.png!w80" away-logo="https://img.cltvap.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80" group-title="Cola TV" start-time="1795777200",Thép Xanh Nam Định vs Công An Hà Nội - BLV 247 — Giải vô địch quốc gia Việt Nam
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/90865415.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cola_69759ig2x6osgk2" tvg-name="Xuân Thiên Phú Thụ vs Lâm Đồng" tvg-logo="https://img.cltvap.cc/football/team/a3fa1f2bd7dbd79b0c531417b56647d6.png!w80" home-logo="https://img.cltvap.cc/football/team/a3fa1f2bd7dbd79b0c531417b56647d6.png!w80" away-logo="https://img.cltvap.cc/football/team/775fb8eca2172951b0f3d904cabfd337.png!w80" group-title="Cola TV" start-time="1795777200",Xuân Thiên Phú Thụ vs Lâm Đồng - BLV TEPPY — Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam
+#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live05.wecile.app/live/33860426.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
