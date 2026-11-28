@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 ## Playlist Thể Thao Tự Động - Nguồn: Chuối Chiên TV, Gà Vàng TV, BiaomTV, Cola TV
-## Cập nhật lúc: 16:30:06 28/11/2026
+## Cập nhật lúc: 17:00:08 28/11/2026
 
 #EXTINF:-1 tvg-id="cctv_998936_chuoisay" tvg-name="Đà Nẵng vs TP Hồ Chí Minh " tvg-logo="https://media.chuoichientv.net/media/20251007_103855_9626f9ef.jpg" home-logo="https://media.chuoichientv.net/media/20251007_103855_9626f9ef.jpg" away-logo="https://media.chuoichientv.net/media/20251009_193732_d8f4e716.png" group-title="Chuối TV" start-time="1795858200",Đà Nẵng vs TP Hồ Chí Minh  - Chuối Sấy [FHD] — Bóng Chuyền Đại Hội
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -116,11 +116,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://li
 #EXTHTTP:{"Referer":"https://live.chuoichien.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"}
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="gavang_965mkyh87g35r1g" tvg-name="Bucheon FC 1995 vs Gimcheon Sangmu FC" tvg-logo="https://static.sportsfeed.pro/football/team/640f8c62cb294e1cc308a44ed2a62891.png" home-logo="https://static.sportsfeed.pro/football/team/640f8c62cb294e1cc308a44ed2a62891.png" away-logo="https://static.sportsfeed.pro/football/team/4a3e50e90ab721c1782568a287bd5358.png" group-title="Gà Vàng TV" start-time="1795851000",Bucheon FC 1995 vs Gimcheon Sangmu FC - RIO — Korean K League 1
-#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://playback.livetl005.com/live/6a01a2511e8555d7a3685f5c.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="gavang_4wyrn4h6kpdpq86" tvg-name="Bali United vs Bhayangkara Presisi Indonesia FC" tvg-logo="https://static.sportsfeed.pro/football/team/09fe2ecf88f68970da755f8655d5da8a.png" home-logo="https://static.sportsfeed.pro/football/team/09fe2ecf88f68970da755f8655d5da8a.png" away-logo="https://static.sportsfeed.pro/football/team/837cf9a178940067578b7343018e003a.png" group-title="Gà Vàng TV" start-time="1795854600",Bali United vs Bhayangkara Presisi Indonesia FC - NGƯỜI KIẾN — Indonesian Super League
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -140,6 +135,11 @@ https://playback.livetl005.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8|Referer=https:
 #EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://playback.livetl005.com/live/6a9776215126529dede9bf51.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="gavang_2y8m4zh591pxql0" tvg-name="Real Betis vs Vallecano" tvg-logo="https://static.sportsfeed.pro/football/team/018e260ad68bdad741c61e3171c4c608.png" home-logo="https://static.sportsfeed.pro/football/team/018e260ad68bdad741c61e3171c4c608.png" away-logo="https://static.sportsfeed.pro/football/team/5005d8feab109ce64e40beb98073cc1f.png" group-title="Gà Vàng TV" start-time="1795870800",Real Betis vs Vallecano - ĐOÀN DỰ — Spanish La Liga
+#EXTVLCOPT:http-referrer=https://gavanglinkm.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://playback.livetl005.com/live/6a5df755b89dded67b39b8bc.m3u8|Referer=https://gavanglinkm.tv/&Origin=https://gavanglinkm.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="biaom_19758792" tvg-name="Central Coast Mariners vs Auckland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/central-coast-mariners-410" home-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/central-coast-mariners-410" away-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/auckland-273583" group-title="BiaomTV" start-time="1795855200",Central Coast Mariners vs Auckland - ASAHI — VĐQG Úc
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
@@ -235,16 +235,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1MzE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnI
 #EXTVLCOPT:http-referrer=https://biaomtv18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MDU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmIxdXprYncxcHFrN3R2MXNvbjRnbWJhYQ/index.m3u8|Referer=https://biaomtv18.com/&Origin=https://biaomtv18.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_o07dnindo2gcmkn" tvg-name="Bucheon FC 1995 vs Gimcheon Sangmu FC" tvg-logo="https://img.cltvap.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" home-logo="https://img.cltvap.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" away-logo="https://img.cltvap.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="Cola TV" start-time="1795851000",Bucheon FC 1995 vs Gimcheon Sangmu FC - BLV BÍ ĐAO — Giải K1 Hàn Quốc
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/99121525.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="cola_o17p8syxenrtykj" tvg-name="Bahrain vs Kazakhstan" tvg-logo="https://img.cltvap.cc/basketball/team/939045fc3f62477368f62d714ab67401.png!w80" home-logo="https://img.cltvap.cc/basketball/team/939045fc3f62477368f62d714ab67401.png!w80" away-logo="https://img.cltvap.cc/basketball/team/6ace4fcfc4eb6fcdb7924018bea97e19.png!w80" group-title="Cola TV" start-time="1795852800",Bahrain vs Kazakhstan - BLV ROCKSTAR — Vòng loại Cúp Bóng rổ Châu Á
-#EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live05.wecile.app/live/82054853.m3u8|Referer=https://colatvttbdh.tv/&Origin=https://colatvttbdh.tv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cola_g6763i5zvl2ao7r" tvg-name="CLB Central Coast vs Auckland FC" tvg-logo="https://img.cltvap.cc/football/team/22bb94f0215d3b8e0aea534b80d60aba.png!w80" home-logo="https://img.cltvap.cc/football/team/22bb94f0215d3b8e0aea534b80d60aba.png!w80" away-logo="https://img.cltvap.cc/football/team/1d4c98a8072a4c3c0efc42a790d9c8cb.png!w80" group-title="Cola TV" start-time="1795855200",CLB Central Coast vs Auckland FC - BLV MONSTER — Giải vô địch quốc gia Úc
 #EXTVLCOPT:http-referrer=https://colatvttbdh.tv/
